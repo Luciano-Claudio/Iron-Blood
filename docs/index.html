@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Iron & Blood — Documentação</title>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Inter:wght@300;400;500&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  :root {
+    --ore:#C8963E;--ore-dim:#8A6020;--iron:#7B8FA1;--stone:#1A1C20;
+    --stone2:#22252B;--stone3:#2C3038;--ash:#E8E2D9;--ash-dim:#9B9490;
+    --ember:#C04A2A;--radius:4px;
+  }
+  html{font-size:16px;}
+  body{background:var(--stone);color:var(--ash);font-family:'Inter',sans-serif;font-weight:300;line-height:1.6;min-height:100vh;}
+  header{border-bottom:1px solid var(--stone3);padding:3rem 4rem 2.5rem;position:relative;overflow:hidden;}
+  header::before{content:'';position:absolute;top:0;left:0;right:0;bottom:0;background:repeating-linear-gradient(90deg,transparent,transparent 60px,rgba(200,150,62,0.03) 60px,rgba(200,150,62,0.03) 61px);pointer-events:none;}
+  .header-eyebrow{font-family:'JetBrains Mono',monospace;font-size:0.7rem;color:var(--ore-dim);letter-spacing:0.15em;text-transform:uppercase;margin-bottom:0.75rem;}
+  .header-title{font-family:'Cinzel',serif;font-size:clamp(2rem,5vw,3.5rem);font-weight:700;color:var(--ash);letter-spacing:0.04em;line-height:1.1;}
+  .header-title span{color:var(--ore);}
+  .header-sub{margin-top:0.75rem;font-size:0.875rem;color:var(--ash-dim);font-weight:400;letter-spacing:0.02em;}
+  .header-meta{margin-top:1.5rem;display:flex;gap:1.5rem;flex-wrap:wrap;}
+  .meta-pill{font-family:'JetBrains Mono',monospace;font-size:0.7rem;color:var(--iron);border:1px solid var(--stone3);padding:0.25rem 0.75rem;border-radius:99px;letter-spacing:0.08em;}
+  main{max-width:960px;margin:0 auto;padding:3rem 4rem 5rem;}
+  .section-label{font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:var(--ore-dim);letter-spacing:0.2em;text-transform:uppercase;margin-bottom:1rem;display:flex;align-items:center;gap:0.75rem;}
+  .section-label::after{content:'';flex:1;height:1px;background:var(--stone3);}
+  .card-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:1px;background:var(--stone3);border:1px solid var(--stone3);border-radius:var(--radius);overflow:hidden;margin-bottom:3rem;}
+  .doc-card{background:var(--stone2);padding:1.5rem;text-decoration:none;color:inherit;display:flex;flex-direction:column;gap:0.5rem;transition:background 0.15s;position:relative;}
+  .doc-card:hover{background:var(--stone3);}
+  .doc-card::before{content:'';position:absolute;left:0;top:0;bottom:0;width:2px;background:transparent;transition:background 0.15s;}
+  .doc-card:hover::before{background:var(--ore);}
+  .card-icon{font-size:1.1rem;margin-bottom:0.25rem;}
+  .card-title{font-family:'Cinzel',serif;font-size:0.9rem;font-weight:600;color:var(--ash);letter-spacing:0.03em;}
+  .card-desc{font-size:0.78rem;color:var(--ash-dim);line-height:1.5;}
+  .card-tag{margin-top:0.5rem;font-family:'JetBrains Mono',monospace;font-size:0.6rem;color:var(--ore-dim);letter-spacing:0.1em;text-transform:uppercase;}
+  .sprint-list{display:flex;flex-direction:column;gap:1px;background:var(--stone3);border:1px solid var(--stone3);border-radius:var(--radius);overflow:hidden;margin-bottom:3rem;}
+  .sprint-row{background:var(--stone2);padding:1rem 1.5rem;text-decoration:none;color:inherit;display:grid;grid-template-columns:2.5rem 1fr auto;align-items:center;gap:1rem;transition:background 0.15s;}
+  .sprint-row:hover{background:var(--stone3);}
+  .sprint-num{font-family:'JetBrains Mono',monospace;font-size:0.7rem;color:var(--ore);font-weight:500;}
+  .sprint-name{font-size:0.875rem;color:var(--ash);font-weight:400;}
+  .sprint-phase{font-family:'JetBrains Mono',monospace;font-size:0.6rem;color:var(--ash-dim);letter-spacing:0.08em;text-transform:uppercase;white-space:nowrap;}
+  .sprint-row.active .sprint-name{color:var(--ore);font-weight:500;}
+  .sprint-row.active .sprint-num{color:var(--ember);}
+  .system-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:1px;background:var(--stone3);border:1px solid var(--stone3);border-radius:var(--radius);overflow:hidden;margin-bottom:3rem;}
+  .system-card{background:var(--stone2);padding:1rem 1.25rem;text-decoration:none;color:inherit;transition:background 0.15s;}
+  .system-card:hover{background:var(--stone3);}
+  .system-name{font-family:'JetBrains Mono',monospace;font-size:0.75rem;color:var(--iron);letter-spacing:0.05em;}
+  .system-desc{margin-top:0.25rem;font-size:0.72rem;color:var(--ash-dim);}
+  footer{border-top:1px solid var(--stone3);padding:1.5rem 4rem;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:1rem;}
+  .footer-brand{font-family:'Cinzel',serif;font-size:0.75rem;color:var(--ore-dim);letter-spacing:0.1em;}
+  .footer-info{font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:var(--ash-dim);}
+</style>
+</head>
+<body>
+<header>
+  <div class="header-eyebrow">Documentação do projeto · v1.0</div>
+  <h1 class="header-title">Iron <span>&</span> Blood</h1>
+  <p class="header-sub">Simulador de Ferraria Medieval · Unity 6.3 LTS · Dev Solo</p>
+  <div class="header-meta">
+    <span class="meta-pill">20 semanas</span>
+    <span class="meta-pill">Pixel Art · Top-Down</span>
+    <span class="meta-pill">Graveyard Keeper + Jacksmith</span>
+    <span class="meta-pill">Durin Ironcroft</span>
+  </div>
+</header>
+<main>
+  <div class="section-label">Documentos principais</div>
+  <div class="card-grid">
+    <a href="GDD.md" class="doc-card">
+      <div class="card-icon">📜</div>
+      <div class="card-title">Game Design Document</div>
+      <div class="card-desc">Especificação completa — sistemas, mecânicas, narrativa, economia e escopo do MVP.</div>
+      <div class="card-tag">GDD.md · 16 seções</div>
+    </a>
+    <a href="sprints/plano-sprints.md" class="doc-card">
+      <div class="card-icon">📅</div>
+      <div class="card-title">Plano de Sprints</div>
+      <div class="card-desc">20 semanas de desenvolvimento com orientação de comportamento e entregáveis por sprint.</div>
+      <div class="card-tag">plano-sprints.md · 20 semanas</div>
+    </a>
+    <a href="README.md" class="doc-card">
+      <div class="card-icon">🔧</div>
+      <div class="card-title">Como Rodar o Projeto</div>
+      <div class="card-desc">Requisitos, instalação dos pacotes Unity, configuração inicial e estrutura de pastas.</div>
+      <div class="card-tag">README.md</div>
+    </a>
+  </div>
+  <div class="section-label">Sprints semanais</div>
+  <div class="sprint-list">
+    <a href="sprints/semana-01.md" class="sprint-row active"><span class="sprint-num">S01</span><span class="sprint-name">Setup · Player · Ciclo de Tempo</span><span class="sprint-phase">Fase 1 — Fundação · Em andamento</span></a>
+    <a href="sprints/semana-02.md" class="sprint-row"><span class="sprint-num">S02</span><span class="sprint-name">Layout da Ferraria · Inventário</span><span class="sprint-phase">Fase 1 — Fundação</span></a>
+    <a href="sprints/semana-03.md" class="sprint-row"><span class="sprint-num">S03</span><span class="sprint-name">GameClock Completo · Placa da Loja</span><span class="sprint-phase">Fase 1 — Fundação</span></a>
+    <a href="sprints/semana-04.md" class="sprint-row"><span class="sprint-num">S04</span><span class="sprint-name">ItemSO · ScriptableObjects · Economia Base</span><span class="sprint-phase">Fase 1 — Fundação</span></a>
+    <a href="sprints/semana-05.md" class="sprint-row"><span class="sprint-num">S05</span><span class="sprint-name">Mini-game de Craft</span><span class="sprint-phase">Fase 2 — Loop da Loja</span></a>
+    <a href="sprints/semana-06.md" class="sprint-row"><span class="sprint-num">S06</span><span class="sprint-name">IA dos Clientes</span><span class="sprint-phase">Fase 2 — Loop da Loja</span></a>
+    <a href="sprints/semana-07.md" class="sprint-row"><span class="sprint-num">S07</span><span class="sprint-name">Integração Craft + Loja + Economia</span><span class="sprint-phase">Fase 2 — Loop da Loja</span></a>
+    <a href="sprints/semana-08.md" class="sprint-row"><span class="sprint-num">S08</span><span class="sprint-name">Tutorial com Marta · Dia 1</span><span class="sprint-phase">Fase 2 — Loop da Loja</span></a>
+    <a href="sprints/semana-09.md" class="sprint-row"><span class="sprint-num">S09</span><span class="sprint-name">Floresta · Coleta · Caça</span><span class="sprint-phase">Fase 3 — Mundo e Coleta</span></a>
+    <a href="sprints/semana-10.md" class="sprint-row"><span class="sprint-num">S10</span><span class="sprint-name">Mina · Andares · Combate Simples</span><span class="sprint-phase">Fase 3 — Mundo e Coleta</span></a>
+    <a href="sprints/semana-11.md" class="sprint-row"><span class="sprint-num">S11</span><span class="sprint-name">Riacho · Pesca · Old Finn</span><span class="sprint-phase">Fase 3 — Mundo e Coleta</span></a>
+    <a href="sprints/semana-12.md" class="sprint-row"><span class="sprint-num">S12</span><span class="sprint-name">NPCs · Diálogos · Relacionamentos</span><span class="sprint-phase">Fase 4 — Social e Econômico</span></a>
+    <a href="sprints/semana-13.md" class="sprint-row"><span class="sprint-num">S13</span><span class="sprint-name">Sistema de Acordos</span><span class="sprint-phase">Fase 4 — Social e Econômico</span></a>
+    <a href="sprints/semana-14.md" class="sprint-row"><span class="sprint-num">S14</span><span class="sprint-name">Vendedor Semanal · Funcionários · Automação</span><span class="sprint-phase">Fase 4 — Social e Econômico</span></a>
+    <a href="sprints/semana-15.md" class="sprint-row"><span class="sprint-num">S15</span><span class="sprint-name">Comida · Cozinha · Buffs</span><span class="sprint-phase">Fase 5 — Comida e Narrativa</span></a>
+    <a href="sprints/semana-16.md" class="sprint-row"><span class="sprint-num">S16</span><span class="sprint-name">Expansões da Ferraria</span><span class="sprint-phase">Fase 5 — Comida e Narrativa</span></a>
+    <a href="sprints/semana-17.md" class="sprint-row"><span class="sprint-num">S17</span><span class="sprint-name">Narrativa · Atos 1 e 2</span><span class="sprint-phase">Fase 5 — Comida e Narrativa</span></a>
+    <a href="sprints/semana-18.md" class="sprint-row"><span class="sprint-num">S18</span><span class="sprint-name">Ato 3 · Cômodo Secreto · Dois Finais</span><span class="sprint-phase">Fase 5 — Comida e Narrativa</span></a>
+    <a href="sprints/semana-19.md" class="sprint-row"><span class="sprint-num">S19</span><span class="sprint-name">Polish · Áudio · Balanceamento</span><span class="sprint-phase">Fase 6 — Polish e Build</span></a>
+    <a href="sprints/semana-20.md" class="sprint-row"><span class="sprint-num">S20</span><span class="sprint-name">Build Final · Publicação</span><span class="sprint-phase">Fase 6 — Polish e Build</span></a>
+  </div>
+  <div class="section-label">Documentação de sistemas</div>
+  <div class="system-grid">
+    <a href="systems/GameClock.md" class="system-card"><div class="system-name">GameClock</div><div class="system-desc">Ciclo de tempo, eventos hora/dia/semana</div></a>
+    <a href="systems/SleepManager.md" class="system-card"><div class="system-name">SleepManager</div><div class="system-desc">Fade de tela, transição de dia</div></a>
+    <a href="systems/PlayerMovement.md" class="system-card"><div class="system-name">PlayerMovement</div><div class="system-desc">Movimentação top-down, Input System</div></a>
+    <a href="systems/InventorySystem.md" class="system-card"><div class="system-name">Inventory System</div><div class="system-desc">Inventário pessoal e containers</div></a>
+    <a href="systems/ShopSign.md" class="system-card"><div class="system-name">ShopSign</div><div class="system-desc">Abertura e fechamento da loja</div></a>
+    <a href="systems/CraftingMinigame.md" class="system-card"><div class="system-name">Crafting Minigame</div><div class="system-desc">Mini-game estilo Jacksmith, notas S→D</div></a>
+    <a href="systems/CustomerAI.md" class="system-card"><div class="system-name">Customer AI</div><div class="system-desc">IA de clientes, busca em prateleiras</div></a>
+    <a href="systems/CustomerSpawner.md" class="system-card"><div class="system-name">CustomerSpawner</div><div class="system-desc">Geração por reputação e hora</div></a>
+    <a href="systems/EconomyManager.md" class="system-card"><div class="system-name">EconomyManager</div><div class="system-desc">Fluxo de ouro, penalidades, HUD</div></a>
+    <a href="systems/ReputationManager.md" class="system-card"><div class="system-name">ReputationManager</div><div class="system-desc">Score 0–100, impacto nos clientes</div></a>
+    <a href="systems/NPCRelationship.md" class="system-card"><div class="system-name">NPC Relationships</div><div class="system-desc">5 níveis de relacionamento</div></a>
+    <a href="systems/AgreementSystem.md" class="system-card"><div class="system-name">Agreement System</div><div class="system-desc">Acordos, prazos, entregas</div></a>
+    <a href="systems/FoodSystem.md" class="system-card"><div class="system-name">Food System</div><div class="system-desc">Necessidade diária, buffs</div></a>
+    <a href="systems/Kitchen.md" class="system-card"><div class="system-name">Kitchen</div><div class="system-desc">Cozinha estilo Minecraft</div></a>
+    <a href="systems/FishingSystem.md" class="system-card"><div class="system-name">Fishing System</div><div class="system-desc">Pesca, timing, drops e histórias</div></a>
+    <a href="systems/NarrativeManager.md" class="system-card"><div class="system-name">Narrative Manager</div><div class="system-desc">Gatilhos, Atos 1–3, dois finais</div></a>
+    <a href="systems/TutorialManager.md" class="system-card"><div class="system-name">Tutorial Manager</div><div class="system-desc">Marta, Dia 1, steps e diálogos</div></a>
+    <a href="systems/WorkerAI.md" class="system-card"><div class="system-name">Worker AI</div><div class="system-desc">Funcionários, automação, salários</div></a>
+    <a href="systems/DayNightVisuals.md" class="system-card"><div class="system-name">Day Night Visuals</div><div class="system-desc">Iluminação dinâmica por hora</div></a>
+    <a href="systems/SaveSystem.md" class="system-card"><div class="system-name">Save System</div><div class="system-desc">Persistência em JSON local</div></a>
+  </div>
+</main>
+<footer>
+  <span class="footer-brand">Iron & Blood · Durin Ironcroft</span>
+  <span class="footer-info">Unity 6.3 LTS · Dev Solo · 2026</span>
+</footer>
+</body>
+</html>
