@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: 62e6fa218dd62d24f884e02f01db3166
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5700792155998326083
+    second: Carrying_Idle_Plank_birch_0
+  - first:
+      213: 4341602075048712360
+    second: Carrying_Idle_Plank_birch_1
+  - first:
+      213: -7498983665128141119
+    second: Carrying_Idle_Plank_birch_2
+  - first:
+      213: 1681692938772355485
+    second: Carrying_Idle_Plank_birch_3
+  - first:
+      213: -5811625292033864121
+    second: Carrying_Idle_Plank_birch_4
+  - first:
+      213: -1158609508808849756
+    second: Carrying_Idle_Plank_birch_5
+  - first:
+      213: -5054196095525860494
+    second: Carrying_Idle_Plank_birch_6
+  - first:
+      213: 1335699933492752054
+    second: Carrying_Idle_Plank_birch_7
+  - first:
+      213: -4241284873373162074
+    second: Carrying_Idle_Plank_birch_8
+  - first:
+      213: -5578341926808588440
+    second: Carrying_Idle_Plank_birch_9
+  - first:
+      213: 9209016664759978550
+    second: Carrying_Idle_Plank_birch_10
+  - first:
+      213: -1243673781196446135
+    second: Carrying_Idle_Plank_birch_11
+  - first:
+      213: -6698832635307305374
+    second: Carrying_Idle_Plank_birch_12
+  - first:
+      213: 241623904875541221
+    second: Carrying_Idle_Plank_birch_13
+  - first:
+      213: -7857525174691335247
+    second: Carrying_Idle_Plank_birch_14
+  - first:
+      213: 970999234343769271
+    second: Carrying_Idle_Plank_birch_15
+  - first:
+      213: -8800334758640338226
+    second: Carrying_Idle_Plank_birch_16
+  - first:
+      213: 5315369196812399076
+    second: Carrying_Idle_Plank_birch_17
+  - first:
+      213: -4285288697138952743
+    second: Carrying_Idle_Plank_birch_18
+  - first:
+      213: 1818259935730577006
+    second: Carrying_Idle_Plank_birch_19
+  - first:
+      213: -7415519994947334350
+    second: Carrying_Idle_Plank_birch_20
+  - first:
+      213: 4593815236669724707
+    second: Carrying_Idle_Plank_birch_21
+  - first:
+      213: 7241727921188593549
+    second: Carrying_Idle_Plank_birch_22
+  - first:
+      213: 5049208029684713335
+    second: Carrying_Idle_Plank_birch_23
+  - first:
+      213: -154522161557635882
+    second: Carrying_Idle_Plank_birch_24
+  - first:
+      213: 6205331992040732772
+    second: Carrying_Idle_Plank_birch_25
+  - first:
+      213: -3780076179274675253
+    second: Carrying_Idle_Plank_birch_26
+  - first:
+      213: -3694191632899262824
+    second: Carrying_Idle_Plank_birch_27
+  - first:
+      213: 6295089833408140380
+    second: Carrying_Idle_Plank_birch_28
+  - first:
+      213: 3160697363061289795
+    second: Carrying_Idle_Plank_birch_29
+  - first:
+      213: -8697047077637497435
+    second: Carrying_Idle_Plank_birch_30
+  - first:
+      213: 2592446211690278581
+    second: Carrying_Idle_Plank_birch_31
+  - first:
+      213: 671924506217125930
+    second: Carrying_Idle_Plank_birch_32
+  - first:
+      213: -2912763046055537391
+    second: Carrying_Idle_Plank_birch_33
+  - first:
+      213: 8913520523142923643
+    second: Carrying_Idle_Plank_birch_34
+  - first:
+      213: 6977332109650737564
+    second: Carrying_Idle_Plank_birch_35
+  - first:
+      213: -266081123658881628
+    second: Carrying_Idle_Plank_birch_36
+  - first:
+      213: -4933163233097703145
+    second: Carrying_Idle_Plank_birch_37
+  - first:
+      213: 2545894338905379750
+    second: Carrying_Idle_Plank_birch_38
+  - first:
+      213: 5066103340641628634
+    second: Carrying_Idle_Plank_birch_39
+  - first:
+      213: -4471698507889103171
+    second: Carrying_Idle_Plank_birch_40
+  - first:
+      213: 3540244399129887707
+    second: Carrying_Idle_Plank_birch_41
+  - first:
+      213: 371350215576624369
+    second: Carrying_Idle_Plank_birch_42
+  - first:
+      213: -1860237600329102411
+    second: Carrying_Idle_Plank_birch_43
+  - first:
+      213: 2477562586350849235
+    second: Carrying_Idle_Plank_birch_44
+  - first:
+      213: -6784914122790634536
+    second: Carrying_Idle_Plank_birch_45
+  - first:
+      213: 2710461553481482516
+    second: Carrying_Idle_Plank_birch_46
+  - first:
+      213: -5839954333269680828
+    second: Carrying_Idle_Plank_birch_47
+  - first:
+      213: 5414334765688440463
+    second: Carrying_Idle_Plank_birch_48
+  - first:
+      213: -6910490380128019894
+    second: Carrying_Idle_Plank_birch_49
+  - first:
+      213: -5588002512617281506
+    second: Carrying_Idle_Plank_birch_50
+  - first:
+      213: -8312764156121781909
+    second: Carrying_Idle_Plank_birch_51
+  - first:
+      213: -939923618740917286
+    second: Carrying_Idle_Plank_birch_52
+  - first:
+      213: -7213381165050721577
+    second: Carrying_Idle_Plank_birch_53
+  - first:
+      213: -7769481132359741231
+    second: Carrying_Idle_Plank_birch_54
+  - first:
+      213: -1373020722697313105
+    second: Carrying_Idle_Plank_birch_55
+  - first:
+      213: -7720017766505856446
+    second: Carrying_Idle_Plank_birch_56
+  - first:
+      213: 4959900345533445892
+    second: Carrying_Idle_Plank_birch_57
+  - first:
+      213: 4794713799826062262
+    second: Carrying_Idle_Plank_birch_58
+  - first:
+      213: -1530367696282406926
+    second: Carrying_Idle_Plank_birch_59
+  - first:
+      213: -7990974636425464489
+    second: Carrying_Idle_Plank_birch_60
+  - first:
+      213: -2486032066752172049
+    second: Carrying_Idle_Plank_birch_61
+  - first:
+      213: -1571808606627682550
+    second: Carrying_Idle_Plank_birch_62
+  - first:
+      213: -121181704770136843
+    second: Carrying_Idle_Plank_birch_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d0d9403484d1f40800000000000000
+      internalID: 5700792155998326083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8906f9518704c30800000000000000
+      internalID: 4341602075048712360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce849f76124ee790800000000000000
+      internalID: -7498983665128141119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d991fcc51d2965710800000000000000
+      internalID: 1681692938772355485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e45a49695f85fa0800000000000000
+      internalID: -5811625292033864121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a60f025acacbefe0800000000000000
+      internalID: -1158609508808849756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bc30ded63ebd9b0800000000000000
+      internalID: -5054196095525860494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be295e330c598210800000000000000
+      internalID: 1335699933492752054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5ea5301ede325c0800000000000000
+      internalID: -4241284873373162074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fe7e8a29fb592b0800000000000000
+      internalID: -5578341926808588440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_10
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63acba97ddffccf70800000000000000
+      internalID: 9209016664759978550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946a15709459dbee0800000000000000
+      internalID: -1243673781196446135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_12
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266d6bac537f803a0800000000000000
+      internalID: -6698832635307305374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_13
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2795b49ab6a5300800000000000000
+      internalID: 241623904875541221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b375dc0c7674f290800000000000000
+      internalID: -7857525174691335247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b49c38b8aea97d00800000000000000
+      internalID: 970999234343769271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca38b6c92eeed580800000000000000
+      internalID: -8800334758640338226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e17e0a5f1cf3c940800000000000000
+      internalID: 5315369196812399076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_18
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5490762a89784c0800000000000000
+      internalID: -4285288697138952743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6eab8a27c1cb3910800000000000000
+      internalID: 1818259935730577006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f8b5c8ad7c61990800000000000000
+      internalID: -7415519994947334350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328d9716e9280cf30800000000000000
+      internalID: 4593815236669724707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_22
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f597e0d29cf7460800000000000000
+      internalID: 7241727921188593549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_23
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777486e73f3621640800000000000000
+      internalID: 5049208029684713335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_24
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc7e6aa9e60bddf0800000000000000
+      internalID: -154522161557635882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_25
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46874fac194cd1650800000000000000
+      internalID: 6205331992040732772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_26
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbca6e1eb87a8bc0800000000000000
+      internalID: -3780076179274675253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_27
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896b1d458489bbcc0800000000000000
+      internalID: -3694191632899262824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_28
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c541775c9d6ac5750800000000000000
+      internalID: 6295089833408140380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_29
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34338cf618d0ddb20800000000000000
+      internalID: 3160697363061289795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_30
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad519603c1ed4780800000000000000
+      internalID: -8697047077637497435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_31
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be2b1b18183af320800000000000000
+      internalID: 2592446211690278581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2893f447c7235900800000000000000
+      internalID: 671924506217125930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_33
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11599fc2179c397d0800000000000000
+      internalID: -2912763046055537391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b758610a0bf23bb70800000000000000
+      internalID: 8913520523142923643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_35
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99b8a3169674d060800000000000000
+      internalID: 6977332109650737564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_36
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a520e6b0a0be4cf0800000000000000
+      internalID: -266081123658881628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_37
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711a1303d22e98bb0800000000000000
+      internalID: -4933163233097703145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_38
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3122a9965d45320800000000000000
+      internalID: 2545894338905379750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_39
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad13d5e952a6e4640800000000000000
+      internalID: 5066103340641628634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_40
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe20ae26e551f1c0800000000000000
+      internalID: -4471698507889103171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_41
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd304342689712130800000000000000
+      internalID: 3540244399129887707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_42
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc95b6bd0d472500800000000000000
+      internalID: 371350215576624369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_43
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb0f8a22cb1f26e0800000000000000
+      internalID: -1860237600329102411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_44
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc8d3cab02126220800000000000000
+      internalID: 2477562586350849235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_45
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db7887ad8427d1a0800000000000000
+      internalID: -6784914122790634536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_46
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4110e981c6e7d9520800000000000000
+      internalID: 2710461553481482516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_47
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d15fca97054fea0800000000000000
+      internalID: -5839954333269680828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8648e378c4932b40800000000000000
+      internalID: 5414334765688440463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_49
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a17b4dc910910a0800000000000000
+      internalID: -6910490380128019894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_50
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18e47f325d6372b0800000000000000
+      internalID: -5588002512617281506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_51
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69e2ccfa0123ac80800000000000000
+      internalID: -8312764156121781909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_52
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adba2fcd278b4f2f0800000000000000
+      internalID: -939923618740917286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_53
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da88ab6c0ce4eb90800000000000000
+      internalID: -7213381165050721577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_54
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0199813124d2490800000000000000
+      internalID: -7769481132359741231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_55
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa460626dec02fce0800000000000000
+      internalID: -1373020722697313105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_56
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242c6b76ebcfcd490800000000000000
+      internalID: -7720017766505856446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_57
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407bbd8e51b15d440800000000000000
+      internalID: 4959900345533445892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_58
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbbb462cce3a8240800000000000000
+      internalID: 4794713799826062262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_59
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffaa5f30ba03cae0800000000000000
+      internalID: -1530367696282406926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_60
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75534baf7ea5a1190800000000000000
+      internalID: -7990974636425464489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_61
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefa101c107df7dd0800000000000000
+      internalID: -2486032066752172049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_62
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a072e0b6660df2ae0800000000000000
+      internalID: -1571808606627682550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_birch_63
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f456eda1e9715ef0800000000000000
+      internalID: -121181704770136843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Idle_Plank_birch_0: 5700792155998326083
+      Carrying_Idle_Plank_birch_1: 4341602075048712360
+      Carrying_Idle_Plank_birch_10: 9209016664759978550
+      Carrying_Idle_Plank_birch_11: -1243673781196446135
+      Carrying_Idle_Plank_birch_12: -6698832635307305374
+      Carrying_Idle_Plank_birch_13: 241623904875541221
+      Carrying_Idle_Plank_birch_14: -7857525174691335247
+      Carrying_Idle_Plank_birch_15: 970999234343769271
+      Carrying_Idle_Plank_birch_16: -8800334758640338226
+      Carrying_Idle_Plank_birch_17: 5315369196812399076
+      Carrying_Idle_Plank_birch_18: -4285288697138952743
+      Carrying_Idle_Plank_birch_19: 1818259935730577006
+      Carrying_Idle_Plank_birch_2: -7498983665128141119
+      Carrying_Idle_Plank_birch_20: -7415519994947334350
+      Carrying_Idle_Plank_birch_21: 4593815236669724707
+      Carrying_Idle_Plank_birch_22: 7241727921188593549
+      Carrying_Idle_Plank_birch_23: 5049208029684713335
+      Carrying_Idle_Plank_birch_24: -154522161557635882
+      Carrying_Idle_Plank_birch_25: 6205331992040732772
+      Carrying_Idle_Plank_birch_26: -3780076179274675253
+      Carrying_Idle_Plank_birch_27: -3694191632899262824
+      Carrying_Idle_Plank_birch_28: 6295089833408140380
+      Carrying_Idle_Plank_birch_29: 3160697363061289795
+      Carrying_Idle_Plank_birch_3: 1681692938772355485
+      Carrying_Idle_Plank_birch_30: -8697047077637497435
+      Carrying_Idle_Plank_birch_31: 2592446211690278581
+      Carrying_Idle_Plank_birch_32: 671924506217125930
+      Carrying_Idle_Plank_birch_33: -2912763046055537391
+      Carrying_Idle_Plank_birch_34: 8913520523142923643
+      Carrying_Idle_Plank_birch_35: 6977332109650737564
+      Carrying_Idle_Plank_birch_36: -266081123658881628
+      Carrying_Idle_Plank_birch_37: -4933163233097703145
+      Carrying_Idle_Plank_birch_38: 2545894338905379750
+      Carrying_Idle_Plank_birch_39: 5066103340641628634
+      Carrying_Idle_Plank_birch_4: -5811625292033864121
+      Carrying_Idle_Plank_birch_40: -4471698507889103171
+      Carrying_Idle_Plank_birch_41: 3540244399129887707
+      Carrying_Idle_Plank_birch_42: 371350215576624369
+      Carrying_Idle_Plank_birch_43: -1860237600329102411
+      Carrying_Idle_Plank_birch_44: 2477562586350849235
+      Carrying_Idle_Plank_birch_45: -6784914122790634536
+      Carrying_Idle_Plank_birch_46: 2710461553481482516
+      Carrying_Idle_Plank_birch_47: -5839954333269680828
+      Carrying_Idle_Plank_birch_48: 5414334765688440463
+      Carrying_Idle_Plank_birch_49: -6910490380128019894
+      Carrying_Idle_Plank_birch_5: -1158609508808849756
+      Carrying_Idle_Plank_birch_50: -5588002512617281506
+      Carrying_Idle_Plank_birch_51: -8312764156121781909
+      Carrying_Idle_Plank_birch_52: -939923618740917286
+      Carrying_Idle_Plank_birch_53: -7213381165050721577
+      Carrying_Idle_Plank_birch_54: -7769481132359741231
+      Carrying_Idle_Plank_birch_55: -1373020722697313105
+      Carrying_Idle_Plank_birch_56: -7720017766505856446
+      Carrying_Idle_Plank_birch_57: 4959900345533445892
+      Carrying_Idle_Plank_birch_58: 4794713799826062262
+      Carrying_Idle_Plank_birch_59: -1530367696282406926
+      Carrying_Idle_Plank_birch_6: -5054196095525860494
+      Carrying_Idle_Plank_birch_60: -7990974636425464489
+      Carrying_Idle_Plank_birch_61: -2486032066752172049
+      Carrying_Idle_Plank_birch_62: -1571808606627682550
+      Carrying_Idle_Plank_birch_63: -121181704770136843
+      Carrying_Idle_Plank_birch_7: 1335699933492752054
+      Carrying_Idle_Plank_birch_8: -4241284873373162074
+      Carrying_Idle_Plank_birch_9: -5578341926808588440
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

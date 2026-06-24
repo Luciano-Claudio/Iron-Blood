@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: afafbdd59f939304bb1db2f9758dd9f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2811124857362036543
+    second: Carrying_Walk_Wood_willow_0
+  - first:
+      213: -3994098005578554237
+    second: Carrying_Walk_Wood_willow_1
+  - first:
+      213: 6003627261155841618
+    second: Carrying_Walk_Wood_willow_2
+  - first:
+      213: -5671879048427470723
+    second: Carrying_Walk_Wood_willow_3
+  - first:
+      213: -5325977235020998265
+    second: Carrying_Walk_Wood_willow_4
+  - first:
+      213: -4683341485884104388
+    second: Carrying_Walk_Wood_willow_5
+  - first:
+      213: 173220750659461836
+    second: Carrying_Walk_Wood_willow_6
+  - first:
+      213: 2472479164497955640
+    second: Carrying_Walk_Wood_willow_7
+  - first:
+      213: 7883395067003677727
+    second: Carrying_Walk_Wood_willow_8
+  - first:
+      213: -101162280169812282
+    second: Carrying_Walk_Wood_willow_9
+  - first:
+      213: 2640892569295492801
+    second: Carrying_Walk_Wood_willow_10
+  - first:
+      213: 7265829583095787161
+    second: Carrying_Walk_Wood_willow_11
+  - first:
+      213: 193880222530157714
+    second: Carrying_Walk_Wood_willow_12
+  - first:
+      213: 1764912513406656816
+    second: Carrying_Walk_Wood_willow_13
+  - first:
+      213: -5368421637218234554
+    second: Carrying_Walk_Wood_willow_14
+  - first:
+      213: -2318913921777072260
+    second: Carrying_Walk_Wood_willow_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_willow_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37b55ee92f130720800000000000000
+      internalID: 2811124857362036543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_willow_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 113
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384e46b860d1298c0800000000000000
+      internalID: -3994098005578554237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_willow_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2569b097f2b215350800000000000000
+      internalID: 6003627261155841618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_willow_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 113
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70008d6e007941b0800000000000000
+      internalID: -5671879048427470723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_willow_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78991c84ce35616b0800000000000000
+      internalID: -5325977235020998265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_willow_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 81
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3127046bbd610fb0800000000000000
+      internalID: -4683341485884104388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_willow_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2a8ceda57676200800000000000000
+      internalID: 173220750659461836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_willow_7
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 81
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b847a43b2005220800000000000000
+      internalID: 2472479164497955640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_willow_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c22d0ab02776d60800000000000000
+      internalID: 7883395067003677727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_willow_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 49
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce4fc13179989ef0800000000000000
+      internalID: -101162280169812282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_willow_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c693dabcc556a420800000000000000
+      internalID: 2640892569295492801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_willow_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 49
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ee2f2828965d460800000000000000
+      internalID: 7265829583095787161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_willow_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c32e0090dc0b200800000000000000
+      internalID: 193880222530157714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_willow_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 17
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031ee3d749a3e7810800000000000000
+      internalID: 1764912513406656816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_willow_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f061dc6f88f75b0800000000000000
+      internalID: -5368421637218234554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_willow_15
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 17
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7705c3031091dfd0800000000000000
+      internalID: -2318913921777072260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Walk_Wood_willow_0: 2811124857362036543
+      Carrying_Walk_Wood_willow_1: -3994098005578554237
+      Carrying_Walk_Wood_willow_10: 2640892569295492801
+      Carrying_Walk_Wood_willow_11: 7265829583095787161
+      Carrying_Walk_Wood_willow_12: 193880222530157714
+      Carrying_Walk_Wood_willow_13: 1764912513406656816
+      Carrying_Walk_Wood_willow_14: -5368421637218234554
+      Carrying_Walk_Wood_willow_15: -2318913921777072260
+      Carrying_Walk_Wood_willow_2: 6003627261155841618
+      Carrying_Walk_Wood_willow_3: -5671879048427470723
+      Carrying_Walk_Wood_willow_4: -5325977235020998265
+      Carrying_Walk_Wood_willow_5: -4683341485884104388
+      Carrying_Walk_Wood_willow_6: 173220750659461836
+      Carrying_Walk_Wood_willow_7: 2472479164497955640
+      Carrying_Walk_Wood_willow_8: 7883395067003677727
+      Carrying_Walk_Wood_willow_9: -101162280169812282
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

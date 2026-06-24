@@ -1,0 +1,15 @@
+*Frame size* 
+
+- 32x32px: For all the animations.
+
+
+*Frame Duration*
+
+- 100ms: For Dmg
+- 200ms: For Idle and Walk
+
+
+Note:
+You can construct different carrying animation by overlaying the different Items on the character sprite sheet.
+
+

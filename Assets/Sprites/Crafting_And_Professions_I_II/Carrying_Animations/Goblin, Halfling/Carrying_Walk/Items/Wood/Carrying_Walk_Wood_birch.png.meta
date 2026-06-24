@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: ed24be8ca8425944882709d909d34516
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6500178460255487497
+    second: Carrying_Walk_Wood_birch_0
+  - first:
+      213: -2879459331927236003
+    second: Carrying_Walk_Wood_birch_1
+  - first:
+      213: 3379428588396926296
+    second: Carrying_Walk_Wood_birch_2
+  - first:
+      213: -776360478117362046
+    second: Carrying_Walk_Wood_birch_3
+  - first:
+      213: 8507344006862791193
+    second: Carrying_Walk_Wood_birch_4
+  - first:
+      213: -6120224265349282409
+    second: Carrying_Walk_Wood_birch_5
+  - first:
+      213: 6422591821334763243
+    second: Carrying_Walk_Wood_birch_6
+  - first:
+      213: -7035902036367555772
+    second: Carrying_Walk_Wood_birch_7
+  - first:
+      213: 8353032830062123329
+    second: Carrying_Walk_Wood_birch_8
+  - first:
+      213: 2494204265205957507
+    second: Carrying_Walk_Wood_birch_9
+  - first:
+      213: -2025048732163685614
+    second: Carrying_Walk_Wood_birch_10
+  - first:
+      213: -7225211706931490601
+    second: Carrying_Walk_Wood_birch_11
+  - first:
+      213: 6332083970044617237
+    second: Carrying_Walk_Wood_birch_12
+  - first:
+      213: -423571706149156139
+    second: Carrying_Walk_Wood_birch_13
+  - first:
+      213: 7414630980022728362
+    second: Carrying_Walk_Wood_birch_14
+  - first:
+      213: 1838547558073774127
+    second: Carrying_Walk_Wood_birch_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_birch_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 115
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9068c24ced5453a50800000000000000
+      internalID: 6500178460255487497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_birch_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d522b4f5efa1a08d0800000000000000
+      internalID: -2879459331927236003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_birch_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 115
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855d23b656426ee20800000000000000
+      internalID: 3379428588396926296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_birch_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286892c2240d935f0800000000000000
+      internalID: -776360478117362046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_birch_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 83
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912ea17ec48201670800000000000000
+      internalID: 8507344006862791193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_birch_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795412ef478901ba0800000000000000
+      internalID: -6120224265349282409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_birch_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 83
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6dcffab31a12950800000000000000
+      internalID: 6422591821334763243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_birch_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4434ddf20647b5e90800000000000000
+      internalID: -7035902036367555772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_birch_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 51
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14957094a1febe370800000000000000
+      internalID: 8353032830062123329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_birch_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3838dd870913d9220800000000000000
+      internalID: 2494204265205957507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_birch_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 51
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213478248e495e3e0800000000000000
+      internalID: -2025048732163685614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_birch_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0da5dbb34eabb90800000000000000
+      internalID: -7225211706931490601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_birch_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 19
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512647a62d410e750800000000000000
+      internalID: 6332083970044617237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_birch_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dac21607cb2f1af0800000000000000
+      internalID: -423571706149156139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_birch_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 19
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa67cd8879f06e660800000000000000
+      internalID: 7414630980022728362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_birch_15
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2036a55345d38910800000000000000
+      internalID: 1838547558073774127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Walk_Wood_birch_0: 6500178460255487497
+      Carrying_Walk_Wood_birch_1: -2879459331927236003
+      Carrying_Walk_Wood_birch_10: -2025048732163685614
+      Carrying_Walk_Wood_birch_11: -7225211706931490601
+      Carrying_Walk_Wood_birch_12: 6332083970044617237
+      Carrying_Walk_Wood_birch_13: -423571706149156139
+      Carrying_Walk_Wood_birch_14: 7414630980022728362
+      Carrying_Walk_Wood_birch_15: 1838547558073774127
+      Carrying_Walk_Wood_birch_2: 3379428588396926296
+      Carrying_Walk_Wood_birch_3: -776360478117362046
+      Carrying_Walk_Wood_birch_4: 8507344006862791193
+      Carrying_Walk_Wood_birch_5: -6120224265349282409
+      Carrying_Walk_Wood_birch_6: 6422591821334763243
+      Carrying_Walk_Wood_birch_7: -7035902036367555772
+      Carrying_Walk_Wood_birch_8: 8353032830062123329
+      Carrying_Walk_Wood_birch_9: 2494204265205957507
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

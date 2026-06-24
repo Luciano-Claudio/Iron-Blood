@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 6dbc4f688e3f0724a8bdffe3f9d4fdb5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6096071585315235098
+    second: FletcherWorkshop_human_0
+  - first:
+      213: 495712102297906484
+    second: FletcherWorkshop_human_1
+  - first:
+      213: -7686595942866413709
+    second: FletcherWorkshop_human_2
+  - first:
+      213: -7614393114683342287
+    second: FletcherWorkshop_human_3
+  - first:
+      213: 6201806131573478248
+    second: FletcherWorkshop_human_4
+  - first:
+      213: 1893805447210365752
+    second: FletcherWorkshop_human_5
+  - first:
+      213: 2436169215942982314
+    second: FletcherWorkshop_human_6
+  - first:
+      213: -114927320063998492
+    second: FletcherWorkshop_human_7
+  - first:
+      213: 4410505763811458478
+    second: FletcherWorkshop_human_8
+  - first:
+      213: 1130898254465539091
+    second: FletcherWorkshop_human_9
+  - first:
+      213: -8287020764674126886
+    second: FletcherWorkshop_human_10
+  - first:
+      213: 2018458127202589971
+    second: FletcherWorkshop_human_11
+  - first:
+      213: 1064243276148145837
+    second: FletcherWorkshop_human_12
+  - first:
+      213: 3753218600830668421
+    second: FletcherWorkshop_human_13
+  - first:
+      213: -6447944952062713571
+    second: FletcherWorkshop_human_14
+  - first:
+      213: -358047535133903449
+    second: FletcherWorkshop_human_15
+  - first:
+      213: 5983687637001570820
+    second: FletcherWorkshop_human_16
+  - first:
+      213: -2535432187774755581
+    second: FletcherWorkshop_human_17
+  - first:
+      213: 5619579288366538989
+    second: FletcherWorkshop_human_18
+  - first:
+      213: 8958291110804234578
+    second: FletcherWorkshop_human_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FletcherWorkshop_human_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a152118fec8999450800000000000000
+      internalID: 6096071585315235098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_human_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d2458d78f11e600800000000000000
+      internalID: 495712102297906484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_human_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3771d7d17b9b35590800000000000000
+      internalID: -7686595942866413709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_human_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1328e131ecd345690800000000000000
+      internalID: -7614393114683342287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_human_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863d64e61dd311650800000000000000
+      internalID: 6201806131573478248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_human_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8337caa3506284a10800000000000000
+      internalID: 1893805447210365752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_human_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaaf5099ef20fc120800000000000000
+      internalID: 2436169215942982314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_human_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e509981632b76ef0800000000000000
+      internalID: -114927320063998492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_human_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead7bc3df93453d30800000000000000
+      internalID: 4410505763811458478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_human_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c178e78f1c1bf00800000000000000
+      internalID: 1130898254465539091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_human_10
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb005365869efc80800000000000000
+      internalID: -8287020764674126886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_human_11
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d19e1f8f0030c10800000000000000
+      internalID: 2018458127202589971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_human_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae786dfe93f4ce00800000000000000
+      internalID: 1064243276148145837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_human_13
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e86ea9e6c161430800000000000000
+      internalID: 3753218600830668421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_human_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1167019a3c4486a0800000000000000
+      internalID: -6447944952062713571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_human_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5b3afe9a5f70bf0800000000000000
+      internalID: -358047535133903449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_human_16
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 13
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a0062f3345a0350800000000000000
+      internalID: 5983687637001570820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_human_17
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d1897cbd550dcd0800000000000000
+      internalID: -2535432187774755581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_human_18
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 14
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0ea36c691ccfd40800000000000000
+      internalID: 5619579288366538989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_human_19
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251a60e5d4e325c70800000000000000
+      internalID: 8958291110804234578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FletcherWorkshop_human_0: 6096071585315235098
+      FletcherWorkshop_human_1: 495712102297906484
+      FletcherWorkshop_human_10: -8287020764674126886
+      FletcherWorkshop_human_11: 2018458127202589971
+      FletcherWorkshop_human_12: 1064243276148145837
+      FletcherWorkshop_human_13: 3753218600830668421
+      FletcherWorkshop_human_14: -6447944952062713571
+      FletcherWorkshop_human_15: -358047535133903449
+      FletcherWorkshop_human_16: 5983687637001570820
+      FletcherWorkshop_human_17: -2535432187774755581
+      FletcherWorkshop_human_18: 5619579288366538989
+      FletcherWorkshop_human_19: 8958291110804234578
+      FletcherWorkshop_human_2: -7686595942866413709
+      FletcherWorkshop_human_3: -7614393114683342287
+      FletcherWorkshop_human_4: 6201806131573478248
+      FletcherWorkshop_human_5: 1893805447210365752
+      FletcherWorkshop_human_6: 2436169215942982314
+      FletcherWorkshop_human_7: -114927320063998492
+      FletcherWorkshop_human_8: 4410505763811458478
+      FletcherWorkshop_human_9: 1130898254465539091
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

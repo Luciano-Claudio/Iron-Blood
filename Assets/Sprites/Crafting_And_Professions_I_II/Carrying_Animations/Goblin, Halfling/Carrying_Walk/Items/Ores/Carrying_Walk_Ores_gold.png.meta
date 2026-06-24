@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 9b23a29c051e53f408200e9bea0f8128
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2864408538418805060
+    second: Carrying_Walk_Ores_gold_0
+  - first:
+      213: 5199070997090087313
+    second: Carrying_Walk_Ores_gold_1
+  - first:
+      213: 2058393727830443011
+    second: Carrying_Walk_Ores_gold_2
+  - first:
+      213: -5930037346696312865
+    second: Carrying_Walk_Ores_gold_3
+  - first:
+      213: 399623180486665365
+    second: Carrying_Walk_Ores_gold_4
+  - first:
+      213: 3756120675493036399
+    second: Carrying_Walk_Ores_gold_5
+  - first:
+      213: -6115702526813691835
+    second: Carrying_Walk_Ores_gold_6
+  - first:
+      213: -8788125270152120422
+    second: Carrying_Walk_Ores_gold_7
+  - first:
+      213: -7815845246430551388
+    second: Carrying_Walk_Ores_gold_8
+  - first:
+      213: -3207886575845878940
+    second: Carrying_Walk_Ores_gold_9
+  - first:
+      213: -9197925211672426691
+    second: Carrying_Walk_Ores_gold_10
+  - first:
+      213: -6478784355410038946
+    second: Carrying_Walk_Ores_gold_11
+  - first:
+      213: 4026022092541066393
+    second: Carrying_Walk_Ores_gold_12
+  - first:
+      213: 4690152619084289407
+    second: Carrying_Walk_Ores_gold_13
+  - first:
+      213: -5586573266741679115
+    second: Carrying_Walk_Ores_gold_14
+  - first:
+      213: 8489524126288790586
+    second: Carrying_Walk_Ores_gold_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Walk_Ores_gold_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4497c00b36c60c720800000000000000
+      internalID: 2864408538418805060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Ores_gold_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 115
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1913797a68fc62840800000000000000
+      internalID: 5199070997090087313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Ores_gold_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304c93b8032e09c10800000000000000
+      internalID: 2058393727830443011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Ores_gold_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 114
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7cd5da37644bda0800000000000000
+      internalID: -5930037346696312865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Ores_gold_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5946be45a2fbb8500800000000000000
+      internalID: 399623180486665365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Ores_gold_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 83
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6143448adb602430800000000000000
+      internalID: 3756120675493036399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Ores_gold_6
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540af4944f8a02ba0800000000000000
+      internalID: -6115702526813691835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Ores_gold_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 82
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97f2f6d0ae4a0680800000000000000
+      internalID: -8788125270152120422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Ores_gold_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2e413982a888390800000000000000
+      internalID: -7815845246430551388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Ores_gold_9
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 51
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46356f6c72c4b73d0800000000000000
+      internalID: -3207886575845878940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Ores_gold_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37c7afa0c76a5080800000000000000
+      internalID: -9197925211672426691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Ores_gold_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 50
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f2d6f64fbb616a0800000000000000
+      internalID: -6478784355410038946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Ores_gold_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99cf8cb23cd4fd730800000000000000
+      internalID: 4026022092541066393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Ores_gold_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 19
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7513e225f4c61140800000000000000
+      internalID: 4690152619084289407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Ores_gold_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb2b2c76318872b0800000000000000
+      internalID: -5586573266741679115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Ores_gold_15
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 18
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a344d83a639d0d570800000000000000
+      internalID: 8489524126288790586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Walk_Ores_gold_0: 2864408538418805060
+      Carrying_Walk_Ores_gold_1: 5199070997090087313
+      Carrying_Walk_Ores_gold_10: -9197925211672426691
+      Carrying_Walk_Ores_gold_11: -6478784355410038946
+      Carrying_Walk_Ores_gold_12: 4026022092541066393
+      Carrying_Walk_Ores_gold_13: 4690152619084289407
+      Carrying_Walk_Ores_gold_14: -5586573266741679115
+      Carrying_Walk_Ores_gold_15: 8489524126288790586
+      Carrying_Walk_Ores_gold_2: 2058393727830443011
+      Carrying_Walk_Ores_gold_3: -5930037346696312865
+      Carrying_Walk_Ores_gold_4: 399623180486665365
+      Carrying_Walk_Ores_gold_5: 3756120675493036399
+      Carrying_Walk_Ores_gold_6: -6115702526813691835
+      Carrying_Walk_Ores_gold_7: -8788125270152120422
+      Carrying_Walk_Ores_gold_8: -7815845246430551388
+      Carrying_Walk_Ores_gold_9: -3207886575845878940
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

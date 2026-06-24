@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: 15184719b530b3344b140c38fe1683e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4143337888601151593
+    second: Carrying_Idle_orc_0
+  - first:
+      213: -6921979173757287882
+    second: Carrying_Idle_orc_1
+  - first:
+      213: -4012290029622580885
+    second: Carrying_Idle_orc_2
+  - first:
+      213: 8164222159194123186
+    second: Carrying_Idle_orc_3
+  - first:
+      213: -8659999254819704140
+    second: Carrying_Idle_orc_4
+  - first:
+      213: -4816894589054110992
+    second: Carrying_Idle_orc_5
+  - first:
+      213: -7101004167595522933
+    second: Carrying_Idle_orc_6
+  - first:
+      213: -4575757247159934274
+    second: Carrying_Idle_orc_7
+  - first:
+      213: -2384408606377202638
+    second: Carrying_Idle_orc_8
+  - first:
+      213: -2555270876127286034
+    second: Carrying_Idle_orc_9
+  - first:
+      213: 5600880838500274127
+    second: Carrying_Idle_orc_10
+  - first:
+      213: 2683996987288643219
+    second: Carrying_Idle_orc_11
+  - first:
+      213: 5168114128473488364
+    second: Carrying_Idle_orc_12
+  - first:
+      213: -1511909870746164782
+    second: Carrying_Idle_orc_13
+  - first:
+      213: 4218800407023028169
+    second: Carrying_Idle_orc_14
+  - first:
+      213: -7199746706789575440
+    second: Carrying_Idle_orc_15
+  - first:
+      213: 8404319687704531368
+    second: Carrying_Idle_orc_16
+  - first:
+      213: 8219604185462200525
+    second: Carrying_Idle_orc_17
+  - first:
+      213: -7371379453126804659
+    second: Carrying_Idle_orc_18
+  - first:
+      213: 9048424920439868929
+    second: Carrying_Idle_orc_19
+  - first:
+      213: 6455612880274741024
+    second: Carrying_Idle_orc_20
+  - first:
+      213: 3509470340834750190
+    second: Carrying_Idle_orc_21
+  - first:
+      213: -8108909132697872832
+    second: Carrying_Idle_orc_22
+  - first:
+      213: 26340042756235768
+    second: Carrying_Idle_orc_23
+  - first:
+      213: -5963947798067964363
+    second: Carrying_Idle_orc_24
+  - first:
+      213: 5126732978339242373
+    second: Carrying_Idle_orc_25
+  - first:
+      213: -2160051750755083158
+    second: Carrying_Idle_orc_26
+  - first:
+      213: -5038228348818130691
+    second: Carrying_Idle_orc_27
+  - first:
+      213: -405462115891750493
+    second: Carrying_Idle_orc_28
+  - first:
+      213: -5410229945303170456
+    second: Carrying_Idle_orc_29
+  - first:
+      213: 2606756837636179683
+    second: Carrying_Idle_orc_30
+  - first:
+      213: -3227523634185620738
+    second: Carrying_Idle_orc_31
+  - first:
+      213: 4841653248142068038
+    second: Carrying_Idle_orc_32
+  - first:
+      213: -5112289307408444734
+    second: Carrying_Idle_orc_33
+  - first:
+      213: 7857719278857133347
+    second: Carrying_Idle_orc_34
+  - first:
+      213: -5371572289502741186
+    second: Carrying_Idle_orc_35
+  - first:
+      213: -1044916864541252548
+    second: Carrying_Idle_orc_36
+  - first:
+      213: 5289991945516887279
+    second: Carrying_Idle_orc_37
+  - first:
+      213: -7803204217311537461
+    second: Carrying_Idle_orc_38
+  - first:
+      213: -5013409269041701198
+    second: Carrying_Idle_orc_39
+  - first:
+      213: 1208024431118574185
+    second: Carrying_Idle_orc_40
+  - first:
+      213: 4615367345709483202
+    second: Carrying_Idle_orc_41
+  - first:
+      213: -4992012588403256785
+    second: Carrying_Idle_orc_42
+  - first:
+      213: -681957125174063752
+    second: Carrying_Idle_orc_43
+  - first:
+      213: -8808646946617015288
+    second: Carrying_Idle_orc_44
+  - first:
+      213: -1087041692335750662
+    second: Carrying_Idle_orc_45
+  - first:
+      213: -8172522501685907876
+    second: Carrying_Idle_orc_46
+  - first:
+      213: -5112259743103308538
+    second: Carrying_Idle_orc_47
+  - first:
+      213: -1345708472503886883
+    second: Carrying_Idle_orc_48
+  - first:
+      213: -1897184813812178828
+    second: Carrying_Idle_orc_49
+  - first:
+      213: 8310671630991599067
+    second: Carrying_Idle_orc_50
+  - first:
+      213: -8235129013068017595
+    second: Carrying_Idle_orc_51
+  - first:
+      213: 8015855390934877419
+    second: Carrying_Idle_orc_52
+  - first:
+      213: 5244709052201965330
+    second: Carrying_Idle_orc_53
+  - first:
+      213: 5813118559017494900
+    second: Carrying_Idle_orc_54
+  - first:
+      213: 5256456454678854641
+    second: Carrying_Idle_orc_55
+  - first:
+      213: -8222612485110493403
+    second: Carrying_Idle_orc_56
+  - first:
+      213: 5978770870828082290
+    second: Carrying_Idle_orc_57
+  - first:
+      213: -2238317673272985154
+    second: Carrying_Idle_orc_58
+  - first:
+      213: -6448300616167036916
+    second: Carrying_Idle_orc_59
+  - first:
+      213: -7614815647616634687
+    second: Carrying_Idle_orc_60
+  - first:
+      213: 1175801579702210681
+    second: Carrying_Idle_orc_61
+  - first:
+      213: -1518159181261251800
+    second: Carrying_Idle_orc_62
+  - first:
+      213: 7458002525410579582
+    second: Carrying_Idle_orc_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9681d7a7bd7108930800000000000000
+      internalID: 4143337888601151593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6328b8d9d9030ff90800000000000000
+      internalID: -6921979173757287882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b692180e97b7158c0800000000000000
+      internalID: -4012290029622580885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb63224cc42d4170800000000000000
+      internalID: 8164222159194123186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2f2557f8081d780800000000000000
+      internalID: -8659999254819704140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2bdea64e3f62db0800000000000000
+      internalID: -4816894589054110992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8486e1155a247d90800000000000000
+      internalID: -7101004167595522933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2ec90f605af70c0800000000000000
+      internalID: -4575757247159934274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_8
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ca0817101e8eed0800000000000000
+      internalID: -2384408606377202638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec28833daad98cd0800000000000000
+      internalID: -2555270876127286034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfc918a2735abd40800000000000000
+      internalID: 5600880838500274127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396ee8d1a097f3520800000000000000
+      internalID: 2683996987288643219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebf6520b64d8b740800000000000000
+      internalID: 5168114128473488364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_13
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1a4c5abfd940be0800000000000000
+      internalID: -1511909870746164782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c781e63e903c8a30800000000000000
+      internalID: 4218800407023028169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4d40d148c551c90800000000000000
+      internalID: -7199746706789575440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1537c5a3422a470800000000000000
+      internalID: 8404319687704531368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8d9c41576e11270800000000000000
+      internalID: 8219604185462200525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b73cf417993b990800000000000000
+      internalID: -7371379453126804659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e4c974686729d70800000000000000
+      internalID: 9048424920439868929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027563816b1f69950800000000000000
+      internalID: 6455612880274741024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_21
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee69375ea424b030800000000000000
+      internalID: 3509470340834750190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0465f9d4b1e577f80800000000000000
+      internalID: -8108909132697872832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_23
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1aadb11249d5000800000000000000
+      internalID: 26340042756235768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_24
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5369f25731dcb3da0800000000000000
+      internalID: -5963947798067964363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581e0303b70d52740800000000000000
+      internalID: 5126732978339242373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c58cb8064f502e0800000000000000
+      internalID: -2160051750755083158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_27
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8746ba20e941ab0800000000000000
+      internalID: -5038228348818130691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_28
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9d4649a528f5af0800000000000000
+      internalID: -405462115891750493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_29
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862060587800be4b0800000000000000
+      internalID: -5410229945303170456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_30
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6002b588f0d2420800000000000000
+      internalID: 2606756837636179683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_31
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef23038da588533d0800000000000000
+      internalID: -3227523634185620738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_32
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649cf1d1af1013340800000000000000
+      internalID: 4841653248142068038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_33
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c254e206ff7d09b0800000000000000
+      internalID: -5112289307408444734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_34
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d94095d0a3c0d60800000000000000
+      internalID: 7857719278857133347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_35
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d7bd666775475b0800000000000000
+      internalID: -5371572289502741186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_36
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34243dd5a5bf71f0800000000000000
+      internalID: -1044916864541252548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_37
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec263995a3d96940800000000000000
+      internalID: 5289991945516887279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_38
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6d0558b1375b390800000000000000
+      internalID: -7803204217311537461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_39
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be5e1df4dacc6ab0800000000000000
+      internalID: -5013409269041701198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_40
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962e0d8d1d3c3c010800000000000000
+      internalID: 1208024431118574185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_41
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c483fcc5241d0040800000000000000
+      internalID: 4615367345709483202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_42
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2212f9effec8bab0800000000000000
+      internalID: -4992012588403256785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_43
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d04f99b933986f0800000000000000
+      internalID: -681957125174063752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_44
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8044013b54661c580800000000000000
+      internalID: -8808646946617015288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_45
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1c948175d0ae0f0800000000000000
+      internalID: -1087041692335750662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_46
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5eef18a51e559e80800000000000000
+      internalID: -8172522501685907876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_47
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d2ccc79da9d09b0800000000000000
+      internalID: -5112259743103308538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_48
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb1c2d2645135de0800000000000000
+      internalID: -1345708472503886883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_49
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470a57ba678dba5e0800000000000000
+      internalID: -1897184813812178828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_50
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5ab2a01df655370800000000000000
+      internalID: 8310671630991599067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_51
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54051905bc1f6bd80800000000000000
+      internalID: -8235129013068017595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_52
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4c29b120a0e3f60800000000000000
+      internalID: 8015855390934877419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_53
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21716c66813f8c840800000000000000
+      internalID: 5244709052201965330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_54
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479e77bb7885ca050800000000000000
+      internalID: 5813118559017494900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_55
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb317eab4fa2f840800000000000000
+      internalID: 5256456454678854641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_56
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f0c43928963ed80800000000000000
+      internalID: -8222612485110493403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_57
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274292d1e6cd8f250800000000000000
+      internalID: 5978770870828082290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_58
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9b51e6fe5efe0e0800000000000000
+      internalID: -2238317673272985154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_59
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c086e6011c80386a0800000000000000
+      internalID: -6448300616167036916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_60
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c079b5738db25690800000000000000
+      internalID: -7614815647616634687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_61
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9705e7c9e49415010800000000000000
+      internalID: 1175801579702210681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_62
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bdc68a44a6eeae0800000000000000
+      internalID: -1518159181261251800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_orc_63
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74501d58c5208760800000000000000
+      internalID: 7458002525410579582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Idle_orc_0: 4143337888601151593
+      Carrying_Idle_orc_1: -6921979173757287882
+      Carrying_Idle_orc_10: 5600880838500274127
+      Carrying_Idle_orc_11: 2683996987288643219
+      Carrying_Idle_orc_12: 5168114128473488364
+      Carrying_Idle_orc_13: -1511909870746164782
+      Carrying_Idle_orc_14: 4218800407023028169
+      Carrying_Idle_orc_15: -7199746706789575440
+      Carrying_Idle_orc_16: 8404319687704531368
+      Carrying_Idle_orc_17: 8219604185462200525
+      Carrying_Idle_orc_18: -7371379453126804659
+      Carrying_Idle_orc_19: 9048424920439868929
+      Carrying_Idle_orc_2: -4012290029622580885
+      Carrying_Idle_orc_20: 6455612880274741024
+      Carrying_Idle_orc_21: 3509470340834750190
+      Carrying_Idle_orc_22: -8108909132697872832
+      Carrying_Idle_orc_23: 26340042756235768
+      Carrying_Idle_orc_24: -5963947798067964363
+      Carrying_Idle_orc_25: 5126732978339242373
+      Carrying_Idle_orc_26: -2160051750755083158
+      Carrying_Idle_orc_27: -5038228348818130691
+      Carrying_Idle_orc_28: -405462115891750493
+      Carrying_Idle_orc_29: -5410229945303170456
+      Carrying_Idle_orc_3: 8164222159194123186
+      Carrying_Idle_orc_30: 2606756837636179683
+      Carrying_Idle_orc_31: -3227523634185620738
+      Carrying_Idle_orc_32: 4841653248142068038
+      Carrying_Idle_orc_33: -5112289307408444734
+      Carrying_Idle_orc_34: 7857719278857133347
+      Carrying_Idle_orc_35: -5371572289502741186
+      Carrying_Idle_orc_36: -1044916864541252548
+      Carrying_Idle_orc_37: 5289991945516887279
+      Carrying_Idle_orc_38: -7803204217311537461
+      Carrying_Idle_orc_39: -5013409269041701198
+      Carrying_Idle_orc_4: -8659999254819704140
+      Carrying_Idle_orc_40: 1208024431118574185
+      Carrying_Idle_orc_41: 4615367345709483202
+      Carrying_Idle_orc_42: -4992012588403256785
+      Carrying_Idle_orc_43: -681957125174063752
+      Carrying_Idle_orc_44: -8808646946617015288
+      Carrying_Idle_orc_45: -1087041692335750662
+      Carrying_Idle_orc_46: -8172522501685907876
+      Carrying_Idle_orc_47: -5112259743103308538
+      Carrying_Idle_orc_48: -1345708472503886883
+      Carrying_Idle_orc_49: -1897184813812178828
+      Carrying_Idle_orc_5: -4816894589054110992
+      Carrying_Idle_orc_50: 8310671630991599067
+      Carrying_Idle_orc_51: -8235129013068017595
+      Carrying_Idle_orc_52: 8015855390934877419
+      Carrying_Idle_orc_53: 5244709052201965330
+      Carrying_Idle_orc_54: 5813118559017494900
+      Carrying_Idle_orc_55: 5256456454678854641
+      Carrying_Idle_orc_56: -8222612485110493403
+      Carrying_Idle_orc_57: 5978770870828082290
+      Carrying_Idle_orc_58: -2238317673272985154
+      Carrying_Idle_orc_59: -6448300616167036916
+      Carrying_Idle_orc_6: -7101004167595522933
+      Carrying_Idle_orc_60: -7614815647616634687
+      Carrying_Idle_orc_61: 1175801579702210681
+      Carrying_Idle_orc_62: -1518159181261251800
+      Carrying_Idle_orc_63: 7458002525410579582
+      Carrying_Idle_orc_7: -4575757247159934274
+      Carrying_Idle_orc_8: -2384408606377202638
+      Carrying_Idle_orc_9: -2555270876127286034
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

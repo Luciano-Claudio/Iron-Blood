@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 456c610d58d14f64aae3e381a8742519
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3989301047020443874
+    second: Carrying_Dmg_Ingot_iron_0
+  - first:
+      213: -4449785287065791582
+    second: Carrying_Dmg_Ingot_iron_1
+  - first:
+      213: 7231967204244665751
+    second: Carrying_Dmg_Ingot_iron_2
+  - first:
+      213: -2413526132227865666
+    second: Carrying_Dmg_Ingot_iron_3
+  - first:
+      213: -3945368083836978030
+    second: Carrying_Dmg_Ingot_iron_4
+  - first:
+      213: 5435004374653985096
+    second: Carrying_Dmg_Ingot_iron_5
+  - first:
+      213: 7964186824226328008
+    second: Carrying_Dmg_Ingot_iron_6
+  - first:
+      213: -5779261295218688119
+    second: Carrying_Dmg_Ingot_iron_7
+  - first:
+      213: -6771421015179260578
+    second: Carrying_Dmg_Ingot_iron_8
+  - first:
+      213: 6478484947232683258
+    second: Carrying_Dmg_Ingot_iron_9
+  - first:
+      213: -4630849282152396431
+    second: Carrying_Dmg_Ingot_iron_10
+  - first:
+      213: -4210943544429909556
+    second: Carrying_Dmg_Ingot_iron_11
+  - first:
+      213: -5436327990690538759
+    second: Carrying_Dmg_Ingot_iron_12
+  - first:
+      213: 5010412161314996694
+    second: Carrying_Dmg_Ingot_iron_13
+  - first:
+      213: 16270771144075957
+    second: Carrying_Dmg_Ingot_iron_14
+  - first:
+      213: -8897153487941862896
+    second: Carrying_Dmg_Ingot_iron_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ingot_iron_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 117
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17a04e75d723a8c0800000000000000
+      internalID: -3989301047020443874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ingot_iron_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 115
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a31fad7bdf2f32c0800000000000000
+      internalID: -4449785287065791582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ingot_iron_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795374c0bdb1d5460800000000000000
+      internalID: 7231967204244665751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ingot_iron_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb38f6825ce618ed0800000000000000
+      internalID: -2413526132227865666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ingot_iron_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 85
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cbbb691ac3f39c0800000000000000
+      internalID: -3945368083836978030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ingot_iron_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 83
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841e1ffcea30d6b40800000000000000
+      internalID: 5435004374653985096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ingot_iron_6
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd4bd678b9768e60800000000000000
+      internalID: 7964186824226328008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ingot_iron_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f735ac870fbcfa0800000000000000
+      internalID: -5779261295218688119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ingot_iron_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 53
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d00a596741702a0800000000000000
+      internalID: -6771421015179260578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ingot_iron_9
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 51
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4f48a2cb338e950800000000000000
+      internalID: 6478484947232683258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ingot_iron_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1790fe8fc1bebbfb0800000000000000
+      internalID: -4630849282152396431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ingot_iron_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9e7092829bf85c0800000000000000
+      internalID: -4210943544429909556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ingot_iron_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 21
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa9060de784e84b0800000000000000
+      internalID: -5436327990690538759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ingot_iron_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 19
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d14a7d705f888540800000000000000
+      internalID: 5010412161314996694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ingot_iron_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5baa34e1e2ec93000800000000000000
+      internalID: 16270771144075957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ingot_iron_15
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01af817ba06f68480800000000000000
+      internalID: -8897153487941862896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Dmg_Ingot_iron_0: -3989301047020443874
+      Carrying_Dmg_Ingot_iron_1: -4449785287065791582
+      Carrying_Dmg_Ingot_iron_10: -4630849282152396431
+      Carrying_Dmg_Ingot_iron_11: -4210943544429909556
+      Carrying_Dmg_Ingot_iron_12: -5436327990690538759
+      Carrying_Dmg_Ingot_iron_13: 5010412161314996694
+      Carrying_Dmg_Ingot_iron_14: 16270771144075957
+      Carrying_Dmg_Ingot_iron_15: -8897153487941862896
+      Carrying_Dmg_Ingot_iron_2: 7231967204244665751
+      Carrying_Dmg_Ingot_iron_3: -2413526132227865666
+      Carrying_Dmg_Ingot_iron_4: -3945368083836978030
+      Carrying_Dmg_Ingot_iron_5: 5435004374653985096
+      Carrying_Dmg_Ingot_iron_6: 7964186824226328008
+      Carrying_Dmg_Ingot_iron_7: -5779261295218688119
+      Carrying_Dmg_Ingot_iron_8: -6771421015179260578
+      Carrying_Dmg_Ingot_iron_9: 6478484947232683258
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

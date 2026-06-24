@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: 96cbe393a5a5c934599a3bfd17c3aae7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5099009160467137577
+    second: Carrying_Idle_Ore_copper_0
+  - first:
+      213: -3489168766476239285
+    second: Carrying_Idle_Ore_copper_1
+  - first:
+      213: -422854096835997696
+    second: Carrying_Idle_Ore_copper_2
+  - first:
+      213: 6933224020677029972
+    second: Carrying_Idle_Ore_copper_3
+  - first:
+      213: -6260032705786620152
+    second: Carrying_Idle_Ore_copper_4
+  - first:
+      213: -3307115071374446220
+    second: Carrying_Idle_Ore_copper_5
+  - first:
+      213: -3668231113746415664
+    second: Carrying_Idle_Ore_copper_6
+  - first:
+      213: 8385898898377158085
+    second: Carrying_Idle_Ore_copper_7
+  - first:
+      213: 4255199681016844429
+    second: Carrying_Idle_Ore_copper_8
+  - first:
+      213: 5926082965584353190
+    second: Carrying_Idle_Ore_copper_9
+  - first:
+      213: -435253054921184373
+    second: Carrying_Idle_Ore_copper_10
+  - first:
+      213: 7667014424084817199
+    second: Carrying_Idle_Ore_copper_11
+  - first:
+      213: -1788158637398865100
+    second: Carrying_Idle_Ore_copper_12
+  - first:
+      213: -2318764828441028090
+    second: Carrying_Idle_Ore_copper_13
+  - first:
+      213: -1714597830759134683
+    second: Carrying_Idle_Ore_copper_14
+  - first:
+      213: 6561558535415873778
+    second: Carrying_Idle_Ore_copper_15
+  - first:
+      213: -5689848698801888234
+    second: Carrying_Idle_Ore_copper_16
+  - first:
+      213: 1613663298151515295
+    second: Carrying_Idle_Ore_copper_17
+  - first:
+      213: -4797534364253973381
+    second: Carrying_Idle_Ore_copper_18
+  - first:
+      213: -5390872608126575540
+    second: Carrying_Idle_Ore_copper_19
+  - first:
+      213: -5739501019307932347
+    second: Carrying_Idle_Ore_copper_20
+  - first:
+      213: -5737767126404172099
+    second: Carrying_Idle_Ore_copper_21
+  - first:
+      213: -8641616414040525513
+    second: Carrying_Idle_Ore_copper_22
+  - first:
+      213: -5267652183309200043
+    second: Carrying_Idle_Ore_copper_23
+  - first:
+      213: -2597854441548425788
+    second: Carrying_Idle_Ore_copper_24
+  - first:
+      213: -3159440996882420305
+    second: Carrying_Idle_Ore_copper_25
+  - first:
+      213: 4353274176708769606
+    second: Carrying_Idle_Ore_copper_26
+  - first:
+      213: 3040101597672839317
+    second: Carrying_Idle_Ore_copper_27
+  - first:
+      213: 2731649355434430234
+    second: Carrying_Idle_Ore_copper_28
+  - first:
+      213: 1370207994628830074
+    second: Carrying_Idle_Ore_copper_29
+  - first:
+      213: 5564508301703735541
+    second: Carrying_Idle_Ore_copper_30
+  - first:
+      213: -2502670630494636573
+    second: Carrying_Idle_Ore_copper_31
+  - first:
+      213: -7859602000971577276
+    second: Carrying_Idle_Ore_copper_32
+  - first:
+      213: 7309513973352018847
+    second: Carrying_Idle_Ore_copper_33
+  - first:
+      213: 1871178316134236873
+    second: Carrying_Idle_Ore_copper_34
+  - first:
+      213: -7907847150672196457
+    second: Carrying_Idle_Ore_copper_35
+  - first:
+      213: 8649664222673863013
+    second: Carrying_Idle_Ore_copper_36
+  - first:
+      213: 579707950902526718
+    second: Carrying_Idle_Ore_copper_37
+  - first:
+      213: -8448361571509738028
+    second: Carrying_Idle_Ore_copper_38
+  - first:
+      213: 8846882766797983107
+    second: Carrying_Idle_Ore_copper_39
+  - first:
+      213: -7663595432188016406
+    second: Carrying_Idle_Ore_copper_40
+  - first:
+      213: 642547514514302648
+    second: Carrying_Idle_Ore_copper_41
+  - first:
+      213: 772494622253776241
+    second: Carrying_Idle_Ore_copper_42
+  - first:
+      213: 6553012102989818372
+    second: Carrying_Idle_Ore_copper_43
+  - first:
+      213: 8965607324668022701
+    second: Carrying_Idle_Ore_copper_44
+  - first:
+      213: -845086226778429862
+    second: Carrying_Idle_Ore_copper_45
+  - first:
+      213: -7068033540571066385
+    second: Carrying_Idle_Ore_copper_46
+  - first:
+      213: -4734229687867414484
+    second: Carrying_Idle_Ore_copper_47
+  - first:
+      213: -5647194435090818339
+    second: Carrying_Idle_Ore_copper_48
+  - first:
+      213: 2762463777778490880
+    second: Carrying_Idle_Ore_copper_49
+  - first:
+      213: 2855927336477436551
+    second: Carrying_Idle_Ore_copper_50
+  - first:
+      213: 4526684632669553536
+    second: Carrying_Idle_Ore_copper_51
+  - first:
+      213: 7495824233981589883
+    second: Carrying_Idle_Ore_copper_52
+  - first:
+      213: 1734504538878463264
+    second: Carrying_Idle_Ore_copper_53
+  - first:
+      213: 5896910932225659969
+    second: Carrying_Idle_Ore_copper_54
+  - first:
+      213: 5586848631153266334
+    second: Carrying_Idle_Ore_copper_55
+  - first:
+      213: -3685058585065619136
+    second: Carrying_Idle_Ore_copper_56
+  - first:
+      213: -4417557822250217391
+    second: Carrying_Idle_Ore_copper_57
+  - first:
+      213: 8092199077823072093
+    second: Carrying_Idle_Ore_copper_58
+  - first:
+      213: -2981847145089923289
+    second: Carrying_Idle_Ore_copper_59
+  - first:
+      213: -6844437835354753029
+    second: Carrying_Idle_Ore_copper_60
+  - first:
+      213: 7938357287308176313
+    second: Carrying_Idle_Ore_copper_61
+  - first:
+      213: 7420814988729643354
+    second: Carrying_Idle_Ore_copper_62
+  - first:
+      213: -5439382493013577296
+    second: Carrying_Idle_Ore_copper_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbb4eb2f2eac39b0800000000000000
+      internalID: -5099009160467137577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ebbc84e7bf39fc0800000000000000
+      internalID: -3489168766476239285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00095467078b12af0800000000000000
+      internalID: -422854096835997696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450f8a45382c73060800000000000000
+      internalID: 6933224020677029972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807d241db65ef19a0800000000000000
+      internalID: -6260032705786620152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471b26b4d54ca12d0800000000000000
+      internalID: -3307115071374446220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dffb17bc33d71dc0800000000000000
+      internalID: -3668231113746415664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd2c102e92b06470800000000000000
+      internalID: 8385898898377158085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d805d5b90918d0b30800000000000000
+      internalID: 4255199681016844429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a716293f0dad3250800000000000000
+      internalID: 5926082965584353190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_10
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8be40217aba5f9f0800000000000000
+      internalID: -435253054921184373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f252f534ff4b66a60800000000000000
+      internalID: 7667014424084817199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b4bcf713f2f27e0800000000000000
+      internalID: -1788158637398865100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_13
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a5a138ca712dfd0800000000000000
+      internalID: -2318764828441028090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a42f47b568438e0800000000000000
+      internalID: -1714597830759134683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0456c29b65f0b50800000000000000
+      internalID: 6561558535415873778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614e13a21c89901b0800000000000000
+      internalID: -5689848698801888234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_17
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9408695832e46610800000000000000
+      internalID: 1613663298151515295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_18
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7499e40aebbb6db0800000000000000
+      internalID: -4797534364253973381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_19
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c5b3bcce5cf25b0800000000000000
+      internalID: -5390872608126575540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_20
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545882c6b323950b0800000000000000
+      internalID: -5739501019307932347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_21
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6f3c2d23b5f50b0800000000000000
+      internalID: -5737767126404172099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_22
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735fdeb18afc21880800000000000000
+      internalID: -8641616414040525513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_23
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5555b8d9f3a85e6b0800000000000000
+      internalID: -5267652183309200043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_24
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5d551462192fbd0800000000000000
+      internalID: -2597854441548425788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad640c17296724d0800000000000000
+      internalID: -3159440996882420305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6477b909ccfe96c30800000000000000
+      internalID: 4353274176708769606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_27
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5981362cb4c903a20800000000000000
+      internalID: 3040101597672839317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_28
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f0899ad94c8e520800000000000000
+      internalID: 2731649355434430234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_29
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73704459e4f30310800000000000000
+      internalID: 1370207994628830074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_30
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f863c081da193d40800000000000000
+      internalID: 5564508301703735541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_31
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5709f325ab44dd0800000000000000
+      internalID: -2502670630494636573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_32
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448c3204f951de290800000000000000
+      internalID: -7859602000971577276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_33
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93b6663b3c907560800000000000000
+      internalID: 7309513973352018847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_34
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2489cb3c2c7f910800000000000000
+      internalID: 1871178316134236873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_35
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c491ef9eea14290800000000000000
+      internalID: -7907847150672196457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_36
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56181ea58c7c90870800000000000000
+      internalID: 8649664222673863013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_37
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2c3075f498b0800800000000000000
+      internalID: 579707950902526718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_38
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5e91c79e361ca80800000000000000
+      internalID: -8448361571509738028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_39
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38dc48ce00176ca70800000000000000
+      internalID: 8846882766797983107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_40
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae88022de8075a590800000000000000
+      internalID: -7663595432188016406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_41
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b66fe16f89cae800800000000000000
+      internalID: 642547514514302648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_42
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17df55e14c378ba00800000000000000
+      internalID: 772494622253776241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_43
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a2b8fc9c9f0fa50800000000000000
+      internalID: 6553012102989818372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_44
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf4a762c5c3c6c70800000000000000
+      internalID: 8965607324668022701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_45
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56eb40ed86a544f0800000000000000
+      internalID: -845086226778429862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_46
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef07b161fc49ed90800000000000000
+      internalID: -7068033540571066385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_47
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28ed819e23ac4eb0800000000000000
+      internalID: -4734229687867414484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda59d6d49221a1b0800000000000000
+      internalID: -5647194435090818339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_49
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ede537b2e365620800000000000000
+      internalID: 2762463777778490880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_50
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78aa01bf7ca42a720800000000000000
+      internalID: 2855927336477436551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_51
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0830d74a0b302de30800000000000000
+      internalID: 4526684632669553536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_52
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79bc3d1d64860860800000000000000
+      internalID: 7495824233981589883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_53
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d472530b2321810800000000000000
+      internalID: 1734504538878463264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_54
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1449d6bef3906d150800000000000000
+      internalID: 5896910932225659969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_55
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e84c9ca39788d40800000000000000
+      internalID: 5586848631153266334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_56
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04109acbdba0cdcc0800000000000000
+      internalID: -3685058585065619136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_57
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150170ed09ea1b2c0800000000000000
+      internalID: -4417557822250217391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_58
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57436ddf244d4070800000000000000
+      internalID: 8092199077823072093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_59
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727076ee1d95e96d0800000000000000
+      internalID: -2981847145089923289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_60
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7bf685d0ca301a0800000000000000
+      internalID: -6844437835354753029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_61
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb2322c4e5ba2e60800000000000000
+      internalID: 7938357287308176313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_62
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51ff134ae70cf660800000000000000
+      internalID: 7420814988729643354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_copper_63
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b17272117e6384b0800000000000000
+      internalID: -5439382493013577296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Idle_Ore_copper_0: -5099009160467137577
+      Carrying_Idle_Ore_copper_1: -3489168766476239285
+      Carrying_Idle_Ore_copper_10: -435253054921184373
+      Carrying_Idle_Ore_copper_11: 7667014424084817199
+      Carrying_Idle_Ore_copper_12: -1788158637398865100
+      Carrying_Idle_Ore_copper_13: -2318764828441028090
+      Carrying_Idle_Ore_copper_14: -1714597830759134683
+      Carrying_Idle_Ore_copper_15: 6561558535415873778
+      Carrying_Idle_Ore_copper_16: -5689848698801888234
+      Carrying_Idle_Ore_copper_17: 1613663298151515295
+      Carrying_Idle_Ore_copper_18: -4797534364253973381
+      Carrying_Idle_Ore_copper_19: -5390872608126575540
+      Carrying_Idle_Ore_copper_2: -422854096835997696
+      Carrying_Idle_Ore_copper_20: -5739501019307932347
+      Carrying_Idle_Ore_copper_21: -5737767126404172099
+      Carrying_Idle_Ore_copper_22: -8641616414040525513
+      Carrying_Idle_Ore_copper_23: -5267652183309200043
+      Carrying_Idle_Ore_copper_24: -2597854441548425788
+      Carrying_Idle_Ore_copper_25: -3159440996882420305
+      Carrying_Idle_Ore_copper_26: 4353274176708769606
+      Carrying_Idle_Ore_copper_27: 3040101597672839317
+      Carrying_Idle_Ore_copper_28: 2731649355434430234
+      Carrying_Idle_Ore_copper_29: 1370207994628830074
+      Carrying_Idle_Ore_copper_3: 6933224020677029972
+      Carrying_Idle_Ore_copper_30: 5564508301703735541
+      Carrying_Idle_Ore_copper_31: -2502670630494636573
+      Carrying_Idle_Ore_copper_32: -7859602000971577276
+      Carrying_Idle_Ore_copper_33: 7309513973352018847
+      Carrying_Idle_Ore_copper_34: 1871178316134236873
+      Carrying_Idle_Ore_copper_35: -7907847150672196457
+      Carrying_Idle_Ore_copper_36: 8649664222673863013
+      Carrying_Idle_Ore_copper_37: 579707950902526718
+      Carrying_Idle_Ore_copper_38: -8448361571509738028
+      Carrying_Idle_Ore_copper_39: 8846882766797983107
+      Carrying_Idle_Ore_copper_4: -6260032705786620152
+      Carrying_Idle_Ore_copper_40: -7663595432188016406
+      Carrying_Idle_Ore_copper_41: 642547514514302648
+      Carrying_Idle_Ore_copper_42: 772494622253776241
+      Carrying_Idle_Ore_copper_43: 6553012102989818372
+      Carrying_Idle_Ore_copper_44: 8965607324668022701
+      Carrying_Idle_Ore_copper_45: -845086226778429862
+      Carrying_Idle_Ore_copper_46: -7068033540571066385
+      Carrying_Idle_Ore_copper_47: -4734229687867414484
+      Carrying_Idle_Ore_copper_48: -5647194435090818339
+      Carrying_Idle_Ore_copper_49: 2762463777778490880
+      Carrying_Idle_Ore_copper_5: -3307115071374446220
+      Carrying_Idle_Ore_copper_50: 2855927336477436551
+      Carrying_Idle_Ore_copper_51: 4526684632669553536
+      Carrying_Idle_Ore_copper_52: 7495824233981589883
+      Carrying_Idle_Ore_copper_53: 1734504538878463264
+      Carrying_Idle_Ore_copper_54: 5896910932225659969
+      Carrying_Idle_Ore_copper_55: 5586848631153266334
+      Carrying_Idle_Ore_copper_56: -3685058585065619136
+      Carrying_Idle_Ore_copper_57: -4417557822250217391
+      Carrying_Idle_Ore_copper_58: 8092199077823072093
+      Carrying_Idle_Ore_copper_59: -2981847145089923289
+      Carrying_Idle_Ore_copper_6: -3668231113746415664
+      Carrying_Idle_Ore_copper_60: -6844437835354753029
+      Carrying_Idle_Ore_copper_61: 7938357287308176313
+      Carrying_Idle_Ore_copper_62: 7420814988729643354
+      Carrying_Idle_Ore_copper_63: -5439382493013577296
+      Carrying_Idle_Ore_copper_7: 8385898898377158085
+      Carrying_Idle_Ore_copper_8: 4255199681016844429
+      Carrying_Idle_Ore_copper_9: 5926082965584353190
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

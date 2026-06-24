@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: a42aa97942cf1934aa9a2b995a89a630
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5032639062375125478
+    second: CartographerStudio_elf_0
+  - first:
+      213: 4656195279886584136
+    second: CartographerStudio_elf_1
+  - first:
+      213: 2168869896875097002
+    second: CartographerStudio_elf_2
+  - first:
+      213: -4840953618356843400
+    second: CartographerStudio_elf_3
+  - first:
+      213: -5501868639220444358
+    second: CartographerStudio_elf_4
+  - first:
+      213: 8788341402509075396
+    second: CartographerStudio_elf_5
+  - first:
+      213: 3721414335958346505
+    second: CartographerStudio_elf_6
+  - first:
+      213: -6398881924495975450
+    second: CartographerStudio_elf_7
+  - first:
+      213: 4934947856984511461
+    second: CartographerStudio_elf_8
+  - first:
+      213: -568989435600357360
+    second: CartographerStudio_elf_9
+  - first:
+      213: 2731505647796575014
+    second: CartographerStudio_elf_10
+  - first:
+      213: -1333825977950046995
+    second: CartographerStudio_elf_11
+  - first:
+      213: -7032411482194078449
+    second: CartographerStudio_elf_12
+  - first:
+      213: 440628825649210204
+    second: CartographerStudio_elf_13
+  - first:
+      213: 8808532866433970142
+    second: CartographerStudio_elf_14
+  - first:
+      213: -7209987813906756364
+    second: CartographerStudio_elf_15
+  - first:
+      213: 2740509956805282332
+    second: CartographerStudio_elf_16
+  - first:
+      213: -6256591781000072397
+    second: CartographerStudio_elf_17
+  - first:
+      213: 7514295499425524034
+    second: CartographerStudio_elf_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CartographerStudio_elf_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 8
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1df9b209687d540800000000000000
+      internalID: 5032639062375125478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_elf_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8498d7effe02e9040800000000000000
+      internalID: 4656195279886584136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_elf_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab37471eaf591e10800000000000000
+      internalID: 2168869896875097002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_elf_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cc2b3255a71dcb0800000000000000
+      internalID: -4840953618356843400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_elf_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 8
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33576e6f9f65a3b0800000000000000
+      internalID: -5501868639220444358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_elf_5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3696561f576f970800000000000000
+      internalID: 8788341402509075396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_elf_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90be7d42f9e15a330800000000000000
+      internalID: 3721414335958346505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_elf_7
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebdfbadaca9237a0800000000000000
+      internalID: -6398881924495975450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_elf_8
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e313a0fde47c7440800000000000000
+      internalID: 4934947856984511461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_elf_9
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018371a7f1b8a18f0800000000000000
+      internalID: -568989435600357360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_elf_10
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b53ee1ae148e520800000000000000
+      internalID: 2731505647796575014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_elf_11
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de47918075c4d7de0800000000000000
+      internalID: -1333825977950046995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_elf_12
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f059179240bd76e90800000000000000
+      internalID: -7032411482194078449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_elf_13
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c536e96159d6d1600800000000000000
+      internalID: 440628825649210204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_elf_14
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf6620f8f13e3a70800000000000000
+      internalID: 8808532866433970142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_elf_15
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc413d884af0fb90800000000000000
+      internalID: -7209987813906756364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_elf_16
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1accce294f380620800000000000000
+      internalID: 2740509956805282332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_elf_17
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333bcdc8cee1c29a0800000000000000
+      internalID: -6256591781000072397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_elf_18
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249239cb1f3284860800000000000000
+      internalID: 7514295499425524034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CartographerStudio_elf_0: 5032639062375125478
+      CartographerStudio_elf_1: 4656195279886584136
+      CartographerStudio_elf_10: 2731505647796575014
+      CartographerStudio_elf_11: -1333825977950046995
+      CartographerStudio_elf_12: -7032411482194078449
+      CartographerStudio_elf_13: 440628825649210204
+      CartographerStudio_elf_14: 8808532866433970142
+      CartographerStudio_elf_15: -7209987813906756364
+      CartographerStudio_elf_16: 2740509956805282332
+      CartographerStudio_elf_17: -6256591781000072397
+      CartographerStudio_elf_18: 7514295499425524034
+      CartographerStudio_elf_2: 2168869896875097002
+      CartographerStudio_elf_3: -4840953618356843400
+      CartographerStudio_elf_4: -5501868639220444358
+      CartographerStudio_elf_5: 8788341402509075396
+      CartographerStudio_elf_6: 3721414335958346505
+      CartographerStudio_elf_7: -6398881924495975450
+      CartographerStudio_elf_8: 4934947856984511461
+      CartographerStudio_elf_9: -568989435600357360
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

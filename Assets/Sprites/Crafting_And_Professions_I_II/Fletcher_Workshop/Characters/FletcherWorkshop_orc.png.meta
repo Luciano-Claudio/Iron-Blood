@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: f8d10fcc7b83ecc4f885b9e89e67de41
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6467954569607249198
+    second: FletcherWorkshop_orc_0
+  - first:
+      213: 6748648803395910803
+    second: FletcherWorkshop_orc_1
+  - first:
+      213: 5156348931380970843
+    second: FletcherWorkshop_orc_2
+  - first:
+      213: -3352375190793386626
+    second: FletcherWorkshop_orc_3
+  - first:
+      213: 5180310245923508930
+    second: FletcherWorkshop_orc_4
+  - first:
+      213: 7906117341161781995
+    second: FletcherWorkshop_orc_5
+  - first:
+      213: 8883630686621870168
+    second: FletcherWorkshop_orc_6
+  - first:
+      213: -954723915931360189
+    second: FletcherWorkshop_orc_7
+  - first:
+      213: 5710279808085592403
+    second: FletcherWorkshop_orc_8
+  - first:
+      213: 2205821047967002041
+    second: FletcherWorkshop_orc_9
+  - first:
+      213: 4796459515124169108
+    second: FletcherWorkshop_orc_10
+  - first:
+      213: -4849760752365458145
+    second: FletcherWorkshop_orc_11
+  - first:
+      213: 4252142031420345464
+    second: FletcherWorkshop_orc_12
+  - first:
+      213: -1657263586043050504
+    second: FletcherWorkshop_orc_13
+  - first:
+      213: -880670826562851045
+    second: FletcherWorkshop_orc_14
+  - first:
+      213: -4073687226147434020
+    second: FletcherWorkshop_orc_15
+  - first:
+      213: 867052708279698184
+    second: FletcherWorkshop_orc_16
+  - first:
+      213: 2654998016420055610
+    second: FletcherWorkshop_orc_17
+  - first:
+      213: 7665097564497826534
+    second: FletcherWorkshop_orc_18
+  - first:
+      213: 1635098721223091843
+    second: FletcherWorkshop_orc_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FletcherWorkshop_orc_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dfdc0996ac2c950800000000000000
+      internalID: 6467954569607249198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_orc_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c3740b45408ad50800000000000000
+      internalID: 6748648803395910803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_orc_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b558de898080f8740800000000000000
+      internalID: 5156348931380970843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_orc_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e758dee8688f971d0800000000000000
+      internalID: -3352375190793386626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_orc_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c25692e8b824e740800000000000000
+      internalID: 5180310245923508930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_orc_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beaf08855db28bd60800000000000000
+      internalID: 7906117341161781995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_orc_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8582bdfba0ff84b70800000000000000
+      internalID: 8883630686621870168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_orc_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344675428a320c2f0800000000000000
+      internalID: -954723915931360189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_orc_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35907092b3dfe3f40800000000000000
+      internalID: 5710279808085592403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_orc_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd27226e86ac9e10800000000000000
+      internalID: 2205821047967002041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_orc_10
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499b48a2482709240800000000000000
+      internalID: 4796459515124169108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_orc_11
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d20a57a4032bcb0800000000000000
+      internalID: -4849760752365458145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_orc_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c415516a4a20b30800000000000000
+      internalID: 4252142031420345464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_orc_13
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5c6be8c873009e0800000000000000
+      internalID: -1657263586043050504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_orc_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1febaa9c8a37c3f0800000000000000
+      internalID: -880670826562851045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_orc_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd19f671d0b5777c0800000000000000
+      internalID: -4073687226147434020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_orc_16
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 13
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8034d8628d3680c00800000000000000
+      internalID: 867052708279698184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_orc_17
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a851011a278d420800000000000000
+      internalID: 2654998016420055610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_orc_18
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 14
+        width: 41
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2da9c9f95ef5a60800000000000000
+      internalID: 7665097564497826534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_orc_19
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386a233bf9901b610800000000000000
+      internalID: 1635098721223091843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FletcherWorkshop_orc_0: 6467954569607249198
+      FletcherWorkshop_orc_1: 6748648803395910803
+      FletcherWorkshop_orc_10: 4796459515124169108
+      FletcherWorkshop_orc_11: -4849760752365458145
+      FletcherWorkshop_orc_12: 4252142031420345464
+      FletcherWorkshop_orc_13: -1657263586043050504
+      FletcherWorkshop_orc_14: -880670826562851045
+      FletcherWorkshop_orc_15: -4073687226147434020
+      FletcherWorkshop_orc_16: 867052708279698184
+      FletcherWorkshop_orc_17: 2654998016420055610
+      FletcherWorkshop_orc_18: 7665097564497826534
+      FletcherWorkshop_orc_19: 1635098721223091843
+      FletcherWorkshop_orc_2: 5156348931380970843
+      FletcherWorkshop_orc_3: -3352375190793386626
+      FletcherWorkshop_orc_4: 5180310245923508930
+      FletcherWorkshop_orc_5: 7906117341161781995
+      FletcherWorkshop_orc_6: 8883630686621870168
+      FletcherWorkshop_orc_7: -954723915931360189
+      FletcherWorkshop_orc_8: 5710279808085592403
+      FletcherWorkshop_orc_9: 2205821047967002041
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

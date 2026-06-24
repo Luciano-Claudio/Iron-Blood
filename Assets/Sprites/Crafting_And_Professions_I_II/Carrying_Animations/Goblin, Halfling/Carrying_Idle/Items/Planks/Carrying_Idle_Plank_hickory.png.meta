@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: 2522864c9b02f88488cda3c060d90819
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4210769568782812328
+    second: Carrying_Idle_Plank_hickory_0
+  - first:
+      213: -7735266095589466516
+    second: Carrying_Idle_Plank_hickory_1
+  - first:
+      213: 2442460840583475280
+    second: Carrying_Idle_Plank_hickory_2
+  - first:
+      213: -4015553489192236350
+    second: Carrying_Idle_Plank_hickory_3
+  - first:
+      213: 4875395884421523903
+    second: Carrying_Idle_Plank_hickory_4
+  - first:
+      213: -8647544560412891646
+    second: Carrying_Idle_Plank_hickory_5
+  - first:
+      213: -6504844453937611109
+    second: Carrying_Idle_Plank_hickory_6
+  - first:
+      213: -2086849429548122064
+    second: Carrying_Idle_Plank_hickory_7
+  - first:
+      213: -1093974389171476685
+    second: Carrying_Idle_Plank_hickory_8
+  - first:
+      213: 4754040894893751953
+    second: Carrying_Idle_Plank_hickory_9
+  - first:
+      213: -7568831858252453353
+    second: Carrying_Idle_Plank_hickory_10
+  - first:
+      213: 7084504779000743934
+    second: Carrying_Idle_Plank_hickory_11
+  - first:
+      213: -5298109533814210023
+    second: Carrying_Idle_Plank_hickory_12
+  - first:
+      213: -7475306094865918221
+    second: Carrying_Idle_Plank_hickory_13
+  - first:
+      213: 2621238633462310143
+    second: Carrying_Idle_Plank_hickory_14
+  - first:
+      213: -200495842498472976
+    second: Carrying_Idle_Plank_hickory_15
+  - first:
+      213: 2524374245554134584
+    second: Carrying_Idle_Plank_hickory_16
+  - first:
+      213: -2636774800211068577
+    second: Carrying_Idle_Plank_hickory_17
+  - first:
+      213: 5499035850263277727
+    second: Carrying_Idle_Plank_hickory_18
+  - first:
+      213: 596756393766545903
+    second: Carrying_Idle_Plank_hickory_19
+  - first:
+      213: 6718103803866129369
+    second: Carrying_Idle_Plank_hickory_20
+  - first:
+      213: -7668013727541155703
+    second: Carrying_Idle_Plank_hickory_21
+  - first:
+      213: -6369050483812502911
+    second: Carrying_Idle_Plank_hickory_22
+  - first:
+      213: 6189933108684225041
+    second: Carrying_Idle_Plank_hickory_23
+  - first:
+      213: -9182093531598905961
+    second: Carrying_Idle_Plank_hickory_24
+  - first:
+      213: 5938654194550438709
+    second: Carrying_Idle_Plank_hickory_25
+  - first:
+      213: -2282997390118603896
+    second: Carrying_Idle_Plank_hickory_26
+  - first:
+      213: 3198858675320729724
+    second: Carrying_Idle_Plank_hickory_27
+  - first:
+      213: -6718145387416036919
+    second: Carrying_Idle_Plank_hickory_28
+  - first:
+      213: -5704978102024130778
+    second: Carrying_Idle_Plank_hickory_29
+  - first:
+      213: 8218705559641974455
+    second: Carrying_Idle_Plank_hickory_30
+  - first:
+      213: 3930555561726015187
+    second: Carrying_Idle_Plank_hickory_31
+  - first:
+      213: -7807951243076750932
+    second: Carrying_Idle_Plank_hickory_32
+  - first:
+      213: 3014598806150023813
+    second: Carrying_Idle_Plank_hickory_33
+  - first:
+      213: -4818469337040626129
+    second: Carrying_Idle_Plank_hickory_34
+  - first:
+      213: 2320220100743997357
+    second: Carrying_Idle_Plank_hickory_35
+  - first:
+      213: 845871689358608544
+    second: Carrying_Idle_Plank_hickory_36
+  - first:
+      213: 50019526867127924
+    second: Carrying_Idle_Plank_hickory_37
+  - first:
+      213: 6387826725055171469
+    second: Carrying_Idle_Plank_hickory_38
+  - first:
+      213: 1108792365320359373
+    second: Carrying_Idle_Plank_hickory_39
+  - first:
+      213: 4697303360867455476
+    second: Carrying_Idle_Plank_hickory_40
+  - first:
+      213: -1577744036012637851
+    second: Carrying_Idle_Plank_hickory_41
+  - first:
+      213: 5496373051763400253
+    second: Carrying_Idle_Plank_hickory_42
+  - first:
+      213: -3054579877182827357
+    second: Carrying_Idle_Plank_hickory_43
+  - first:
+      213: 3921879487111154411
+    second: Carrying_Idle_Plank_hickory_44
+  - first:
+      213: -2593022903506101921
+    second: Carrying_Idle_Plank_hickory_45
+  - first:
+      213: 296895434706437005
+    second: Carrying_Idle_Plank_hickory_46
+  - first:
+      213: 3466180577464766097
+    second: Carrying_Idle_Plank_hickory_47
+  - first:
+      213: 4405093636609064418
+    second: Carrying_Idle_Plank_hickory_48
+  - first:
+      213: 971911056302264214
+    second: Carrying_Idle_Plank_hickory_49
+  - first:
+      213: -4376162680377910417
+    second: Carrying_Idle_Plank_hickory_50
+  - first:
+      213: 840429084535380239
+    second: Carrying_Idle_Plank_hickory_51
+  - first:
+      213: 7808723229849757770
+    second: Carrying_Idle_Plank_hickory_52
+  - first:
+      213: 5132386863276745173
+    second: Carrying_Idle_Plank_hickory_53
+  - first:
+      213: 8539661816802070986
+    second: Carrying_Idle_Plank_hickory_54
+  - first:
+      213: -3638782045756757365
+    second: Carrying_Idle_Plank_hickory_55
+  - first:
+      213: 6442123291284068605
+    second: Carrying_Idle_Plank_hickory_56
+  - first:
+      213: 7243519239806341368
+    second: Carrying_Idle_Plank_hickory_57
+  - first:
+      213: 4792589144803313113
+    second: Carrying_Idle_Plank_hickory_58
+  - first:
+      213: 8128870485244590479
+    second: Carrying_Idle_Plank_hickory_59
+  - first:
+      213: -1007058662233452197
+    second: Carrying_Idle_Plank_hickory_60
+  - first:
+      213: -5769309653461129567
+    second: Carrying_Idle_Plank_hickory_61
+  - first:
+      213: -3275398797385234344
+    second: Carrying_Idle_Plank_hickory_62
+  - first:
+      213: -8863093928334833505
+    second: Carrying_Idle_Plank_hickory_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bfca503675095c0800000000000000
+      internalID: -4210769568782812328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e54412870d6a490800000000000000
+      internalID: -7735266095589466516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050b7cc913d55e120800000000000000
+      internalID: 2442460840583475280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cacd1c7063e548c0800000000000000
+      internalID: -4015553489192236350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9a856d9b2e8a340800000000000000
+      internalID: 4875395884421523903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2066a39f900cdf780800000000000000
+      internalID: -8647544560412891646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ef0ebee662ab5a0800000000000000
+      internalID: -6504844453937611109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030ce0c10850a03e0800000000000000
+      internalID: -2086849429548122064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3372f04d61c61d0f0800000000000000
+      internalID: -1093974389171476685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e72d3810fb9f140800000000000000
+      internalID: 4754040894893751953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ae33cb68b16f690800000000000000
+      internalID: -7568831858252453353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_11
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef785e9af87315260800000000000000
+      internalID: 7084504779000743934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_12
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912c4e713755976b0800000000000000
+      internalID: -5298109533814210023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6543c66b0624890800000000000000
+      internalID: -7475306094865918221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_14
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff42d0336a2806420800000000000000
+      internalID: 2621238633462310143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f39fe0f712b73df0800000000000000
+      internalID: -200495842498472976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e166a6001680320800000000000000
+      internalID: 2524374245554134584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59b7b81a4b486bd0800000000000000
+      internalID: -2636774800211068577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90b41e78ff705c40800000000000000
+      internalID: 5499035850263277727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9e5e347ca184800800000000000000
+      internalID: 596756393766545903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_20
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d324a9c0df7b3d50800000000000000
+      internalID: 6718103803866129369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_21
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9882715442eb59590800000000000000
+      internalID: -7668013727541155703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_22
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18273d364569c97a0800000000000000
+      internalID: -6369050483812502911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_23
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a7d8edd5f07e550800000000000000
+      internalID: 6189933108684225041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_24
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d92a2f496a29080800000000000000
+      internalID: -9182093531598905961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_25
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bff0e86865a6250800000000000000
+      internalID: 5938654194550438709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_26
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88336d238f92150e0800000000000000
+      internalID: -2282997390118603896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_27
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c703b255401a46c20800000000000000
+      internalID: 3198858675320729724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_28
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c953a94d5a54c2a0800000000000000
+      internalID: -6718145387416036919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_29
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f287974a8d3d0b0800000000000000
+      internalID: -5704978102024130778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_30
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6ecf37925be0270800000000000000
+      internalID: 8218705559641974455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_31
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d67d9a55732c8630800000000000000
+      internalID: 3930555561726015187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca137d476b594a390800000000000000
+      internalID: -7807951243076750932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_33
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a83e464a106d920800000000000000
+      internalID: 3014598806150023813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_34
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ed494daab512db0800000000000000
+      internalID: -4818469337040626129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_35
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7219973e3133020800000000000000
+      internalID: 2320220100743997357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_36
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a887c1e1d32dbb00800000000000000
+      internalID: 845871689358608544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_37
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e8fb2ae74b1b000800000000000000
+      internalID: 50019526867127924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_38
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b09a1ff8e16a850800000000000000
+      internalID: 6387826725055171469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_39
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdc59818c8336f00800000000000000
+      internalID: 1108792365320359373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_40
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1d0c2f48c203140800000000000000
+      internalID: 4697303360867455476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_41
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561c9f2982aba1ae0800000000000000
+      internalID: -1577744036012637851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_42
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e13676b2a074c40800000000000000
+      internalID: 5496373051763400253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_43
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4167a19c3fb95d0800000000000000
+      internalID: -3054579877182827357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_44
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beac6215d905d6630800000000000000
+      internalID: 3921879487111154411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_45
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59111e586bb30cd0800000000000000
+      internalID: -2593022903506101921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_46
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83cc1923d8ce1400800000000000000
+      internalID: 296895434706437005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_47
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e452fded85a1030800000000000000
+      internalID: 3466180577464766097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_48
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edba64c259022d30800000000000000
+      internalID: 4405093636609064418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_49
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fcb20d4fbec7d00800000000000000
+      internalID: 971911056302264214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_50
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bd0c46a3fb443c0800000000000000
+      internalID: -4376162680377910417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_51
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0953a2bccdc9ab00800000000000000
+      internalID: 840429084535380239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_52
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a482988b7682e5c60800000000000000
+      internalID: 7808723229849757770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_53
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1ed7bd8a6e93740800000000000000
+      internalID: 5132386863276745173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_54
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac154746d29f28670800000000000000
+      internalID: 8539661816802070986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_55
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a699b2203708dc0800000000000000
+      internalID: -3638782045756757365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_56
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8d1486005076950800000000000000
+      internalID: 6442123291284068605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_57
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f05d5cee56268460800000000000000
+      internalID: 7243519239806341368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_58
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5056a5f62b28240800000000000000
+      internalID: 4792589144803313113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_59
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89392243ac8fc070800000000000000
+      internalID: 8128870485244590479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_60
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5158997b753602f0800000000000000
+      internalID: -1007058662233452197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_61
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6a732ff6b4fefa0800000000000000
+      internalID: -5769309653461129567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_62
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8588c18c5227b82d0800000000000000
+      internalID: -3275398797385234344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_hickory_63
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f984ea6e707fff480800000000000000
+      internalID: -8863093928334833505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Idle_Plank_hickory_0: -4210769568782812328
+      Carrying_Idle_Plank_hickory_1: -7735266095589466516
+      Carrying_Idle_Plank_hickory_10: -7568831858252453353
+      Carrying_Idle_Plank_hickory_11: 7084504779000743934
+      Carrying_Idle_Plank_hickory_12: -5298109533814210023
+      Carrying_Idle_Plank_hickory_13: -7475306094865918221
+      Carrying_Idle_Plank_hickory_14: 2621238633462310143
+      Carrying_Idle_Plank_hickory_15: -200495842498472976
+      Carrying_Idle_Plank_hickory_16: 2524374245554134584
+      Carrying_Idle_Plank_hickory_17: -2636774800211068577
+      Carrying_Idle_Plank_hickory_18: 5499035850263277727
+      Carrying_Idle_Plank_hickory_19: 596756393766545903
+      Carrying_Idle_Plank_hickory_2: 2442460840583475280
+      Carrying_Idle_Plank_hickory_20: 6718103803866129369
+      Carrying_Idle_Plank_hickory_21: -7668013727541155703
+      Carrying_Idle_Plank_hickory_22: -6369050483812502911
+      Carrying_Idle_Plank_hickory_23: 6189933108684225041
+      Carrying_Idle_Plank_hickory_24: -9182093531598905961
+      Carrying_Idle_Plank_hickory_25: 5938654194550438709
+      Carrying_Idle_Plank_hickory_26: -2282997390118603896
+      Carrying_Idle_Plank_hickory_27: 3198858675320729724
+      Carrying_Idle_Plank_hickory_28: -6718145387416036919
+      Carrying_Idle_Plank_hickory_29: -5704978102024130778
+      Carrying_Idle_Plank_hickory_3: -4015553489192236350
+      Carrying_Idle_Plank_hickory_30: 8218705559641974455
+      Carrying_Idle_Plank_hickory_31: 3930555561726015187
+      Carrying_Idle_Plank_hickory_32: -7807951243076750932
+      Carrying_Idle_Plank_hickory_33: 3014598806150023813
+      Carrying_Idle_Plank_hickory_34: -4818469337040626129
+      Carrying_Idle_Plank_hickory_35: 2320220100743997357
+      Carrying_Idle_Plank_hickory_36: 845871689358608544
+      Carrying_Idle_Plank_hickory_37: 50019526867127924
+      Carrying_Idle_Plank_hickory_38: 6387826725055171469
+      Carrying_Idle_Plank_hickory_39: 1108792365320359373
+      Carrying_Idle_Plank_hickory_4: 4875395884421523903
+      Carrying_Idle_Plank_hickory_40: 4697303360867455476
+      Carrying_Idle_Plank_hickory_41: -1577744036012637851
+      Carrying_Idle_Plank_hickory_42: 5496373051763400253
+      Carrying_Idle_Plank_hickory_43: -3054579877182827357
+      Carrying_Idle_Plank_hickory_44: 3921879487111154411
+      Carrying_Idle_Plank_hickory_45: -2593022903506101921
+      Carrying_Idle_Plank_hickory_46: 296895434706437005
+      Carrying_Idle_Plank_hickory_47: 3466180577464766097
+      Carrying_Idle_Plank_hickory_48: 4405093636609064418
+      Carrying_Idle_Plank_hickory_49: 971911056302264214
+      Carrying_Idle_Plank_hickory_5: -8647544560412891646
+      Carrying_Idle_Plank_hickory_50: -4376162680377910417
+      Carrying_Idle_Plank_hickory_51: 840429084535380239
+      Carrying_Idle_Plank_hickory_52: 7808723229849757770
+      Carrying_Idle_Plank_hickory_53: 5132386863276745173
+      Carrying_Idle_Plank_hickory_54: 8539661816802070986
+      Carrying_Idle_Plank_hickory_55: -3638782045756757365
+      Carrying_Idle_Plank_hickory_56: 6442123291284068605
+      Carrying_Idle_Plank_hickory_57: 7243519239806341368
+      Carrying_Idle_Plank_hickory_58: 4792589144803313113
+      Carrying_Idle_Plank_hickory_59: 8128870485244590479
+      Carrying_Idle_Plank_hickory_6: -6504844453937611109
+      Carrying_Idle_Plank_hickory_60: -1007058662233452197
+      Carrying_Idle_Plank_hickory_61: -5769309653461129567
+      Carrying_Idle_Plank_hickory_62: -3275398797385234344
+      Carrying_Idle_Plank_hickory_63: -8863093928334833505
+      Carrying_Idle_Plank_hickory_7: -2086849429548122064
+      Carrying_Idle_Plank_hickory_8: -1093974389171476685
+      Carrying_Idle_Plank_hickory_9: 4754040894893751953
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

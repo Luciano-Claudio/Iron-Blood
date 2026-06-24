@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 7adff2580f24c3242b24cc0b536b7211
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 693543617966163731
+    second: Carrying_Dmg_Ores_coal_0
+  - first:
+      213: 4735196175777733148
+    second: Carrying_Dmg_Ores_coal_1
+  - first:
+      213: 488347777580963728
+    second: Carrying_Dmg_Ores_coal_2
+  - first:
+      213: 6245979015482216525
+    second: Carrying_Dmg_Ores_coal_3
+  - first:
+      213: 3496129143863613986
+    second: Carrying_Dmg_Ores_coal_4
+  - first:
+      213: -5539236349977071909
+    second: Carrying_Dmg_Ores_coal_5
+  - first:
+      213: 4222521939356753267
+    second: Carrying_Dmg_Ores_coal_6
+  - first:
+      213: -9174315497001124087
+    second: Carrying_Dmg_Ores_coal_7
+  - first:
+      213: 6034437490266821332
+    second: Carrying_Dmg_Ores_coal_8
+  - first:
+      213: -1760870254422840686
+    second: Carrying_Dmg_Ores_coal_9
+  - first:
+      213: 8475518317977411352
+    second: Carrying_Dmg_Ores_coal_10
+  - first:
+      213: 1019878313308489686
+    second: Carrying_Dmg_Ores_coal_11
+  - first:
+      213: 2165855106781186620
+    second: Carrying_Dmg_Ores_coal_12
+  - first:
+      213: 3734064283752383532
+    second: Carrying_Dmg_Ores_coal_13
+  - first:
+      213: 3000570813085124632
+    second: Carrying_Dmg_Ores_coal_14
+  - first:
+      213: -7140162517075488093
+    second: Carrying_Dmg_Ores_coal_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_coal_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 115
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317cc19fe36ff9900800000000000000
+      internalID: 693543617966163731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_coal_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 115
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a150f65dbc6b140800000000000000
+      internalID: 4735196175777733148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_coal_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 114
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097909167b5f6c600800000000000000
+      internalID: 488347777580963728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_coal_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 115
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d409c5c62dc2ea650800000000000000
+      internalID: 6245979015482216525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_coal_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 83
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a91ecdeeeb48030800000000000000
+      internalID: 3496129143863613986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_coal_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 83
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde6fa843eda023b0800000000000000
+      internalID: -5539236349977071909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_coal_6
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 82
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d17abf459699a30800000000000000
+      internalID: 4222521939356753267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_coal_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 83
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ff2efb9a84ea080800000000000000
+      internalID: -9174315497001124087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_coal_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 51
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d257a2fce0aeb350800000000000000
+      internalID: 6034437490266821332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_coal_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 51
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a239545d12097e0800000000000000
+      internalID: -1760870254422840686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_coal_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 50
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f1c5641071f9570800000000000000
+      internalID: 8475518317977411352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_coal_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 51
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d780e22ce5572e00800000000000000
+      internalID: 1019878313308489686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_coal_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 19
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a88a29eb9ae0e10800000000000000
+      internalID: 2165855106781186620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_coal_13
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 19
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24c881aeaf02d330800000000000000
+      internalID: 3734064283752383532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_coal_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 18
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818085db14b24a920800000000000000
+      internalID: 3000570813085124632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_coal_15
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 19
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2182b550c09ec90800000000000000
+      internalID: -7140162517075488093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Dmg_Ores_coal_0: 693543617966163731
+      Carrying_Dmg_Ores_coal_1: 4735196175777733148
+      Carrying_Dmg_Ores_coal_10: 8475518317977411352
+      Carrying_Dmg_Ores_coal_11: 1019878313308489686
+      Carrying_Dmg_Ores_coal_12: 2165855106781186620
+      Carrying_Dmg_Ores_coal_13: 3734064283752383532
+      Carrying_Dmg_Ores_coal_14: 3000570813085124632
+      Carrying_Dmg_Ores_coal_15: -7140162517075488093
+      Carrying_Dmg_Ores_coal_2: 488347777580963728
+      Carrying_Dmg_Ores_coal_3: 6245979015482216525
+      Carrying_Dmg_Ores_coal_4: 3496129143863613986
+      Carrying_Dmg_Ores_coal_5: -5539236349977071909
+      Carrying_Dmg_Ores_coal_6: 4222521939356753267
+      Carrying_Dmg_Ores_coal_7: -9174315497001124087
+      Carrying_Dmg_Ores_coal_8: 6034437490266821332
+      Carrying_Dmg_Ores_coal_9: -1760870254422840686
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

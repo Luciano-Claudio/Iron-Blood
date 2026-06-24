@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 85ce704ff0a43a3418810b54e38f0ed4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3039516651637994976
+    second: Carrying_Dmg_Plank_willow_0
+  - first:
+      213: 5613903155801489598
+    second: Carrying_Dmg_Plank_willow_1
+  - first:
+      213: -7587012359884783264
+    second: Carrying_Dmg_Plank_willow_2
+  - first:
+      213: -8266626664215925382
+    second: Carrying_Dmg_Plank_willow_3
+  - first:
+      213: -7566091725837913558
+    second: Carrying_Dmg_Plank_willow_4
+  - first:
+      213: 2006071621023848420
+    second: Carrying_Dmg_Plank_willow_5
+  - first:
+      213: -2271229722412262560
+    second: Carrying_Dmg_Plank_willow_6
+  - first:
+      213: -8855111986509222802
+    second: Carrying_Dmg_Plank_willow_7
+  - first:
+      213: -601399434506310209
+    second: Carrying_Dmg_Plank_willow_8
+  - first:
+      213: -6792506755237786174
+    second: Carrying_Dmg_Plank_willow_9
+  - first:
+      213: 7634059195538229955
+    second: Carrying_Dmg_Plank_willow_10
+  - first:
+      213: -6827848075198925653
+    second: Carrying_Dmg_Plank_willow_11
+  - first:
+      213: -6950506213508701970
+    second: Carrying_Dmg_Plank_willow_12
+  - first:
+      213: 2867911198383319839
+    second: Carrying_Dmg_Plank_willow_13
+  - first:
+      213: -2300540218710860666
+    second: Carrying_Dmg_Plank_willow_14
+  - first:
+      213: 3677718869662672134
+    second: Carrying_Dmg_Plank_willow_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Dmg_Plank_willow_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 115
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e574c56a488e2a20800000000000000
+      internalID: 3039516651637994976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Plank_willow_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 115
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb00efc2d2798ed40800000000000000
+      internalID: 5613903155801489598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Plank_willow_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061c196d47485b690800000000000000
+      internalID: -7587012359884783264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Plank_willow_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d23ace8da074d80800000000000000
+      internalID: -8266626664215925382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Plank_willow_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 83
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22b86789a7dff690800000000000000
+      internalID: -7566091725837913558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Plank_willow_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 83
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e75e1db28ff6db10800000000000000
+      internalID: 2006071621023848420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Plank_willow_6
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06bde48d998fa70e0800000000000000
+      internalID: -2271229722412262560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Plank_willow_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c60dd80925c1580800000000000000
+      internalID: -8855111986509222802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Plank_willow_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 51
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd6122966667a7f0800000000000000
+      internalID: -601399434506310209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Plank_willow_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 51
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd4c97281b2cb1a0800000000000000
+      internalID: -6792506755237786174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Plank_willow_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca4c503460a1f960800000000000000
+      internalID: 7634059195538229955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Plank_willow_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4fe61e95c9e31a0800000000000000
+      internalID: -6827848075198925653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Plank_willow_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 19
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee02ba69c67da8f90800000000000000
+      internalID: -6950506213508701970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Plank_willow_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 19
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ba0034a0edcc720800000000000000
+      internalID: 2867911198383319839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Plank_willow_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c5d302cd6d210e0800000000000000
+      internalID: -2300540218710860666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Plank_willow_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605aef993d1e90330800000000000000
+      internalID: 3677718869662672134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Dmg_Plank_willow_0: 3039516651637994976
+      Carrying_Dmg_Plank_willow_1: 5613903155801489598
+      Carrying_Dmg_Plank_willow_10: 7634059195538229955
+      Carrying_Dmg_Plank_willow_11: -6827848075198925653
+      Carrying_Dmg_Plank_willow_12: -6950506213508701970
+      Carrying_Dmg_Plank_willow_13: 2867911198383319839
+      Carrying_Dmg_Plank_willow_14: -2300540218710860666
+      Carrying_Dmg_Plank_willow_15: 3677718869662672134
+      Carrying_Dmg_Plank_willow_2: -7587012359884783264
+      Carrying_Dmg_Plank_willow_3: -8266626664215925382
+      Carrying_Dmg_Plank_willow_4: -7566091725837913558
+      Carrying_Dmg_Plank_willow_5: 2006071621023848420
+      Carrying_Dmg_Plank_willow_6: -2271229722412262560
+      Carrying_Dmg_Plank_willow_7: -8855111986509222802
+      Carrying_Dmg_Plank_willow_8: -601399434506310209
+      Carrying_Dmg_Plank_willow_9: -6792506755237786174
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

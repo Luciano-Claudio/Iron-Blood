@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: c61657eab2945ef42ba4500863bf7461
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3560498100340242695
+    second: FletcherWorkshop_halfling_0
+  - first:
+      213: 2425412676190821858
+    second: FletcherWorkshop_halfling_1
+  - first:
+      213: -1699461808407655749
+    second: FletcherWorkshop_halfling_2
+  - first:
+      213: 6612573545981932031
+    second: FletcherWorkshop_halfling_3
+  - first:
+      213: -8638750347760077082
+    second: FletcherWorkshop_halfling_4
+  - first:
+      213: -4375260154897751235
+    second: FletcherWorkshop_halfling_5
+  - first:
+      213: 5391791479952956433
+    second: FletcherWorkshop_halfling_6
+  - first:
+      213: 6145824594697176032
+    second: FletcherWorkshop_halfling_7
+  - first:
+      213: -7907513386900293129
+    second: FletcherWorkshop_halfling_8
+  - first:
+      213: 845775083462097933
+    second: FletcherWorkshop_halfling_9
+  - first:
+      213: -2998671533342267270
+    second: FletcherWorkshop_halfling_10
+  - first:
+      213: -4328481510898898440
+    second: FletcherWorkshop_halfling_11
+  - first:
+      213: 2359717760141893795
+    second: FletcherWorkshop_halfling_12
+  - first:
+      213: -702985677717817058
+    second: FletcherWorkshop_halfling_13
+  - first:
+      213: -3739805702974758910
+    second: FletcherWorkshop_halfling_14
+  - first:
+      213: 1259457582351661311
+    second: FletcherWorkshop_halfling_15
+  - first:
+      213: -9182257154172524704
+    second: FletcherWorkshop_halfling_16
+  - first:
+      213: -2257162467066409241
+    second: FletcherWorkshop_halfling_17
+  - first:
+      213: -6027699482668529062
+    second: FletcherWorkshop_halfling_18
+  - first:
+      213: -6413545705538015930
+    second: FletcherWorkshop_halfling_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FletcherWorkshop_halfling_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709bb3e682e696130800000000000000
+      internalID: 3560498100340242695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_halfling_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed55168afbc8a120800000000000000
+      internalID: 2425412676190821858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_halfling_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbac4884d7c4a68e0800000000000000
+      internalID: -1699461808407655749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_halfling_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 14
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1f56bea9494cb50800000000000000
+      internalID: 6612573545981932031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_halfling_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 14
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e67a7a245efc1880800000000000000
+      internalID: -8638750347760077082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_halfling_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 14
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33266bf114f743c0800000000000000
+      internalID: -4375260154897751235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_halfling_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 14
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11cd299b8cd73da40800000000000000
+      internalID: 5391791479952956433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_halfling_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 14
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3c8ca28ea5a4550800000000000000
+      internalID: 6145824594697176032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_halfling_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9792d687ed24290800000000000000
+      internalID: -7907513386900293129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_halfling_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c72a115fbccbb00800000000000000
+      internalID: 845775083462097933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_halfling_10
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78ee09c0249266d0800000000000000
+      internalID: -2998671533342267270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_halfling_11
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 14
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f96606cff42ee3c0800000000000000
+      internalID: -4328481510898898440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_halfling_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 14
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0207fecc66fb020800000000000000
+      internalID: 2359717760141893795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_halfling_13
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 14
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19317d204e7e36f0800000000000000
+      internalID: -702985677717817058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_halfling_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 14
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200a539078a891cc0800000000000000
+      internalID: -3739805702974758910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_halfling_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff83ebd8ffd7a7110800000000000000
+      internalID: 1259457582351661311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_halfling_16
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 13
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067e14994c1129080800000000000000
+      internalID: -9182257154172524704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_halfling_17
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee8926f1b2fca0e0800000000000000
+      internalID: -2257162467066409241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_halfling_18
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 14
+        width: 40
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a8cb2b14f495ca0800000000000000
+      internalID: -6027699482668529062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_halfling_19
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64daca649228ef6a0800000000000000
+      internalID: -6413545705538015930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FletcherWorkshop_halfling_0: 3560498100340242695
+      FletcherWorkshop_halfling_1: 2425412676190821858
+      FletcherWorkshop_halfling_10: -2998671533342267270
+      FletcherWorkshop_halfling_11: -4328481510898898440
+      FletcherWorkshop_halfling_12: 2359717760141893795
+      FletcherWorkshop_halfling_13: -702985677717817058
+      FletcherWorkshop_halfling_14: -3739805702974758910
+      FletcherWorkshop_halfling_15: 1259457582351661311
+      FletcherWorkshop_halfling_16: -9182257154172524704
+      FletcherWorkshop_halfling_17: -2257162467066409241
+      FletcherWorkshop_halfling_18: -6027699482668529062
+      FletcherWorkshop_halfling_19: -6413545705538015930
+      FletcherWorkshop_halfling_2: -1699461808407655749
+      FletcherWorkshop_halfling_3: 6612573545981932031
+      FletcherWorkshop_halfling_4: -8638750347760077082
+      FletcherWorkshop_halfling_5: -4375260154897751235
+      FletcherWorkshop_halfling_6: 5391791479952956433
+      FletcherWorkshop_halfling_7: 6145824594697176032
+      FletcherWorkshop_halfling_8: -7907513386900293129
+      FletcherWorkshop_halfling_9: 845775083462097933
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

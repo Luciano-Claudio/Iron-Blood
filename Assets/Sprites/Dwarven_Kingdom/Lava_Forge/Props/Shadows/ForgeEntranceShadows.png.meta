@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 2747a626c60c3d14c865f8c7e4fda61e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5840095856801745504
+    second: ForgeEntranceShadows_0
+  - first:
+      213: -8397582362265624043
+    second: ForgeEntranceShadows_1
+  - first:
+      213: -6646020354095819082
+    second: ForgeEntranceShadows_2
+  - first:
+      213: -5374846870102354315
+    second: ForgeEntranceShadows_3
+  - first:
+      213: -1408978127758405188
+    second: ForgeEntranceShadows_4
+  - first:
+      213: 522174121296266078
+    second: ForgeEntranceShadows_5
+  - first:
+      213: -4544867714256779199
+    second: ForgeEntranceShadows_6
+  - first:
+      213: 4469490304328914812
+    second: ForgeEntranceShadows_7
+  - first:
+      213: 610948500159700279
+    second: ForgeEntranceShadows_8
+  - first:
+      213: -5273565212630868334
+    second: ForgeEntranceShadows_9
+  - first:
+      213: 8247706794831098543
+    second: ForgeEntranceShadows_10
+  - first:
+      213: 146678060375567408
+    second: ForgeEntranceShadows_11
+  - first:
+      213: -6534158985554691649
+    second: ForgeEntranceShadows_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ForgeEntranceShadows_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 199
+        width: 52
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5f919a2cfc3fea0800000000000000
+      internalID: -5840095856801745504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgeEntranceShadows_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 189
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5126215755bc57b80800000000000000
+      internalID: -8397582362265624043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgeEntranceShadows_2
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 199
+        width: 52
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b65a1833b794c3a0800000000000000
+      internalID: -6646020354095819082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgeEntranceShadows_3
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 189
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576dd61bf35b865b0800000000000000
+      internalID: -5374846870102354315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgeEntranceShadows_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 179
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb15aae9bdd427ce0800000000000000
+      internalID: -1408978127758405188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgeEntranceShadows_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 119
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5304c2c8922f3700800000000000000
+      internalID: 522174121296266078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgeEntranceShadows_6
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 179
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1484594c4e26de0c0800000000000000
+      internalID: -4544867714256779199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgeEntranceShadows_7
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 119
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77d39c50c1d60e30800000000000000
+      internalID: 4469490304328914812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgeEntranceShadows_8
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 139
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d93188c668a7800800000000000000
+      internalID: 610948500159700279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgeEntranceShadows_9
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 119
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e9741316880d6b0800000000000000
+      internalID: -5273565212630868334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgeEntranceShadows_10
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 79
+        width: 12
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2bb75b1adb57270800000000000000
+      internalID: 8247706794831098543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgeEntranceShadows_11
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 119
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c67053bea190200800000000000000
+      internalID: 146678060375567408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgeEntranceShadows_12
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 139
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9f518a5010255a0800000000000000
+      internalID: -6534158985554691649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ForgeEntranceShadows_0: -5840095856801745504
+      ForgeEntranceShadows_1: -8397582362265624043
+      ForgeEntranceShadows_10: 8247706794831098543
+      ForgeEntranceShadows_11: 146678060375567408
+      ForgeEntranceShadows_12: -6534158985554691649
+      ForgeEntranceShadows_2: -6646020354095819082
+      ForgeEntranceShadows_3: -5374846870102354315
+      ForgeEntranceShadows_4: -1408978127758405188
+      ForgeEntranceShadows_5: 522174121296266078
+      ForgeEntranceShadows_6: -4544867714256779199
+      ForgeEntranceShadows_7: 4469490304328914812
+      ForgeEntranceShadows_8: 610948500159700279
+      ForgeEntranceShadows_9: -5273565212630868334
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

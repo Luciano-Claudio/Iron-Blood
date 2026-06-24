@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: b632f2295a2925f44b729b836adc3740
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6329724104551625901
+    second: Carrying_Dmg_Wood_willow_0
+  - first:
+      213: 6579850179856815111
+    second: Carrying_Dmg_Wood_willow_1
+  - first:
+      213: -5876724124940977284
+    second: Carrying_Dmg_Wood_willow_2
+  - first:
+      213: 1957374821541664359
+    second: Carrying_Dmg_Wood_willow_3
+  - first:
+      213: -2434643492211315381
+    second: Carrying_Dmg_Wood_willow_4
+  - first:
+      213: 3398678414505426466
+    second: Carrying_Dmg_Wood_willow_5
+  - first:
+      213: 6382842549739438555
+    second: Carrying_Dmg_Wood_willow_6
+  - first:
+      213: 4169881831563928874
+    second: Carrying_Dmg_Wood_willow_7
+  - first:
+      213: 8103019117469531922
+    second: Carrying_Dmg_Wood_willow_8
+  - first:
+      213: -4690320973155679219
+    second: Carrying_Dmg_Wood_willow_9
+  - first:
+      213: 7416068853408615182
+    second: Carrying_Dmg_Wood_willow_10
+  - first:
+      213: 7547467140948751698
+    second: Carrying_Dmg_Wood_willow_11
+  - first:
+      213: -602689568939798178
+    second: Carrying_Dmg_Wood_willow_12
+  - first:
+      213: -4234695658723322316
+    second: Carrying_Dmg_Wood_willow_13
+  - first:
+      213: 6327658561088579245
+    second: Carrying_Dmg_Wood_willow_14
+  - first:
+      213: 888492765181723384
+    second: Carrying_Dmg_Wood_willow_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_willow_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 116
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b09f5967d4828a0800000000000000
+      internalID: -6329724104551625901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_willow_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 116
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704d7a580e2505b50800000000000000
+      internalID: 6579850179856815111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_willow_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 115
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bbce96b8ea17ea0800000000000000
+      internalID: -5876724124940977284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_willow_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 115
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766d842970ef92b10800000000000000
+      internalID: 1957374821541664359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_willow_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 84
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d2704a4a8663ed0800000000000000
+      internalID: -2434643492211315381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_willow_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 84
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e3262d2088a2f20800000000000000
+      internalID: 3398678414505426466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_willow_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 83
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1c7723b79649850800000000000000
+      internalID: 6382842549739438555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_willow_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 83
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2529bdce656ed930800000000000000
+      internalID: 4169881831563928874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_willow_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 52
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f78f8a4f4b37070800000000000000
+      internalID: 8103019117469531922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_willow_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 52
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04cd70ece1a8eeb0800000000000000
+      internalID: -4690320973155679219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_willow_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 51
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b4245845b2be660800000000000000
+      internalID: 7416068853408615182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_willow_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 51
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255fe22606dfdb860800000000000000
+      internalID: 7547467140948751698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_willow_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 20
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51928db701d2a7f0800000000000000
+      internalID: -602689568939798178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_willow_13
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 20
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43658e91cb65b35c0800000000000000
+      internalID: -4234695658723322316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_willow_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 19
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6e4a99feb50d750800000000000000
+      internalID: 6327658561088579245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_willow_15
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 19
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f24926667f845c00800000000000000
+      internalID: 888492765181723384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Dmg_Wood_willow_0: -6329724104551625901
+      Carrying_Dmg_Wood_willow_1: 6579850179856815111
+      Carrying_Dmg_Wood_willow_10: 7416068853408615182
+      Carrying_Dmg_Wood_willow_11: 7547467140948751698
+      Carrying_Dmg_Wood_willow_12: -602689568939798178
+      Carrying_Dmg_Wood_willow_13: -4234695658723322316
+      Carrying_Dmg_Wood_willow_14: 6327658561088579245
+      Carrying_Dmg_Wood_willow_15: 888492765181723384
+      Carrying_Dmg_Wood_willow_2: -5876724124940977284
+      Carrying_Dmg_Wood_willow_3: 1957374821541664359
+      Carrying_Dmg_Wood_willow_4: -2434643492211315381
+      Carrying_Dmg_Wood_willow_5: 3398678414505426466
+      Carrying_Dmg_Wood_willow_6: 6382842549739438555
+      Carrying_Dmg_Wood_willow_7: 4169881831563928874
+      Carrying_Dmg_Wood_willow_8: 8103019117469531922
+      Carrying_Dmg_Wood_willow_9: -4690320973155679219
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

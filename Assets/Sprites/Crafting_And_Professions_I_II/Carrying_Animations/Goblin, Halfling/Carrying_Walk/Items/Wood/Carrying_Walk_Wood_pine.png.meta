@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 2bb0f6f430d0a9c409af2c573ae3c20d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5833927572925523530
+    second: Carrying_Walk_Wood_pine_0
+  - first:
+      213: 4834009904524332026
+    second: Carrying_Walk_Wood_pine_1
+  - first:
+      213: -1407353375579168680
+    second: Carrying_Walk_Wood_pine_2
+  - first:
+      213: -7898442992191472262
+    second: Carrying_Walk_Wood_pine_3
+  - first:
+      213: -7519482795109131980
+    second: Carrying_Walk_Wood_pine_4
+  - first:
+      213: -6433206596186350782
+    second: Carrying_Walk_Wood_pine_5
+  - first:
+      213: -5312881423516782631
+    second: Carrying_Walk_Wood_pine_6
+  - first:
+      213: 568585247918478349
+    second: Carrying_Walk_Wood_pine_7
+  - first:
+      213: 7702786925048410185
+    second: Carrying_Walk_Wood_pine_8
+  - first:
+      213: -3898150793216111457
+    second: Carrying_Walk_Wood_pine_9
+  - first:
+      213: -2714973732088232289
+    second: Carrying_Walk_Wood_pine_10
+  - first:
+      213: 7316227582868745243
+    second: Carrying_Walk_Wood_pine_11
+  - first:
+      213: 4297285344554976048
+    second: Carrying_Walk_Wood_pine_12
+  - first:
+      213: 2461184794764996706
+    second: Carrying_Walk_Wood_pine_13
+  - first:
+      213: 8622788997181819742
+    second: Carrying_Walk_Wood_pine_14
+  - first:
+      213: -5432577874048576683
+    second: Carrying_Walk_Wood_pine_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_pine_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 115
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a462595d73646f050800000000000000
+      internalID: 5833927572925523530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_pine_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb84ef756ad51340800000000000000
+      internalID: 4834009904524332026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_pine_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 115
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8502827bf83187ce0800000000000000
+      internalID: -1407353375579168680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_pine_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7df0c342f7136290800000000000000
+      internalID: -7898442992191472262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_pine_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 83
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439dbdedc3e65a790800000000000000
+      internalID: -7519482795109131980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_pine_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24bdc937fa8a8b6a0800000000000000
+      internalID: -6433206596186350782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_pine_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 83
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfa2818e7ad446b0800000000000000
+      internalID: -5312881423516782631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_pine_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0455be354504e700800000000000000
+      internalID: 568585247918478349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_pine_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 51
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940b800b5ebc5ea60800000000000000
+      internalID: 7702786925048410185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_pine_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c4271c18cf6e9c0800000000000000
+      internalID: -3898150793216111457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_pine_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 51
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f964d5476c9725ad0800000000000000
+      internalID: -2714973732088232289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_pine_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c6ecc3936788560800000000000000
+      internalID: 7316227582868745243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_pine_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 19
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03301bcb04603ab30800000000000000
+      internalID: 4297285344554976048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_pine_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2607f8ae782e72220800000000000000
+      internalID: 2461184794764996706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_pine_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 19
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b4b2e48ec4aa770800000000000000
+      internalID: 8622788997181819742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Wood_pine_15
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55310b2e43b9b94b0800000000000000
+      internalID: -5432577874048576683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Walk_Wood_pine_0: 5833927572925523530
+      Carrying_Walk_Wood_pine_1: 4834009904524332026
+      Carrying_Walk_Wood_pine_10: -2714973732088232289
+      Carrying_Walk_Wood_pine_11: 7316227582868745243
+      Carrying_Walk_Wood_pine_12: 4297285344554976048
+      Carrying_Walk_Wood_pine_13: 2461184794764996706
+      Carrying_Walk_Wood_pine_14: 8622788997181819742
+      Carrying_Walk_Wood_pine_15: -5432577874048576683
+      Carrying_Walk_Wood_pine_2: -1407353375579168680
+      Carrying_Walk_Wood_pine_3: -7898442992191472262
+      Carrying_Walk_Wood_pine_4: -7519482795109131980
+      Carrying_Walk_Wood_pine_5: -6433206596186350782
+      Carrying_Walk_Wood_pine_6: -5312881423516782631
+      Carrying_Walk_Wood_pine_7: 568585247918478349
+      Carrying_Walk_Wood_pine_8: 7702786925048410185
+      Carrying_Walk_Wood_pine_9: -3898150793216111457
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

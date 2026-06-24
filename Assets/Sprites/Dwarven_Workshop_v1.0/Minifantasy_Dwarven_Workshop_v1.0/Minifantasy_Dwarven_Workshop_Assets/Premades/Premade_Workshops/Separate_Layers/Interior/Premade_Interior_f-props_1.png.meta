@@ -1,0 +1,1313 @@
+fileFormatVersion: 2
+guid: 7a614e2c048d86c489d401039f6e19e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7348849208519280995
+    second: Premade_Interior_f-props_1_0
+  - first:
+      213: 4830921243464210217
+    second: Premade_Interior_f-props_1_1
+  - first:
+      213: -1980471879087080149
+    second: Premade_Interior_f-props_1_2
+  - first:
+      213: -6031250601138217640
+    second: Premade_Interior_f-props_1_3
+  - first:
+      213: 1998519135331189816
+    second: Premade_Interior_f-props_1_4
+  - first:
+      213: -6328044194789742387
+    second: Premade_Interior_f-props_1_5
+  - first:
+      213: -154114929219603588
+    second: Premade_Interior_f-props_1_6
+  - first:
+      213: 8049943071328544278
+    second: Premade_Interior_f-props_1_7
+  - first:
+      213: -5038300809941867599
+    second: Premade_Interior_f-props_1_8
+  - first:
+      213: 2743772863104834333
+    second: Premade_Interior_f-props_1_9
+  - first:
+      213: 2496995959424412406
+    second: Premade_Interior_f-props_1_10
+  - first:
+      213: 8627330163204735876
+    second: Premade_Interior_f-props_1_11
+  - first:
+      213: 6195483671039936698
+    second: Premade_Interior_f-props_1_12
+  - first:
+      213: -2446770922285506764
+    second: Premade_Interior_f-props_1_13
+  - first:
+      213: -5164757154719096933
+    second: Premade_Interior_f-props_1_14
+  - first:
+      213: -1907357739032301091
+    second: Premade_Interior_f-props_1_15
+  - first:
+      213: -3376238182880533083
+    second: Premade_Interior_f-props_1_16
+  - first:
+      213: 7620130354534232947
+    second: Premade_Interior_f-props_1_17
+  - first:
+      213: -6207590067858851613
+    second: Premade_Interior_f-props_1_18
+  - first:
+      213: -5506191252531263192
+    second: Premade_Interior_f-props_1_19
+  - first:
+      213: 3180496476785884550
+    second: Premade_Interior_f-props_1_20
+  - first:
+      213: -8188087297069843838
+    second: Premade_Interior_f-props_1_21
+  - first:
+      213: -9017279977282817377
+    second: Premade_Interior_f-props_1_22
+  - first:
+      213: -8395882811355625693
+    second: Premade_Interior_f-props_1_23
+  - first:
+      213: 7804239935468964059
+    second: Premade_Interior_f-props_1_24
+  - first:
+      213: -4676085894039607400
+    second: Premade_Interior_f-props_1_25
+  - first:
+      213: 5497565169442532082
+    second: Premade_Interior_f-props_1_26
+  - first:
+      213: -6336554533888109395
+    second: Premade_Interior_f-props_1_27
+  - first:
+      213: 239354025784061927
+    second: Premade_Interior_f-props_1_28
+  - first:
+      213: 3728183995240992721
+    second: Premade_Interior_f-props_1_29
+  - first:
+      213: -4504363470740692670
+    second: Premade_Interior_f-props_1_30
+  - first:
+      213: 5128620041487491007
+    second: Premade_Interior_f-props_1_31
+  - first:
+      213: 138751072861831650
+    second: Premade_Interior_f-props_1_32
+  - first:
+      213: 6339023611552059851
+    second: Premade_Interior_f-props_1_33
+  - first:
+      213: -5206662473064041444
+    second: Premade_Interior_f-props_1_34
+  - first:
+      213: 6997655389507609947
+    second: Premade_Interior_f-props_1_35
+  - first:
+      213: 3888234788161344084
+    second: Premade_Interior_f-props_1_36
+  - first:
+      213: 572729612652483344
+    second: Premade_Interior_f-props_1_37
+  - first:
+      213: -6182975044716351112
+    second: Premade_Interior_f-props_1_38
+  - first:
+      213: 5107556157046199968
+    second: Premade_Interior_f-props_1_39
+  - first:
+      213: -4424035050965142169
+    second: Premade_Interior_f-props_1_40
+  - first:
+      213: -1571429030067480775
+    second: Premade_Interior_f-props_1_41
+  - first:
+      213: -7812163766535163670
+    second: Premade_Interior_f-props_1_42
+  - first:
+      213: 6481733377158718378
+    second: Premade_Interior_f-props_1_43
+  - first:
+      213: 1977620066339797809
+    second: Premade_Interior_f-props_1_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_0
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 520
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d963c4aa494a30a90800000000000000
+      internalID: -7348849208519280995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_1
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 566
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927929e8641ea0340800000000000000
+      internalID: 4830921243464210217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_2
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 566
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d3d57a153f384e0800000000000000
+      internalID: -1980471879087080149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_3
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 551
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d9bcf7881bc4ca0800000000000000
+      internalID: -6031250601138217640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_4
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 545
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8348c32a09a2cbb10800000000000000
+      internalID: 1998519135331189816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_5
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 535
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8a59e05554e28a0800000000000000
+      internalID: -6328044194789742387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_6
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 513
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73f745d9497cddf0800000000000000
+      internalID: -154114929219603588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_7
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 513
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616a7aca29427bf60800000000000000
+      internalID: 8049943071328544278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_8
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 530
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b32adf7b1c541ab0800000000000000
+      internalID: -5038300809941867599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_9
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 539
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b58b1c1e6d31620800000000000000
+      internalID: 2743772863104834333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_10
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 523
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fae31f689c17a220800000000000000
+      internalID: 2496995959424412406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_11
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 503
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483c4d9e21f6ab770800000000000000
+      internalID: 8627330163204735876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_12
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 506
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab88110e297caf550800000000000000
+      internalID: 6195483671039936698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_13
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 479
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fda6a4fc25b0ed0800000000000000
+      internalID: -2446770922285506764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_14
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 479
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f9fc95bb81358b0800000000000000
+      internalID: -5164757154719096933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_15
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 304
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd13361fd34b785e0800000000000000
+      internalID: -1907357739032301091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_16
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 350
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5ab40c2413521d0800000000000000
+      internalID: -3376238182880533083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_17
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 350
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3733f2c2f2420c960800000000000000
+      internalID: 7620130354534232947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_18
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 335
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8b706f8b53ad9a0800000000000000
+      internalID: -6207590067858851613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_19
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 329
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829c2879a341693b0800000000000000
+      internalID: -5506191252531263192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_20
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 319
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d3434d1b4632c20800000000000000
+      internalID: 3180496476785884550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_21
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 297
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a73445cf11e5e80800000000000000
+      internalID: -8188087297069843838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_22
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 297
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92b0d1e2af2cd280800000000000000
+      internalID: -9017279977282817377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_23
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 314
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327075df015db7b80800000000000000
+      internalID: -8395882811355625693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_24
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 323
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd88b876fda3e4c60800000000000000
+      internalID: 7804239935468964059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_25
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 307
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897ed8287a43b1fb0800000000000000
+      internalID: -4676085894039607400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_26
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 287
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2faae2ee4664b4c40800000000000000
+      internalID: 5497565169442532082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_27
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 290
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da455b359390018a0800000000000000
+      internalID: -6336554533888109395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_28
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 263
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef2b62e73b525300800000000000000
+      internalID: 239354025784061927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_29
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 263
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfc2a5479b2db330800000000000000
+      internalID: 3728183995240992721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_30
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 88
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241614bd9494d71c0800000000000000
+      internalID: -4504363470740692670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_31
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 134
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf9fc051c48c2740800000000000000
+      internalID: 5128620041487491007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_32
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 134
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1422a9d51fce100800000000000000
+      internalID: 138751072861831650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_33
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 119
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1df5d936cb8f750800000000000000
+      internalID: 6339023611552059851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_34
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 113
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1439ab11183eb7b0800000000000000
+      internalID: -5206662473064041444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_35
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 103
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55e238608aac1160800000000000000
+      internalID: 6997655389507609947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_36
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 81
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4525ca760f8c5f530800000000000000
+      internalID: 3888234788161344084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_37
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 81
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0139f7a5c8eb2f700800000000000000
+      internalID: 572729612652483344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_38
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 98
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871b394a4f8a13aa0800000000000000
+      internalID: -6182975044716351112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_39
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 107
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6191b834fa1e640800000000000000
+      internalID: 5107556157046199968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_40
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 91
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76578598f8baa92c0800000000000000
+      internalID: -4424035050965142169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_41
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 71
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93757197f99213ae0800000000000000
+      internalID: -1571429030067480775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_42
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 74
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae07e78e17e959390800000000000000
+      internalID: -7812163766535163670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_43
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 47
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3a6523a2eb3f950800000000000000
+      internalID: 6481733377158718378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_f-props_1_44
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 47
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b3ed2f8fae17b10800000000000000
+      internalID: 1977620066339797809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Premade_Interior_f-props_1_0: -7348849208519280995
+      Premade_Interior_f-props_1_1: 4830921243464210217
+      Premade_Interior_f-props_1_10: 2496995959424412406
+      Premade_Interior_f-props_1_11: 8627330163204735876
+      Premade_Interior_f-props_1_12: 6195483671039936698
+      Premade_Interior_f-props_1_13: -2446770922285506764
+      Premade_Interior_f-props_1_14: -5164757154719096933
+      Premade_Interior_f-props_1_15: -1907357739032301091
+      Premade_Interior_f-props_1_16: -3376238182880533083
+      Premade_Interior_f-props_1_17: 7620130354534232947
+      Premade_Interior_f-props_1_18: -6207590067858851613
+      Premade_Interior_f-props_1_19: -5506191252531263192
+      Premade_Interior_f-props_1_2: -1980471879087080149
+      Premade_Interior_f-props_1_20: 3180496476785884550
+      Premade_Interior_f-props_1_21: -8188087297069843838
+      Premade_Interior_f-props_1_22: -9017279977282817377
+      Premade_Interior_f-props_1_23: -8395882811355625693
+      Premade_Interior_f-props_1_24: 7804239935468964059
+      Premade_Interior_f-props_1_25: -4676085894039607400
+      Premade_Interior_f-props_1_26: 5497565169442532082
+      Premade_Interior_f-props_1_27: -6336554533888109395
+      Premade_Interior_f-props_1_28: 239354025784061927
+      Premade_Interior_f-props_1_29: 3728183995240992721
+      Premade_Interior_f-props_1_3: -6031250601138217640
+      Premade_Interior_f-props_1_30: -4504363470740692670
+      Premade_Interior_f-props_1_31: 5128620041487491007
+      Premade_Interior_f-props_1_32: 138751072861831650
+      Premade_Interior_f-props_1_33: 6339023611552059851
+      Premade_Interior_f-props_1_34: -5206662473064041444
+      Premade_Interior_f-props_1_35: 6997655389507609947
+      Premade_Interior_f-props_1_36: 3888234788161344084
+      Premade_Interior_f-props_1_37: 572729612652483344
+      Premade_Interior_f-props_1_38: -6182975044716351112
+      Premade_Interior_f-props_1_39: 5107556157046199968
+      Premade_Interior_f-props_1_4: 1998519135331189816
+      Premade_Interior_f-props_1_40: -4424035050965142169
+      Premade_Interior_f-props_1_41: -1571429030067480775
+      Premade_Interior_f-props_1_42: -7812163766535163670
+      Premade_Interior_f-props_1_43: 6481733377158718378
+      Premade_Interior_f-props_1_44: 1977620066339797809
+      Premade_Interior_f-props_1_5: -6328044194789742387
+      Premade_Interior_f-props_1_6: -154114929219603588
+      Premade_Interior_f-props_1_7: 8049943071328544278
+      Premade_Interior_f-props_1_8: -5038300809941867599
+      Premade_Interior_f-props_1_9: 2743772863104834333
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

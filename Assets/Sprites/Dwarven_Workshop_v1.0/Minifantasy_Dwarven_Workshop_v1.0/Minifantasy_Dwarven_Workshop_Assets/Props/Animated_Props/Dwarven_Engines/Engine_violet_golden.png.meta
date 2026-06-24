@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: d4895f5f75742094ea317d14d05b1dfc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1804676300758374961
+    second: Engine_violet_golden_0
+  - first:
+      213: 6847551746731507018
+    second: Engine_violet_golden_1
+  - first:
+      213: -3160447299681216728
+    second: Engine_violet_golden_2
+  - first:
+      213: -8027629756014479
+    second: Engine_violet_golden_3
+  - first:
+      213: -4878559705942694242
+    second: Engine_violet_golden_4
+  - first:
+      213: 7439190924953668335
+    second: Engine_violet_golden_5
+  - first:
+      213: 2980597434697194533
+    second: Engine_violet_golden_6
+  - first:
+      213: -4099214327176075123
+    second: Engine_violet_golden_7
+  - first:
+      213: -3264672881654908475
+    second: Engine_violet_golden_8
+  - first:
+      213: -3437215690163705968
+    second: Engine_violet_golden_9
+  - first:
+      213: -2358025864152490656
+    second: Engine_violet_golden_10
+  - first:
+      213: 4434882993204131260
+    second: Engine_violet_golden_11
+  - first:
+      213: -5003232391170197314
+    second: Engine_violet_golden_12
+  - first:
+      213: -7204073261587290140
+    second: Engine_violet_golden_13
+  - first:
+      213: -6192747051134717429
+    second: Engine_violet_golden_14
+  - first:
+      213: -6920167566019593253
+    second: Engine_violet_golden_15
+  - first:
+      213: 3370586978881917821
+    second: Engine_violet_golden_16
+  - first:
+      213: -5063916056202940709
+    second: Engine_violet_golden_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Engine_violet_golden_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc52bbe477084f6e0800000000000000
+      internalID: -1804676300758374961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine_violet_golden_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 79
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d7905a804670f50800000000000000
+      internalID: 6847551746731507018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine_violet_golden_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 79
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827982bfce5d324d0800000000000000
+      internalID: -3160447299681216728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine_violet_golden_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 79
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170210cc9ea73eff0800000000000000
+      internalID: -8027629756014479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine_violet_golden_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 79
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9660cf8bcfdb4cb0800000000000000
+      internalID: -4878559705942694242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine_violet_golden_5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 79
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea4c225bb05d3760800000000000000
+      internalID: 7439190924953668335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine_violet_golden_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 55
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c119133953d5920800000000000000
+      internalID: 2980597434697194533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine_violet_golden_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 55
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d886a7ab94aac17c0800000000000000
+      internalID: -4099214327176075123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine_violet_golden_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 55
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9bb15af4d81b2d0800000000000000
+      internalID: -3264672881654908475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine_violet_golden_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 55
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097a46b7a8e8c40d0800000000000000
+      internalID: -3437215690163705968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine_violet_golden_10
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 55
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06dd10c48fb964fd0800000000000000
+      internalID: -2358025864152490656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine_violet_golden_11
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 55
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb57a56d59edb8d30800000000000000
+      internalID: 4434882993204131260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine_violet_golden_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2
+        width: 10
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8729306a2f09ab0800000000000000
+      internalID: -5003232391170197314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine_violet_golden_13
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2
+        width: 10
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e72333998df50c90800000000000000
+      internalID: -7204073261587290140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine_violet_golden_14
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2
+        width: 10
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0274491e51fe0aa0800000000000000
+      internalID: -6192747051134717429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine_violet_golden_15
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2
+        width: 10
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbf8396340a6ff90800000000000000
+      internalID: -6920167566019593253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine_violet_golden_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2
+        width: 10
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7350d8cffab6ce20800000000000000
+      internalID: 3370586978881917821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine_violet_golden_17
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2
+        width: 10
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde60a93d2b59b9b0800000000000000
+      internalID: -5063916056202940709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Engine_violet_golden_0: -1804676300758374961
+      Engine_violet_golden_1: 6847551746731507018
+      Engine_violet_golden_10: -2358025864152490656
+      Engine_violet_golden_11: 4434882993204131260
+      Engine_violet_golden_12: -5003232391170197314
+      Engine_violet_golden_13: -7204073261587290140
+      Engine_violet_golden_14: -6192747051134717429
+      Engine_violet_golden_15: -6920167566019593253
+      Engine_violet_golden_16: 3370586978881917821
+      Engine_violet_golden_17: -5063916056202940709
+      Engine_violet_golden_2: -3160447299681216728
+      Engine_violet_golden_3: -8027629756014479
+      Engine_violet_golden_4: -4878559705942694242
+      Engine_violet_golden_5: 7439190924953668335
+      Engine_violet_golden_6: 2980597434697194533
+      Engine_violet_golden_7: -4099214327176075123
+      Engine_violet_golden_8: -3264672881654908475
+      Engine_violet_golden_9: -3437215690163705968
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

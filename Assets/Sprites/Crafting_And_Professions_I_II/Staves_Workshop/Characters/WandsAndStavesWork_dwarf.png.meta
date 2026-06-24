@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: abe6edb532da43946a3bb524711041c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9126894023149636717
+    second: WandsAndStavesWork_dwarf_0
+  - first:
+      213: -3460492236748020397
+    second: WandsAndStavesWork_dwarf_1
+  - first:
+      213: 6489192495680964893
+    second: WandsAndStavesWork_dwarf_2
+  - first:
+      213: -4141716696092112748
+    second: WandsAndStavesWork_dwarf_3
+  - first:
+      213: -4475308006417715660
+    second: WandsAndStavesWork_dwarf_4
+  - first:
+      213: 2010990554734214665
+    second: WandsAndStavesWork_dwarf_5
+  - first:
+      213: -1103437937016619380
+    second: WandsAndStavesWork_dwarf_6
+  - first:
+      213: 4645477504043564917
+    second: WandsAndStavesWork_dwarf_7
+  - first:
+      213: -1637949026996761767
+    second: WandsAndStavesWork_dwarf_8
+  - first:
+      213: -5777886948849403380
+    second: WandsAndStavesWork_dwarf_9
+  - first:
+      213: 925370749526395359
+    second: WandsAndStavesWork_dwarf_10
+  - first:
+      213: -3325282975361080076
+    second: WandsAndStavesWork_dwarf_11
+  - first:
+      213: -1655007837898442599
+    second: WandsAndStavesWork_dwarf_12
+  - first:
+      213: 2754473163981853538
+    second: WandsAndStavesWork_dwarf_13
+  - first:
+      213: 690837046917316670
+    second: WandsAndStavesWork_dwarf_14
+  - first:
+      213: -862282386916896279
+    second: WandsAndStavesWork_dwarf_15
+  - first:
+      213: 7655043133849196260
+    second: WandsAndStavesWork_dwarf_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WandsAndStavesWork_dwarf_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393b7870e32c65180800000000000000
+      internalID: -9126894023149636717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_dwarf_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35523a825acd9ffc0800000000000000
+      internalID: -3460492236748020397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_dwarf_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19c130913e3e0a50800000000000000
+      internalID: 6489192495680964893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_dwarf_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4980021db9aa586c0800000000000000
+      internalID: -4141716696092112748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_dwarf_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ea201541384e1c0800000000000000
+      internalID: -4475308006417715660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_dwarf_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e399d314978eb10800000000000000
+      internalID: 2010990554734214665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_dwarf_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e3f64ea0dcfa0f0800000000000000
+      internalID: -1103437937016619380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_dwarf_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fb5985d2d087040800000000000000
+      internalID: 4645477504043564917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_dwarf_8
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b49a5c906d449e0800000000000000
+      internalID: -1637949026996761767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_dwarf_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 12
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a377dbe62d0dfa0800000000000000
+      internalID: -5777886948849403380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_dwarf_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9ce0b3bc397dc00800000000000000
+      internalID: 925370749526395359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_dwarf_11
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4e2f380c83ad1d0800000000000000
+      internalID: -3325282975361080076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_dwarf_12
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9987399d32b3809e0800000000000000
+      internalID: -1655007837898442599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_dwarf_13
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 12
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2631c72bfbad93620800000000000000
+      internalID: 2754473163981853538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_dwarf_14
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30cf2b42a8569900800000000000000
+      internalID: 690837046917316670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_dwarf_15
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e11eb7dcbe8804f0800000000000000
+      internalID: -862282386916896279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_dwarf_16
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6df5d0c2d2c3a60800000000000000
+      internalID: 7655043133849196260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WandsAndStavesWork_dwarf_0: -9126894023149636717
+      WandsAndStavesWork_dwarf_1: -3460492236748020397
+      WandsAndStavesWork_dwarf_10: 925370749526395359
+      WandsAndStavesWork_dwarf_11: -3325282975361080076
+      WandsAndStavesWork_dwarf_12: -1655007837898442599
+      WandsAndStavesWork_dwarf_13: 2754473163981853538
+      WandsAndStavesWork_dwarf_14: 690837046917316670
+      WandsAndStavesWork_dwarf_15: -862282386916896279
+      WandsAndStavesWork_dwarf_16: 7655043133849196260
+      WandsAndStavesWork_dwarf_2: 6489192495680964893
+      WandsAndStavesWork_dwarf_3: -4141716696092112748
+      WandsAndStavesWork_dwarf_4: -4475308006417715660
+      WandsAndStavesWork_dwarf_5: 2010990554734214665
+      WandsAndStavesWork_dwarf_6: -1103437937016619380
+      WandsAndStavesWork_dwarf_7: 4645477504043564917
+      WandsAndStavesWork_dwarf_8: -1637949026996761767
+      WandsAndStavesWork_dwarf_9: -5777886948849403380
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

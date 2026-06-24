@@ -1,0 +1,10 @@
+SPARKS
+
+*Frame size* 
+
+- 8x8px
+
+
+*Frame Duration*
+
+- 100ms

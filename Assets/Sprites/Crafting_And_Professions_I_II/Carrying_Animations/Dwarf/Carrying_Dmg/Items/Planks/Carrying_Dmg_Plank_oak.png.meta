@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 39deaf8562c30a14cbdb1681f7083066
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -370077989217328451
+    second: Carrying_Dmg_Plank_oak_0
+  - first:
+      213: -8411108002097293052
+    second: Carrying_Dmg_Plank_oak_1
+  - first:
+      213: -1996225100702837036
+    second: Carrying_Dmg_Plank_oak_2
+  - first:
+      213: -2311385413057204647
+    second: Carrying_Dmg_Plank_oak_3
+  - first:
+      213: 7463045083308377208
+    second: Carrying_Dmg_Plank_oak_4
+  - first:
+      213: 6688206317916555343
+    second: Carrying_Dmg_Plank_oak_5
+  - first:
+      213: -8058834787445760077
+    second: Carrying_Dmg_Plank_oak_6
+  - first:
+      213: 826072166207072766
+    second: Carrying_Dmg_Plank_oak_7
+  - first:
+      213: -5609148047135178825
+    second: Carrying_Dmg_Plank_oak_8
+  - first:
+      213: -206630421992119508
+    second: Carrying_Dmg_Plank_oak_9
+  - first:
+      213: -6931738555288406679
+    second: Carrying_Dmg_Plank_oak_10
+  - first:
+      213: -3592969647671090319
+    second: Carrying_Dmg_Plank_oak_11
+  - first:
+      213: 3161775519082320214
+    second: Carrying_Dmg_Plank_oak_12
+  - first:
+      213: 8996554031182546748
+    second: Carrying_Dmg_Plank_oak_13
+  - first:
+      213: -335104101920892212
+    second: Carrying_Dmg_Plank_oak_14
+  - first:
+      213: 4594546974125368953
+    second: Carrying_Dmg_Plank_oak_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Dmg_Plank_oak_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 115
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2a28197083ddaf0800000000000000
+      internalID: -370077989217328451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Plank_oak_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 115
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4099b8706ddb54b80800000000000000
+      internalID: -8411108002097293052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Plank_oak_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d693ece8dbfb44e0800000000000000
+      internalID: -1996225100702837036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Plank_oak_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ea4bb863f4cefd0800000000000000
+      internalID: -2311385413057204647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Plank_oak_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 83
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874425d56ff029760800000000000000
+      internalID: 7463045083308377208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Plank_oak_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 83
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4880f3e53841dc50800000000000000
+      internalID: 6688206317916555343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Plank_oak_6
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf1cb65574492090800000000000000
+      internalID: -8058834787445760077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Plank_oak_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef92c99224cc67b00800000000000000
+      internalID: 826072166207072766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Plank_oak_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 51
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf7ee5d19d4822b0800000000000000
+      internalID: -5609148047135178825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Plank_oak_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 51
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23ee59d9b6e12df0800000000000000
+      internalID: -206630421992119508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Plank_oak_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965b72882848dcf90800000000000000
+      internalID: -6931738555288406679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Plank_oak_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173edcd4425332ec0800000000000000
+      internalID: -3592969647671090319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Plank_oak_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 19
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6519d623512e0eb20800000000000000
+      internalID: 3161775519082320214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Plank_oak_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 19
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c378e3fb93e2adc70800000000000000
+      internalID: 8996554031182546748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Plank_oak_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca9a324898795bf0800000000000000
+      internalID: -335104101920892212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Plank_oak_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976a698412c13cf30800000000000000
+      internalID: 4594546974125368953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Dmg_Plank_oak_0: -370077989217328451
+      Carrying_Dmg_Plank_oak_1: -8411108002097293052
+      Carrying_Dmg_Plank_oak_10: -6931738555288406679
+      Carrying_Dmg_Plank_oak_11: -3592969647671090319
+      Carrying_Dmg_Plank_oak_12: 3161775519082320214
+      Carrying_Dmg_Plank_oak_13: 8996554031182546748
+      Carrying_Dmg_Plank_oak_14: -335104101920892212
+      Carrying_Dmg_Plank_oak_15: 4594546974125368953
+      Carrying_Dmg_Plank_oak_2: -1996225100702837036
+      Carrying_Dmg_Plank_oak_3: -2311385413057204647
+      Carrying_Dmg_Plank_oak_4: 7463045083308377208
+      Carrying_Dmg_Plank_oak_5: 6688206317916555343
+      Carrying_Dmg_Plank_oak_6: -8058834787445760077
+      Carrying_Dmg_Plank_oak_7: 826072166207072766
+      Carrying_Dmg_Plank_oak_8: -5609148047135178825
+      Carrying_Dmg_Plank_oak_9: -206630421992119508
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

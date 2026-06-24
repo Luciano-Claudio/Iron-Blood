@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 70a242f176cf30b4681cd2aa62dc0da4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6614663433156095267
+    second: Engine_blue_0
+  - first:
+      213: -1306581609090770342
+    second: Engine_blue_1
+  - first:
+      213: -3521803678343099128
+    second: Engine_blue_2
+  - first:
+      213: 9120564012105955599
+    second: Engine_blue_3
+  - first:
+      213: 8106044799628608828
+    second: Engine_blue_4
+  - first:
+      213: 6807709833441909211
+    second: Engine_blue_5
+  - first:
+      213: -6542551737583460432
+    second: Engine_blue_6
+  - first:
+      213: 6609400469409024810
+    second: Engine_blue_7
+  - first:
+      213: -7550617490740023306
+    second: Engine_blue_8
+  - first:
+      213: 2516420393679092290
+    second: Engine_blue_9
+  - first:
+      213: -3194390732713612310
+    second: Engine_blue_10
+  - first:
+      213: 3993324207592866130
+    second: Engine_blue_11
+  - first:
+      213: 1948730759981339700
+    second: Engine_blue_12
+  - first:
+      213: -5030907821408725962
+    second: Engine_blue_13
+  - first:
+      213: 1135800119012148620
+    second: Engine_blue_14
+  - first:
+      213: 6423610160457421102
+    second: Engine_blue_15
+  - first:
+      213: -6796138240333601814
+    second: Engine_blue_16
+  - first:
+      213: 6614119078061898740
+    second: Engine_blue_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Engine_blue_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32de802b8510ccb50800000000000000
+      internalID: 6614663433156095267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine_blue_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 79
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a1618f2f61edde0800000000000000
+      internalID: -1306581609090770342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine_blue_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 79
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d02bfb63a002fc0800000000000000
+      internalID: -3521803678343099128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine_blue_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 79
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0979cc65a0c29e70800000000000000
+      internalID: 9120564012105955599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine_blue_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 79
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35044f2cc47e7070800000000000000
+      internalID: 8106044799628608828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine_blue_5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 79
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd91d345608d97e50800000000000000
+      internalID: 6807709833441909211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine_blue_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 55
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf19bccbdf2435a0800000000000000
+      internalID: -6542551737583460432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine_blue_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 55
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bcc6575be49bb50800000000000000
+      internalID: 6609400469409024810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine_blue_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 55
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffe695a561d63790800000000000000
+      internalID: -7550617490740023306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine_blue_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 55
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a7ac6f30f1ce220800000000000000
+      internalID: 2516420393679092290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine_blue_10
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 55
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb2ece9d8e3ba3d0800000000000000
+      internalID: -3194390732713612310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine_blue_11
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 55
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2518a8295332b6730800000000000000
+      internalID: 3993324207592866130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine_blue_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2
+        width: 10
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43490972d484b0b10800000000000000
+      internalID: 1948730759981339700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine_blue_13
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2
+        width: 10
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634d237cdff9e2ab0800000000000000
+      internalID: -5030907821408725962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine_blue_14
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2
+        width: 10
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85c095c03c23cf00800000000000000
+      internalID: 1135800119012148620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine_blue_15
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2
+        width: 10
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2197ad386f352950800000000000000
+      internalID: 6423610160457421102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine_blue_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2
+        width: 10
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3a77427444fa1a0800000000000000
+      internalID: -6796138240333601814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine_blue_17
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2
+        width: 10
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb730622421acb50800000000000000
+      internalID: 6614119078061898740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Engine_blue_0: 6614663433156095267
+      Engine_blue_1: -1306581609090770342
+      Engine_blue_10: -3194390732713612310
+      Engine_blue_11: 3993324207592866130
+      Engine_blue_12: 1948730759981339700
+      Engine_blue_13: -5030907821408725962
+      Engine_blue_14: 1135800119012148620
+      Engine_blue_15: 6423610160457421102
+      Engine_blue_16: -6796138240333601814
+      Engine_blue_17: 6614119078061898740
+      Engine_blue_2: -3521803678343099128
+      Engine_blue_3: 9120564012105955599
+      Engine_blue_4: 8106044799628608828
+      Engine_blue_5: 6807709833441909211
+      Engine_blue_6: -6542551737583460432
+      Engine_blue_7: 6609400469409024810
+      Engine_blue_8: -7550617490740023306
+      Engine_blue_9: 2516420393679092290
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

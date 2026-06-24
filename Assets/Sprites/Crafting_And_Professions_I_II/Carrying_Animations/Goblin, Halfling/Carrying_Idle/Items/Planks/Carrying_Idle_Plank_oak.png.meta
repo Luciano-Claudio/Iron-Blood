@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: ac009d75309fcba4880082c4f542f06f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7219990083276815252
+    second: Carrying_Idle_Plank_oak_0
+  - first:
+      213: -5648836171140783149
+    second: Carrying_Idle_Plank_oak_1
+  - first:
+      213: 2958722091265901303
+    second: Carrying_Idle_Plank_oak_2
+  - first:
+      213: -4611977847181512
+    second: Carrying_Idle_Plank_oak_3
+  - first:
+      213: -6002417153285569790
+    second: Carrying_Idle_Plank_oak_4
+  - first:
+      213: -706321852853319179
+    second: Carrying_Idle_Plank_oak_5
+  - first:
+      213: -5922642163106920106
+    second: Carrying_Idle_Plank_oak_6
+  - first:
+      213: -6936680689756695028
+    second: Carrying_Idle_Plank_oak_7
+  - first:
+      213: -6879934138913465124
+    second: Carrying_Idle_Plank_oak_8
+  - first:
+      213: -2189683730854983503
+    second: Carrying_Idle_Plank_oak_9
+  - first:
+      213: 1346928044845594317
+    second: Carrying_Idle_Plank_oak_10
+  - first:
+      213: 1791560870372423911
+    second: Carrying_Idle_Plank_oak_11
+  - first:
+      213: 1026795113491281396
+    second: Carrying_Idle_Plank_oak_12
+  - first:
+      213: -516694885903995163
+    second: Carrying_Idle_Plank_oak_13
+  - first:
+      213: 3020151997456367157
+    second: Carrying_Idle_Plank_oak_14
+  - first:
+      213: -5232548345326712674
+    second: Carrying_Idle_Plank_oak_15
+  - first:
+      213: 2399873980315226373
+    second: Carrying_Idle_Plank_oak_16
+  - first:
+      213: -1085929136567059199
+    second: Carrying_Idle_Plank_oak_17
+  - first:
+      213: -5987709664345655150
+    second: Carrying_Idle_Plank_oak_18
+  - first:
+      213: -4758278416927639566
+    second: Carrying_Idle_Plank_oak_19
+  - first:
+      213: 3307029001385101145
+    second: Carrying_Idle_Plank_oak_20
+  - first:
+      213: -1214765412996323891
+    second: Carrying_Idle_Plank_oak_21
+  - first:
+      213: 6819597280300201923
+    second: Carrying_Idle_Plank_oak_22
+  - first:
+      213: 3920183215692978579
+    second: Carrying_Idle_Plank_oak_23
+  - first:
+      213: -4705327973972813279
+    second: Carrying_Idle_Plank_oak_24
+  - first:
+      213: 2656622295477497873
+    second: Carrying_Idle_Plank_oak_25
+  - first:
+      213: -7834106461194698583
+    second: Carrying_Idle_Plank_oak_26
+  - first:
+      213: -713628428696725017
+    second: Carrying_Idle_Plank_oak_27
+  - first:
+      213: -179383887624750503
+    second: Carrying_Idle_Plank_oak_28
+  - first:
+      213: -3243691746525208856
+    second: Carrying_Idle_Plank_oak_29
+  - first:
+      213: -5347413640163901468
+    second: Carrying_Idle_Plank_oak_30
+  - first:
+      213: -3028886265513897714
+    second: Carrying_Idle_Plank_oak_31
+  - first:
+      213: -4956953497196349272
+    second: Carrying_Idle_Plank_oak_32
+  - first:
+      213: -4290933341955835276
+    second: Carrying_Idle_Plank_oak_33
+  - first:
+      213: 2559274165842944051
+    second: Carrying_Idle_Plank_oak_34
+  - first:
+      213: -5463586152997122257
+    second: Carrying_Idle_Plank_oak_35
+  - first:
+      213: -5884972592794860709
+    second: Carrying_Idle_Plank_oak_36
+  - first:
+      213: 7339962551143576286
+    second: Carrying_Idle_Plank_oak_37
+  - first:
+      213: 8912016504486920923
+    second: Carrying_Idle_Plank_oak_38
+  - first:
+      213: -2105879374351248464
+    second: Carrying_Idle_Plank_oak_39
+  - first:
+      213: -4414669701605831664
+    second: Carrying_Idle_Plank_oak_40
+  - first:
+      213: 7030080524496150235
+    second: Carrying_Idle_Plank_oak_41
+  - first:
+      213: -5811298489853395108
+    second: Carrying_Idle_Plank_oak_42
+  - first:
+      213: 8352364418453969997
+    second: Carrying_Idle_Plank_oak_43
+  - first:
+      213: -669144106429104816
+    second: Carrying_Idle_Plank_oak_44
+  - first:
+      213: -7453456327143720991
+    second: Carrying_Idle_Plank_oak_45
+  - first:
+      213: 9201281040184551914
+    second: Carrying_Idle_Plank_oak_46
+  - first:
+      213: 9010298631799647011
+    second: Carrying_Idle_Plank_oak_47
+  - first:
+      213: 462976751550812913
+    second: Carrying_Idle_Plank_oak_48
+  - first:
+      213: 6124055164527753830
+    second: Carrying_Idle_Plank_oak_49
+  - first:
+      213: 1181988540891495222
+    second: Carrying_Idle_Plank_oak_50
+  - first:
+      213: 9066304332226452696
+    second: Carrying_Idle_Plank_oak_51
+  - first:
+      213: -1469886413479002025
+    second: Carrying_Idle_Plank_oak_52
+  - first:
+      213: 5064402619466208544
+    second: Carrying_Idle_Plank_oak_53
+  - first:
+      213: -6897769655277672918
+    second: Carrying_Idle_Plank_oak_54
+  - first:
+      213: 2145947305722627436
+    second: Carrying_Idle_Plank_oak_55
+  - first:
+      213: -944220711331157875
+    second: Carrying_Idle_Plank_oak_56
+  - first:
+      213: 5653968241462334678
+    second: Carrying_Idle_Plank_oak_57
+  - first:
+      213: -5439362438154462896
+    second: Carrying_Idle_Plank_oak_58
+  - first:
+      213: 4206689590895532415
+    second: Carrying_Idle_Plank_oak_59
+  - first:
+      213: 1367177323157770998
+    second: Carrying_Idle_Plank_oak_60
+  - first:
+      213: -6289641810206813083
+    second: Carrying_Idle_Plank_oak_61
+  - first:
+      213: -688319978292920705
+    second: Carrying_Idle_Plank_oak_62
+  - first:
+      213: -612425004807882332
+    second: Carrying_Idle_Plank_oak_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bbe834abe823460800000000000000
+      internalID: 7219990083276815252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3a6c06e6d4b91b0800000000000000
+      internalID: -5648836171140783149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f24107e01e7f0920800000000000000
+      internalID: 2958722091265901303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fe4ba3e6d9feff0800000000000000
+      internalID: -4611977847181512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203c3b8b66123bca0800000000000000
+      internalID: -6002417153285569790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9059f5404a236f0800000000000000
+      internalID: -706321852853319179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659c248055c8ecda0800000000000000
+      internalID: -5922642163106920106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c069dbe2aa5fbbf90800000000000000
+      internalID: -6936680689756695028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcdaf32a509580a0800000000000000
+      internalID: -6879934138913465124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8cfeb8f3eac91e0800000000000000
+      internalID: -2189683730854983503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc67803abef31b210800000000000000
+      internalID: 1346928044845594317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_11
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8b9089e17ecd810800000000000000
+      internalID: 1791560870372423911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_12
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f531cc27b8ef3e00800000000000000
+      internalID: 1026795113491281396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee6e642db454d8f0800000000000000
+      internalID: -516694885903995163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_14
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53eb2108d3cb9e920800000000000000
+      internalID: 3020151997456367157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e984ebec0014267b0800000000000000
+      internalID: -5232548345326712674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50154668ba01e4120800000000000000
+      internalID: 2399873980315226373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d7cab24310ee0f0800000000000000
+      internalID: -1085929136567059199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298f086d8c167eca0800000000000000
+      internalID: -5987709664345655150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7be908df237fdb0800000000000000
+      internalID: -4758278416927639566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_20
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9574979fa5de4ed20800000000000000
+      internalID: 3307029001385101145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_21
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc56ce00b49442fe0800000000000000
+      internalID: -1214765412996323891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_22
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7738b389314ae50800000000000000
+      internalID: 6819597280300201923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_23
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39914d95dd9476630800000000000000
+      internalID: 3920183215692978579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_24
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a54a7332153beb0800000000000000
+      internalID: -4705327973972813279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_25
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110b15007e73ed420800000000000000
+      internalID: 2656622295477497873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_26
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0c5ef2ea9a74390800000000000000
+      internalID: -7834106461194698583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_27
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e959ed99bea816f0800000000000000
+      internalID: -713628428696725017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_28
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ab2bbfd43b28df0800000000000000
+      internalID: -179383887624750503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_29
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee9f77da871cf2d0800000000000000
+      internalID: -3243691746525208856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_30
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efb3f640ab2ac5b0800000000000000
+      internalID: -5347413640163901468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_31
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e011cfe3dfb37f5d0800000000000000
+      internalID: -3028886265513897714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a83b7fae0d553bb0800000000000000
+      internalID: -4956953497196349272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_33
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ab7dd1cda8374c0800000000000000
+      internalID: -4290933341955835276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_34
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33027e15b4e548320800000000000000
+      internalID: 2559274165842944051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_35
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f0dd657517d24b0800000000000000
+      internalID: -5463586152997122257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_36
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b538d855b90645ea0800000000000000
+      internalID: -5884972592794860709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_37
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2359d2d09ccd560800000000000000
+      internalID: 7339962551143576286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_38
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd28c5efac7ddab70800000000000000
+      internalID: 8912016504486920923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_39
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3d8ffcdd966c2e0800000000000000
+      internalID: -2105879374351248464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_40
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cca1bdb41fbb2c0800000000000000
+      internalID: -4414669701605831664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_41
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde1cf47dfcdf8160800000000000000
+      internalID: 7030080524496150235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_42
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f368420de1a5fa0800000000000000
+      internalID: -5811298489853395108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_43
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c9f849f2f89e370800000000000000
+      internalID: 8352364418453969997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_44
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d3fb00bf8b6b6f0800000000000000
+      internalID: -669144106429104816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_45
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7f5b7e5f0009890800000000000000
+      internalID: -7453456327143720991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_46
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9acb60b5481bf70800000000000000
+      internalID: 9201281040184551914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_47
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b2b94fdd20b0d70800000000000000
+      internalID: 9010298631799647011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_48
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2537f07e2dc6600800000000000000
+      internalID: 462976751550812913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_49
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ab29ab9b30df450800000000000000
+      internalID: 6124055164527753830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_50
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b7b64c054476010800000000000000
+      internalID: 1181988540891495222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_51
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc51fb31cbf1dd70800000000000000
+      internalID: 9066304332226452696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_52
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7504960481ae99be0800000000000000
+      internalID: -1469886413479002025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_53
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02557dc995f584640800000000000000
+      internalID: 5064402619466208544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_54
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26a4b26b033640a0800000000000000
+      internalID: -6897769655277672918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_55
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65cd4074bfe7cd10800000000000000
+      internalID: 2145947305722627436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_56
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d882a87044475e2f0800000000000000
+      internalID: -944220711331157875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_57
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4d3bbd82ee67e40800000000000000
+      internalID: 5653968241462334678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_58
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05953357ea08384b0800000000000000
+      internalID: -5439362438154462896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_59
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7959a915e9216a30800000000000000
+      internalID: 4206689590895532415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_60
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2d9c3288039f210800000000000000
+      internalID: 1367177323157770998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_61
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5649d2af814b6b8a0800000000000000
+      internalID: -6289641810206813083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_62
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ebb0a60a89276f0800000000000000
+      internalID: -688319978292920705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_oak_63
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9fbd0f3ba3087f0800000000000000
+      internalID: -612425004807882332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Idle_Plank_oak_0: 7219990083276815252
+      Carrying_Idle_Plank_oak_1: -5648836171140783149
+      Carrying_Idle_Plank_oak_10: 1346928044845594317
+      Carrying_Idle_Plank_oak_11: 1791560870372423911
+      Carrying_Idle_Plank_oak_12: 1026795113491281396
+      Carrying_Idle_Plank_oak_13: -516694885903995163
+      Carrying_Idle_Plank_oak_14: 3020151997456367157
+      Carrying_Idle_Plank_oak_15: -5232548345326712674
+      Carrying_Idle_Plank_oak_16: 2399873980315226373
+      Carrying_Idle_Plank_oak_17: -1085929136567059199
+      Carrying_Idle_Plank_oak_18: -5987709664345655150
+      Carrying_Idle_Plank_oak_19: -4758278416927639566
+      Carrying_Idle_Plank_oak_2: 2958722091265901303
+      Carrying_Idle_Plank_oak_20: 3307029001385101145
+      Carrying_Idle_Plank_oak_21: -1214765412996323891
+      Carrying_Idle_Plank_oak_22: 6819597280300201923
+      Carrying_Idle_Plank_oak_23: 3920183215692978579
+      Carrying_Idle_Plank_oak_24: -4705327973972813279
+      Carrying_Idle_Plank_oak_25: 2656622295477497873
+      Carrying_Idle_Plank_oak_26: -7834106461194698583
+      Carrying_Idle_Plank_oak_27: -713628428696725017
+      Carrying_Idle_Plank_oak_28: -179383887624750503
+      Carrying_Idle_Plank_oak_29: -3243691746525208856
+      Carrying_Idle_Plank_oak_3: -4611977847181512
+      Carrying_Idle_Plank_oak_30: -5347413640163901468
+      Carrying_Idle_Plank_oak_31: -3028886265513897714
+      Carrying_Idle_Plank_oak_32: -4956953497196349272
+      Carrying_Idle_Plank_oak_33: -4290933341955835276
+      Carrying_Idle_Plank_oak_34: 2559274165842944051
+      Carrying_Idle_Plank_oak_35: -5463586152997122257
+      Carrying_Idle_Plank_oak_36: -5884972592794860709
+      Carrying_Idle_Plank_oak_37: 7339962551143576286
+      Carrying_Idle_Plank_oak_38: 8912016504486920923
+      Carrying_Idle_Plank_oak_39: -2105879374351248464
+      Carrying_Idle_Plank_oak_4: -6002417153285569790
+      Carrying_Idle_Plank_oak_40: -4414669701605831664
+      Carrying_Idle_Plank_oak_41: 7030080524496150235
+      Carrying_Idle_Plank_oak_42: -5811298489853395108
+      Carrying_Idle_Plank_oak_43: 8352364418453969997
+      Carrying_Idle_Plank_oak_44: -669144106429104816
+      Carrying_Idle_Plank_oak_45: -7453456327143720991
+      Carrying_Idle_Plank_oak_46: 9201281040184551914
+      Carrying_Idle_Plank_oak_47: 9010298631799647011
+      Carrying_Idle_Plank_oak_48: 462976751550812913
+      Carrying_Idle_Plank_oak_49: 6124055164527753830
+      Carrying_Idle_Plank_oak_5: -706321852853319179
+      Carrying_Idle_Plank_oak_50: 1181988540891495222
+      Carrying_Idle_Plank_oak_51: 9066304332226452696
+      Carrying_Idle_Plank_oak_52: -1469886413479002025
+      Carrying_Idle_Plank_oak_53: 5064402619466208544
+      Carrying_Idle_Plank_oak_54: -6897769655277672918
+      Carrying_Idle_Plank_oak_55: 2145947305722627436
+      Carrying_Idle_Plank_oak_56: -944220711331157875
+      Carrying_Idle_Plank_oak_57: 5653968241462334678
+      Carrying_Idle_Plank_oak_58: -5439362438154462896
+      Carrying_Idle_Plank_oak_59: 4206689590895532415
+      Carrying_Idle_Plank_oak_6: -5922642163106920106
+      Carrying_Idle_Plank_oak_60: 1367177323157770998
+      Carrying_Idle_Plank_oak_61: -6289641810206813083
+      Carrying_Idle_Plank_oak_62: -688319978292920705
+      Carrying_Idle_Plank_oak_63: -612425004807882332
+      Carrying_Idle_Plank_oak_7: -6936680689756695028
+      Carrying_Idle_Plank_oak_8: -6879934138913465124
+      Carrying_Idle_Plank_oak_9: -2189683730854983503
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

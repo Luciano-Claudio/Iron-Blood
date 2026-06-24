@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: 80ba1ff1d9948454883cfdb62abf52b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1013945574802454324
+    second: Carrying_Idle_Wood_willow_0
+  - first:
+      213: 6159838547990346692
+    second: Carrying_Idle_Wood_willow_1
+  - first:
+      213: -1056932822426491298
+    second: Carrying_Idle_Wood_willow_2
+  - first:
+      213: -1860405193683742149
+    second: Carrying_Idle_Wood_willow_3
+  - first:
+      213: 5730326024460868651
+    second: Carrying_Idle_Wood_willow_4
+  - first:
+      213: 4125438440706894602
+    second: Carrying_Idle_Wood_willow_5
+  - first:
+      213: 8467215650356425121
+    second: Carrying_Idle_Wood_willow_6
+  - first:
+      213: 5905759485199568867
+    second: Carrying_Idle_Wood_willow_7
+  - first:
+      213: 5232698287338040020
+    second: Carrying_Idle_Wood_willow_8
+  - first:
+      213: -5883806978389949491
+    second: Carrying_Idle_Wood_willow_9
+  - first:
+      213: -1017800337342709195
+    second: Carrying_Idle_Wood_willow_10
+  - first:
+      213: -2459202014884721290
+    second: Carrying_Idle_Wood_willow_11
+  - first:
+      213: -5636496872255300852
+    second: Carrying_Idle_Wood_willow_12
+  - first:
+      213: -6961183476730505433
+    second: Carrying_Idle_Wood_willow_13
+  - first:
+      213: -7945633608904688799
+    second: Carrying_Idle_Wood_willow_14
+  - first:
+      213: -4387274833077395202
+    second: Carrying_Idle_Wood_willow_15
+  - first:
+      213: -6781091859702293465
+    second: Carrying_Idle_Wood_willow_16
+  - first:
+      213: -8119802924516440564
+    second: Carrying_Idle_Wood_willow_17
+  - first:
+      213: -1157331886578347636
+    second: Carrying_Idle_Wood_willow_18
+  - first:
+      213: 2483867676421425693
+    second: Carrying_Idle_Wood_willow_19
+  - first:
+      213: -567931961818564225
+    second: Carrying_Idle_Wood_willow_20
+  - first:
+      213: -7643938750871738550
+    second: Carrying_Idle_Wood_willow_21
+  - first:
+      213: -6840728861238576167
+    second: Carrying_Idle_Wood_willow_22
+  - first:
+      213: 2027274607004241874
+    second: Carrying_Idle_Wood_willow_23
+  - first:
+      213: 737306127736657292
+    second: Carrying_Idle_Wood_willow_24
+  - first:
+      213: 1177789823798956935
+    second: Carrying_Idle_Wood_willow_25
+  - first:
+      213: 3595296580067011847
+    second: Carrying_Idle_Wood_willow_26
+  - first:
+      213: -5143270766443874479
+    second: Carrying_Idle_Wood_willow_27
+  - first:
+      213: 3389377616601543799
+    second: Carrying_Idle_Wood_willow_28
+  - first:
+      213: -478089493362263913
+    second: Carrying_Idle_Wood_willow_29
+  - first:
+      213: 102305549693050220
+    second: Carrying_Idle_Wood_willow_30
+  - first:
+      213: -3560418816693063736
+    second: Carrying_Idle_Wood_willow_31
+  - first:
+      213: 5285322024702539723
+    second: Carrying_Idle_Wood_willow_32
+  - first:
+      213: 8251459467758823824
+    second: Carrying_Idle_Wood_willow_33
+  - first:
+      213: 6530590825572295341
+    second: Carrying_Idle_Wood_willow_34
+  - first:
+      213: -3646582720297972293
+    second: Carrying_Idle_Wood_willow_35
+  - first:
+      213: 4476367506407857558
+    second: Carrying_Idle_Wood_willow_36
+  - first:
+      213: -7984527808341476120
+    second: Carrying_Idle_Wood_willow_37
+  - first:
+      213: -6720669827224393728
+    second: Carrying_Idle_Wood_willow_38
+  - first:
+      213: -5907946821302126470
+    second: Carrying_Idle_Wood_willow_39
+  - first:
+      213: -1087134347380653706
+    second: Carrying_Idle_Wood_willow_40
+  - first:
+      213: -5756470239168255288
+    second: Carrying_Idle_Wood_willow_41
+  - first:
+      213: 7010919849615777211
+    second: Carrying_Idle_Wood_willow_42
+  - first:
+      213: 3872554829347495451
+    second: Carrying_Idle_Wood_willow_43
+  - first:
+      213: 8518517282324292754
+    second: Carrying_Idle_Wood_willow_44
+  - first:
+      213: 6974226390539002464
+    second: Carrying_Idle_Wood_willow_45
+  - first:
+      213: 221170738017704390
+    second: Carrying_Idle_Wood_willow_46
+  - first:
+      213: 6890492437298786734
+    second: Carrying_Idle_Wood_willow_47
+  - first:
+      213: -3210776619090391967
+    second: Carrying_Idle_Wood_willow_48
+  - first:
+      213: 2854448271834738093
+    second: Carrying_Idle_Wood_willow_49
+  - first:
+      213: 8357091865278729938
+    second: Carrying_Idle_Wood_willow_50
+  - first:
+      213: 2537597037732274889
+    second: Carrying_Idle_Wood_willow_51
+  - first:
+      213: -7187374237301059287
+    second: Carrying_Idle_Wood_willow_52
+  - first:
+      213: 3410797954972484887
+    second: Carrying_Idle_Wood_willow_53
+  - first:
+      213: 8293807572690169713
+    second: Carrying_Idle_Wood_willow_54
+  - first:
+      213: 7017366925468473312
+    second: Carrying_Idle_Wood_willow_55
+  - first:
+      213: -6764182146607786052
+    second: Carrying_Idle_Wood_willow_56
+  - first:
+      213: 7881832340270517384
+    second: Carrying_Idle_Wood_willow_57
+  - first:
+      213: -693577984894547876
+    second: Carrying_Idle_Wood_willow_58
+  - first:
+      213: 1085687930561351342
+    second: Carrying_Idle_Wood_willow_59
+  - first:
+      213: -881319405474266615
+    second: Carrying_Idle_Wood_willow_60
+  - first:
+      213: -8686919220193134562
+    second: Carrying_Idle_Wood_willow_61
+  - first:
+      213: -6883476984001571552
+    second: Carrying_Idle_Wood_willow_62
+  - first:
+      213: -3381253520959700130
+    second: Carrying_Idle_Wood_willow_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc802503fddbde1f0800000000000000
+      internalID: -1013945574802454324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbf8bee5842c7550800000000000000
+      internalID: 6159838547990346692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5661d7a2350551f0800000000000000
+      internalID: -1056932822426491298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32503c45538e26e0800000000000000
+      internalID: -1860405193683742149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c9a2f9825368f40800000000000000
+      internalID: 5730326024460868651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b63118760804930800000000000000
+      internalID: 4125438440706894602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a17f14d5c7918570800000000000000
+      internalID: 8467215650356425121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efc63436f875f150800000000000000
+      internalID: 5905759485199568867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da24994e574e9840800000000000000
+      internalID: 5232698287338040020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc34a161ab4885ea0800000000000000
+      internalID: -5883806978389949491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5324a685cfb00e1f0800000000000000
+      internalID: -1017800337342709195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_11
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d0fdffbc82fddd0800000000000000
+      internalID: -2459202014884721290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_12
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b5f9745f327c1b0800000000000000
+      internalID: -5636496872255300852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727d8258288e46f90800000000000000
+      internalID: -6961183476730505433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_14
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bb4d994507bb190800000000000000
+      internalID: -7945633608904688799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0296ab8c44d13c0800000000000000
+      internalID: -4387274833077395202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72cd621a1e8b4e1a0800000000000000
+      internalID: -6781091859702293465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06050eb24aa05f80800000000000000
+      internalID: -8119802924516440564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81d34de7c450ffe0800000000000000
+      internalID: -1157331886578347636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a8c2add78787220800000000000000
+      internalID: 2483867676421425693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79b637c3ec4e18f0800000000000000
+      internalID: -567931961818564225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_21
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47627594364be590800000000000000
+      internalID: -7643938750871738550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbbc1d2859d011a0800000000000000
+      internalID: -6840728861238576167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_23
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df48ac9383522c10800000000000000
+      internalID: 2027274607004241874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_24
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85567a44007b3a00800000000000000
+      internalID: 737306127736657292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7835b93ca99585010800000000000000
+      internalID: 1177789823798956935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d221dd03f05e130800000000000000
+      internalID: 3595296580067011847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_27
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1573676fc7e6f98b0800000000000000
+      internalID: -5143270766443874479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_28
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774f13f0cfc790f20800000000000000
+      internalID: 3389377616601543799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_29
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798bb49832c7d59f0800000000000000
+      internalID: -478089493362263913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_30
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d510cfa567b6100800000000000000
+      internalID: 102305549693050220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_31
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfa46b33f9d69ec0800000000000000
+      internalID: -3560418816693063736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_32
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc771fde06c395940800000000000000
+      internalID: 5285322024702539723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0996c46faa2138270800000000000000
+      internalID: 8251459467758823824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_34
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da269ab51c151aa50800000000000000
+      internalID: 6530590825572295341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_35
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbdcf88165cb46dc0800000000000000
+      internalID: -3646582720297972293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_36
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d9a8fb7804f1e30800000000000000
+      internalID: 4476367506407857558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_37
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecf39c1342413190800000000000000
+      internalID: -7984527808341476120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_38
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008aa9756626bb2a0800000000000000
+      internalID: -6720669827224393728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_39
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78736ceaa1c20ea0800000000000000
+      internalID: -5907946821302126470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_40
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67100492219b9e0f0800000000000000
+      internalID: -1087134347380653706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_41
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8caa44a01d8ec10b0800000000000000
+      internalID: -5756470239168255288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_42
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd5511357acb4160800000000000000
+      internalID: 7010919849615777211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_43
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e1b7089141eb530800000000000000
+      internalID: 3872554829347495451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_44
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29427f1d55ad73670800000000000000
+      internalID: 8518517282324292754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_45
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0626b3f73fd69c060800000000000000
+      internalID: 6974226390539002464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_46
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9914a4d91c11300800000000000000
+      internalID: 221170738017704390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_47
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1b5b44d52ff9f50800000000000000
+      internalID: 6890492437298786734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cccf52da70173d0800000000000000
+      internalID: -3210776619090391967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_49
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadef6864990d9720800000000000000
+      internalID: 2854448271834738093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_50
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dece3116ca5af370800000000000000
+      internalID: 8357091865278729938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_51
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2ad11af0b573320800000000000000
+      internalID: 2537597037732274889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_52
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92150e52631514c90800000000000000
+      internalID: -7187374237301059287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_53
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71583ca3ba6955f20800000000000000
+      internalID: 3410797954972484887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_54
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f64ad7b06891370800000000000000
+      internalID: 8293807572690169713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_55
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e79f130a02b26160800000000000000
+      internalID: 7017366925468473312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_56
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb757630d2cc022a0800000000000000
+      internalID: -6764182146607786052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_57
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c8205f0c4e16d60800000000000000
+      internalID: 7881832340270517384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_58
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58445a5f7aef56f0800000000000000
+      internalID: -693577984894547876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_59
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaec90eab63211f00800000000000000
+      internalID: 1085687930561351342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_60
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9024c0f8bace4c3f0800000000000000
+      internalID: -881319405474266615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_61
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18ffd79efcd17780800000000000000
+      internalID: -8686919220193134562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_62
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025520d372af870a0800000000000000
+      internalID: -6883476984001571552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_willow_63
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5388ab56df5311d0800000000000000
+      internalID: -3381253520959700130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Idle_Wood_willow_0: -1013945574802454324
+      Carrying_Idle_Wood_willow_1: 6159838547990346692
+      Carrying_Idle_Wood_willow_10: -1017800337342709195
+      Carrying_Idle_Wood_willow_11: -2459202014884721290
+      Carrying_Idle_Wood_willow_12: -5636496872255300852
+      Carrying_Idle_Wood_willow_13: -6961183476730505433
+      Carrying_Idle_Wood_willow_14: -7945633608904688799
+      Carrying_Idle_Wood_willow_15: -4387274833077395202
+      Carrying_Idle_Wood_willow_16: -6781091859702293465
+      Carrying_Idle_Wood_willow_17: -8119802924516440564
+      Carrying_Idle_Wood_willow_18: -1157331886578347636
+      Carrying_Idle_Wood_willow_19: 2483867676421425693
+      Carrying_Idle_Wood_willow_2: -1056932822426491298
+      Carrying_Idle_Wood_willow_20: -567931961818564225
+      Carrying_Idle_Wood_willow_21: -7643938750871738550
+      Carrying_Idle_Wood_willow_22: -6840728861238576167
+      Carrying_Idle_Wood_willow_23: 2027274607004241874
+      Carrying_Idle_Wood_willow_24: 737306127736657292
+      Carrying_Idle_Wood_willow_25: 1177789823798956935
+      Carrying_Idle_Wood_willow_26: 3595296580067011847
+      Carrying_Idle_Wood_willow_27: -5143270766443874479
+      Carrying_Idle_Wood_willow_28: 3389377616601543799
+      Carrying_Idle_Wood_willow_29: -478089493362263913
+      Carrying_Idle_Wood_willow_3: -1860405193683742149
+      Carrying_Idle_Wood_willow_30: 102305549693050220
+      Carrying_Idle_Wood_willow_31: -3560418816693063736
+      Carrying_Idle_Wood_willow_32: 5285322024702539723
+      Carrying_Idle_Wood_willow_33: 8251459467758823824
+      Carrying_Idle_Wood_willow_34: 6530590825572295341
+      Carrying_Idle_Wood_willow_35: -3646582720297972293
+      Carrying_Idle_Wood_willow_36: 4476367506407857558
+      Carrying_Idle_Wood_willow_37: -7984527808341476120
+      Carrying_Idle_Wood_willow_38: -6720669827224393728
+      Carrying_Idle_Wood_willow_39: -5907946821302126470
+      Carrying_Idle_Wood_willow_4: 5730326024460868651
+      Carrying_Idle_Wood_willow_40: -1087134347380653706
+      Carrying_Idle_Wood_willow_41: -5756470239168255288
+      Carrying_Idle_Wood_willow_42: 7010919849615777211
+      Carrying_Idle_Wood_willow_43: 3872554829347495451
+      Carrying_Idle_Wood_willow_44: 8518517282324292754
+      Carrying_Idle_Wood_willow_45: 6974226390539002464
+      Carrying_Idle_Wood_willow_46: 221170738017704390
+      Carrying_Idle_Wood_willow_47: 6890492437298786734
+      Carrying_Idle_Wood_willow_48: -3210776619090391967
+      Carrying_Idle_Wood_willow_49: 2854448271834738093
+      Carrying_Idle_Wood_willow_5: 4125438440706894602
+      Carrying_Idle_Wood_willow_50: 8357091865278729938
+      Carrying_Idle_Wood_willow_51: 2537597037732274889
+      Carrying_Idle_Wood_willow_52: -7187374237301059287
+      Carrying_Idle_Wood_willow_53: 3410797954972484887
+      Carrying_Idle_Wood_willow_54: 8293807572690169713
+      Carrying_Idle_Wood_willow_55: 7017366925468473312
+      Carrying_Idle_Wood_willow_56: -6764182146607786052
+      Carrying_Idle_Wood_willow_57: 7881832340270517384
+      Carrying_Idle_Wood_willow_58: -693577984894547876
+      Carrying_Idle_Wood_willow_59: 1085687930561351342
+      Carrying_Idle_Wood_willow_6: 8467215650356425121
+      Carrying_Idle_Wood_willow_60: -881319405474266615
+      Carrying_Idle_Wood_willow_61: -8686919220193134562
+      Carrying_Idle_Wood_willow_62: -6883476984001571552
+      Carrying_Idle_Wood_willow_63: -3381253520959700130
+      Carrying_Idle_Wood_willow_7: 5905759485199568867
+      Carrying_Idle_Wood_willow_8: 5232698287338040020
+      Carrying_Idle_Wood_willow_9: -5883806978389949491
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

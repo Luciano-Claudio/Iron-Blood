@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: 24aaac095f2c7ad428ba83cd74125718
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7917416174131822325
+    second: Carrying_Idle_Ore_stone_0
+  - first:
+      213: 5560001069665071851
+    second: Carrying_Idle_Ore_stone_1
+  - first:
+      213: -7022414187186935071
+    second: Carrying_Idle_Ore_stone_2
+  - first:
+      213: 761948667371758609
+    second: Carrying_Idle_Ore_stone_3
+  - first:
+      213: 3471913980368234274
+    second: Carrying_Idle_Ore_stone_4
+  - first:
+      213: -386504612245834902
+    second: Carrying_Idle_Ore_stone_5
+  - first:
+      213: 1417550225235214850
+    second: Carrying_Idle_Ore_stone_6
+  - first:
+      213: -4300225438355061686
+    second: Carrying_Idle_Ore_stone_7
+  - first:
+      213: -354929645531812747
+    second: Carrying_Idle_Ore_stone_8
+  - first:
+      213: -1612363139084827999
+    second: Carrying_Idle_Ore_stone_9
+  - first:
+      213: -973137000331007183
+    second: Carrying_Idle_Ore_stone_10
+  - first:
+      213: 7031615385429625951
+    second: Carrying_Idle_Ore_stone_11
+  - first:
+      213: 4866547576856896614
+    second: Carrying_Idle_Ore_stone_12
+  - first:
+      213: -7452797841487563291
+    second: Carrying_Idle_Ore_stone_13
+  - first:
+      213: -3895946119782495660
+    second: Carrying_Idle_Ore_stone_14
+  - first:
+      213: -6985680947206067023
+    second: Carrying_Idle_Ore_stone_15
+  - first:
+      213: 6902690381840617031
+    second: Carrying_Idle_Ore_stone_16
+  - first:
+      213: -4525045527852579120
+    second: Carrying_Idle_Ore_stone_17
+  - first:
+      213: -5610397178505750822
+    second: Carrying_Idle_Ore_stone_18
+  - first:
+      213: -7470482584679546501
+    second: Carrying_Idle_Ore_stone_19
+  - first:
+      213: -5243563695746355084
+    second: Carrying_Idle_Ore_stone_20
+  - first:
+      213: 6659989234999584682
+    second: Carrying_Idle_Ore_stone_21
+  - first:
+      213: 2692105700524320157
+    second: Carrying_Idle_Ore_stone_22
+  - first:
+      213: 8597797579773670290
+    second: Carrying_Idle_Ore_stone_23
+  - first:
+      213: -3526987662818595072
+    second: Carrying_Idle_Ore_stone_24
+  - first:
+      213: -7545031051385957755
+    second: Carrying_Idle_Ore_stone_25
+  - first:
+      213: -5657826687111407469
+    second: Carrying_Idle_Ore_stone_26
+  - first:
+      213: -7445327521320691630
+    second: Carrying_Idle_Ore_stone_27
+  - first:
+      213: 7307407271737010772
+    second: Carrying_Idle_Ore_stone_28
+  - first:
+      213: -4704620540573676627
+    second: Carrying_Idle_Ore_stone_29
+  - first:
+      213: 713075200412987219
+    second: Carrying_Idle_Ore_stone_30
+  - first:
+      213: -6163591683174898010
+    second: Carrying_Idle_Ore_stone_31
+  - first:
+      213: -2773543541181934260
+    second: Carrying_Idle_Ore_stone_32
+  - first:
+      213: -4438568714637074816
+    second: Carrying_Idle_Ore_stone_33
+  - first:
+      213: 5500869774254687959
+    second: Carrying_Idle_Ore_stone_34
+  - first:
+      213: 8683080136100159673
+    second: Carrying_Idle_Ore_stone_35
+  - first:
+      213: 1011939088279934118
+    second: Carrying_Idle_Ore_stone_36
+  - first:
+      213: 7939532802826201928
+    second: Carrying_Idle_Ore_stone_37
+  - first:
+      213: -5712395650998461079
+    second: Carrying_Idle_Ore_stone_38
+  - first:
+      213: 2837969463876904577
+    second: Carrying_Idle_Ore_stone_39
+  - first:
+      213: -5487018272366802959
+    second: Carrying_Idle_Ore_stone_40
+  - first:
+      213: -3920308423279810791
+    second: Carrying_Idle_Ore_stone_41
+  - first:
+      213: 5312541821960569607
+    second: Carrying_Idle_Ore_stone_42
+  - first:
+      213: 1294663404002185560
+    second: Carrying_Idle_Ore_stone_43
+  - first:
+      213: -2512604416744932013
+    second: Carrying_Idle_Ore_stone_44
+  - first:
+      213: -1295596172491118589
+    second: Carrying_Idle_Ore_stone_45
+  - first:
+      213: 3832560837083531836
+    second: Carrying_Idle_Ore_stone_46
+  - first:
+      213: -439176435654443460
+    second: Carrying_Idle_Ore_stone_47
+  - first:
+      213: -2851350574382831512
+    second: Carrying_Idle_Ore_stone_48
+  - first:
+      213: -4079065247597232950
+    second: Carrying_Idle_Ore_stone_49
+  - first:
+      213: 3939428228745608026
+    second: Carrying_Idle_Ore_stone_50
+  - first:
+      213: 2620149163349350230
+    second: Carrying_Idle_Ore_stone_51
+  - first:
+      213: 3903876764228404171
+    second: Carrying_Idle_Ore_stone_52
+  - first:
+      213: -9219027470904653248
+    second: Carrying_Idle_Ore_stone_53
+  - first:
+      213: 3846787857586356651
+    second: Carrying_Idle_Ore_stone_54
+  - first:
+      213: -8758199447989288705
+    second: Carrying_Idle_Ore_stone_55
+  - first:
+      213: 4168321245825871563
+    second: Carrying_Idle_Ore_stone_56
+  - first:
+      213: 5787996394162887924
+    second: Carrying_Idle_Ore_stone_57
+  - first:
+      213: -8307735118848914776
+    second: Carrying_Idle_Ore_stone_58
+  - first:
+      213: 822716933112881374
+    second: Carrying_Idle_Ore_stone_59
+  - first:
+      213: 9190866280711281507
+    second: Carrying_Idle_Ore_stone_60
+  - first:
+      213: -7702357562982701956
+    second: Carrying_Idle_Ore_stone_61
+  - first:
+      213: -4270167296428134611
+    second: Carrying_Idle_Ore_stone_62
+  - first:
+      213: -5807525210176032507
+    second: Carrying_Idle_Ore_stone_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe3f06ef0050ed60800000000000000
+      internalID: 7917416174131822325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2bd24c387192d40800000000000000
+      internalID: 5560001069665071851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea2f0bc08f5b8e90800000000000000
+      internalID: -7022414187186935071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114a6c7a64cf29a00800000000000000
+      internalID: 761948667371758609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227af82ce57be2030800000000000000
+      internalID: 3471913980368234274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63790b5a1cd2aaf0800000000000000
+      internalID: -386504612245834902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2028b6a5b662ca310800000000000000
+      internalID: 1417550225235214850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a448fb45fb78254c0800000000000000
+      internalID: -4300225438355061686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c22dd2e59031bf0800000000000000
+      internalID: -354929645531812747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a24ae5844cbf99e0800000000000000
+      internalID: -1612363139084827999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_10
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b2b79dd09be72f0800000000000000
+      internalID: -973137000331007183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c44bd10f0559160800000000000000
+      internalID: 7031615385429625951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664e711bc33798340800000000000000
+      internalID: 4866547576856896614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_13
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5f55b89d7529890800000000000000
+      internalID: -7452797841487563291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a8d4a45a1dee9c0800000000000000
+      internalID: -3895946119782495660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc6193b030ed0f90800000000000000
+      internalID: -6985680947206067023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e8d1c84584bcf50800000000000000
+      internalID: 6902690381840617031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_17
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d680ef211fc331c0800000000000000
+      internalID: -4525045527852579120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_18
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad69f46cd7dd322b0800000000000000
+      internalID: -5610397178505750822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_19
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b710f676ba3835890800000000000000
+      internalID: -7470482584679546501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_20
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47077eda99e1b37b0800000000000000
+      internalID: -5243563695746355084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_21
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa763105ce80d6c50800000000000000
+      internalID: 6659989234999584682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_22
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d956e890fd74c5520800000000000000
+      internalID: 2692105700524320157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_23
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2937f118853815770800000000000000
+      internalID: 8597797579773670290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_24
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f238e486f9d0fc0800000000000000
+      internalID: -3526987662818595072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58219daeb3aaa4790800000000000000
+      internalID: -7545031051385957755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398dff1ca9c5b71b0800000000000000
+      internalID: -5657826687111407469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_27
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2589d3ff012eca890800000000000000
+      internalID: -7445327521320691630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_28
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45aadf48230296560800000000000000
+      internalID: 7307407271737010772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_29
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab89146b84d5beb0800000000000000
+      internalID: -4704620540573676627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_30
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fa1c2ed1a55e900800000000000000
+      internalID: 713075200412987219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_31
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6eecf2506867aa0800000000000000
+      internalID: -6163591683174898010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_32
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4595ca18d46289d0800000000000000
+      internalID: -2773543541181934260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_33
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e15e445490762c0800000000000000
+      internalID: -4438568714637074816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_34
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d642223ae3075c40800000000000000
+      internalID: 5500869774254687959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_35
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0208cf06f708870800000000000000
+      internalID: 8683080136100159673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_36
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a412434d312b0e00800000000000000
+      internalID: 1011939088279934118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_37
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b640bc403ee2e60800000000000000
+      internalID: 7939532802826201928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_38
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d10c5cb6e79b0b0800000000000000
+      internalID: -5712395650998461079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_39
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186e9c1f03e726720800000000000000
+      internalID: 2837969463876904577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_40
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7cf77e3f13ad3b0800000000000000
+      internalID: -5487018272366802959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_41
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9176f6c72444899c0800000000000000
+      internalID: -3920308423279810791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_42
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703cd58d3a0f9b940800000000000000
+      internalID: 5312541821960569607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_43
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8519f3ba18197f110800000000000000
+      internalID: 1294663404002185560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_44
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d37d6689f612dd0800000000000000
+      internalID: -2512604416744932013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_45
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308af4e352e150ee0800000000000000
+      internalID: -1295596172491118589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_46
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a007a86cdff2530800000000000000
+      internalID: 3832560837083531836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_47
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e381fcb5bb7e9f0800000000000000
+      internalID: -439176435654443460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8682ecb72c7fd68d0800000000000000
+      internalID: -2851350574382831512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_49
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc7355e4cf3467c0800000000000000
+      internalID: -4079065247597232950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_50
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b37802a19aba630800000000000000
+      internalID: 3939428228745608026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_51
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65799fb28c3ac5420800000000000000
+      internalID: 2620149163349350230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_52
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc34cb2cb3b5d2630800000000000000
+      internalID: 3903876764228404171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_53
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a09261c5f6f0080800000000000000
+      internalID: -9219027470904653248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_54
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba188b1ec29826530800000000000000
+      internalID: 3846787857586356651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_55
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff083964100a47680800000000000000
+      internalID: -8758199447989288705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_56
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce2a2f961ad8d930800000000000000
+      internalID: 4168321245825871563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_57
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc125bed08135050800000000000000
+      internalID: 5787996394162887924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_58
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa09f8fceef4bc80800000000000000
+      internalID: -8307735118848914776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_59
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed064e411b0ea6b00800000000000000
+      internalID: 822716933112881374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_60
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b59efdf248c8f70800000000000000
+      internalID: 9190866280711281507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_61
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c746f55fa9abb1590800000000000000
+      internalID: -7702357562982701956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_62
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f29ecd7715db4c0800000000000000
+      internalID: -4270167296428134611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_stone_63
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501f4574796876fa0800000000000000
+      internalID: -5807525210176032507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Idle_Ore_stone_0: 7917416174131822325
+      Carrying_Idle_Ore_stone_1: 5560001069665071851
+      Carrying_Idle_Ore_stone_10: -973137000331007183
+      Carrying_Idle_Ore_stone_11: 7031615385429625951
+      Carrying_Idle_Ore_stone_12: 4866547576856896614
+      Carrying_Idle_Ore_stone_13: -7452797841487563291
+      Carrying_Idle_Ore_stone_14: -3895946119782495660
+      Carrying_Idle_Ore_stone_15: -6985680947206067023
+      Carrying_Idle_Ore_stone_16: 6902690381840617031
+      Carrying_Idle_Ore_stone_17: -4525045527852579120
+      Carrying_Idle_Ore_stone_18: -5610397178505750822
+      Carrying_Idle_Ore_stone_19: -7470482584679546501
+      Carrying_Idle_Ore_stone_2: -7022414187186935071
+      Carrying_Idle_Ore_stone_20: -5243563695746355084
+      Carrying_Idle_Ore_stone_21: 6659989234999584682
+      Carrying_Idle_Ore_stone_22: 2692105700524320157
+      Carrying_Idle_Ore_stone_23: 8597797579773670290
+      Carrying_Idle_Ore_stone_24: -3526987662818595072
+      Carrying_Idle_Ore_stone_25: -7545031051385957755
+      Carrying_Idle_Ore_stone_26: -5657826687111407469
+      Carrying_Idle_Ore_stone_27: -7445327521320691630
+      Carrying_Idle_Ore_stone_28: 7307407271737010772
+      Carrying_Idle_Ore_stone_29: -4704620540573676627
+      Carrying_Idle_Ore_stone_3: 761948667371758609
+      Carrying_Idle_Ore_stone_30: 713075200412987219
+      Carrying_Idle_Ore_stone_31: -6163591683174898010
+      Carrying_Idle_Ore_stone_32: -2773543541181934260
+      Carrying_Idle_Ore_stone_33: -4438568714637074816
+      Carrying_Idle_Ore_stone_34: 5500869774254687959
+      Carrying_Idle_Ore_stone_35: 8683080136100159673
+      Carrying_Idle_Ore_stone_36: 1011939088279934118
+      Carrying_Idle_Ore_stone_37: 7939532802826201928
+      Carrying_Idle_Ore_stone_38: -5712395650998461079
+      Carrying_Idle_Ore_stone_39: 2837969463876904577
+      Carrying_Idle_Ore_stone_4: 3471913980368234274
+      Carrying_Idle_Ore_stone_40: -5487018272366802959
+      Carrying_Idle_Ore_stone_41: -3920308423279810791
+      Carrying_Idle_Ore_stone_42: 5312541821960569607
+      Carrying_Idle_Ore_stone_43: 1294663404002185560
+      Carrying_Idle_Ore_stone_44: -2512604416744932013
+      Carrying_Idle_Ore_stone_45: -1295596172491118589
+      Carrying_Idle_Ore_stone_46: 3832560837083531836
+      Carrying_Idle_Ore_stone_47: -439176435654443460
+      Carrying_Idle_Ore_stone_48: -2851350574382831512
+      Carrying_Idle_Ore_stone_49: -4079065247597232950
+      Carrying_Idle_Ore_stone_5: -386504612245834902
+      Carrying_Idle_Ore_stone_50: 3939428228745608026
+      Carrying_Idle_Ore_stone_51: 2620149163349350230
+      Carrying_Idle_Ore_stone_52: 3903876764228404171
+      Carrying_Idle_Ore_stone_53: -9219027470904653248
+      Carrying_Idle_Ore_stone_54: 3846787857586356651
+      Carrying_Idle_Ore_stone_55: -8758199447989288705
+      Carrying_Idle_Ore_stone_56: 4168321245825871563
+      Carrying_Idle_Ore_stone_57: 5787996394162887924
+      Carrying_Idle_Ore_stone_58: -8307735118848914776
+      Carrying_Idle_Ore_stone_59: 822716933112881374
+      Carrying_Idle_Ore_stone_6: 1417550225235214850
+      Carrying_Idle_Ore_stone_60: 9190866280711281507
+      Carrying_Idle_Ore_stone_61: -7702357562982701956
+      Carrying_Idle_Ore_stone_62: -4270167296428134611
+      Carrying_Idle_Ore_stone_63: -5807525210176032507
+      Carrying_Idle_Ore_stone_7: -4300225438355061686
+      Carrying_Idle_Ore_stone_8: -354929645531812747
+      Carrying_Idle_Ore_stone_9: -1612363139084827999
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

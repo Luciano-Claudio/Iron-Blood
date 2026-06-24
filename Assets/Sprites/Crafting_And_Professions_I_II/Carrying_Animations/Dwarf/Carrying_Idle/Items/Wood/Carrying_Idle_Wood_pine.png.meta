@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: 7b4b3e73fbacb554fa3fae0ead9809e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6408517609349228415
+    second: Carrying_Idle_Wood_pine_0
+  - first:
+      213: -653623224828149267
+    second: Carrying_Idle_Wood_pine_1
+  - first:
+      213: 7761015525571429125
+    second: Carrying_Idle_Wood_pine_2
+  - first:
+      213: 324776719636820287
+    second: Carrying_Idle_Wood_pine_3
+  - first:
+      213: -2354858293787585124
+    second: Carrying_Idle_Wood_pine_4
+  - first:
+      213: -1729896736015756668
+    second: Carrying_Idle_Wood_pine_5
+  - first:
+      213: -4339259124011580468
+    second: Carrying_Idle_Wood_pine_6
+  - first:
+      213: -782380086626767419
+    second: Carrying_Idle_Wood_pine_7
+  - first:
+      213: -9032492727997068801
+    second: Carrying_Idle_Wood_pine_8
+  - first:
+      213: 4377673733187403110
+    second: Carrying_Idle_Wood_pine_9
+  - first:
+      213: -477389891428700587
+    second: Carrying_Idle_Wood_pine_10
+  - first:
+      213: 8332855216823720792
+    second: Carrying_Idle_Wood_pine_11
+  - first:
+      213: 1780618471107179613
+    second: Carrying_Idle_Wood_pine_12
+  - first:
+      213: -3495074606278835901
+    second: Carrying_Idle_Wood_pine_13
+  - first:
+      213: -1113502218788537778
+    second: Carrying_Idle_Wood_pine_14
+  - first:
+      213: -485782241329673629
+    second: Carrying_Idle_Wood_pine_15
+  - first:
+      213: -2494333138776506160
+    second: Carrying_Idle_Wood_pine_16
+  - first:
+      213: -487929709792116071
+    second: Carrying_Idle_Wood_pine_17
+  - first:
+      213: -6478546694962342619
+    second: Carrying_Idle_Wood_pine_18
+  - first:
+      213: 1415255555775679237
+    second: Carrying_Idle_Wood_pine_19
+  - first:
+      213: -3711560629431369168
+    second: Carrying_Idle_Wood_pine_20
+  - first:
+      213: -415639580520230889
+    second: Carrying_Idle_Wood_pine_21
+  - first:
+      213: 1273033789770095084
+    second: Carrying_Idle_Wood_pine_22
+  - first:
+      213: 6218481818553623105
+    second: Carrying_Idle_Wood_pine_23
+  - first:
+      213: -974004820795485285
+    second: Carrying_Idle_Wood_pine_24
+  - first:
+      213: 6679234942283413261
+    second: Carrying_Idle_Wood_pine_25
+  - first:
+      213: 7043625166419018836
+    second: Carrying_Idle_Wood_pine_26
+  - first:
+      213: 4679590989258437907
+    second: Carrying_Idle_Wood_pine_27
+  - first:
+      213: -6511133307804156950
+    second: Carrying_Idle_Wood_pine_28
+  - first:
+      213: 1171369495044097776
+    second: Carrying_Idle_Wood_pine_29
+  - first:
+      213: -6938685214060891782
+    second: Carrying_Idle_Wood_pine_30
+  - first:
+      213: -3699993042206236923
+    second: Carrying_Idle_Wood_pine_31
+  - first:
+      213: -3351447131546772676
+    second: Carrying_Idle_Wood_pine_32
+  - first:
+      213: -5954067262809425868
+    second: Carrying_Idle_Wood_pine_33
+  - first:
+      213: -7794792961885066919
+    second: Carrying_Idle_Wood_pine_34
+  - first:
+      213: 3160972793977362128
+    second: Carrying_Idle_Wood_pine_35
+  - first:
+      213: -5545234676354923520
+    second: Carrying_Idle_Wood_pine_36
+  - first:
+      213: -7059454456545643326
+    second: Carrying_Idle_Wood_pine_37
+  - first:
+      213: 5584196488253363513
+    second: Carrying_Idle_Wood_pine_38
+  - first:
+      213: 935968739276297447
+    second: Carrying_Idle_Wood_pine_39
+  - first:
+      213: -2349805367109544135
+    second: Carrying_Idle_Wood_pine_40
+  - first:
+      213: 1393532138902641173
+    second: Carrying_Idle_Wood_pine_41
+  - first:
+      213: 2645639059531929956
+    second: Carrying_Idle_Wood_pine_42
+  - first:
+      213: 3507104628060892428
+    second: Carrying_Idle_Wood_pine_43
+  - first:
+      213: 2080998738377924800
+    second: Carrying_Idle_Wood_pine_44
+  - first:
+      213: -2858863180715106412
+    second: Carrying_Idle_Wood_pine_45
+  - first:
+      213: -3088881488624145186
+    second: Carrying_Idle_Wood_pine_46
+  - first:
+      213: -4229646470489480141
+    second: Carrying_Idle_Wood_pine_47
+  - first:
+      213: -95657187058082376
+    second: Carrying_Idle_Wood_pine_48
+  - first:
+      213: -3689582037409294974
+    second: Carrying_Idle_Wood_pine_49
+  - first:
+      213: 6331637127163145723
+    second: Carrying_Idle_Wood_pine_50
+  - first:
+      213: 2376310326432184453
+    second: Carrying_Idle_Wood_pine_51
+  - first:
+      213: 3266599752874836534
+    second: Carrying_Idle_Wood_pine_52
+  - first:
+      213: -9139670136372558730
+    second: Carrying_Idle_Wood_pine_53
+  - first:
+      213: -7104914962004550595
+    second: Carrying_Idle_Wood_pine_54
+  - first:
+      213: 7673959626983358596
+    second: Carrying_Idle_Wood_pine_55
+  - first:
+      213: 4132450235151801340
+    second: Carrying_Idle_Wood_pine_56
+  - first:
+      213: -926920306808512543
+    second: Carrying_Idle_Wood_pine_57
+  - first:
+      213: -5941237518601191453
+    second: Carrying_Idle_Wood_pine_58
+  - first:
+      213: 8230058541062238460
+    second: Carrying_Idle_Wood_pine_59
+  - first:
+      213: -3932675780520410319
+    second: Carrying_Idle_Wood_pine_60
+  - first:
+      213: 825326153256161879
+    second: Carrying_Idle_Wood_pine_61
+  - first:
+      213: 4528600618700266298
+    second: Carrying_Idle_Wood_pine_62
+  - first:
+      213: 9134340721190633423
+    second: Carrying_Idle_Wood_pine_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18857e5203f5017a0800000000000000
+      internalID: -6408517609349228415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de14c2bd32ddde6f0800000000000000
+      internalID: -653623224828149267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5030af9308aa4bb60800000000000000
+      internalID: 7761015525571429125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31f44da4b6d18400800000000000000
+      internalID: 324776719636820287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95986ebbdcd15fd0800000000000000
+      internalID: -2354858293787585124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4825caf751c2ef7e0800000000000000
+      internalID: -1729896736015756668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3caec21dad7c3c0800000000000000
+      internalID: -4339259124011580468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cda549d47d6425f0800000000000000
+      internalID: -782380086626767419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff98f6758b326a280800000000000000
+      internalID: -9032492727997068801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d7131011f90cc30800000000000000
+      internalID: 4377673733187403110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ea70e4c68ff59f0800000000000000
+      internalID: -477389891428700587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_11
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bd98b9baf34a370800000000000000
+      internalID: 8332855216823720792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_12
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54b7dab01706b810800000000000000
+      internalID: 1780618471107179613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341034dc9200f7fc0800000000000000
+      internalID: -3495074606278835901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_14
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4aff70b1ab0c80f0800000000000000
+      internalID: -1113502218788537778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a0a5310a72249f0800000000000000
+      internalID: -485782241329673629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0cdbfc939526dd0800000000000000
+      internalID: -2494333138776506160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9924b7c93868a39f0800000000000000
+      internalID: -487929709792116071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5251df11b149716a0800000000000000
+      internalID: -6478546694962342619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b486cfd6ff3a310800000000000000
+      internalID: 1415255555775679237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0320b60b543ed7cc0800000000000000
+      internalID: -3711560629431369168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_21
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710df70f00a5b3af0800000000000000
+      internalID: -415639580520230889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9d05aac79baa110800000000000000
+      internalID: 1273033789770095084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_23
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1422d1d544c7c4650800000000000000
+      internalID: 6218481818553623105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_24
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9397f6a6c3ab72f0800000000000000
+      internalID: -974004820795485285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07fd2abac861bc50800000000000000
+      internalID: 6679234942283413261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454486725cbffb160800000000000000
+      internalID: 7043625166419018836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_27
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3153ed0163f31f040800000000000000
+      internalID: 4679590989258437907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_28
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb7e1701cec3a5a0800000000000000
+      internalID: -6511133307804156950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_29
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f605dc795a814010800000000000000
+      internalID: 1171369495044097776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_30
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7135af7f86d4bf90800000000000000
+      internalID: -6938685214060891782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_31
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f51e77eebf6acc0800000000000000
+      internalID: -3699993042206236923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_32
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b17a037944d71d0800000000000000
+      internalID: -3351447131546772676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4383677de57ee5da0800000000000000
+      internalID: -5954067262809425868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_34
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9592029891553d390800000000000000
+      internalID: -7794792961885066919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_35
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6d1b132080edb20800000000000000
+      internalID: 3160972793977362128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_36
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004cfa7117e5b03b0800000000000000
+      internalID: -5545234676354923520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_37
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c47c890397c70e90800000000000000
+      internalID: -7059454456545643326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_38
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9355356ae1d0f7d40800000000000000
+      internalID: 5584196488253363513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_39
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e41f610c9a3dfc00800000000000000
+      internalID: 935968739276297447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_40
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937112ae770d36fd0800000000000000
+      internalID: -2349805367109544135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_41
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ad16ad812d65310800000000000000
+      internalID: 1393532138902641173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_42
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4699c4b15b237b420800000000000000
+      internalID: 2645639059531929956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_43
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0da2b9e31dbba030800000000000000
+      internalID: 3507104628060892428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_44
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c06d03b35131ec10800000000000000
+      internalID: 2080998738377924800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_45
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f580485174358d0800000000000000
+      internalID: -2858863180715106412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_46
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc2745d6a61225d0800000000000000
+      internalID: -3088881488624145186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_47
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3346df8d1f64d45c0800000000000000
+      internalID: -4229646470489480141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd90319b482caef0800000000000000
+      internalID: -95657187058082376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_49
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2859e8a6fa8fbccc0800000000000000
+      internalID: -3689582037409294974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_50
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdeb33bb6e7ed750800000000000000
+      internalID: 6331637127163145723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_51
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5883513d6a95af020800000000000000
+      internalID: 2376310326432184453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_52
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632cb750b2b455d20800000000000000
+      internalID: 3266599752874836534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_53
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674844d5f6e592180800000000000000
+      internalID: -9139670136372558730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_54
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c5c5a4c75466d90800000000000000
+      internalID: -7104914962004550595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_55
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48048035f916f7a60800000000000000
+      internalID: 7673959626983358596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_56
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbd33e1899695930800000000000000
+      internalID: 4132450235151801340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_57
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef159954eae223f0800000000000000
+      internalID: -926920306808512543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_58
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef7d8174fb7c8da0800000000000000
+      internalID: -5941237518601191453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_59
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf03fac63aa073270800000000000000
+      internalID: 8230058541062238460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_60
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1338c4db6345c69c0800000000000000
+      internalID: -3932675780520410319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_61
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7525cac73c5247b00800000000000000
+      internalID: 825326153256161879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_62
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b5e37e442d8de30800000000000000
+      internalID: 4528600618700266298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_pine_63
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcff3f77d72b3ce70800000000000000
+      internalID: 9134340721190633423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Idle_Wood_pine_0: -6408517609349228415
+      Carrying_Idle_Wood_pine_1: -653623224828149267
+      Carrying_Idle_Wood_pine_10: -477389891428700587
+      Carrying_Idle_Wood_pine_11: 8332855216823720792
+      Carrying_Idle_Wood_pine_12: 1780618471107179613
+      Carrying_Idle_Wood_pine_13: -3495074606278835901
+      Carrying_Idle_Wood_pine_14: -1113502218788537778
+      Carrying_Idle_Wood_pine_15: -485782241329673629
+      Carrying_Idle_Wood_pine_16: -2494333138776506160
+      Carrying_Idle_Wood_pine_17: -487929709792116071
+      Carrying_Idle_Wood_pine_18: -6478546694962342619
+      Carrying_Idle_Wood_pine_19: 1415255555775679237
+      Carrying_Idle_Wood_pine_2: 7761015525571429125
+      Carrying_Idle_Wood_pine_20: -3711560629431369168
+      Carrying_Idle_Wood_pine_21: -415639580520230889
+      Carrying_Idle_Wood_pine_22: 1273033789770095084
+      Carrying_Idle_Wood_pine_23: 6218481818553623105
+      Carrying_Idle_Wood_pine_24: -974004820795485285
+      Carrying_Idle_Wood_pine_25: 6679234942283413261
+      Carrying_Idle_Wood_pine_26: 7043625166419018836
+      Carrying_Idle_Wood_pine_27: 4679590989258437907
+      Carrying_Idle_Wood_pine_28: -6511133307804156950
+      Carrying_Idle_Wood_pine_29: 1171369495044097776
+      Carrying_Idle_Wood_pine_3: 324776719636820287
+      Carrying_Idle_Wood_pine_30: -6938685214060891782
+      Carrying_Idle_Wood_pine_31: -3699993042206236923
+      Carrying_Idle_Wood_pine_32: -3351447131546772676
+      Carrying_Idle_Wood_pine_33: -5954067262809425868
+      Carrying_Idle_Wood_pine_34: -7794792961885066919
+      Carrying_Idle_Wood_pine_35: 3160972793977362128
+      Carrying_Idle_Wood_pine_36: -5545234676354923520
+      Carrying_Idle_Wood_pine_37: -7059454456545643326
+      Carrying_Idle_Wood_pine_38: 5584196488253363513
+      Carrying_Idle_Wood_pine_39: 935968739276297447
+      Carrying_Idle_Wood_pine_4: -2354858293787585124
+      Carrying_Idle_Wood_pine_40: -2349805367109544135
+      Carrying_Idle_Wood_pine_41: 1393532138902641173
+      Carrying_Idle_Wood_pine_42: 2645639059531929956
+      Carrying_Idle_Wood_pine_43: 3507104628060892428
+      Carrying_Idle_Wood_pine_44: 2080998738377924800
+      Carrying_Idle_Wood_pine_45: -2858863180715106412
+      Carrying_Idle_Wood_pine_46: -3088881488624145186
+      Carrying_Idle_Wood_pine_47: -4229646470489480141
+      Carrying_Idle_Wood_pine_48: -95657187058082376
+      Carrying_Idle_Wood_pine_49: -3689582037409294974
+      Carrying_Idle_Wood_pine_5: -1729896736015756668
+      Carrying_Idle_Wood_pine_50: 6331637127163145723
+      Carrying_Idle_Wood_pine_51: 2376310326432184453
+      Carrying_Idle_Wood_pine_52: 3266599752874836534
+      Carrying_Idle_Wood_pine_53: -9139670136372558730
+      Carrying_Idle_Wood_pine_54: -7104914962004550595
+      Carrying_Idle_Wood_pine_55: 7673959626983358596
+      Carrying_Idle_Wood_pine_56: 4132450235151801340
+      Carrying_Idle_Wood_pine_57: -926920306808512543
+      Carrying_Idle_Wood_pine_58: -5941237518601191453
+      Carrying_Idle_Wood_pine_59: 8230058541062238460
+      Carrying_Idle_Wood_pine_6: -4339259124011580468
+      Carrying_Idle_Wood_pine_60: -3932675780520410319
+      Carrying_Idle_Wood_pine_61: 825326153256161879
+      Carrying_Idle_Wood_pine_62: 4528600618700266298
+      Carrying_Idle_Wood_pine_63: 9134340721190633423
+      Carrying_Idle_Wood_pine_7: -782380086626767419
+      Carrying_Idle_Wood_pine_8: -9032492727997068801
+      Carrying_Idle_Wood_pine_9: 4377673733187403110
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

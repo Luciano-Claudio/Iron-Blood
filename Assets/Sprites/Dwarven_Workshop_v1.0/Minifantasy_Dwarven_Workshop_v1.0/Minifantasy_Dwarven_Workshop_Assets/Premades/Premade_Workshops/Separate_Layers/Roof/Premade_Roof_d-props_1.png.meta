@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: c7ee7bde7acf97a43bbd5ad3a073ec67
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8371327727902095038
+    second: Premade_Roof_d-props_1_0
+  - first:
+      213: 6734730580962055384
+    second: Premade_Roof_d-props_1_1
+  - first:
+      213: 6875243656679420563
+    second: Premade_Roof_d-props_1_2
+  - first:
+      213: 7904241390499755796
+    second: Premade_Roof_d-props_1_3
+  - first:
+      213: 7436707659427492998
+    second: Premade_Roof_d-props_1_4
+  - first:
+      213: -3092105896911237886
+    second: Premade_Roof_d-props_1_5
+  - first:
+      213: -7978588970373233678
+    second: Premade_Roof_d-props_1_6
+  - first:
+      213: 4465737339089751539
+    second: Premade_Roof_d-props_1_7
+  - first:
+      213: 805211426235709687
+    second: Premade_Roof_d-props_1_8
+  - first:
+      213: -7970228535593634496
+    second: Premade_Roof_d-props_1_9
+  - first:
+      213: -2957907934613201390
+    second: Premade_Roof_d-props_1_10
+  - first:
+      213: -1374897045129748458
+    second: Premade_Roof_d-props_1_11
+  - first:
+      213: 7019222447608121720
+    second: Premade_Roof_d-props_1_12
+  - first:
+      213: 1200603489617545730
+    second: Premade_Roof_d-props_1_13
+  - first:
+      213: 4839922850546421767
+    second: Premade_Roof_d-props_1_14
+  - first:
+      213: -2659417504389138639
+    second: Premade_Roof_d-props_1_15
+  - first:
+      213: -2733632530010644828
+    second: Premade_Roof_d-props_1_16
+  - first:
+      213: -3987014018749478028
+    second: Premade_Roof_d-props_1_17
+  - first:
+      213: -1410898827042707084
+    second: Premade_Roof_d-props_1_18
+  - first:
+      213: -2535983557412711150
+    second: Premade_Roof_d-props_1_19
+  - first:
+      213: 8542424520311938271
+    second: Premade_Roof_d-props_1_20
+  - first:
+      213: 6741005013769310850
+    second: Premade_Roof_d-props_1_21
+  - first:
+      213: -5579876393734207420
+    second: Premade_Roof_d-props_1_22
+  - first:
+      213: -4580578243626474454
+    second: Premade_Roof_d-props_1_23
+  - first:
+      213: -2033068961531763124
+    second: Premade_Roof_d-props_1_24
+  - first:
+      213: 2881992057206122800
+    second: Premade_Roof_d-props_1_25
+  - first:
+      213: 6274214570052085487
+    second: Premade_Roof_d-props_1_26
+  - first:
+      213: -2666387538247217284
+    second: Premade_Roof_d-props_1_27
+  - first:
+      213: 6973285645769281684
+    second: Premade_Roof_d-props_1_28
+  - first:
+      213: 3571419529182386272
+    second: Premade_Roof_d-props_1_29
+  - first:
+      213: 7043783533236257818
+    second: Premade_Roof_d-props_1_30
+  - first:
+      213: -5692023617241891751
+    second: Premade_Roof_d-props_1_31
+  - first:
+      213: 5851562459058684905
+    second: Premade_Roof_d-props_1_32
+  - first:
+      213: 2411957039137053128
+    second: Premade_Roof_d-props_1_33
+  - first:
+      213: -4439691022034052596
+    second: Premade_Roof_d-props_1_34
+  - first:
+      213: -8771704091832362157
+    second: Premade_Roof_d-props_1_35
+  - first:
+      213: -6196837256776544925
+    second: Premade_Roof_d-props_1_36
+  - first:
+      213: 6800460725978701198
+    second: Premade_Roof_d-props_1_37
+  - first:
+      213: 8675249531246859708
+    second: Premade_Roof_d-props_1_38
+  - first:
+      213: -5281727660483683997
+    second: Premade_Roof_d-props_1_39
+  - first:
+      213: -6662901316211961152
+    second: Premade_Roof_d-props_1_40
+  - first:
+      213: 1349840248789147865
+    second: Premade_Roof_d-props_1_41
+  - first:
+      213: -7423249104483123287
+    second: Premade_Roof_d-props_1_42
+  - first:
+      213: -406853687901045247
+    second: Premade_Roof_d-props_1_43
+  - first:
+      213: 3619599176937437028
+    second: Premade_Roof_d-props_1_44
+  - first:
+      213: -7614488162628025640
+    second: Premade_Roof_d-props_1_45
+  - first:
+      213: -1666135170162222884
+    second: Premade_Roof_d-props_1_46
+  - first:
+      213: 1928050768015192095
+    second: Premade_Roof_d-props_1_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_0
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 551
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb67bff173eec2470800000000000000
+      internalID: 8371327727902095038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_1
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 543
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4143008c1967d50800000000000000
+      internalID: 6734730580962055384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 551
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39272acdda5c96f50800000000000000
+      internalID: 6875243656679420563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 487
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4177dab8aa181bd60800000000000000
+      internalID: 7904241390499755796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 535
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6843a92073e743760800000000000000
+      internalID: 7436707659427492998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_5
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 484
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d07b6c112a615d0800000000000000
+      internalID: -3092105896911237886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_6
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 506
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3cd049a9b564190800000000000000
+      internalID: -7978588970373233678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_7
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 504
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd84ac037c79fd30800000000000000
+      internalID: 4465737339089751539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_8
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 507
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f87dd5a68fac2b00800000000000000
+      internalID: 805211426235709687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_9
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 510
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045724dff5f046190800000000000000
+      internalID: -7970228535593634496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_10
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 479
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e1217b76663f6d0800000000000000
+      internalID: -2957907934613201390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_11
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 498
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610ae460c626bece0800000000000000
+      internalID: -1374897045129748458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_12
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 479
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879412d60a9496160800000000000000
+      internalID: 7019222447608121720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 488
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a8fb2438669a010800000000000000
+      internalID: 1200603489617545730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_14
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 487
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7009d17803cda2340800000000000000
+      internalID: 4839922850546421767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_15
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 480
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137fd65bed9d71bd0800000000000000
+      internalID: -2659417504389138639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_16
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 335
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae534682bf201ad0800000000000000
+      internalID: -2733632530010644828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_17
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 327
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b4fe1cfd74ba8c0800000000000000
+      internalID: -3987014018749478028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_18
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 335
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479aa18fdfa7b6ce0800000000000000
+      internalID: -1410898827042707084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 271
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2151f2804606eccd0800000000000000
+      internalID: -2535983557412711150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_20
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 319
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc97cd67d9cc8670800000000000000
+      internalID: 8542424520311938271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_21
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 268
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282d8da385cdc8d50800000000000000
+      internalID: 6741005013769310850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_22
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 290
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44882ecbbfb4092b0800000000000000
+      internalID: -5579876393734207420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_23
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 288
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24e2ca3b548e60c0800000000000000
+      internalID: -4580578243626474454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_24
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 291
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46e6081d8619c3e0800000000000000
+      internalID: -2033068961531763124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_25
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 294
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039a44fa184eef720800000000000000
+      internalID: 2881992057206122800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_26
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 263
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6e884c8ec721750800000000000000
+      internalID: 6274214570052085487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_27
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 282
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f0f3d39a61ffad0800000000000000
+      internalID: -2666387538247217284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_28
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 263
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4909869495616c060800000000000000
+      internalID: 6973285645769281684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 272
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0681fccb32b309130800000000000000
+      internalID: 3571419529182386272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_30
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 271
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a140b4dcdcb80c160800000000000000
+      internalID: 7043783533236257818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_31
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 264
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cb9218daed101b0800000000000000
+      internalID: -5692023617241891751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_32
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 119
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e34439bd0de43150800000000000000
+      internalID: 5851562459058684905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_33
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 111
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c95443e52ef87120800000000000000
+      internalID: 2411957039137053128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_34
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 119
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a5b27b98c0362c0800000000000000
+      internalID: -4439691022034052596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_35
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 55
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bdd7b5a95a44680800000000000000
+      internalID: -8771704091832362157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_36
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 103
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d8de2e859600aa0800000000000000
+      internalID: -6196837256776544925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_37
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 52
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d94f8fff6106e50800000000000000
+      internalID: 6800460725978701198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_38
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 74
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5d7d73c7da46870800000000000000
+      internalID: 8675249531246859708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_39
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 72
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369d3843da883b6b0800000000000000
+      internalID: -5281727660483683997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_40
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 75
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c214b1fd8e9883a0800000000000000
+      internalID: -6662901316211961152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_41
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 78
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d02a94fd889bb210800000000000000
+      internalID: 1349840248789147865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_42
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 47
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9affb0005425bf890800000000000000
+      internalID: -7423249104483123287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_43
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 66
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10eb919f9b09a5af0800000000000000
+      internalID: -406853687901045247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_44
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 47
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467f6a226466b3230800000000000000
+      internalID: 3619599176937437028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 56
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2c3200c57e35690800000000000000
+      internalID: -7614488162628025640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_46
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 55
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd812bae3e2b0e8e0800000000000000
+      internalID: -1666135170162222884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_d-props_1_47
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 48
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10f67055ffc1ca10800000000000000
+      internalID: 1928050768015192095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Premade_Roof_d-props_1_0: 8371327727902095038
+      Premade_Roof_d-props_1_1: 6734730580962055384
+      Premade_Roof_d-props_1_10: -2957907934613201390
+      Premade_Roof_d-props_1_11: -1374897045129748458
+      Premade_Roof_d-props_1_12: 7019222447608121720
+      Premade_Roof_d-props_1_13: 1200603489617545730
+      Premade_Roof_d-props_1_14: 4839922850546421767
+      Premade_Roof_d-props_1_15: -2659417504389138639
+      Premade_Roof_d-props_1_16: -2733632530010644828
+      Premade_Roof_d-props_1_17: -3987014018749478028
+      Premade_Roof_d-props_1_18: -1410898827042707084
+      Premade_Roof_d-props_1_19: -2535983557412711150
+      Premade_Roof_d-props_1_2: 6875243656679420563
+      Premade_Roof_d-props_1_20: 8542424520311938271
+      Premade_Roof_d-props_1_21: 6741005013769310850
+      Premade_Roof_d-props_1_22: -5579876393734207420
+      Premade_Roof_d-props_1_23: -4580578243626474454
+      Premade_Roof_d-props_1_24: -2033068961531763124
+      Premade_Roof_d-props_1_25: 2881992057206122800
+      Premade_Roof_d-props_1_26: 6274214570052085487
+      Premade_Roof_d-props_1_27: -2666387538247217284
+      Premade_Roof_d-props_1_28: 6973285645769281684
+      Premade_Roof_d-props_1_29: 3571419529182386272
+      Premade_Roof_d-props_1_3: 7904241390499755796
+      Premade_Roof_d-props_1_30: 7043783533236257818
+      Premade_Roof_d-props_1_31: -5692023617241891751
+      Premade_Roof_d-props_1_32: 5851562459058684905
+      Premade_Roof_d-props_1_33: 2411957039137053128
+      Premade_Roof_d-props_1_34: -4439691022034052596
+      Premade_Roof_d-props_1_35: -8771704091832362157
+      Premade_Roof_d-props_1_36: -6196837256776544925
+      Premade_Roof_d-props_1_37: 6800460725978701198
+      Premade_Roof_d-props_1_38: 8675249531246859708
+      Premade_Roof_d-props_1_39: -5281727660483683997
+      Premade_Roof_d-props_1_4: 7436707659427492998
+      Premade_Roof_d-props_1_40: -6662901316211961152
+      Premade_Roof_d-props_1_41: 1349840248789147865
+      Premade_Roof_d-props_1_42: -7423249104483123287
+      Premade_Roof_d-props_1_43: -406853687901045247
+      Premade_Roof_d-props_1_44: 3619599176937437028
+      Premade_Roof_d-props_1_45: -7614488162628025640
+      Premade_Roof_d-props_1_46: -1666135170162222884
+      Premade_Roof_d-props_1_47: 1928050768015192095
+      Premade_Roof_d-props_1_5: -3092105896911237886
+      Premade_Roof_d-props_1_6: -7978588970373233678
+      Premade_Roof_d-props_1_7: 4465737339089751539
+      Premade_Roof_d-props_1_8: 805211426235709687
+      Premade_Roof_d-props_1_9: -7970228535593634496
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

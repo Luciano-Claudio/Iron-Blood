@@ -1,0 +1,7 @@
+ICONS
+
+From left to right:
+
+- Dropped Item (in game element)
+- Raw Material Icon (UI element) 
+- Refined Material Icon (UI element)

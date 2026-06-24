@@ -1,0 +1,2561 @@
+fileFormatVersion: 2
+guid: e4c9a2b7af6abd943b3b958dc01c52be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5194112973529524620
+    second: Premade_Roof_e-shadows_0
+  - first:
+      213: -6238214150626529927
+    second: Premade_Roof_e-shadows_1
+  - first:
+      213: -4795226819586697910
+    second: Premade_Roof_e-shadows_2
+  - first:
+      213: 7799597254852984890
+    second: Premade_Roof_e-shadows_3
+  - first:
+      213: 6914611821146097154
+    second: Premade_Roof_e-shadows_4
+  - first:
+      213: 6021475438831841654
+    second: Premade_Roof_e-shadows_5
+  - first:
+      213: 7244786967527113217
+    second: Premade_Roof_e-shadows_6
+  - first:
+      213: 51654309713960265
+    second: Premade_Roof_e-shadows_7
+  - first:
+      213: -5608443441623066524
+    second: Premade_Roof_e-shadows_8
+  - first:
+      213: -5991077001304400134
+    second: Premade_Roof_e-shadows_9
+  - first:
+      213: -1829600238029875540
+    second: Premade_Roof_e-shadows_10
+  - first:
+      213: -6283632216894967381
+    second: Premade_Roof_e-shadows_11
+  - first:
+      213: -8040747156992422638
+    second: Premade_Roof_e-shadows_12
+  - first:
+      213: 4534752591562962666
+    second: Premade_Roof_e-shadows_13
+  - first:
+      213: 2051051476355130148
+    second: Premade_Roof_e-shadows_14
+  - first:
+      213: -8652867041294670259
+    second: Premade_Roof_e-shadows_15
+  - first:
+      213: 3619985151972782532
+    second: Premade_Roof_e-shadows_16
+  - first:
+      213: 3249449675013591969
+    second: Premade_Roof_e-shadows_17
+  - first:
+      213: 5908394007449761351
+    second: Premade_Roof_e-shadows_18
+  - first:
+      213: -2029921275314717005
+    second: Premade_Roof_e-shadows_19
+  - first:
+      213: 5437435559686732779
+    second: Premade_Roof_e-shadows_20
+  - first:
+      213: 6891503885073029854
+    second: Premade_Roof_e-shadows_21
+  - first:
+      213: 3788294508159974488
+    second: Premade_Roof_e-shadows_22
+  - first:
+      213: 2183182043773968008
+    second: Premade_Roof_e-shadows_23
+  - first:
+      213: -1955260438486428618
+    second: Premade_Roof_e-shadows_24
+  - first:
+      213: -7275391316747050335
+    second: Premade_Roof_e-shadows_25
+  - first:
+      213: 1134105103981254086
+    second: Premade_Roof_e-shadows_26
+  - first:
+      213: 5076616133609862596
+    second: Premade_Roof_e-shadows_27
+  - first:
+      213: 159354424769690426
+    second: Premade_Roof_e-shadows_28
+  - first:
+      213: 329995176869754346
+    second: Premade_Roof_e-shadows_29
+  - first:
+      213: 4675722473086154826
+    second: Premade_Roof_e-shadows_30
+  - first:
+      213: -1445552940986772543
+    second: Premade_Roof_e-shadows_31
+  - first:
+      213: 4142956028672712568
+    second: Premade_Roof_e-shadows_32
+  - first:
+      213: 917552638854535181
+    second: Premade_Roof_e-shadows_33
+  - first:
+      213: -1656381506260597255
+    second: Premade_Roof_e-shadows_34
+  - first:
+      213: 5042355407506358118
+    second: Premade_Roof_e-shadows_35
+  - first:
+      213: -2033468955496824865
+    second: Premade_Roof_e-shadows_36
+  - first:
+      213: 1232248899432705448
+    second: Premade_Roof_e-shadows_37
+  - first:
+      213: 6413402417427744088
+    second: Premade_Roof_e-shadows_38
+  - first:
+      213: -6070506323952849956
+    second: Premade_Roof_e-shadows_39
+  - first:
+      213: 706251755205724676
+    second: Premade_Roof_e-shadows_40
+  - first:
+      213: -5211155123031333806
+    second: Premade_Roof_e-shadows_41
+  - first:
+      213: -8585390568901694674
+    second: Premade_Roof_e-shadows_42
+  - first:
+      213: -8615485871133393829
+    second: Premade_Roof_e-shadows_43
+  - first:
+      213: -621626816357782547
+    second: Premade_Roof_e-shadows_44
+  - first:
+      213: 1562462958668397756
+    second: Premade_Roof_e-shadows_45
+  - first:
+      213: -7935238710056486549
+    second: Premade_Roof_e-shadows_46
+  - first:
+      213: -7048859305705038890
+    second: Premade_Roof_e-shadows_47
+  - first:
+      213: -375782350034003337
+    second: Premade_Roof_e-shadows_48
+  - first:
+      213: 3227039030396212632
+    second: Premade_Roof_e-shadows_49
+  - first:
+      213: 4524684369458914302
+    second: Premade_Roof_e-shadows_50
+  - first:
+      213: 6021821840431837749
+    second: Premade_Roof_e-shadows_51
+  - first:
+      213: -582085767654748333
+    second: Premade_Roof_e-shadows_52
+  - first:
+      213: -5937704129336359793
+    second: Premade_Roof_e-shadows_53
+  - first:
+      213: 6130182224334032170
+    second: Premade_Roof_e-shadows_54
+  - first:
+      213: 2403965093467044157
+    second: Premade_Roof_e-shadows_55
+  - first:
+      213: -6070643478982194685
+    second: Premade_Roof_e-shadows_56
+  - first:
+      213: -7727383947845824918
+    second: Premade_Roof_e-shadows_57
+  - first:
+      213: -5747955084882198478
+    second: Premade_Roof_e-shadows_58
+  - first:
+      213: 3880488186938112908
+    second: Premade_Roof_e-shadows_59
+  - first:
+      213: -4808070313292236614
+    second: Premade_Roof_e-shadows_60
+  - first:
+      213: -7339054123464208926
+    second: Premade_Roof_e-shadows_61
+  - first:
+      213: 4367847141597706685
+    second: Premade_Roof_e-shadows_62
+  - first:
+      213: 2201797291686317649
+    second: Premade_Roof_e-shadows_63
+  - first:
+      213: 2829995904832281145
+    second: Premade_Roof_e-shadows_64
+  - first:
+      213: -48514826816474313
+    second: Premade_Roof_e-shadows_65
+  - first:
+      213: 3389513891327482541
+    second: Premade_Roof_e-shadows_66
+  - first:
+      213: 6353620710221735339
+    second: Premade_Roof_e-shadows_67
+  - first:
+      213: -6431677100241238258
+    second: Premade_Roof_e-shadows_68
+  - first:
+      213: -4526423727210010753
+    second: Premade_Roof_e-shadows_69
+  - first:
+      213: 909846431530809512
+    second: Premade_Roof_e-shadows_70
+  - first:
+      213: 3344568493012864008
+    second: Premade_Roof_e-shadows_71
+  - first:
+      213: 2398663973721177037
+    second: Premade_Roof_e-shadows_72
+  - first:
+      213: 2479225227230922536
+    second: Premade_Roof_e-shadows_73
+  - first:
+      213: 4959897545875904311
+    second: Premade_Roof_e-shadows_74
+  - first:
+      213: 692177779156536020
+    second: Premade_Roof_e-shadows_75
+  - first:
+      213: -7812341372566807931
+    second: Premade_Roof_e-shadows_76
+  - first:
+      213: 5722134814427651589
+    second: Premade_Roof_e-shadows_77
+  - first:
+      213: -6135498626641622350
+    second: Premade_Roof_e-shadows_78
+  - first:
+      213: -937722736975684892
+    second: Premade_Roof_e-shadows_79
+  - first:
+      213: 5681345425261291504
+    second: Premade_Roof_e-shadows_80
+  - first:
+      213: -5013726631752371695
+    second: Premade_Roof_e-shadows_81
+  - first:
+      213: 6822875742354642004
+    second: Premade_Roof_e-shadows_82
+  - first:
+      213: 3990972319248565799
+    second: Premade_Roof_e-shadows_83
+  - first:
+      213: -1872139646270107729
+    second: Premade_Roof_e-shadows_84
+  - first:
+      213: 7494037028082731474
+    second: Premade_Roof_e-shadows_85
+  - first:
+      213: 5423071922275496685
+    second: Premade_Roof_e-shadows_86
+  - first:
+      213: 1804087147578321151
+    second: Premade_Roof_e-shadows_87
+  - first:
+      213: -6207760960807962037
+    second: Premade_Roof_e-shadows_88
+  - first:
+      213: -1131466043705028668
+    second: Premade_Roof_e-shadows_89
+  - first:
+      213: 719516525487615855
+    second: Premade_Roof_e-shadows_90
+  - first:
+      213: -4683351085895670549
+    second: Premade_Roof_e-shadows_91
+  - first:
+      213: -7827731060395906222
+    second: Premade_Roof_e-shadows_92
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_0
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 599
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476568925cdcae7b0800000000000000
+      internalID: -5194112973529524620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 559
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d271f08496d69a0800000000000000
+      internalID: -6238214150626529927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_2
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 544
+        width: 6
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45db112d9ee37db0800000000000000
+      internalID: -4795226819586697910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_3
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 559
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30cf96116cbd3c60800000000000000
+      internalID: 7799597254852984890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_4
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 568
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206412fe0d2a5ff50800000000000000
+      internalID: 6914611821146097154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_5
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 552
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671bf4b2204909350800000000000000
+      internalID: 6021475438831841654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 543
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10245d8cc57aa8460800000000000000
+      internalID: 7244786967527113217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_7
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 520
+        width: 6
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d5e9d225387b000800000000000000
+      internalID: 51654309713960265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_8
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 536
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4681037976eca22b0800000000000000
+      internalID: -5608443441623066524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_9
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 487
+        width: 7
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe1d3b953b6bdca0800000000000000
+      internalID: -5991077001304400134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_10
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 464
+        width: 6
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca65243f644fb96e0800000000000000
+      internalID: -1829600238029875540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_11
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 535
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba176c47acd0cc8a0800000000000000
+      internalID: -6283632216894967381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_12
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 504
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d0cbaff07896090800000000000000
+      internalID: -8040747156992422638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_13
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 495
+        width: 6
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae67464b47daeee30800000000000000
+      internalID: 4534752591562962666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 448
+        width: 6
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4232038637cc67c10800000000000000
+      internalID: 2051051476355130148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_15
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 504
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4622f25547dae780800000000000000
+      internalID: -8652867041294670259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_16
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 506
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1b683f055cc3230800000000000000
+      internalID: 3619985151972782532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_17
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 478
+        width: 6
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a391ba534d581d20800000000000000
+      internalID: 3249449675013591969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_18
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 456
+        width: 6
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746f617bb05def150800000000000000
+      internalID: 5908394007449761351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_19
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 496
+        width: 6
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bebbd6ea5544d3e0800000000000000
+      internalID: -2029921275314717005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_20
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 498
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb743035d6a57b40800000000000000
+      internalID: 5437435559686732779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 464
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda900e454a83af50800000000000000
+      internalID: 6891503885073029854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_22
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 448
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c307fa8c9b29430800000000000000
+      internalID: 3788294508159974488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 472
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e982770883c4e10800000000000000
+      internalID: 2183182043773968008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_24
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 448
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63454a89df48dd4e0800000000000000
+      internalID: -1955260438486428618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_25
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 448
+        width: 6
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2a453e42e980b90800000000000000
+      internalID: -7275391316747050335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_26
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 440
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c592c455962dbf00800000000000000
+      internalID: 1134105103981254086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_27
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 464
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c535d8f973c37640800000000000000
+      internalID: 5076616133609862596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_28
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 448
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bb8c94104263200800000000000000
+      internalID: 159354424769690426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_29
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 448
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5f9ee6dd0649400800000000000000
+      internalID: 329995176869754346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_30
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 440
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a487c94f0d083e040800000000000000
+      internalID: 4675722473086154826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_31
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 383
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c35670524d50fbe0800000000000000
+      internalID: -1445552940986772543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_32
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 343
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f9919ce8cbe7930800000000000000
+      internalID: 4142956028672712568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_33
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 328
+        width: 6
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0895ad734dcbbc00800000000000000
+      internalID: 917552638854535181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_34
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 343
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f58fc2cbc95309e0800000000000000
+      internalID: -1656381506260597255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_35
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 352
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fbfaf078b0af540800000000000000
+      internalID: 5042355407506358118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_36
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 336
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfb3dd32caa7c3e0800000000000000
+      internalID: -2033468955496824865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_37
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 327
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad6d8568d3d91110800000000000000
+      internalID: 1232248899432705448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_38
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 304
+        width: 6
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855896cd48bf00950800000000000000
+      internalID: 6413402417427744088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_39
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 320
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb270a49aa31cba0800000000000000
+      internalID: -6070506323952849956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_40
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 271
+        width: 7
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a880fba3c1dc900800000000000000
+      internalID: 706251755205724676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_41
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 248
+        width: 6
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254a24686024ea7b0800000000000000
+      internalID: -5211155123031333806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_42
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 319
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b20a2d3c09ad880800000000000000
+      internalID: -8585390568901694674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_43
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 288
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c72bb3f35af6880800000000000000
+      internalID: -8615485871133393829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_44
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 279
+        width: 6
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb232c34b98f57f0800000000000000
+      internalID: -621626816357782547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_45
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 232
+        width: 6
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcb22a58cbfea510800000000000000
+      internalID: 1562462958668397756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_46
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 288
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6977279f6e50e190800000000000000
+      internalID: -7935238710056486549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_47
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 290
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db9eb3decb6d2e90800000000000000
+      internalID: -7048859305705038890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_48
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 262
+        width: 6
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a9c5191f3f8caf0800000000000000
+      internalID: -375782350034003337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_49
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 240
+        width: 6
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895561b86eeb8cc20800000000000000
+      internalID: 3227039030396212632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_50
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 280
+        width: 6
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef36c521678eace30800000000000000
+      internalID: 4524684369458914302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_51
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 282
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532f0a31f0fc19350800000000000000
+      internalID: 6021821840431837749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_52
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 248
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fc02e04140ce7f0800000000000000
+      internalID: -582085767654748333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_53
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 232
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84498dbd89099da0800000000000000
+      internalID: -5937704129336359793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_54
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 256
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d08d10148c21550800000000000000
+      internalID: 6130182224334032170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_55
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 232
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39ba8804899c5120800000000000000
+      internalID: 2403965093467044157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_56
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 232
+        width: 6
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a89356bedb0cba0800000000000000
+      internalID: -6070643478982194685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_57
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 224
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e0899ad31d2c490800000000000000
+      internalID: -7727383947845824918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_58
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 248
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23042b4ed492b30b0800000000000000
+      internalID: -5747955084882198478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_59
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 232
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bbb8142734ad530800000000000000
+      internalID: 3880488186938112908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_60
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 232
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab87d19368d464db0800000000000000
+      internalID: -4808070313292236614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_61
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 224
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edcc8f9821762a90800000000000000
+      internalID: -7339054123464208926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_62
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 167
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9f22c55d5bd9c30800000000000000
+      internalID: 4367847141597706685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_63
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 127
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e416e98fa5e8e10800000000000000
+      internalID: 2201797291686317649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_64
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 112
+        width: 6
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a965f084a264720800000000000000
+      internalID: 2829995904832281145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_65
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 127
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733b345a504a35ff0800000000000000
+      internalID: -48514826816474313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_66
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 136
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa93ddfce8f90f20800000000000000
+      internalID: 3389513891327482541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_67
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 120
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5e45e7f589c2850800000000000000
+      internalID: 6353620710221735339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_68
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 111
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e074b1af0c71eb6a0800000000000000
+      internalID: -6431677100241238258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_69
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 88
+        width: 6
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f776fb42a99ee21c0800000000000000
+      internalID: -4526423727210010753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_70
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 104
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8fc87428c60ac00800000000000000
+      internalID: 909846431530809512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_71
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 55
+        width: 7
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ccef8f25b4a6e20800000000000000
+      internalID: 3344568493012864008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_72
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 32
+        width: 6
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb7d29ec24c94120800000000000000
+      internalID: 2398663973721177037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_73
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 103
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827494b653af76220800000000000000
+      internalID: 2479225227230922536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_74
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 72
+        width: 6
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737d3401a8815d440800000000000000
+      internalID: 4959897545875904311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_75
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 63
+        width: 6
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da4b08d50c1b9900800000000000000
+      internalID: 692177779156536020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_76
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 16
+        width: 6
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a5118c9ecf49390800000000000000
+      internalID: -7812341372566807931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_77
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 72
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e1bdaeb4b196f40800000000000000
+      internalID: 5722134814427651589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_78
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 74
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba012f91845adaa0800000000000000
+      internalID: -6135498626641622350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_79
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 46
+        width: 6
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ead1c4932a8cf2f0800000000000000
+      internalID: -937722736975684892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_80
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 24
+        width: 6
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f76dfe209138de40800000000000000
+      internalID: 5681345425261291504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_81
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 64
+        width: 6
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112fb79313aab6ab0800000000000000
+      internalID: -5013726631752371695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_82
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 66
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4549da9a659bfae50800000000000000
+      internalID: 6822875742354642004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_83
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 32
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7264a35ed28c26730800000000000000
+      internalID: 3990972319248565799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_84
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 16
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf052629e2d406e0800000000000000
+      internalID: -1872139646270107729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_85
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 40
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9ce70d8fa200860800000000000000
+      internalID: 7494037028082731474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_86
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 16
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de230ae3e2f924b40800000000000000
+      internalID: 5423071922275496685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_87
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 16
+        width: 6
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8e047c3b7690910800000000000000
+      internalID: 1804087147578321151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_88
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 8
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4af088db4a99d9a0800000000000000
+      internalID: -6207760960807962037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_89
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 32
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf8b85c0a93c40f0800000000000000
+      internalID: -1131466043705028668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_90
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 16
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f66bfb77c3cf900800000000000000
+      internalID: 719516525487615855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_91
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 16
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4afb63005610fb0800000000000000
+      internalID: -4683351085895670549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Roof_e-shadows_92
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 8
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b6fcbd2105e5390800000000000000
+      internalID: -7827731060395906222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Premade_Roof_e-shadows_0: -5194112973529524620
+      Premade_Roof_e-shadows_1: -6238214150626529927
+      Premade_Roof_e-shadows_10: -1829600238029875540
+      Premade_Roof_e-shadows_11: -6283632216894967381
+      Premade_Roof_e-shadows_12: -8040747156992422638
+      Premade_Roof_e-shadows_13: 4534752591562962666
+      Premade_Roof_e-shadows_14: 2051051476355130148
+      Premade_Roof_e-shadows_15: -8652867041294670259
+      Premade_Roof_e-shadows_16: 3619985151972782532
+      Premade_Roof_e-shadows_17: 3249449675013591969
+      Premade_Roof_e-shadows_18: 5908394007449761351
+      Premade_Roof_e-shadows_19: -2029921275314717005
+      Premade_Roof_e-shadows_2: -4795226819586697910
+      Premade_Roof_e-shadows_20: 5437435559686732779
+      Premade_Roof_e-shadows_21: 6891503885073029854
+      Premade_Roof_e-shadows_22: 3788294508159974488
+      Premade_Roof_e-shadows_23: 2183182043773968008
+      Premade_Roof_e-shadows_24: -1955260438486428618
+      Premade_Roof_e-shadows_25: -7275391316747050335
+      Premade_Roof_e-shadows_26: 1134105103981254086
+      Premade_Roof_e-shadows_27: 5076616133609862596
+      Premade_Roof_e-shadows_28: 159354424769690426
+      Premade_Roof_e-shadows_29: 329995176869754346
+      Premade_Roof_e-shadows_3: 7799597254852984890
+      Premade_Roof_e-shadows_30: 4675722473086154826
+      Premade_Roof_e-shadows_31: -1445552940986772543
+      Premade_Roof_e-shadows_32: 4142956028672712568
+      Premade_Roof_e-shadows_33: 917552638854535181
+      Premade_Roof_e-shadows_34: -1656381506260597255
+      Premade_Roof_e-shadows_35: 5042355407506358118
+      Premade_Roof_e-shadows_36: -2033468955496824865
+      Premade_Roof_e-shadows_37: 1232248899432705448
+      Premade_Roof_e-shadows_38: 6413402417427744088
+      Premade_Roof_e-shadows_39: -6070506323952849956
+      Premade_Roof_e-shadows_4: 6914611821146097154
+      Premade_Roof_e-shadows_40: 706251755205724676
+      Premade_Roof_e-shadows_41: -5211155123031333806
+      Premade_Roof_e-shadows_42: -8585390568901694674
+      Premade_Roof_e-shadows_43: -8615485871133393829
+      Premade_Roof_e-shadows_44: -621626816357782547
+      Premade_Roof_e-shadows_45: 1562462958668397756
+      Premade_Roof_e-shadows_46: -7935238710056486549
+      Premade_Roof_e-shadows_47: -7048859305705038890
+      Premade_Roof_e-shadows_48: -375782350034003337
+      Premade_Roof_e-shadows_49: 3227039030396212632
+      Premade_Roof_e-shadows_5: 6021475438831841654
+      Premade_Roof_e-shadows_50: 4524684369458914302
+      Premade_Roof_e-shadows_51: 6021821840431837749
+      Premade_Roof_e-shadows_52: -582085767654748333
+      Premade_Roof_e-shadows_53: -5937704129336359793
+      Premade_Roof_e-shadows_54: 6130182224334032170
+      Premade_Roof_e-shadows_55: 2403965093467044157
+      Premade_Roof_e-shadows_56: -6070643478982194685
+      Premade_Roof_e-shadows_57: -7727383947845824918
+      Premade_Roof_e-shadows_58: -5747955084882198478
+      Premade_Roof_e-shadows_59: 3880488186938112908
+      Premade_Roof_e-shadows_6: 7244786967527113217
+      Premade_Roof_e-shadows_60: -4808070313292236614
+      Premade_Roof_e-shadows_61: -7339054123464208926
+      Premade_Roof_e-shadows_62: 4367847141597706685
+      Premade_Roof_e-shadows_63: 2201797291686317649
+      Premade_Roof_e-shadows_64: 2829995904832281145
+      Premade_Roof_e-shadows_65: -48514826816474313
+      Premade_Roof_e-shadows_66: 3389513891327482541
+      Premade_Roof_e-shadows_67: 6353620710221735339
+      Premade_Roof_e-shadows_68: -6431677100241238258
+      Premade_Roof_e-shadows_69: -4526423727210010753
+      Premade_Roof_e-shadows_7: 51654309713960265
+      Premade_Roof_e-shadows_70: 909846431530809512
+      Premade_Roof_e-shadows_71: 3344568493012864008
+      Premade_Roof_e-shadows_72: 2398663973721177037
+      Premade_Roof_e-shadows_73: 2479225227230922536
+      Premade_Roof_e-shadows_74: 4959897545875904311
+      Premade_Roof_e-shadows_75: 692177779156536020
+      Premade_Roof_e-shadows_76: -7812341372566807931
+      Premade_Roof_e-shadows_77: 5722134814427651589
+      Premade_Roof_e-shadows_78: -6135498626641622350
+      Premade_Roof_e-shadows_79: -937722736975684892
+      Premade_Roof_e-shadows_8: -5608443441623066524
+      Premade_Roof_e-shadows_80: 5681345425261291504
+      Premade_Roof_e-shadows_81: -5013726631752371695
+      Premade_Roof_e-shadows_82: 6822875742354642004
+      Premade_Roof_e-shadows_83: 3990972319248565799
+      Premade_Roof_e-shadows_84: -1872139646270107729
+      Premade_Roof_e-shadows_85: 7494037028082731474
+      Premade_Roof_e-shadows_86: 5423071922275496685
+      Premade_Roof_e-shadows_87: 1804087147578321151
+      Premade_Roof_e-shadows_88: -6207760960807962037
+      Premade_Roof_e-shadows_89: -1131466043705028668
+      Premade_Roof_e-shadows_9: -5991077001304400134
+      Premade_Roof_e-shadows_90: 719516525487615855
+      Premade_Roof_e-shadows_91: -4683351085895670549
+      Premade_Roof_e-shadows_92: -7827731060395906222
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

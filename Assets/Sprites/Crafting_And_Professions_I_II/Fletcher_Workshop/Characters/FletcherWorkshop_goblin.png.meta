@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: dbcfdca764b088e4eb85f21a3ad65f38
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7610708483422468685
+    second: FletcherWorkshop_goblin_0
+  - first:
+      213: 8347354120714361296
+    second: FletcherWorkshop_goblin_1
+  - first:
+      213: -6432861678228740832
+    second: FletcherWorkshop_goblin_2
+  - first:
+      213: -9089879180826777417
+    second: FletcherWorkshop_goblin_3
+  - first:
+      213: -5654217002802675309
+    second: FletcherWorkshop_goblin_4
+  - first:
+      213: 4390695229773467994
+    second: FletcherWorkshop_goblin_5
+  - first:
+      213: 340517560243536472
+    second: FletcherWorkshop_goblin_6
+  - first:
+      213: -6197956523581416551
+    second: FletcherWorkshop_goblin_7
+  - first:
+      213: 8710778813751802474
+    second: FletcherWorkshop_goblin_8
+  - first:
+      213: -4431833947589341086
+    second: FletcherWorkshop_goblin_9
+  - first:
+      213: 7220200002288980921
+    second: FletcherWorkshop_goblin_10
+  - first:
+      213: 3854085331269297161
+    second: FletcherWorkshop_goblin_11
+  - first:
+      213: 3589990578837044022
+    second: FletcherWorkshop_goblin_12
+  - first:
+      213: -402046081880258276
+    second: FletcherWorkshop_goblin_13
+  - first:
+      213: -6452988216893935464
+    second: FletcherWorkshop_goblin_14
+  - first:
+      213: 3553187033432019923
+    second: FletcherWorkshop_goblin_15
+  - first:
+      213: 7311425793412057552
+    second: FletcherWorkshop_goblin_16
+  - first:
+      213: 2866660704545088210
+    second: FletcherWorkshop_goblin_17
+  - first:
+      213: 915752330728597189
+    second: FletcherWorkshop_goblin_18
+  - first:
+      213: 5925464409570642105
+    second: FletcherWorkshop_goblin_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FletcherWorkshop_goblin_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ab27bda0bae9960800000000000000
+      internalID: 7610708483422468685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_goblin_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9929bb852c7d370800000000000000
+      internalID: 8347354120714361296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_goblin_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025e3fbe262e9b6a0800000000000000
+      internalID: -6432861678228740832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_goblin_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8e9979b034ad180800000000000000
+      internalID: -9089879180826777417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_goblin_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39109f0e79f2881b0800000000000000
+      internalID: -5654217002802675309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_goblin_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5156af6c02eeec30800000000000000
+      internalID: 4390695229773467994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_goblin_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852491abae2c9b400800000000000000
+      internalID: 340517560243536472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_goblin_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b5d96416f6cf9a0800000000000000
+      internalID: -6197956523581416551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_goblin_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6abcaeed27e2e870800000000000000
+      internalID: 8710778813751802474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_goblin_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2609b6a6186fe72c0800000000000000
+      internalID: -4431833947589341086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_goblin_10
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b395b7d5ad433460800000000000000
+      internalID: 7220200002288980921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_goblin_11
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904a95060367c7530800000000000000
+      internalID: 3854085331269297161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_goblin_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bb49e296532d130800000000000000
+      internalID: 3589990578837044022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_goblin_13
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19803af735ab6af0800000000000000
+      internalID: -402046081880258276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_goblin_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8907148f7616276a0800000000000000
+      internalID: -6452988216893935464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_goblin_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d35d3408c47f4130800000000000000
+      internalID: 3553187033432019923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_goblin_16
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 13
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d944f18507677560800000000000000
+      internalID: 7311425793412057552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_goblin_17
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d22bf9f8bc68c720800000000000000
+      internalID: 2866660704545088210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_goblin_18
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 14
+        width: 41
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6605794e765bc00800000000000000
+      internalID: 915752330728597189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_goblin_19
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b88dad6c7a7b3250800000000000000
+      internalID: 5925464409570642105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FletcherWorkshop_goblin_0: 7610708483422468685
+      FletcherWorkshop_goblin_1: 8347354120714361296
+      FletcherWorkshop_goblin_10: 7220200002288980921
+      FletcherWorkshop_goblin_11: 3854085331269297161
+      FletcherWorkshop_goblin_12: 3589990578837044022
+      FletcherWorkshop_goblin_13: -402046081880258276
+      FletcherWorkshop_goblin_14: -6452988216893935464
+      FletcherWorkshop_goblin_15: 3553187033432019923
+      FletcherWorkshop_goblin_16: 7311425793412057552
+      FletcherWorkshop_goblin_17: 2866660704545088210
+      FletcherWorkshop_goblin_18: 915752330728597189
+      FletcherWorkshop_goblin_19: 5925464409570642105
+      FletcherWorkshop_goblin_2: -6432861678228740832
+      FletcherWorkshop_goblin_3: -9089879180826777417
+      FletcherWorkshop_goblin_4: -5654217002802675309
+      FletcherWorkshop_goblin_5: 4390695229773467994
+      FletcherWorkshop_goblin_6: 340517560243536472
+      FletcherWorkshop_goblin_7: -6197956523581416551
+      FletcherWorkshop_goblin_8: 8710778813751802474
+      FletcherWorkshop_goblin_9: -4431833947589341086
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

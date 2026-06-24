@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 1b620d126401bd94bb0b059e35a703ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7176361447896398552
+    second: WandsAndStavesWork_goblin_0
+  - first:
+      213: -4707598112523623385
+    second: WandsAndStavesWork_goblin_1
+  - first:
+      213: -519695321106499680
+    second: WandsAndStavesWork_goblin_2
+  - first:
+      213: -1187907023140316886
+    second: WandsAndStavesWork_goblin_3
+  - first:
+      213: 4218433209442142946
+    second: WandsAndStavesWork_goblin_4
+  - first:
+      213: -1783681366383591003
+    second: WandsAndStavesWork_goblin_5
+  - first:
+      213: -7274196433025448498
+    second: WandsAndStavesWork_goblin_6
+  - first:
+      213: -7913366254924729055
+    second: WandsAndStavesWork_goblin_7
+  - first:
+      213: 6247654576369440375
+    second: WandsAndStavesWork_goblin_8
+  - first:
+      213: 7301581804981164597
+    second: WandsAndStavesWork_goblin_9
+  - first:
+      213: -3843228747029751763
+    second: WandsAndStavesWork_goblin_10
+  - first:
+      213: -3162210889720104669
+    second: WandsAndStavesWork_goblin_11
+  - first:
+      213: -541371055770953184
+    second: WandsAndStavesWork_goblin_12
+  - first:
+      213: 2213455813895649124
+    second: WandsAndStavesWork_goblin_13
+  - first:
+      213: 7840863428901439370
+    second: WandsAndStavesWork_goblin_14
+  - first:
+      213: -3537491549891015977
+    second: WandsAndStavesWork_goblin_15
+  - first:
+      213: -6608431227927258221
+    second: WandsAndStavesWork_goblin_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WandsAndStavesWork_goblin_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da3ca107be879360800000000000000
+      internalID: 7176361447896398552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_goblin_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724eab565704baeb0800000000000000
+      internalID: -4707598112523623385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_goblin_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7b302ebdba9c8f0800000000000000
+      internalID: -519695321106499680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_goblin_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2997833bd4b38fe0800000000000000
+      internalID: -1187907023140316886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_goblin_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea828d57a2ea8a30800000000000000
+      internalID: 4218433209442142946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_goblin_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a109346f371f37e0800000000000000
+      internalID: -1783681366383591003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_goblin_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5ca1f62ecdc0b90800000000000000
+      internalID: -7274196433025448498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_goblin_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125f5a561531e2290800000000000000
+      internalID: -7913366254924729055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_goblin_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77618d75cb024b650800000000000000
+      internalID: 6247654576369440375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_goblin_9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a9b5857fd645560800000000000000
+      internalID: 7301581804981164597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_goblin_10
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28d8be11db1aaac0800000000000000
+      internalID: -3843228747029751763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_goblin_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3297c5d23f19d14d0800000000000000
+      internalID: -3162210889720104669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_goblin_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a1811a4e9ac78f0800000000000000
+      internalID: -541371055770953184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_goblin_13
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467f549d556c7be10800000000000000
+      internalID: 2213455813895649124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_goblin_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a878504feb750dc60800000000000000
+      internalID: 7840863428901439370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_goblin_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7daccc48d2e48eec0800000000000000
+      internalID: -3537491549891015977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_goblin_16
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b1cc8afc22a44a0800000000000000
+      internalID: -6608431227927258221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WandsAndStavesWork_goblin_0: 7176361447896398552
+      WandsAndStavesWork_goblin_1: -4707598112523623385
+      WandsAndStavesWork_goblin_10: -3843228747029751763
+      WandsAndStavesWork_goblin_11: -3162210889720104669
+      WandsAndStavesWork_goblin_12: -541371055770953184
+      WandsAndStavesWork_goblin_13: 2213455813895649124
+      WandsAndStavesWork_goblin_14: 7840863428901439370
+      WandsAndStavesWork_goblin_15: -3537491549891015977
+      WandsAndStavesWork_goblin_16: -6608431227927258221
+      WandsAndStavesWork_goblin_2: -519695321106499680
+      WandsAndStavesWork_goblin_3: -1187907023140316886
+      WandsAndStavesWork_goblin_4: 4218433209442142946
+      WandsAndStavesWork_goblin_5: -1783681366383591003
+      WandsAndStavesWork_goblin_6: -7274196433025448498
+      WandsAndStavesWork_goblin_7: -7913366254924729055
+      WandsAndStavesWork_goblin_8: 6247654576369440375
+      WandsAndStavesWork_goblin_9: 7301581804981164597
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

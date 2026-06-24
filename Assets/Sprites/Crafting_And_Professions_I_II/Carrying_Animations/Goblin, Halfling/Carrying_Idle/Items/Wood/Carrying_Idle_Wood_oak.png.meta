@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: ea1651b0e7d1c684f85b6a1ee882fa58
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6392928403071316193
+    second: Carrying_Idle_Wood_oak_0
+  - first:
+      213: -1986530356338950543
+    second: Carrying_Idle_Wood_oak_1
+  - first:
+      213: -5947003091189009162
+    second: Carrying_Idle_Wood_oak_2
+  - first:
+      213: -7947846037438863837
+    second: Carrying_Idle_Wood_oak_3
+  - first:
+      213: 135763821419209567
+    second: Carrying_Idle_Wood_oak_4
+  - first:
+      213: 8447736668216187377
+    second: Carrying_Idle_Wood_oak_5
+  - first:
+      213: -2123140418800129844
+    second: Carrying_Idle_Wood_oak_6
+  - first:
+      213: -6821451854361329801
+    second: Carrying_Idle_Wood_oak_7
+  - first:
+      213: 4535298535693784477
+    second: Carrying_Idle_Wood_oak_8
+  - first:
+      213: -5145900666302871537
+    second: Carrying_Idle_Wood_oak_9
+  - first:
+      213: 2230739408794099343
+    second: Carrying_Idle_Wood_oak_10
+  - first:
+      213: -4921613470188139366
+    second: Carrying_Idle_Wood_oak_11
+  - first:
+      213: -49968409595976977
+    second: Carrying_Idle_Wood_oak_12
+  - first:
+      213: -3321041606161411074
+    second: Carrying_Idle_Wood_oak_13
+  - first:
+      213: 4888541155237138894
+    second: Carrying_Idle_Wood_oak_14
+  - first:
+      213: 81096525598726553
+    second: Carrying_Idle_Wood_oak_15
+  - first:
+      213: -2113790504376492209
+    second: Carrying_Idle_Wood_oak_16
+  - first:
+      213: 8035945572122645611
+    second: Carrying_Idle_Wood_oak_17
+  - first:
+      213: -7300824369948995406
+    second: Carrying_Idle_Wood_oak_18
+  - first:
+      213: 7521618337756251093
+    second: Carrying_Idle_Wood_oak_19
+  - first:
+      213: -1526224401105862525
+    second: Carrying_Idle_Wood_oak_20
+  - first:
+      213: -6292680154131704620
+    second: Carrying_Idle_Wood_oak_21
+  - first:
+      213: -507648446275301323
+    second: Carrying_Idle_Wood_oak_22
+  - first:
+      213: -2071971652009203648
+    second: Carrying_Idle_Wood_oak_23
+  - first:
+      213: -3721212869325045559
+    second: Carrying_Idle_Wood_oak_24
+  - first:
+      213: -7160768212139626241
+    second: Carrying_Idle_Wood_oak_25
+  - first:
+      213: -7836419654088785920
+    second: Carrying_Idle_Wood_oak_26
+  - first:
+      213: -1333904638276176298
+    second: Carrying_Idle_Wood_oak_27
+  - first:
+      213: 6656309901704236971
+    second: Carrying_Idle_Wood_oak_28
+  - first:
+      213: 2177421911518344371
+    second: Carrying_Idle_Wood_oak_29
+  - first:
+      213: 8558705057490370773
+    second: Carrying_Idle_Wood_oak_30
+  - first:
+      213: -8850640125320064785
+    second: Carrying_Idle_Wood_oak_31
+  - first:
+      213: -6293114336091060709
+    second: Carrying_Idle_Wood_oak_32
+  - first:
+      213: 5716345831791984086
+    second: Carrying_Idle_Wood_oak_33
+  - first:
+      213: -6664461879010454708
+    second: Carrying_Idle_Wood_oak_34
+  - first:
+      213: -6082799713423355987
+    second: Carrying_Idle_Wood_oak_35
+  - first:
+      213: 1810630734419161816
+    second: Carrying_Idle_Wood_oak_36
+  - first:
+      213: -4556187018508032436
+    second: Carrying_Idle_Wood_oak_37
+  - first:
+      213: 950484563995537993
+    second: Carrying_Idle_Wood_oak_38
+  - first:
+      213: 4822069726867357380
+    second: Carrying_Idle_Wood_oak_39
+  - first:
+      213: -8004142156826139025
+    second: Carrying_Idle_Wood_oak_40
+  - first:
+      213: 1727294575433483441
+    second: Carrying_Idle_Wood_oak_41
+  - first:
+      213: -4642216922761303715
+    second: Carrying_Idle_Wood_oak_42
+  - first:
+      213: 4237491851323146888
+    second: Carrying_Idle_Wood_oak_43
+  - first:
+      213: -962135963169780389
+    second: Carrying_Idle_Wood_oak_44
+  - first:
+      213: -1084720014575582802
+    second: Carrying_Idle_Wood_oak_45
+  - first:
+      213: 2998536818077912725
+    second: Carrying_Idle_Wood_oak_46
+  - first:
+      213: -9084245472655111520
+    second: Carrying_Idle_Wood_oak_47
+  - first:
+      213: 2525745332477476270
+    second: Carrying_Idle_Wood_oak_48
+  - first:
+      213: 2259930475539146689
+    second: Carrying_Idle_Wood_oak_49
+  - first:
+      213: 7065005764232827415
+    second: Carrying_Idle_Wood_oak_50
+  - first:
+      213: -6194041354271369538
+    second: Carrying_Idle_Wood_oak_51
+  - first:
+      213: -5895842270885092520
+    second: Carrying_Idle_Wood_oak_52
+  - first:
+      213: -5602709341691309007
+    second: Carrying_Idle_Wood_oak_53
+  - first:
+      213: 6165738539694101040
+    second: Carrying_Idle_Wood_oak_54
+  - first:
+      213: -1813623974056286784
+    second: Carrying_Idle_Wood_oak_55
+  - first:
+      213: -9219112180086592557
+    second: Carrying_Idle_Wood_oak_56
+  - first:
+      213: 1855656201973313572
+    second: Carrying_Idle_Wood_oak_57
+  - first:
+      213: 6590858231220435073
+    second: Carrying_Idle_Wood_oak_58
+  - first:
+      213: 3269529357267534469
+    second: Carrying_Idle_Wood_oak_59
+  - first:
+      213: 7965692105401391972
+    second: Carrying_Idle_Wood_oak_60
+  - first:
+      213: -1801121432704762439
+    second: Carrying_Idle_Wood_oak_61
+  - first:
+      213: -4249795124132923171
+    second: Carrying_Idle_Wood_oak_62
+  - first:
+      213: -4860477801948363698
+    second: Carrying_Idle_Wood_oak_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fcd641d71c747a0800000000000000
+      internalID: -6392928403071316193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ef2ee7a2d6e64e0800000000000000
+      internalID: -1986530356338950543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f477877230087da0800000000000000
+      internalID: -5947003091189009162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326e5f0732493b190800000000000000
+      internalID: -7947846037438863837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53aa0de97452e100800000000000000
+      internalID: 135763821419209567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f95111edb36c3570800000000000000
+      internalID: 8447736668216187377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8e429b9071982e0800000000000000
+      internalID: -2123140418800129844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ffc581ea55551a0800000000000000
+      internalID: -6821451854361329801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95906a3dfd90fe30800000000000000
+      internalID: 4535298535693784477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08429fab961698b0800000000000000
+      internalID: -5145900666302871537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_10
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e13af5cad25fe10800000000000000
+      internalID: 2230739408794099343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_11
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c88abef9ae2bbb0800000000000000
+      internalID: -4921613470188139366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_12
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe26a080ff97e4ff0800000000000000
+      internalID: -49968409595976977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_13
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3d47c314a49e1d0800000000000000
+      internalID: -3321041606161411074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_14
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec199c3b74697d340800000000000000
+      internalID: 4888541155237138894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_15
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99994d04cdc102100800000000000000
+      internalID: 81096525598726553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f9b015cbe4aa2e0800000000000000
+      internalID: -2113790504376492209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b645ebcebe9658f60800000000000000
+      internalID: 8035945572122645611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_18
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0dcadbae24eaa90800000000000000
+      internalID: -7300824369948995406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d38606e608226860800000000000000
+      internalID: 7521618337756251093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3804d845ef2c1dae0800000000000000
+      internalID: -1526224401105862525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d454d76db8eba8a0800000000000000
+      internalID: -6292680154131704620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_22
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5305bf08d6874f8f0800000000000000
+      internalID: -507648446275301323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_23
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048ef41a2c0ee33e0800000000000000
+      internalID: -2071971652009203648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_24
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0c4467c989b5cc0800000000000000
+      internalID: -3721212869325045559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_25
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0328c1047df9c90800000000000000
+      internalID: -7160768212139626241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_26
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000062ff7d17f3390800000000000000
+      internalID: -7836419654088785920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_27
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6567d4f7cc40d7de0800000000000000
+      internalID: -1333904638276176298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_28
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf0ff5c696ff5c50800000000000000
+      internalID: 6656309901704236971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_29
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4f33a21b1c73e10800000000000000
+      internalID: 2177421911518344371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_30
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d08d0167e0a6c670800000000000000
+      internalID: 8558705057490370773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_31
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe09a7fd2b53c2580800000000000000
+      internalID: -8850640125320064785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_32
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16cf5a8add5aa8a0800000000000000
+      internalID: -6293114336091060709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddfe3d5f3a845f40800000000000000
+      internalID: 5716345831791984086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_34
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43137a1b331383a0800000000000000
+      internalID: -6664461879010454708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_35
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf8d8183ed859ba0800000000000000
+      internalID: -6082799713423355987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_36
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d275705f07a02910800000000000000
+      internalID: 1810630734419161816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_37
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46259fdb0c25c0c0800000000000000
+      internalID: -4556187018508032436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_38
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9423271dcacc03d00800000000000000
+      internalID: 950484563995537993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_39
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cef7104ede6be240800000000000000
+      internalID: 4822069726867357380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_40
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6626aabd139be090800000000000000
+      internalID: -8004142156826139025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_41
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b40c27c34598f710800000000000000
+      internalID: 1727294575433483441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_42
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d596184ed48839fb0800000000000000
+      internalID: -4642216922761303715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_43
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8828ab833689eca30800000000000000
+      internalID: 4237491851323146888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_44
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d03a9607ec5a2f0800000000000000
+      internalID: -962135963169780389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_45
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea14772d4ec42f0f0800000000000000
+      internalID: -1084720014575582802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_46
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ec67f5951fc9920800000000000000
+      internalID: 2998536818077912725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_47
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa01fd7fd64ee180800000000000000
+      internalID: -9084245472655111520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadbb677fff3d0320800000000000000
+      internalID: 2525745332477476270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_49
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7279b3bc2ec5f10800000000000000
+      internalID: 2259930475539146689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_50
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7125f218f41fb0260800000000000000
+      internalID: 7065005764232827415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_51
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6539aa4385a0aa0800000000000000
+      internalID: -6194041354271369538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_52
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853692031b2cd2ea0800000000000000
+      internalID: -5895842270885092520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_53
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1341ab4c98d2f32b0800000000000000
+      internalID: -5602709341691309007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_54
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032176cc88a119550800000000000000
+      internalID: 6165738539694101040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_55
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c52e36ca96b4d6e0800000000000000
+      internalID: -1813623974056286784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_56
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db267131522f0080800000000000000
+      internalID: -9219112180086592557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_57
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420bed7eb7d90c910800000000000000
+      internalID: 1855656201973313572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_58
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1887ad434ae677b50800000000000000
+      internalID: 6590858231220435073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_59
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58284a2b0a3bf5d20800000000000000
+      internalID: 3269529357267534469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_60
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b559c04c2db8e60800000000000000
+      internalID: 7965692105401391972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_61
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd3a4689912107e0800000000000000
+      internalID: -1801121432704762439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_62
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8bed9d9d1b505c0800000000000000
+      internalID: -4249795124132923171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_oak_63
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e444238e03d1c8cb0800000000000000
+      internalID: -4860477801948363698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Idle_Wood_oak_0: -6392928403071316193
+      Carrying_Idle_Wood_oak_1: -1986530356338950543
+      Carrying_Idle_Wood_oak_10: 2230739408794099343
+      Carrying_Idle_Wood_oak_11: -4921613470188139366
+      Carrying_Idle_Wood_oak_12: -49968409595976977
+      Carrying_Idle_Wood_oak_13: -3321041606161411074
+      Carrying_Idle_Wood_oak_14: 4888541155237138894
+      Carrying_Idle_Wood_oak_15: 81096525598726553
+      Carrying_Idle_Wood_oak_16: -2113790504376492209
+      Carrying_Idle_Wood_oak_17: 8035945572122645611
+      Carrying_Idle_Wood_oak_18: -7300824369948995406
+      Carrying_Idle_Wood_oak_19: 7521618337756251093
+      Carrying_Idle_Wood_oak_2: -5947003091189009162
+      Carrying_Idle_Wood_oak_20: -1526224401105862525
+      Carrying_Idle_Wood_oak_21: -6292680154131704620
+      Carrying_Idle_Wood_oak_22: -507648446275301323
+      Carrying_Idle_Wood_oak_23: -2071971652009203648
+      Carrying_Idle_Wood_oak_24: -3721212869325045559
+      Carrying_Idle_Wood_oak_25: -7160768212139626241
+      Carrying_Idle_Wood_oak_26: -7836419654088785920
+      Carrying_Idle_Wood_oak_27: -1333904638276176298
+      Carrying_Idle_Wood_oak_28: 6656309901704236971
+      Carrying_Idle_Wood_oak_29: 2177421911518344371
+      Carrying_Idle_Wood_oak_3: -7947846037438863837
+      Carrying_Idle_Wood_oak_30: 8558705057490370773
+      Carrying_Idle_Wood_oak_31: -8850640125320064785
+      Carrying_Idle_Wood_oak_32: -6293114336091060709
+      Carrying_Idle_Wood_oak_33: 5716345831791984086
+      Carrying_Idle_Wood_oak_34: -6664461879010454708
+      Carrying_Idle_Wood_oak_35: -6082799713423355987
+      Carrying_Idle_Wood_oak_36: 1810630734419161816
+      Carrying_Idle_Wood_oak_37: -4556187018508032436
+      Carrying_Idle_Wood_oak_38: 950484563995537993
+      Carrying_Idle_Wood_oak_39: 4822069726867357380
+      Carrying_Idle_Wood_oak_4: 135763821419209567
+      Carrying_Idle_Wood_oak_40: -8004142156826139025
+      Carrying_Idle_Wood_oak_41: 1727294575433483441
+      Carrying_Idle_Wood_oak_42: -4642216922761303715
+      Carrying_Idle_Wood_oak_43: 4237491851323146888
+      Carrying_Idle_Wood_oak_44: -962135963169780389
+      Carrying_Idle_Wood_oak_45: -1084720014575582802
+      Carrying_Idle_Wood_oak_46: 2998536818077912725
+      Carrying_Idle_Wood_oak_47: -9084245472655111520
+      Carrying_Idle_Wood_oak_48: 2525745332477476270
+      Carrying_Idle_Wood_oak_49: 2259930475539146689
+      Carrying_Idle_Wood_oak_5: 8447736668216187377
+      Carrying_Idle_Wood_oak_50: 7065005764232827415
+      Carrying_Idle_Wood_oak_51: -6194041354271369538
+      Carrying_Idle_Wood_oak_52: -5895842270885092520
+      Carrying_Idle_Wood_oak_53: -5602709341691309007
+      Carrying_Idle_Wood_oak_54: 6165738539694101040
+      Carrying_Idle_Wood_oak_55: -1813623974056286784
+      Carrying_Idle_Wood_oak_56: -9219112180086592557
+      Carrying_Idle_Wood_oak_57: 1855656201973313572
+      Carrying_Idle_Wood_oak_58: 6590858231220435073
+      Carrying_Idle_Wood_oak_59: 3269529357267534469
+      Carrying_Idle_Wood_oak_6: -2123140418800129844
+      Carrying_Idle_Wood_oak_60: 7965692105401391972
+      Carrying_Idle_Wood_oak_61: -1801121432704762439
+      Carrying_Idle_Wood_oak_62: -4249795124132923171
+      Carrying_Idle_Wood_oak_63: -4860477801948363698
+      Carrying_Idle_Wood_oak_7: -6821451854361329801
+      Carrying_Idle_Wood_oak_8: 4535298535693784477
+      Carrying_Idle_Wood_oak_9: -5145900666302871537
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

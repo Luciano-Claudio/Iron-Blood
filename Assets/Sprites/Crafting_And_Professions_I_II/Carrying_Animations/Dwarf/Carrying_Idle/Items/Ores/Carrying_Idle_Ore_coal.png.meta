@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: 4cd32002dcb1e55499c7e2b73e1c36d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2266459374095106821
+    second: Carrying_Idle_Ore_coal_0
+  - first:
+      213: -4154007136581231276
+    second: Carrying_Idle_Ore_coal_1
+  - first:
+      213: 8725073322007546387
+    second: Carrying_Idle_Ore_coal_2
+  - first:
+      213: -1825396847033554343
+    second: Carrying_Idle_Ore_coal_3
+  - first:
+      213: 8550594086814611016
+    second: Carrying_Idle_Ore_coal_4
+  - first:
+      213: -2050157564627829342
+    second: Carrying_Idle_Ore_coal_5
+  - first:
+      213: -1945247216037816431
+    second: Carrying_Idle_Ore_coal_6
+  - first:
+      213: -3079124902873736022
+    second: Carrying_Idle_Ore_coal_7
+  - first:
+      213: 7133962249612715692
+    second: Carrying_Idle_Ore_coal_8
+  - first:
+      213: 833151918399442990
+    second: Carrying_Idle_Ore_coal_9
+  - first:
+      213: 7511884773705686482
+    second: Carrying_Idle_Ore_coal_10
+  - first:
+      213: 1008000940926720729
+    second: Carrying_Idle_Ore_coal_11
+  - first:
+      213: 2118246378833678106
+    second: Carrying_Idle_Ore_coal_12
+  - first:
+      213: -2151748994663520294
+    second: Carrying_Idle_Ore_coal_13
+  - first:
+      213: -7232098365564884766
+    second: Carrying_Idle_Ore_coal_14
+  - first:
+      213: -8340740698194633027
+    second: Carrying_Idle_Ore_coal_15
+  - first:
+      213: -7149151587172997570
+    second: Carrying_Idle_Ore_coal_16
+  - first:
+      213: -2239069845909385549
+    second: Carrying_Idle_Ore_coal_17
+  - first:
+      213: 1656235039039690242
+    second: Carrying_Idle_Ore_coal_18
+  - first:
+      213: -7581848372407808094
+    second: Carrying_Idle_Ore_coal_19
+  - first:
+      213: -5993538757539183637
+    second: Carrying_Idle_Ore_coal_20
+  - first:
+      213: -4456924066708397013
+    second: Carrying_Idle_Ore_coal_21
+  - first:
+      213: -7982260497004853113
+    second: Carrying_Idle_Ore_coal_22
+  - first:
+      213: -3097072971956675412
+    second: Carrying_Idle_Ore_coal_23
+  - first:
+      213: 5375557101766142768
+    second: Carrying_Idle_Ore_coal_24
+  - first:
+      213: 6470712354456439497
+    second: Carrying_Idle_Ore_coal_25
+  - first:
+      213: -2656816937593908493
+    second: Carrying_Idle_Ore_coal_26
+  - first:
+      213: -2744968603947237003
+    second: Carrying_Idle_Ore_coal_27
+  - first:
+      213: 5170373796492996259
+    second: Carrying_Idle_Ore_coal_28
+  - first:
+      213: 7000313282901798867
+    second: Carrying_Idle_Ore_coal_29
+  - first:
+      213: 6285671675567480087
+    second: Carrying_Idle_Ore_coal_30
+  - first:
+      213: 1904794420912838001
+    second: Carrying_Idle_Ore_coal_31
+  - first:
+      213: -4131601235522466400
+    second: Carrying_Idle_Ore_coal_32
+  - first:
+      213: 3037007768918559090
+    second: Carrying_Idle_Ore_coal_33
+  - first:
+      213: -4252086652135219943
+    second: Carrying_Idle_Ore_coal_34
+  - first:
+      213: 682765103123176718
+    second: Carrying_Idle_Ore_coal_35
+  - first:
+      213: -4694614635641919480
+    second: Carrying_Idle_Ore_coal_36
+  - first:
+      213: 871190603727324412
+    second: Carrying_Idle_Ore_coal_37
+  - first:
+      213: 4590285731677098122
+    second: Carrying_Idle_Ore_coal_38
+  - first:
+      213: 2748212411971458159
+    second: Carrying_Idle_Ore_coal_39
+  - first:
+      213: 8332041227728053993
+    second: Carrying_Idle_Ore_coal_40
+  - first:
+      213: 4915939145173416965
+    second: Carrying_Idle_Ore_coal_41
+  - first:
+      213: -7489027920370029952
+    second: Carrying_Idle_Ore_coal_42
+  - first:
+      213: -1217005947234068968
+    second: Carrying_Idle_Ore_coal_43
+  - first:
+      213: -4974058693244771646
+    second: Carrying_Idle_Ore_coal_44
+  - first:
+      213: 7262208350953244865
+    second: Carrying_Idle_Ore_coal_45
+  - first:
+      213: -6686741710053019396
+    second: Carrying_Idle_Ore_coal_46
+  - first:
+      213: 4915568665081743504
+    second: Carrying_Idle_Ore_coal_47
+  - first:
+      213: 4959662656184425015
+    second: Carrying_Idle_Ore_coal_48
+  - first:
+      213: 10612320278987261
+    second: Carrying_Idle_Ore_coal_49
+  - first:
+      213: 8749302848569615425
+    second: Carrying_Idle_Ore_coal_50
+  - first:
+      213: 3570940084651805871
+    second: Carrying_Idle_Ore_coal_51
+  - first:
+      213: -3527507516718609798
+    second: Carrying_Idle_Ore_coal_52
+  - first:
+      213: -6032045504374305093
+    second: Carrying_Idle_Ore_coal_53
+  - first:
+      213: -5544227829410423121
+    second: Carrying_Idle_Ore_coal_54
+  - first:
+      213: -2156913768362852660
+    second: Carrying_Idle_Ore_coal_55
+  - first:
+      213: -1760768156667099282
+    second: Carrying_Idle_Ore_coal_56
+  - first:
+      213: 8252300391715960721
+    second: Carrying_Idle_Ore_coal_57
+  - first:
+      213: -3471037854794656363
+    second: Carrying_Idle_Ore_coal_58
+  - first:
+      213: 8340743003896684176
+    second: Carrying_Idle_Ore_coal_59
+  - first:
+      213: 8969973111972488283
+    second: Carrying_Idle_Ore_coal_60
+  - first:
+      213: -7911440219886009348
+    second: Carrying_Idle_Ore_coal_61
+  - first:
+      213: -7523880715310878171
+    second: Carrying_Idle_Ore_coal_62
+  - first:
+      213: -1723567594258327586
+    second: Carrying_Idle_Ore_coal_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcf43d153beb80e0800000000000000
+      internalID: -2266459374095106821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d53a5a4800a56c0800000000000000
+      internalID: -4154007136581231276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a4f7d75ffa51970800000000000000
+      internalID: 8725073322007546387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a627e2d33eaa6e0800000000000000
+      internalID: -1825396847033554343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846f32bd400d9a670800000000000000
+      internalID: 8550594086814611016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad37c2ae806c83e0800000000000000
+      internalID: -2050157564627829342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1979fbf96f71105e0800000000000000
+      internalID: -1945247216037816431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacd629f630c445d0800000000000000
+      internalID: -3079124902873736022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca666316edce00360800000000000000
+      internalID: 7133962249612715692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20522c6143ff8b00800000000000000
+      internalID: 833151918399442990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_10
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd946ae6639f3860800000000000000
+      internalID: 7511884773705686482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da5231e3832dfd00800000000000000
+      internalID: 1008000940926720729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f832dcbd5856d10800000000000000
+      internalID: 2118246378833678106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_13
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7e64790b37322e0800000000000000
+      internalID: -2151748994663520294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e862d39adc62ab90800000000000000
+      internalID: -7232098365564884766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 113
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe1770b68cbf3c80800000000000000
+      internalID: -8340740698194633027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e362221628c19cc90800000000000000
+      internalID: -7149151587172997570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_17
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be484796d93de0e0800000000000000
+      internalID: -2239069845909385549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_18
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206148e2ef02cf610800000000000000
+      internalID: 1656235039039690242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_19
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af42cd531dd7c690800000000000000
+      internalID: -7581848372407808094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_20
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be34751514ca2dca0800000000000000
+      internalID: -5993538757539183637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_21
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24e4f4dc23d522c0800000000000000
+      internalID: -4456924066708397013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_22
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788846bae50593190800000000000000
+      internalID: -7982260497004853113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_23
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac1f0f7a8cf405d0800000000000000
+      internalID: -3097072971956675412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_24
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b699004b0d99a40800000000000000
+      internalID: 5375557101766142768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca8b136a969cc950800000000000000
+      internalID: 6470712354456439497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f259795217112bd0800000000000000
+      internalID: -2656816937593908493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_27
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57100222999e7e9d0800000000000000
+      internalID: -2744968603947237003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_28
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aee3f7f29bd0c740800000000000000
+      internalID: 5170373796492996259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_29
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df6fcf67db162160800000000000000
+      internalID: 7000313282901798867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_30
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d1fe406113b3750800000000000000
+      internalID: 6285671675567480087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_31
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175d7ac0f603f6a10800000000000000
+      internalID: 1904794420912838001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_32
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad4e13019a99a6c0800000000000000
+      internalID: -4131601235522466400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_33
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2790e7e997e952a20800000000000000
+      internalID: 3037007768918559090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_34
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ddc49e7bd8df4c0800000000000000
+      internalID: -4252086652135219943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_35
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d90bc6e3ba97900800000000000000
+      internalID: 682765103123176718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_36
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808a63dacd069deb0800000000000000
+      internalID: -4694614635641919480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_37
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf443d20d37171c00800000000000000
+      internalID: 871190603727324412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_38
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8058267d88f3bf30800000000000000
+      internalID: 4590285731677098122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_39
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64d0e6c0ac932620800000000000000
+      internalID: 2748212411971458159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_40
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6e3a00a5b51a370800000000000000
+      internalID: 8332041227728053993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_41
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cbf755b9ce83440800000000000000
+      internalID: 4915939145173416965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_42
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08aac55f8c0a11890800000000000000
+      internalID: -7489027920370029952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_43
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8165399f9835c1fe0800000000000000
+      internalID: -1217005947234068968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_44
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2a331e8f798fab0800000000000000
+      internalID: -4974058693244771646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_45
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c88173b40c88c460800000000000000
+      internalID: 7262208350953244865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_46
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf07083b7dbe333a0800000000000000
+      internalID: -6686741710053019396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_47
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 49
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0980d3738ab973440800000000000000
+      internalID: 4915568665081743504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a94ab88e244d440800000000000000
+      internalID: 4959662656184425015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_49
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1c87c59d3b52000800000000000000
+      internalID: 10612320278987261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_50
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1442e41c594cb6970800000000000000
+      internalID: 8749302848569615425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_51
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faccfdb56178e8130800000000000000
+      internalID: 3570940084651805871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_52
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a87736a96cb0fc0800000000000000
+      internalID: -3527507516718609798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_53
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe07caa29ed94ca0800000000000000
+      internalID: -6032045504374305093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_54
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae182ae922fe03b0800000000000000
+      internalID: -5544227829410423121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_55
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce35910b5a1112e0800000000000000
+      internalID: -2156913768362852660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_56
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67c902c0be7097e0800000000000000
+      internalID: -1760768156667099282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_57
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197fb04db7f068270800000000000000
+      internalID: 8252300391715960721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_58
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595d70f167564dfc0800000000000000
+      internalID: -3471037854794656363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_59
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e1616229540c370800000000000000
+      internalID: 8340743003896684176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_60
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54ece7350fbb7c70800000000000000
+      internalID: 8969973111972488283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_61
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3c4ff590be43290800000000000000
+      internalID: -7911440219886009348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_62
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522bb774a5ec59790800000000000000
+      internalID: -7523880715310878171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ore_coal_63
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed79bd5a768a418e0800000000000000
+      internalID: -1723567594258327586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Idle_Ore_coal_0: -2266459374095106821
+      Carrying_Idle_Ore_coal_1: -4154007136581231276
+      Carrying_Idle_Ore_coal_10: 7511884773705686482
+      Carrying_Idle_Ore_coal_11: 1008000940926720729
+      Carrying_Idle_Ore_coal_12: 2118246378833678106
+      Carrying_Idle_Ore_coal_13: -2151748994663520294
+      Carrying_Idle_Ore_coal_14: -7232098365564884766
+      Carrying_Idle_Ore_coal_15: -8340740698194633027
+      Carrying_Idle_Ore_coal_16: -7149151587172997570
+      Carrying_Idle_Ore_coal_17: -2239069845909385549
+      Carrying_Idle_Ore_coal_18: 1656235039039690242
+      Carrying_Idle_Ore_coal_19: -7581848372407808094
+      Carrying_Idle_Ore_coal_2: 8725073322007546387
+      Carrying_Idle_Ore_coal_20: -5993538757539183637
+      Carrying_Idle_Ore_coal_21: -4456924066708397013
+      Carrying_Idle_Ore_coal_22: -7982260497004853113
+      Carrying_Idle_Ore_coal_23: -3097072971956675412
+      Carrying_Idle_Ore_coal_24: 5375557101766142768
+      Carrying_Idle_Ore_coal_25: 6470712354456439497
+      Carrying_Idle_Ore_coal_26: -2656816937593908493
+      Carrying_Idle_Ore_coal_27: -2744968603947237003
+      Carrying_Idle_Ore_coal_28: 5170373796492996259
+      Carrying_Idle_Ore_coal_29: 7000313282901798867
+      Carrying_Idle_Ore_coal_3: -1825396847033554343
+      Carrying_Idle_Ore_coal_30: 6285671675567480087
+      Carrying_Idle_Ore_coal_31: 1904794420912838001
+      Carrying_Idle_Ore_coal_32: -4131601235522466400
+      Carrying_Idle_Ore_coal_33: 3037007768918559090
+      Carrying_Idle_Ore_coal_34: -4252086652135219943
+      Carrying_Idle_Ore_coal_35: 682765103123176718
+      Carrying_Idle_Ore_coal_36: -4694614635641919480
+      Carrying_Idle_Ore_coal_37: 871190603727324412
+      Carrying_Idle_Ore_coal_38: 4590285731677098122
+      Carrying_Idle_Ore_coal_39: 2748212411971458159
+      Carrying_Idle_Ore_coal_4: 8550594086814611016
+      Carrying_Idle_Ore_coal_40: 8332041227728053993
+      Carrying_Idle_Ore_coal_41: 4915939145173416965
+      Carrying_Idle_Ore_coal_42: -7489027920370029952
+      Carrying_Idle_Ore_coal_43: -1217005947234068968
+      Carrying_Idle_Ore_coal_44: -4974058693244771646
+      Carrying_Idle_Ore_coal_45: 7262208350953244865
+      Carrying_Idle_Ore_coal_46: -6686741710053019396
+      Carrying_Idle_Ore_coal_47: 4915568665081743504
+      Carrying_Idle_Ore_coal_48: 4959662656184425015
+      Carrying_Idle_Ore_coal_49: 10612320278987261
+      Carrying_Idle_Ore_coal_5: -2050157564627829342
+      Carrying_Idle_Ore_coal_50: 8749302848569615425
+      Carrying_Idle_Ore_coal_51: 3570940084651805871
+      Carrying_Idle_Ore_coal_52: -3527507516718609798
+      Carrying_Idle_Ore_coal_53: -6032045504374305093
+      Carrying_Idle_Ore_coal_54: -5544227829410423121
+      Carrying_Idle_Ore_coal_55: -2156913768362852660
+      Carrying_Idle_Ore_coal_56: -1760768156667099282
+      Carrying_Idle_Ore_coal_57: 8252300391715960721
+      Carrying_Idle_Ore_coal_58: -3471037854794656363
+      Carrying_Idle_Ore_coal_59: 8340743003896684176
+      Carrying_Idle_Ore_coal_6: -1945247216037816431
+      Carrying_Idle_Ore_coal_60: 8969973111972488283
+      Carrying_Idle_Ore_coal_61: -7911440219886009348
+      Carrying_Idle_Ore_coal_62: -7523880715310878171
+      Carrying_Idle_Ore_coal_63: -1723567594258327586
+      Carrying_Idle_Ore_coal_7: -3079124902873736022
+      Carrying_Idle_Ore_coal_8: 7133962249612715692
+      Carrying_Idle_Ore_coal_9: 833151918399442990
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

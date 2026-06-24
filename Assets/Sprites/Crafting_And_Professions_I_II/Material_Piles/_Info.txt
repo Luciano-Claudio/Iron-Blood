@@ -1,0 +1,15 @@
+- These Material Pile props are compatible with nodes and materials present in Minifantasy - Crafting And Professions I and construction materials present in Minifantasy - Builders.
+- Each Material Pile comes in 6 depletion states.
+
+From top to bottom:
+
+LOGS & TIMBERS:
+Oak, hickory, pine, willow, and birch
+
+ORES & INGOTS:
+Tin, iron, copper, silver, and gold
+
+OTHERS:
+Rocks, coal, stone blocks, bricks, and straw blocks
+
+

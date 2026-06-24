@@ -125,33 +125,41 @@ Physics 2D → Layer Collision Matrix:
 
 ## BLOCO B — Player e Movimentação
 
-### TASK B-1 — Criar Input Action Asset
-
+### TASK B-1 — Criar Input Action Asset ✅
+ 
 | Campo | Valor |
 |---|---|
-| Coluna | A Fazer |
+| Coluna | Concluído |
 | Prioridade | Alta |
 | Bloco | B — Player |
 | Estimativa | 20 min |
 | Depende de | A-2 |
-
-- Project → Create → Input Actions
-- Nomear: `PlayerInputActions`
-- Salvar em `Assets/Settings/`
-- Action Map `Player`:
-
-| Action | Type | Binding |
-|---|---|---|
-| `Move` | Value / Vector2 | WASD + Arrow Keys |
-| `Interact` | Button | F |
-| `Attack` | Button | Mouse Left Button |
-| `ToggleInventory` | Button | Tab |
-| `Sleep` | Button | E (placeholder — cama) |
-
-- Marcar **"Generate C# Class"** → Apply
-
-**Critério de conclusão:** `.inputactions` salvo. Classe C# gerada sem erros.
-
+ 
+Asset: `PlayerInputActions` salvo em `Assets/Settings/`
+Action Map: `Player`
+ 
+| Action | Type | Binding Teclado/Mouse | Binding Gamepad |
+|---|---|---|---|
+| `Move` | Value / Vector2 | WASD + Arrow Keys | Left Stick |
+| `Interact` | Button | E | Button East |
+| `Attack` | Button | Mouse Left Button | Button West |
+| `ToggleInventory` | Button | I | Button North |
+| `Jump` | Button | Space | Button South |
+| `Map` | Button | M | Start |
+| `Previous` | Axis | Scroll Up [Mouse] | Left Trigger |
+| `Next` | Axis | Scroll Down [Mouse] | Right Trigger |
+| `Numbers` | Button | 1, 2, 3, 4, 5, 6, 7, 8, 9 | — |
+ 
+**Decisões de design registradas:**
+- `Interact` cobre tanto interação com NPCs/objetos quanto a cama (dormir) — sem action exclusiva para Sleep
+- `ToggleInventory` em `I` — padrão amplamente reconhecido pelo público-alvo
+- `Previous`/`Next` com scroll do mouse + triggers do controle — percorre a HUD de itens estilo Stardew Valley
+- `Numbers` para seleção direta de slot na HUD — alternativa rápida ao scroll
+- Só `Attack` usa Mouse Left — não há Right Button mapeado por ora
+- `Jump` mantido como placeholder para possível uso futuro (Space / Button South)
+- `Map` em M / Start para abrir o mapa do feudo
+**✅ Concluído**
+ 
 ---
 
 ### TASK B-2 — Criar GameObject Player

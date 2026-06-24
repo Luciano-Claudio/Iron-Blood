@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: 71ae85d05b7028b458e466049f77c925
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1645882095082160943
+    second: Carrying_Idle_halfling_0
+  - first:
+      213: 4927360577157610040
+    second: Carrying_Idle_halfling_1
+  - first:
+      213: 765273186816955103
+    second: Carrying_Idle_halfling_2
+  - first:
+      213: 6045289191217434647
+    second: Carrying_Idle_halfling_3
+  - first:
+      213: 5960627435476439054
+    second: Carrying_Idle_halfling_4
+  - first:
+      213: -1775747636301674350
+    second: Carrying_Idle_halfling_5
+  - first:
+      213: -6738100688393553621
+    second: Carrying_Idle_halfling_6
+  - first:
+      213: 2962270855236827657
+    second: Carrying_Idle_halfling_7
+  - first:
+      213: 5071249268412360517
+    second: Carrying_Idle_halfling_8
+  - first:
+      213: -4557536807987327730
+    second: Carrying_Idle_halfling_9
+  - first:
+      213: 8086544776947454126
+    second: Carrying_Idle_halfling_10
+  - first:
+      213: 3832209979889283459
+    second: Carrying_Idle_halfling_11
+  - first:
+      213: -6481492568489557641
+    second: Carrying_Idle_halfling_12
+  - first:
+      213: -3129027068250701793
+    second: Carrying_Idle_halfling_13
+  - first:
+      213: -9137438405464432578
+    second: Carrying_Idle_halfling_14
+  - first:
+      213: 3354049721968805958
+    second: Carrying_Idle_halfling_15
+  - first:
+      213: -8080434538708487340
+    second: Carrying_Idle_halfling_16
+  - first:
+      213: -8238089012893754371
+    second: Carrying_Idle_halfling_17
+  - first:
+      213: 3429936179029422954
+    second: Carrying_Idle_halfling_18
+  - first:
+      213: 3130341023422677016
+    second: Carrying_Idle_halfling_19
+  - first:
+      213: -2376672299719488690
+    second: Carrying_Idle_halfling_20
+  - first:
+      213: -6821506657211536805
+    second: Carrying_Idle_halfling_21
+  - first:
+      213: 808100923390235776
+    second: Carrying_Idle_halfling_22
+  - first:
+      213: 8631132691072777702
+    second: Carrying_Idle_halfling_23
+  - first:
+      213: -7330042123041127909
+    second: Carrying_Idle_halfling_24
+  - first:
+      213: 4320583137820697671
+    second: Carrying_Idle_halfling_25
+  - first:
+      213: 9002656163681535539
+    second: Carrying_Idle_halfling_26
+  - first:
+      213: -2294103414270834596
+    second: Carrying_Idle_halfling_27
+  - first:
+      213: 3827110662003804868
+    second: Carrying_Idle_halfling_28
+  - first:
+      213: -3767284909187252965
+    second: Carrying_Idle_halfling_29
+  - first:
+      213: -6811859528415294377
+    second: Carrying_Idle_halfling_30
+  - first:
+      213: 4079899077341563678
+    second: Carrying_Idle_halfling_31
+  - first:
+      213: 255076091502938488
+    second: Carrying_Idle_halfling_32
+  - first:
+      213: -1819403018249189274
+    second: Carrying_Idle_halfling_33
+  - first:
+      213: 7589524448604034278
+    second: Carrying_Idle_halfling_34
+  - first:
+      213: 4988549084084069621
+    second: Carrying_Idle_halfling_35
+  - first:
+      213: 7014345628195279038
+    second: Carrying_Idle_halfling_36
+  - first:
+      213: -1057647299468461553
+    second: Carrying_Idle_halfling_37
+  - first:
+      213: 8797069549824536287
+    second: Carrying_Idle_halfling_38
+  - first:
+      213: -8864494799909797587
+    second: Carrying_Idle_halfling_39
+  - first:
+      213: -2380157884057073158
+    second: Carrying_Idle_halfling_40
+  - first:
+      213: 2797709799648933170
+    second: Carrying_Idle_halfling_41
+  - first:
+      213: 4936274967231815785
+    second: Carrying_Idle_halfling_42
+  - first:
+      213: -1138594159302375634
+    second: Carrying_Idle_halfling_43
+  - first:
+      213: -2327652278143403964
+    second: Carrying_Idle_halfling_44
+  - first:
+      213: -6437254661147863329
+    second: Carrying_Idle_halfling_45
+  - first:
+      213: -12232992457544863
+    second: Carrying_Idle_halfling_46
+  - first:
+      213: -3889435322630022089
+    second: Carrying_Idle_halfling_47
+  - first:
+      213: 2410288837907520357
+    second: Carrying_Idle_halfling_48
+  - first:
+      213: 615863769689990603
+    second: Carrying_Idle_halfling_49
+  - first:
+      213: 1174511407496635030
+    second: Carrying_Idle_halfling_50
+  - first:
+      213: -2491405531433420910
+    second: Carrying_Idle_halfling_51
+  - first:
+      213: 7509090111047496678
+    second: Carrying_Idle_halfling_52
+  - first:
+      213: 7447641432294892362
+    second: Carrying_Idle_halfling_53
+  - first:
+      213: -4039806296382202489
+    second: Carrying_Idle_halfling_54
+  - first:
+      213: -3416523394873965626
+    second: Carrying_Idle_halfling_55
+  - first:
+      213: -7435848061878119712
+    second: Carrying_Idle_halfling_56
+  - first:
+      213: -7566186578792256905
+    second: Carrying_Idle_halfling_57
+  - first:
+      213: 8864746341634962302
+    second: Carrying_Idle_halfling_58
+  - first:
+      213: 8966574676254084186
+    second: Carrying_Idle_halfling_59
+  - first:
+      213: -5056216205581411398
+    second: Carrying_Idle_halfling_60
+  - first:
+      213: -8607770345553566095
+    second: Carrying_Idle_halfling_61
+  - first:
+      213: 1566877175613635415
+    second: Carrying_Idle_halfling_62
+  - first:
+      213: -8379359418963181864
+    second: Carrying_Idle_halfling_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f234c839b0957d610800000000000000
+      internalID: 1645882095082160943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a3eb1b650816440800000000000000
+      internalID: 4927360577157610040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd21b58a8ebce9a00800000000000000
+      internalID: 765273186816955103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71016077d7e25e350800000000000000
+      internalID: 6045289191217434647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e005502621768b250800000000000000
+      internalID: 5960627435476439054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298cf7fdee64b57e0800000000000000
+      internalID: -1775747636301674350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29bc77bf157d72a0800000000000000
+      internalID: -6738100688393553621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a32e6e5a91c1920800000000000000
+      internalID: 2962270855236827657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_8
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547ad2b4752b06640800000000000000
+      internalID: 5071249268412360517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0dc5258b6060c0c0800000000000000
+      internalID: -4557536807987327730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea05e3a51ad293070800000000000000
+      internalID: 8086544776947454126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381f10c3caebe2530800000000000000
+      internalID: 3832209979889283459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77188d079dc1d06a0800000000000000
+      internalID: -6481492568489557641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_13
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10c550b5767394d0800000000000000
+      internalID: -3129027068250701793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30e745be2c413180800000000000000
+      internalID: -9137438405464432578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648c2fc937afb8e20800000000000000
+      internalID: 3354049721968805958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453bb7959978cdf80800000000000000
+      internalID: -8080434538708487340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb5b66a0bd6cad80800000000000000
+      internalID: -8238089012893754371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a633f4148c4999f20800000000000000
+      internalID: 3429936179029422954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81001f65394317b20800000000000000
+      internalID: 3130341023422677016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b85b3b22d540fd0800000000000000
+      internalID: -2376672299719488690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_21
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5aa1ff46d32551a0800000000000000
+      internalID: -6821506657211536805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08417512283f63b00800000000000000
+      internalID: 808100923390235776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_23
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed77ace371f7c770800000000000000
+      internalID: 8631132691072777702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_24
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12cb7b7685764a90800000000000000
+      internalID: -7330042123041127909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7446850f87bc5fb30800000000000000
+      internalID: 4320583137820697671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336083f251cdfec70800000000000000
+      internalID: 9002656163681535539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_27
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5840627915b920e0800000000000000
+      internalID: -2294103414270834596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_28
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cac8d4ced0ac1530800000000000000
+      internalID: 3827110662003804868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_29
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d3434c55ae7bbc0800000000000000
+      internalID: -3767284909187252965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_30
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c42f489d96771a0800000000000000
+      internalID: -6811859528415294377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_31
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b43683896be9830800000000000000
+      internalID: 4079899077341563678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_32
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8794ab09a563a8300800000000000000
+      internalID: 255076091502938488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_33
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668cbf1389e20c6e0800000000000000
+      internalID: -1819403018249189274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_34
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e49f256648635960800000000000000
+      internalID: 7589524448604034278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_35
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f46e6526f2ea3540800000000000000
+      internalID: 4988549084084069621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_36
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0d46c6f26f75160800000000000000
+      internalID: 7014345628195279038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_37
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0af781826b7251f0800000000000000
+      internalID: -1057647299468461553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_38
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde62bd8528751a70800000000000000
+      internalID: 8797069549824536287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_39
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21441212fcfaf480800000000000000
+      internalID: -8864494799909797587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_40
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9ce6bd30bf7fed0800000000000000
+      internalID: -2380157884057073158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_41
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23534b86d3673d620800000000000000
+      internalID: 2797709799648933170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_42
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960618fddeb218440800000000000000
+      internalID: 4936274967231815785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_43
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27827705a6e230f0800000000000000
+      internalID: -1138594159302375634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_44
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44832a0e59482bfd0800000000000000
+      internalID: -2327652278143403964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_45
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6dd81edf64aa6a0800000000000000
+      internalID: -6437254661147863329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_46
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b270e782a84dff0800000000000000
+      internalID: -12232992457544863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_47
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cd7c16e23f50ac0800000000000000
+      internalID: -3889435322630022089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_48
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b11958de0137120800000000000000
+      internalID: 2410288837907520357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_49
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5a766e5dcfb8800800000000000000
+      internalID: 615863769689990603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_50
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6922b7cf6e3bc4010800000000000000
+      internalID: 1174511407496635030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_51
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297b7738edfbc6dd0800000000000000
+      internalID: -2491405531433420910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_52
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3726fcba5a53860800000000000000
+      internalID: 7509090111047496678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_53
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a432b626c665b5760800000000000000
+      internalID: 7447641432294892362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_54
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d90c6c399bfe7c0800000000000000
+      internalID: -4039806296382202489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_55
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3c9b9e2121690d0800000000000000
+      internalID: -3416523394873965626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_56
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e25af3a59f8ec890800000000000000
+      internalID: -7435848061878119712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_57
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a62cad4618ff690800000000000000
+      internalID: -7566186578792256905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_58
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73781d84d7e50b70800000000000000
+      internalID: 8864746341634962302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_59
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c432e392caf6c70800000000000000
+      internalID: 8966574676254084186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_60
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb1fb66626b4d9b0800000000000000
+      internalID: -5056216205581411398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_61
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17663250a7e0b8880800000000000000
+      internalID: -8607770345553566095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_62
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b3e135d7aaeb510800000000000000
+      internalID: 1566877175613635415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_halfling_63
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de3063110986bb80800000000000000
+      internalID: -8379359418963181864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Idle_halfling_0: 1645882095082160943
+      Carrying_Idle_halfling_1: 4927360577157610040
+      Carrying_Idle_halfling_10: 8086544776947454126
+      Carrying_Idle_halfling_11: 3832209979889283459
+      Carrying_Idle_halfling_12: -6481492568489557641
+      Carrying_Idle_halfling_13: -3129027068250701793
+      Carrying_Idle_halfling_14: -9137438405464432578
+      Carrying_Idle_halfling_15: 3354049721968805958
+      Carrying_Idle_halfling_16: -8080434538708487340
+      Carrying_Idle_halfling_17: -8238089012893754371
+      Carrying_Idle_halfling_18: 3429936179029422954
+      Carrying_Idle_halfling_19: 3130341023422677016
+      Carrying_Idle_halfling_2: 765273186816955103
+      Carrying_Idle_halfling_20: -2376672299719488690
+      Carrying_Idle_halfling_21: -6821506657211536805
+      Carrying_Idle_halfling_22: 808100923390235776
+      Carrying_Idle_halfling_23: 8631132691072777702
+      Carrying_Idle_halfling_24: -7330042123041127909
+      Carrying_Idle_halfling_25: 4320583137820697671
+      Carrying_Idle_halfling_26: 9002656163681535539
+      Carrying_Idle_halfling_27: -2294103414270834596
+      Carrying_Idle_halfling_28: 3827110662003804868
+      Carrying_Idle_halfling_29: -3767284909187252965
+      Carrying_Idle_halfling_3: 6045289191217434647
+      Carrying_Idle_halfling_30: -6811859528415294377
+      Carrying_Idle_halfling_31: 4079899077341563678
+      Carrying_Idle_halfling_32: 255076091502938488
+      Carrying_Idle_halfling_33: -1819403018249189274
+      Carrying_Idle_halfling_34: 7589524448604034278
+      Carrying_Idle_halfling_35: 4988549084084069621
+      Carrying_Idle_halfling_36: 7014345628195279038
+      Carrying_Idle_halfling_37: -1057647299468461553
+      Carrying_Idle_halfling_38: 8797069549824536287
+      Carrying_Idle_halfling_39: -8864494799909797587
+      Carrying_Idle_halfling_4: 5960627435476439054
+      Carrying_Idle_halfling_40: -2380157884057073158
+      Carrying_Idle_halfling_41: 2797709799648933170
+      Carrying_Idle_halfling_42: 4936274967231815785
+      Carrying_Idle_halfling_43: -1138594159302375634
+      Carrying_Idle_halfling_44: -2327652278143403964
+      Carrying_Idle_halfling_45: -6437254661147863329
+      Carrying_Idle_halfling_46: -12232992457544863
+      Carrying_Idle_halfling_47: -3889435322630022089
+      Carrying_Idle_halfling_48: 2410288837907520357
+      Carrying_Idle_halfling_49: 615863769689990603
+      Carrying_Idle_halfling_5: -1775747636301674350
+      Carrying_Idle_halfling_50: 1174511407496635030
+      Carrying_Idle_halfling_51: -2491405531433420910
+      Carrying_Idle_halfling_52: 7509090111047496678
+      Carrying_Idle_halfling_53: 7447641432294892362
+      Carrying_Idle_halfling_54: -4039806296382202489
+      Carrying_Idle_halfling_55: -3416523394873965626
+      Carrying_Idle_halfling_56: -7435848061878119712
+      Carrying_Idle_halfling_57: -7566186578792256905
+      Carrying_Idle_halfling_58: 8864746341634962302
+      Carrying_Idle_halfling_59: 8966574676254084186
+      Carrying_Idle_halfling_6: -6738100688393553621
+      Carrying_Idle_halfling_60: -5056216205581411398
+      Carrying_Idle_halfling_61: -8607770345553566095
+      Carrying_Idle_halfling_62: 1566877175613635415
+      Carrying_Idle_halfling_63: -8379359418963181864
+      Carrying_Idle_halfling_7: 2962270855236827657
+      Carrying_Idle_halfling_8: 5071249268412360517
+      Carrying_Idle_halfling_9: -4557536807987327730
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

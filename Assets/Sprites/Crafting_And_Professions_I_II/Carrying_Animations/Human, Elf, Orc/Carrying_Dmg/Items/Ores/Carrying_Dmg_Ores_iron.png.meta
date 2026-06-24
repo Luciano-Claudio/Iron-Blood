@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: c97c68311aaddef4eaa3d9e10a8641fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3266758864694588932
+    second: Carrying_Dmg_Ores_iron_0
+  - first:
+      213: 5189649130179115104
+    second: Carrying_Dmg_Ores_iron_1
+  - first:
+      213: -4051210984638201156
+    second: Carrying_Dmg_Ores_iron_2
+  - first:
+      213: 3302209058809952515
+    second: Carrying_Dmg_Ores_iron_3
+  - first:
+      213: -6512556052203909069
+    second: Carrying_Dmg_Ores_iron_4
+  - first:
+      213: -6184364673915331279
+    second: Carrying_Dmg_Ores_iron_5
+  - first:
+      213: 1178034308935764569
+    second: Carrying_Dmg_Ores_iron_6
+  - first:
+      213: 4248820647971057111
+    second: Carrying_Dmg_Ores_iron_7
+  - first:
+      213: -5381968790391991060
+    second: Carrying_Dmg_Ores_iron_8
+  - first:
+      213: 2003321555646716060
+    second: Carrying_Dmg_Ores_iron_9
+  - first:
+      213: -916032452734742683
+    second: Carrying_Dmg_Ores_iron_10
+  - first:
+      213: 7985569706295888797
+    second: Carrying_Dmg_Ores_iron_11
+  - first:
+      213: 2172654700716744007
+    second: Carrying_Dmg_Ores_iron_12
+  - first:
+      213: -3370308012856046722
+    second: Carrying_Dmg_Ores_iron_13
+  - first:
+      213: -7506196333337229797
+    second: Carrying_Dmg_Ores_iron_14
+  - first:
+      213: -5323617976042978089
+    second: Carrying_Dmg_Ores_iron_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_iron_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 115
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9450fde142aa2d0800000000000000
+      internalID: -3266758864694588932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_iron_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 115
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068bd315366550840800000000000000
+      internalID: 5189649130179115104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_iron_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 114
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2ca7ed21537c7c0800000000000000
+      internalID: -4051210984638201156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_iron_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 114
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309b174a4adc3dd20800000000000000
+      internalID: 3302209058809952515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_iron_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 83
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330d09886c0ce95a0800000000000000
+      internalID: -6512556052203909069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_iron_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 83
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d5dc16819bc2aa0800000000000000
+      internalID: -6184364673915331279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_iron_6
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 82
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ac65566f7395010800000000000000
+      internalID: 1178034308935764569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_iron_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 82
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dde8ac3ed7d6fa30800000000000000
+      internalID: 4248820647971057111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_iron_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 51
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4527866e76f45b0800000000000000
+      internalID: -5381968790391991060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_iron_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 51
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98943f375a3dcb10800000000000000
+      internalID: 2003321555646716060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_iron_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 50
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f040c66599943f0800000000000000
+      internalID: -916032452734742683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_iron_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 50
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b03e8a65172de60800000000000000
+      internalID: 7985569706295888797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_iron_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 19
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74dddc760f1d62e10800000000000000
+      internalID: 2172654700716744007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_iron_13
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 19
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b001e08b24a31d0800000000000000
+      internalID: -3370308012856046722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_iron_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 18
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1648115432a4d790800000000000000
+      internalID: -7506196333337229797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_iron_15
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 18
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4031218a5be16b0800000000000000
+      internalID: -5323617976042978089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Dmg_Ores_iron_0: -3266758864694588932
+      Carrying_Dmg_Ores_iron_1: 5189649130179115104
+      Carrying_Dmg_Ores_iron_10: -916032452734742683
+      Carrying_Dmg_Ores_iron_11: 7985569706295888797
+      Carrying_Dmg_Ores_iron_12: 2172654700716744007
+      Carrying_Dmg_Ores_iron_13: -3370308012856046722
+      Carrying_Dmg_Ores_iron_14: -7506196333337229797
+      Carrying_Dmg_Ores_iron_15: -5323617976042978089
+      Carrying_Dmg_Ores_iron_2: -4051210984638201156
+      Carrying_Dmg_Ores_iron_3: 3302209058809952515
+      Carrying_Dmg_Ores_iron_4: -6512556052203909069
+      Carrying_Dmg_Ores_iron_5: -6184364673915331279
+      Carrying_Dmg_Ores_iron_6: 1178034308935764569
+      Carrying_Dmg_Ores_iron_7: 4248820647971057111
+      Carrying_Dmg_Ores_iron_8: -5381968790391991060
+      Carrying_Dmg_Ores_iron_9: 2003321555646716060
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
