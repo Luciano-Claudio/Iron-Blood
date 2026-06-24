@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: 8ff714487d347fe4f83721d56473dd11
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6572015248134483656
+    second: Carrying_Idle_Ingot_gold_0
+  - first:
+      213: -1765924755232605188
+    second: Carrying_Idle_Ingot_gold_1
+  - first:
+      213: 2732769154018550603
+    second: Carrying_Idle_Ingot_gold_2
+  - first:
+      213: -666442830456372286
+    second: Carrying_Idle_Ingot_gold_3
+  - first:
+      213: -1930499682590293077
+    second: Carrying_Idle_Ingot_gold_4
+  - first:
+      213: -7021545760501060262
+    second: Carrying_Idle_Ingot_gold_5
+  - first:
+      213: 6446346544564379942
+    second: Carrying_Idle_Ingot_gold_6
+  - first:
+      213: -5090581286120147238
+    second: Carrying_Idle_Ingot_gold_7
+  - first:
+      213: -7416355342890920157
+    second: Carrying_Idle_Ingot_gold_8
+  - first:
+      213: -8560052262811031165
+    second: Carrying_Idle_Ingot_gold_9
+  - first:
+      213: -3614822624186764199
+    second: Carrying_Idle_Ingot_gold_10
+  - first:
+      213: -2065736351430077597
+    second: Carrying_Idle_Ingot_gold_11
+  - first:
+      213: 616382772457400004
+    second: Carrying_Idle_Ingot_gold_12
+  - first:
+      213: 8654840966827385270
+    second: Carrying_Idle_Ingot_gold_13
+  - first:
+      213: 7149336944872300762
+    second: Carrying_Idle_Ingot_gold_14
+  - first:
+      213: 2666922024542858700
+    second: Carrying_Idle_Ingot_gold_15
+  - first:
+      213: 7416511249295768488
+    second: Carrying_Idle_Ingot_gold_16
+  - first:
+      213: -4089198253172661234
+    second: Carrying_Idle_Ingot_gold_17
+  - first:
+      213: 6519567417711520966
+    second: Carrying_Idle_Ingot_gold_18
+  - first:
+      213: -7110860111994286044
+    second: Carrying_Idle_Ingot_gold_19
+  - first:
+      213: -3055054326710994196
+    second: Carrying_Idle_Ingot_gold_20
+  - first:
+      213: 1739843071291196352
+    second: Carrying_Idle_Ingot_gold_21
+  - first:
+      213: 5973832677092632477
+    second: Carrying_Idle_Ingot_gold_22
+  - first:
+      213: -5424942973639672988
+    second: Carrying_Idle_Ingot_gold_23
+  - first:
+      213: -7573287943597889189
+    second: Carrying_Idle_Ingot_gold_24
+  - first:
+      213: 7541360348408200418
+    second: Carrying_Idle_Ingot_gold_25
+  - first:
+      213: 873335613659820994
+    second: Carrying_Idle_Ingot_gold_26
+  - first:
+      213: -5831374762232319697
+    second: Carrying_Idle_Ingot_gold_27
+  - first:
+      213: -6142633612227665312
+    second: Carrying_Idle_Ingot_gold_28
+  - first:
+      213: 2040745521090422058
+    second: Carrying_Idle_Ingot_gold_29
+  - first:
+      213: 1482781039127825545
+    second: Carrying_Idle_Ingot_gold_30
+  - first:
+      213: -4695654305669635716
+    second: Carrying_Idle_Ingot_gold_31
+  - first:
+      213: 4936373834461849725
+    second: Carrying_Idle_Ingot_gold_32
+  - first:
+      213: -6792338311058030222
+    second: Carrying_Idle_Ingot_gold_33
+  - first:
+      213: 1785248378942466859
+    second: Carrying_Idle_Ingot_gold_34
+  - first:
+      213: -8321634105159033493
+    second: Carrying_Idle_Ingot_gold_35
+  - first:
+      213: -2267984496074197086
+    second: Carrying_Idle_Ingot_gold_36
+  - first:
+      213: -2452112745320379082
+    second: Carrying_Idle_Ingot_gold_37
+  - first:
+      213: 4284754827030498997
+    second: Carrying_Idle_Ingot_gold_38
+  - first:
+      213: 5243091455284837426
+    second: Carrying_Idle_Ingot_gold_39
+  - first:
+      213: 3918751510359282744
+    second: Carrying_Idle_Ingot_gold_40
+  - first:
+      213: -5689733310922163373
+    second: Carrying_Idle_Ingot_gold_41
+  - first:
+      213: -1600556617927632166
+    second: Carrying_Idle_Ingot_gold_42
+  - first:
+      213: -6299096725798874209
+    second: Carrying_Idle_Ingot_gold_43
+  - first:
+      213: -7175240028214780773
+    second: Carrying_Idle_Ingot_gold_44
+  - first:
+      213: 6423051662307338961
+    second: Carrying_Idle_Ingot_gold_45
+  - first:
+      213: 5532088070494704573
+    second: Carrying_Idle_Ingot_gold_46
+  - first:
+      213: 7684957942567476416
+    second: Carrying_Idle_Ingot_gold_47
+  - first:
+      213: -3908283839752548211
+    second: Carrying_Idle_Ingot_gold_48
+  - first:
+      213: -6962447399069855261
+    second: Carrying_Idle_Ingot_gold_49
+  - first:
+      213: -3630325316579972494
+    second: Carrying_Idle_Ingot_gold_50
+  - first:
+      213: -6155749093492059759
+    second: Carrying_Idle_Ingot_gold_51
+  - first:
+      213: 4235352094187319270
+    second: Carrying_Idle_Ingot_gold_52
+  - first:
+      213: -8522119659582063641
+    second: Carrying_Idle_Ingot_gold_53
+  - first:
+      213: 8684794448879652151
+    second: Carrying_Idle_Ingot_gold_54
+  - first:
+      213: 4498895189819595843
+    second: Carrying_Idle_Ingot_gold_55
+  - first:
+      213: 2450665269787149219
+    second: Carrying_Idle_Ingot_gold_56
+  - first:
+      213: 3100536918892298153
+    second: Carrying_Idle_Ingot_gold_57
+  - first:
+      213: -6491928172741615304
+    second: Carrying_Idle_Ingot_gold_58
+  - first:
+      213: 500133324333583679
+    second: Carrying_Idle_Ingot_gold_59
+  - first:
+      213: 4385138037754288736
+    second: Carrying_Idle_Ingot_gold_60
+  - first:
+      213: 4371720771411158274
+    second: Carrying_Idle_Ingot_gold_61
+  - first:
+      213: -7494138121508086070
+    second: Carrying_Idle_Ingot_gold_62
+  - first:
+      213: -2155782272044301679
+    second: Carrying_Idle_Ingot_gold_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 113
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8315e7ca3f28bc4a0800000000000000
+      internalID: -6572015248134483656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 113
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbba489acc2e77e0800000000000000
+      internalID: -1765924755232605188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 113
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43ab66111fbce520800000000000000
+      internalID: 2732769154018550603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 113
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3ca83d6c150c6f0800000000000000
+      internalID: -666442830456372286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 113
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3833454cc7535e0800000000000000
+      internalID: -1930499682590293077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 113
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d2f2325557e8e90800000000000000
+      internalID: -7021545760501060262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 113
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621a3df2706067950800000000000000
+      internalID: 6446346544564379942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_7
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 113
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6be849a4f9a59b0800000000000000
+      internalID: -5090581286120147238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 113
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3279ae2fb10d31990800000000000000
+      internalID: -7416355342890920157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 113
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389ae50f1d5943980800000000000000
+      internalID: -8560052262811031165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_10
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 113
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9547d47b9f195ddc0800000000000000
+      internalID: -3614822624186764199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_11
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 113
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363166dabb70553e0800000000000000
+      internalID: -2065736351430077597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_12
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 113
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c66ef5add4dd8800800000000000000
+      internalID: 616382772457400004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_13
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 113
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1ae37010c2c1870800000000000000
+      internalID: 8654840966827385270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_14
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 113
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0a0b2921c873360800000000000000
+      internalID: 7149336944872300762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_15
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 113
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccdea8c837fc20520800000000000000
+      internalID: 2666922024542858700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 81
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab76f6dfadbce660800000000000000
+      internalID: 7416511249295768488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_17
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 81
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04ee7faadf3047c0800000000000000
+      internalID: -4089198253172661234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_18
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 81
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cce7e536082a7a50800000000000000
+      internalID: 6519567417711520966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 81
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42016113766215d90800000000000000
+      internalID: -7110860111994286044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_20
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 81
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceafed6b6444a95d0800000000000000
+      internalID: -3055054326710994196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_21
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 81
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c38c352e0a252810800000000000000
+      internalID: 1739843071291196352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 81
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d972ab94b2157e250800000000000000
+      internalID: 5973832677092632477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_23
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 81
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bb479ab1bb6b4b0800000000000000
+      internalID: -5424942973639672988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_24
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 81
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5969148db646e690800000000000000
+      internalID: -7573287943597889189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_25
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 81
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec3612f74b48a860800000000000000
+      internalID: 7541360348408200418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 81
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c334ed0d16be1c00800000000000000
+      internalID: 873335613659820994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_27
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 81
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21f6f8bc8bc21fa0800000000000000
+      internalID: -5831374762232319697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_28
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 81
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062abc5564bf0caa0800000000000000
+      internalID: -6142633612227665312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_29
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 81
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2560953d3f225c10800000000000000
+      internalID: 2040745521090422058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_30
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 81
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c06ecbf75e39410800000000000000
+      internalID: 1482781039127825545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_31
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 81
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c712782a94fa5deb0800000000000000
+      internalID: -4695654305669635716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_32
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 49
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78a1a139d5818440800000000000000
+      internalID: 4936373834461849725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_33
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 49
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2710c1f1b44ccb1a0800000000000000
+      internalID: -6792338311058030222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_34
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 49
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b25b621f976c810800000000000000
+      internalID: 1785248378942466859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_35
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 49
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d583b0fdd938c80800000000000000
+      internalID: -8321634105159033493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_36
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 49
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7776bfd108680e0800000000000000
+      internalID: -2267984496074197086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_37
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 49
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d88f1337858fdd0800000000000000
+      internalID: -2452112745320379082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_38
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 49
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be0bc640d1867b30800000000000000
+      internalID: 4284754827030498997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_39
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 49
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c732546e333c840800000000000000
+      internalID: 5243091455284837426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_40
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 49
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8349df97cb3326630800000000000000
+      internalID: 3918751510359282744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_41
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 49
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bf6cff2b10a01b0800000000000000
+      internalID: -5689733310922163373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_42
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 49
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adad5817c3ea9c9e0800000000000000
+      internalID: -1600556617927632166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_43
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 49
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f939ee4e6ec1598a0800000000000000
+      internalID: -6299096725798874209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_44
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 49
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c181cd53d6c6c90800000000000000
+      internalID: -7175240028214780773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_45
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 49
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1daafc1c473432950800000000000000
+      internalID: 6423051662307338961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_46
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 49
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db353043acce5cc40800000000000000
+      internalID: 5532088070494704573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_47
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 49
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc1d88388476aa60800000000000000
+      internalID: 7684957942567476416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 17
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8056220e8cf2c9c0800000000000000
+      internalID: -3908283839752548211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_49
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 17
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1591baafa606f90800000000000000
+      internalID: -6962447399069855261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_50
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 17
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27aa42edb5e7e9dc0800000000000000
+      internalID: -3630325316579972494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_51
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 17
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19119f360d2629aa0800000000000000
+      internalID: -6155749093492059759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_52
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 17
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efedb03a4ef6ca30800000000000000
+      internalID: 4235352094187319270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_53
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 17
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebfc3d52595bb980800000000000000
+      internalID: -8522119659582063641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_54
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 17
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d81c88986968870800000000000000
+      internalID: 8684794448879652151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_55
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 17
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c19e6c6594f6e30800000000000000
+      internalID: 4498895189819595843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_56
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 17
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3cc052413820220800000000000000
+      internalID: 2450665269787149219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_57
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 17
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af3f8f76e1570b20800000000000000
+      internalID: 3100536918892298153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_58
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 17
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831a26cf8b908e5a0800000000000000
+      internalID: -6491928172741615304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_59
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 17
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d0d31db94d0f600800000000000000
+      internalID: 500133324333583679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_60
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 17
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ad567dfc32bdc30800000000000000
+      internalID: 4385138037754288736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_61
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 17
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205a82511e87bac30800000000000000
+      internalID: 4371720771411158274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_62
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 17
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace1cc985197ff790800000000000000
+      internalID: -7494138121508086070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_gold_63
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 17
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19207b5027f1512e0800000000000000
+      internalID: -2155782272044301679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Idle_Ingot_gold_0: -6572015248134483656
+      Carrying_Idle_Ingot_gold_1: -1765924755232605188
+      Carrying_Idle_Ingot_gold_10: -3614822624186764199
+      Carrying_Idle_Ingot_gold_11: -2065736351430077597
+      Carrying_Idle_Ingot_gold_12: 616382772457400004
+      Carrying_Idle_Ingot_gold_13: 8654840966827385270
+      Carrying_Idle_Ingot_gold_14: 7149336944872300762
+      Carrying_Idle_Ingot_gold_15: 2666922024542858700
+      Carrying_Idle_Ingot_gold_16: 7416511249295768488
+      Carrying_Idle_Ingot_gold_17: -4089198253172661234
+      Carrying_Idle_Ingot_gold_18: 6519567417711520966
+      Carrying_Idle_Ingot_gold_19: -7110860111994286044
+      Carrying_Idle_Ingot_gold_2: 2732769154018550603
+      Carrying_Idle_Ingot_gold_20: -3055054326710994196
+      Carrying_Idle_Ingot_gold_21: 1739843071291196352
+      Carrying_Idle_Ingot_gold_22: 5973832677092632477
+      Carrying_Idle_Ingot_gold_23: -5424942973639672988
+      Carrying_Idle_Ingot_gold_24: -7573287943597889189
+      Carrying_Idle_Ingot_gold_25: 7541360348408200418
+      Carrying_Idle_Ingot_gold_26: 873335613659820994
+      Carrying_Idle_Ingot_gold_27: -5831374762232319697
+      Carrying_Idle_Ingot_gold_28: -6142633612227665312
+      Carrying_Idle_Ingot_gold_29: 2040745521090422058
+      Carrying_Idle_Ingot_gold_3: -666442830456372286
+      Carrying_Idle_Ingot_gold_30: 1482781039127825545
+      Carrying_Idle_Ingot_gold_31: -4695654305669635716
+      Carrying_Idle_Ingot_gold_32: 4936373834461849725
+      Carrying_Idle_Ingot_gold_33: -6792338311058030222
+      Carrying_Idle_Ingot_gold_34: 1785248378942466859
+      Carrying_Idle_Ingot_gold_35: -8321634105159033493
+      Carrying_Idle_Ingot_gold_36: -2267984496074197086
+      Carrying_Idle_Ingot_gold_37: -2452112745320379082
+      Carrying_Idle_Ingot_gold_38: 4284754827030498997
+      Carrying_Idle_Ingot_gold_39: 5243091455284837426
+      Carrying_Idle_Ingot_gold_4: -1930499682590293077
+      Carrying_Idle_Ingot_gold_40: 3918751510359282744
+      Carrying_Idle_Ingot_gold_41: -5689733310922163373
+      Carrying_Idle_Ingot_gold_42: -1600556617927632166
+      Carrying_Idle_Ingot_gold_43: -6299096725798874209
+      Carrying_Idle_Ingot_gold_44: -7175240028214780773
+      Carrying_Idle_Ingot_gold_45: 6423051662307338961
+      Carrying_Idle_Ingot_gold_46: 5532088070494704573
+      Carrying_Idle_Ingot_gold_47: 7684957942567476416
+      Carrying_Idle_Ingot_gold_48: -3908283839752548211
+      Carrying_Idle_Ingot_gold_49: -6962447399069855261
+      Carrying_Idle_Ingot_gold_5: -7021545760501060262
+      Carrying_Idle_Ingot_gold_50: -3630325316579972494
+      Carrying_Idle_Ingot_gold_51: -6155749093492059759
+      Carrying_Idle_Ingot_gold_52: 4235352094187319270
+      Carrying_Idle_Ingot_gold_53: -8522119659582063641
+      Carrying_Idle_Ingot_gold_54: 8684794448879652151
+      Carrying_Idle_Ingot_gold_55: 4498895189819595843
+      Carrying_Idle_Ingot_gold_56: 2450665269787149219
+      Carrying_Idle_Ingot_gold_57: 3100536918892298153
+      Carrying_Idle_Ingot_gold_58: -6491928172741615304
+      Carrying_Idle_Ingot_gold_59: 500133324333583679
+      Carrying_Idle_Ingot_gold_6: 6446346544564379942
+      Carrying_Idle_Ingot_gold_60: 4385138037754288736
+      Carrying_Idle_Ingot_gold_61: 4371720771411158274
+      Carrying_Idle_Ingot_gold_62: -7494138121508086070
+      Carrying_Idle_Ingot_gold_63: -2155782272044301679
+      Carrying_Idle_Ingot_gold_7: -5090581286120147238
+      Carrying_Idle_Ingot_gold_8: -7416355342890920157
+      Carrying_Idle_Ingot_gold_9: -8560052262811031165
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

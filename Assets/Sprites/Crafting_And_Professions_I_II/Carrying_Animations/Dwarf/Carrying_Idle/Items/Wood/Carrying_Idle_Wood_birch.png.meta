@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: 6e1daedad48c89a419365d12c4cdf5f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8968415598315058718
+    second: Carrying_Idle_Wood_birch_0
+  - first:
+      213: -2619241902003015027
+    second: Carrying_Idle_Wood_birch_1
+  - first:
+      213: 3758927902636905906
+    second: Carrying_Idle_Wood_birch_2
+  - first:
+      213: 3209394895406874486
+    second: Carrying_Idle_Wood_birch_3
+  - first:
+      213: -5413736537105065600
+    second: Carrying_Idle_Wood_birch_4
+  - first:
+      213: 4067099212213755085
+    second: Carrying_Idle_Wood_birch_5
+  - first:
+      213: 6625704621677381716
+    second: Carrying_Idle_Wood_birch_6
+  - first:
+      213: 1965322209779757100
+    second: Carrying_Idle_Wood_birch_7
+  - first:
+      213: -9070811620515979153
+    second: Carrying_Idle_Wood_birch_8
+  - first:
+      213: -9028067858407021408
+    second: Carrying_Idle_Wood_birch_9
+  - first:
+      213: -4824948917447809763
+    second: Carrying_Idle_Wood_birch_10
+  - first:
+      213: -4103784906292413145
+    second: Carrying_Idle_Wood_birch_11
+  - first:
+      213: -4403934598221056767
+    second: Carrying_Idle_Wood_birch_12
+  - first:
+      213: 1509899556555755970
+    second: Carrying_Idle_Wood_birch_13
+  - first:
+      213: -6561002206395477710
+    second: Carrying_Idle_Wood_birch_14
+  - first:
+      213: -2120153582633594156
+    second: Carrying_Idle_Wood_birch_15
+  - first:
+      213: 3857086480443512785
+    second: Carrying_Idle_Wood_birch_16
+  - first:
+      213: -7794962258338707701
+    second: Carrying_Idle_Wood_birch_17
+  - first:
+      213: 1290380500011366301
+    second: Carrying_Idle_Wood_birch_18
+  - first:
+      213: 8083929006843965285
+    second: Carrying_Idle_Wood_birch_19
+  - first:
+      213: 2519530959068428669
+    second: Carrying_Idle_Wood_birch_20
+  - first:
+      213: 4180466287872458965
+    second: Carrying_Idle_Wood_birch_21
+  - first:
+      213: 7606554190028213020
+    second: Carrying_Idle_Wood_birch_22
+  - first:
+      213: 5247539127051072214
+    second: Carrying_Idle_Wood_birch_23
+  - first:
+      213: -1346908935675522085
+    second: Carrying_Idle_Wood_birch_24
+  - first:
+      213: 7265553155760820034
+    second: Carrying_Idle_Wood_birch_25
+  - first:
+      213: 2194879566900412035
+    second: Carrying_Idle_Wood_birch_26
+  - first:
+      213: -544636247521869132
+    second: Carrying_Idle_Wood_birch_27
+  - first:
+      213: -5307814545151108320
+    second: Carrying_Idle_Wood_birch_28
+  - first:
+      213: -686477653478354746
+    second: Carrying_Idle_Wood_birch_29
+  - first:
+      213: -1877808625835622810
+    second: Carrying_Idle_Wood_birch_30
+  - first:
+      213: 4587250377277254239
+    second: Carrying_Idle_Wood_birch_31
+  - first:
+      213: -8379364312728028468
+    second: Carrying_Idle_Wood_birch_32
+  - first:
+      213: 6681891694857032950
+    second: Carrying_Idle_Wood_birch_33
+  - first:
+      213: 8804115524830478270
+    second: Carrying_Idle_Wood_birch_34
+  - first:
+      213: 6291156395914879590
+    second: Carrying_Idle_Wood_birch_35
+  - first:
+      213: -4238572587336206592
+    second: Carrying_Idle_Wood_birch_36
+  - first:
+      213: -3428918719570228483
+    second: Carrying_Idle_Wood_birch_37
+  - first:
+      213: -8684032289678343417
+    second: Carrying_Idle_Wood_birch_38
+  - first:
+      213: 7930110360624746951
+    second: Carrying_Idle_Wood_birch_39
+  - first:
+      213: 8406783354032609736
+    second: Carrying_Idle_Wood_birch_40
+  - first:
+      213: -4441676431916181072
+    second: Carrying_Idle_Wood_birch_41
+  - first:
+      213: -5865072087902832385
+    second: Carrying_Idle_Wood_birch_42
+  - first:
+      213: -577217401796339976
+    second: Carrying_Idle_Wood_birch_43
+  - first:
+      213: 4909617011830977892
+    second: Carrying_Idle_Wood_birch_44
+  - first:
+      213: 6971049262056265167
+    second: Carrying_Idle_Wood_birch_45
+  - first:
+      213: 6518697495063115852
+    second: Carrying_Idle_Wood_birch_46
+  - first:
+      213: 2972426530335421755
+    second: Carrying_Idle_Wood_birch_47
+  - first:
+      213: 4547984196322282073
+    second: Carrying_Idle_Wood_birch_48
+  - first:
+      213: 2194855466408665153
+    second: Carrying_Idle_Wood_birch_49
+  - first:
+      213: 8491409659708168309
+    second: Carrying_Idle_Wood_birch_50
+  - first:
+      213: -3610672454103167759
+    second: Carrying_Idle_Wood_birch_51
+  - first:
+      213: 6346436876188250574
+    second: Carrying_Idle_Wood_birch_52
+  - first:
+      213: 1285938425136051392
+    second: Carrying_Idle_Wood_birch_53
+  - first:
+      213: -3783744234899981699
+    second: Carrying_Idle_Wood_birch_54
+  - first:
+      213: -1263108559625760886
+    second: Carrying_Idle_Wood_birch_55
+  - first:
+      213: 5681694047846612368
+    second: Carrying_Idle_Wood_birch_56
+  - first:
+      213: -6646411390811365673
+    second: Carrying_Idle_Wood_birch_57
+  - first:
+      213: -1199914689975587521
+    second: Carrying_Idle_Wood_birch_58
+  - first:
+      213: 2620828647742973097
+    second: Carrying_Idle_Wood_birch_59
+  - first:
+      213: -4856000937472589341
+    second: Carrying_Idle_Wood_birch_60
+  - first:
+      213: -529920807031470248
+    second: Carrying_Idle_Wood_birch_61
+  - first:
+      213: -7682489259831816689
+    second: Carrying_Idle_Wood_birch_62
+  - first:
+      213: 2002746075462508540
+    second: Carrying_Idle_Wood_birch_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1634af4876367c70800000000000000
+      internalID: 8968415598315058718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82ba421e5596abd0800000000000000
+      internalID: -2619241902003015027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b51af403056a2430800000000000000
+      internalID: 3758927902636905906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fbdac37af0a8c20800000000000000
+      internalID: 3209394895406874486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0899c4e7d4b8ed4b0800000000000000
+      internalID: -5413736537105065600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc95426f2d317830800000000000000
+      internalID: 4067099212213755085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4588eb9bf3b33fb50800000000000000
+      internalID: 6625704621677381716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20bb17132a364b10800000000000000
+      internalID: 1965322209779757100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60e8aee3e00e1280800000000000000
+      internalID: -9070811620515979153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a427839d1cd5b280800000000000000
+      internalID: -9028067858407021408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d152e14f5865a0db0800000000000000
+      internalID: -4824948917447809763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_11
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72db4d9de5d6c07c0800000000000000
+      internalID: -4103784906292413145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_12
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1053bf2e0d412e2c0800000000000000
+      internalID: -4403934598221056767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1960b95ad34f410800000000000000
+      internalID: 1509899556555755970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_14
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2315e354143a2f4a0800000000000000
+      internalID: -6561002206395477710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d25ad5bc83b392e0800000000000000
+      internalID: -2120153582633594156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d71cced7bf178530800000000000000
+      internalID: 3857086480443512785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b070522202bb2d390800000000000000
+      internalID: -7794962258338707701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97b4406a3a58e110800000000000000
+      internalID: 1290380500011366301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f296ae992ef2070800000000000000
+      internalID: 8083929006843965285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d797fd7ee0c27f220800000000000000
+      internalID: 2519530959068428669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_21
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0422490fff30a30800000000000000
+      internalID: 4180466287872458965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b046d0cb8ef8960800000000000000
+      internalID: 7606554190028213020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_23
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2b7dc880103d840800000000000000
+      internalID: 5247539127051072214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_24
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3d2409571de4de0800000000000000
+      internalID: -1346908935675522085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f87d1c91e64d460800000000000000
+      internalID: 7265553155760820034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ebcdd4657c57e10800000000000000
+      internalID: 2194879566900412035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_27
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b248aee7301178f0800000000000000
+      internalID: -544636247521869132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_28
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bdd9e0bcad656b0800000000000000
+      internalID: -5307814545151108320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_29
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0dd2616342976f0800000000000000
+      internalID: -686477653478354746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_30
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e37ecf00fa0f5e0800000000000000
+      internalID: -1877808625835622810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_31
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a2361f9ef29af30800000000000000
+      internalID: 4587250377277254239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_32
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccab248ad8486bb80800000000000000
+      internalID: -8379364312728028468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f416932819dabc50800000000000000
+      internalID: 6681891694857032950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_34
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfb5037c608e2a70800000000000000
+      internalID: 8804115524830478270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_35
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662eeecf86dae4750800000000000000
+      internalID: 6291156395914879590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_36
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007fd1150b09d25c0800000000000000
+      internalID: -4238572587336206592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_37
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa445c77980a60d0800000000000000
+      internalID: -3428918719570228483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_38
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70343bb74ae1c7780800000000000000
+      internalID: -8684032289678343417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_39
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1dea28b596d0e60800000000000000
+      internalID: 7930110360624746951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_40
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9d7c06be4eaa470800000000000000
+      internalID: 8406783354032609736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_41
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9596471defb52c0800000000000000
+      internalID: -4441676431916181072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_42
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff83e72b2041b9ea0800000000000000
+      internalID: -5865072087902832385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_43
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f651cfc4df4df7f0800000000000000
+      internalID: -577217401796339976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_44
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4657665f8a6722440800000000000000
+      internalID: 4909617011830977892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_45
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5dc90ae542eb060800000000000000
+      internalID: 6971049262056265167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_46
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48377f85d0177a50800000000000000
+      internalID: 6518697495063115852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_47
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35f6954e2e204920800000000000000
+      internalID: 2972426530335421755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a41e1c78fad1f30800000000000000
+      internalID: 4547984196322282073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_49
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140ec98fa61b57e10800000000000000
+      internalID: 2194855466408665153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_50
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578d939981c87d570800000000000000
+      internalID: 8491409659708168309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_51
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc84ec788054edc0800000000000000
+      internalID: -3610672454103167759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_52
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1f3aac6b2131850800000000000000
+      internalID: 6346436876188250574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_53
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c472493f2298d110800000000000000
+      internalID: 1285938425136051392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_54
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7abadd5aa07d7bc0800000000000000
+      internalID: -3783744234899981699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_55
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f40ce0579887ee0800000000000000
+      internalID: -1263108559625760886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_56
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d395432ae69de40800000000000000
+      internalID: 5681694047846612368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_57
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de1493ed0433c3a0800000000000000
+      internalID: -6646411390811365673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_58
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d6b3762fb095fe0800000000000000
+      internalID: -1199914689975587521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_59
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a423e5f4cd0f5420800000000000000
+      internalID: 2620828647742973097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_60
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e18bf420e40c9cb0800000000000000
+      internalID: -4856000937472589341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_61
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8570dc965d755a8f0800000000000000
+      internalID: -529920807031470248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_62
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e88f4c8b0526590800000000000000
+      internalID: -7682489259831816689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_birch_63
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff1043d1fe2bcb10800000000000000
+      internalID: 2002746075462508540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Idle_Wood_birch_0: 8968415598315058718
+      Carrying_Idle_Wood_birch_1: -2619241902003015027
+      Carrying_Idle_Wood_birch_10: -4824948917447809763
+      Carrying_Idle_Wood_birch_11: -4103784906292413145
+      Carrying_Idle_Wood_birch_12: -4403934598221056767
+      Carrying_Idle_Wood_birch_13: 1509899556555755970
+      Carrying_Idle_Wood_birch_14: -6561002206395477710
+      Carrying_Idle_Wood_birch_15: -2120153582633594156
+      Carrying_Idle_Wood_birch_16: 3857086480443512785
+      Carrying_Idle_Wood_birch_17: -7794962258338707701
+      Carrying_Idle_Wood_birch_18: 1290380500011366301
+      Carrying_Idle_Wood_birch_19: 8083929006843965285
+      Carrying_Idle_Wood_birch_2: 3758927902636905906
+      Carrying_Idle_Wood_birch_20: 2519530959068428669
+      Carrying_Idle_Wood_birch_21: 4180466287872458965
+      Carrying_Idle_Wood_birch_22: 7606554190028213020
+      Carrying_Idle_Wood_birch_23: 5247539127051072214
+      Carrying_Idle_Wood_birch_24: -1346908935675522085
+      Carrying_Idle_Wood_birch_25: 7265553155760820034
+      Carrying_Idle_Wood_birch_26: 2194879566900412035
+      Carrying_Idle_Wood_birch_27: -544636247521869132
+      Carrying_Idle_Wood_birch_28: -5307814545151108320
+      Carrying_Idle_Wood_birch_29: -686477653478354746
+      Carrying_Idle_Wood_birch_3: 3209394895406874486
+      Carrying_Idle_Wood_birch_30: -1877808625835622810
+      Carrying_Idle_Wood_birch_31: 4587250377277254239
+      Carrying_Idle_Wood_birch_32: -8379364312728028468
+      Carrying_Idle_Wood_birch_33: 6681891694857032950
+      Carrying_Idle_Wood_birch_34: 8804115524830478270
+      Carrying_Idle_Wood_birch_35: 6291156395914879590
+      Carrying_Idle_Wood_birch_36: -4238572587336206592
+      Carrying_Idle_Wood_birch_37: -3428918719570228483
+      Carrying_Idle_Wood_birch_38: -8684032289678343417
+      Carrying_Idle_Wood_birch_39: 7930110360624746951
+      Carrying_Idle_Wood_birch_4: -5413736537105065600
+      Carrying_Idle_Wood_birch_40: 8406783354032609736
+      Carrying_Idle_Wood_birch_41: -4441676431916181072
+      Carrying_Idle_Wood_birch_42: -5865072087902832385
+      Carrying_Idle_Wood_birch_43: -577217401796339976
+      Carrying_Idle_Wood_birch_44: 4909617011830977892
+      Carrying_Idle_Wood_birch_45: 6971049262056265167
+      Carrying_Idle_Wood_birch_46: 6518697495063115852
+      Carrying_Idle_Wood_birch_47: 2972426530335421755
+      Carrying_Idle_Wood_birch_48: 4547984196322282073
+      Carrying_Idle_Wood_birch_49: 2194855466408665153
+      Carrying_Idle_Wood_birch_5: 4067099212213755085
+      Carrying_Idle_Wood_birch_50: 8491409659708168309
+      Carrying_Idle_Wood_birch_51: -3610672454103167759
+      Carrying_Idle_Wood_birch_52: 6346436876188250574
+      Carrying_Idle_Wood_birch_53: 1285938425136051392
+      Carrying_Idle_Wood_birch_54: -3783744234899981699
+      Carrying_Idle_Wood_birch_55: -1263108559625760886
+      Carrying_Idle_Wood_birch_56: 5681694047846612368
+      Carrying_Idle_Wood_birch_57: -6646411390811365673
+      Carrying_Idle_Wood_birch_58: -1199914689975587521
+      Carrying_Idle_Wood_birch_59: 2620828647742973097
+      Carrying_Idle_Wood_birch_6: 6625704621677381716
+      Carrying_Idle_Wood_birch_60: -4856000937472589341
+      Carrying_Idle_Wood_birch_61: -529920807031470248
+      Carrying_Idle_Wood_birch_62: -7682489259831816689
+      Carrying_Idle_Wood_birch_63: 2002746075462508540
+      Carrying_Idle_Wood_birch_7: 1965322209779757100
+      Carrying_Idle_Wood_birch_8: -9070811620515979153
+      Carrying_Idle_Wood_birch_9: -9028067858407021408
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

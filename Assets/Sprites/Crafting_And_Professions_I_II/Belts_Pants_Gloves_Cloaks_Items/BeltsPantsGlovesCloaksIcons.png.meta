@@ -1,0 +1,7007 @@
+fileFormatVersion: 2
+guid: a8bcf1fb40835ce4eb57fd6e2ba908b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2848878405226903790
+    second: BeltsPantsGlovesCloaksIcons_0
+  - first:
+      213: -152656933286700193
+    second: BeltsPantsGlovesCloaksIcons_1
+  - first:
+      213: 3936909793849152860
+    second: BeltsPantsGlovesCloaksIcons_2
+  - first:
+      213: 7743253809803557920
+    second: BeltsPantsGlovesCloaksIcons_3
+  - first:
+      213: -3116095449075564424
+    second: BeltsPantsGlovesCloaksIcons_4
+  - first:
+      213: -7787721701463881994
+    second: BeltsPantsGlovesCloaksIcons_5
+  - first:
+      213: -5498871569395683441
+    second: BeltsPantsGlovesCloaksIcons_6
+  - first:
+      213: 5617872876732908661
+    second: BeltsPantsGlovesCloaksIcons_7
+  - first:
+      213: -9075820592221623847
+    second: BeltsPantsGlovesCloaksIcons_8
+  - first:
+      213: 6699071742282816140
+    second: BeltsPantsGlovesCloaksIcons_9
+  - first:
+      213: -180500358854667142
+    second: BeltsPantsGlovesCloaksIcons_10
+  - first:
+      213: -7664377556523027683
+    second: BeltsPantsGlovesCloaksIcons_11
+  - first:
+      213: -434089523544801940
+    second: BeltsPantsGlovesCloaksIcons_12
+  - first:
+      213: -3433669070215222547
+    second: BeltsPantsGlovesCloaksIcons_13
+  - first:
+      213: 8649871488114811847
+    second: BeltsPantsGlovesCloaksIcons_14
+  - first:
+      213: 4758851479648965451
+    second: BeltsPantsGlovesCloaksIcons_15
+  - first:
+      213: -6171428799197155717
+    second: BeltsPantsGlovesCloaksIcons_16
+  - first:
+      213: 5468852857552952938
+    second: BeltsPantsGlovesCloaksIcons_17
+  - first:
+      213: 1912856225697380983
+    second: BeltsPantsGlovesCloaksIcons_18
+  - first:
+      213: -7465521495168106883
+    second: BeltsPantsGlovesCloaksIcons_19
+  - first:
+      213: -1594764492230358516
+    second: BeltsPantsGlovesCloaksIcons_20
+  - first:
+      213: 1310810736277385385
+    second: BeltsPantsGlovesCloaksIcons_21
+  - first:
+      213: 3106728422151747894
+    second: BeltsPantsGlovesCloaksIcons_22
+  - first:
+      213: 4307965758906324258
+    second: BeltsPantsGlovesCloaksIcons_23
+  - first:
+      213: 2829336869661260405
+    second: BeltsPantsGlovesCloaksIcons_24
+  - first:
+      213: 8424248923108114785
+    second: BeltsPantsGlovesCloaksIcons_25
+  - first:
+      213: -3443965839174884248
+    second: BeltsPantsGlovesCloaksIcons_26
+  - first:
+      213: 805495402567505750
+    second: BeltsPantsGlovesCloaksIcons_27
+  - first:
+      213: -8031450337017147379
+    second: BeltsPantsGlovesCloaksIcons_28
+  - first:
+      213: -1201735989662218910
+    second: BeltsPantsGlovesCloaksIcons_29
+  - first:
+      213: 5508815704932123022
+    second: BeltsPantsGlovesCloaksIcons_30
+  - first:
+      213: 8391262942469268822
+    second: BeltsPantsGlovesCloaksIcons_31
+  - first:
+      213: -1224035438282946407
+    second: BeltsPantsGlovesCloaksIcons_32
+  - first:
+      213: 7679750889938770548
+    second: BeltsPantsGlovesCloaksIcons_33
+  - first:
+      213: 4203840576154702691
+    second: BeltsPantsGlovesCloaksIcons_34
+  - first:
+      213: 2478738996138064629
+    second: BeltsPantsGlovesCloaksIcons_35
+  - first:
+      213: 2832178466460952396
+    second: BeltsPantsGlovesCloaksIcons_36
+  - first:
+      213: 4493304867043704859
+    second: BeltsPantsGlovesCloaksIcons_37
+  - first:
+      213: 3288845741589119994
+    second: BeltsPantsGlovesCloaksIcons_38
+  - first:
+      213: -5376360750394381741
+    second: BeltsPantsGlovesCloaksIcons_39
+  - first:
+      213: 6365843427715049148
+    second: BeltsPantsGlovesCloaksIcons_40
+  - first:
+      213: 7111921525951408280
+    second: BeltsPantsGlovesCloaksIcons_41
+  - first:
+      213: 555460800383669159
+    second: BeltsPantsGlovesCloaksIcons_42
+  - first:
+      213: -745974423680940813
+    second: BeltsPantsGlovesCloaksIcons_43
+  - first:
+      213: -366202965274194221
+    second: BeltsPantsGlovesCloaksIcons_44
+  - first:
+      213: 7033913412515379803
+    second: BeltsPantsGlovesCloaksIcons_45
+  - first:
+      213: 8163055884695152525
+    second: BeltsPantsGlovesCloaksIcons_46
+  - first:
+      213: -710476477547400561
+    second: BeltsPantsGlovesCloaksIcons_47
+  - first:
+      213: -8913272958026811752
+    second: BeltsPantsGlovesCloaksIcons_48
+  - first:
+      213: 5359529752132851374
+    second: BeltsPantsGlovesCloaksIcons_49
+  - first:
+      213: 4545969827264468250
+    second: BeltsPantsGlovesCloaksIcons_50
+  - first:
+      213: -4392909089963085030
+    second: BeltsPantsGlovesCloaksIcons_51
+  - first:
+      213: -3231476344545880005
+    second: BeltsPantsGlovesCloaksIcons_52
+  - first:
+      213: -991453522568115386
+    second: BeltsPantsGlovesCloaksIcons_53
+  - first:
+      213: -3529684219055656452
+    second: BeltsPantsGlovesCloaksIcons_54
+  - first:
+      213: 8897540548927071033
+    second: BeltsPantsGlovesCloaksIcons_55
+  - first:
+      213: -6467474091313504915
+    second: BeltsPantsGlovesCloaksIcons_56
+  - first:
+      213: -5054804901381321475
+    second: BeltsPantsGlovesCloaksIcons_57
+  - first:
+      213: -3666385251630718041
+    second: BeltsPantsGlovesCloaksIcons_58
+  - first:
+      213: 5342882306437641832
+    second: BeltsPantsGlovesCloaksIcons_59
+  - first:
+      213: -8742808036814408338
+    second: BeltsPantsGlovesCloaksIcons_60
+  - first:
+      213: 2041507253309967253
+    second: BeltsPantsGlovesCloaksIcons_61
+  - first:
+      213: -5671586954811379249
+    second: BeltsPantsGlovesCloaksIcons_62
+  - first:
+      213: 5803953118248410682
+    second: BeltsPantsGlovesCloaksIcons_63
+  - first:
+      213: -8997519695459118892
+    second: BeltsPantsGlovesCloaksIcons_64
+  - first:
+      213: 926176894832560776
+    second: BeltsPantsGlovesCloaksIcons_65
+  - first:
+      213: 7572446492042673488
+    second: BeltsPantsGlovesCloaksIcons_66
+  - first:
+      213: 8070037653499089668
+    second: BeltsPantsGlovesCloaksIcons_67
+  - first:
+      213: 85674768116156103
+    second: BeltsPantsGlovesCloaksIcons_68
+  - first:
+      213: -3762003331900762024
+    second: BeltsPantsGlovesCloaksIcons_69
+  - first:
+      213: 1978680568177003042
+    second: BeltsPantsGlovesCloaksIcons_70
+  - first:
+      213: 8368374243800162065
+    second: BeltsPantsGlovesCloaksIcons_71
+  - first:
+      213: 8797721020308059311
+    second: BeltsPantsGlovesCloaksIcons_72
+  - first:
+      213: -4911277473929994107
+    second: BeltsPantsGlovesCloaksIcons_73
+  - first:
+      213: 3609815572226047328
+    second: BeltsPantsGlovesCloaksIcons_74
+  - first:
+      213: -2944516734675509428
+    second: BeltsPantsGlovesCloaksIcons_75
+  - first:
+      213: -8729055525830185192
+    second: BeltsPantsGlovesCloaksIcons_76
+  - first:
+      213: -3777894175996921922
+    second: BeltsPantsGlovesCloaksIcons_77
+  - first:
+      213: 2689980933448308704
+    second: BeltsPantsGlovesCloaksIcons_78
+  - first:
+      213: 4023399292365233296
+    second: BeltsPantsGlovesCloaksIcons_79
+  - first:
+      213: -1215808152005899698
+    second: BeltsPantsGlovesCloaksIcons_80
+  - first:
+      213: 7258015972504739365
+    second: BeltsPantsGlovesCloaksIcons_81
+  - first:
+      213: 4794708169401084089
+    second: BeltsPantsGlovesCloaksIcons_82
+  - first:
+      213: 8321662216742112632
+    second: BeltsPantsGlovesCloaksIcons_83
+  - first:
+      213: -5172349357729302011
+    second: BeltsPantsGlovesCloaksIcons_84
+  - first:
+      213: -3284615012424303958
+    second: BeltsPantsGlovesCloaksIcons_85
+  - first:
+      213: 7849132669377910731
+    second: BeltsPantsGlovesCloaksIcons_86
+  - first:
+      213: 2163856306665040020
+    second: BeltsPantsGlovesCloaksIcons_87
+  - first:
+      213: -3792523514054220058
+    second: BeltsPantsGlovesCloaksIcons_88
+  - first:
+      213: -8450653545478534187
+    second: BeltsPantsGlovesCloaksIcons_89
+  - first:
+      213: -8399631176762949073
+    second: BeltsPantsGlovesCloaksIcons_90
+  - first:
+      213: -3272720129021410582
+    second: BeltsPantsGlovesCloaksIcons_91
+  - first:
+      213: 8389382537624360664
+    second: BeltsPantsGlovesCloaksIcons_92
+  - first:
+      213: 5927032918535991835
+    second: BeltsPantsGlovesCloaksIcons_93
+  - first:
+      213: -3059291600627344032
+    second: BeltsPantsGlovesCloaksIcons_94
+  - first:
+      213: -2461660451865849177
+    second: BeltsPantsGlovesCloaksIcons_95
+  - first:
+      213: -886485876219465648
+    second: BeltsPantsGlovesCloaksIcons_96
+  - first:
+      213: 1379662228570791888
+    second: BeltsPantsGlovesCloaksIcons_97
+  - first:
+      213: -7996231890262834026
+    second: BeltsPantsGlovesCloaksIcons_98
+  - first:
+      213: 6641367156839135741
+    second: BeltsPantsGlovesCloaksIcons_99
+  - first:
+      213: -514891458877821005
+    second: BeltsPantsGlovesCloaksIcons_100
+  - first:
+      213: 854400225914985853
+    second: BeltsPantsGlovesCloaksIcons_101
+  - first:
+      213: 8529504677535064766
+    second: BeltsPantsGlovesCloaksIcons_102
+  - first:
+      213: 626933048338787806
+    second: BeltsPantsGlovesCloaksIcons_103
+  - first:
+      213: 4434098359057674824
+    second: BeltsPantsGlovesCloaksIcons_104
+  - first:
+      213: -3102736445885101882
+    second: BeltsPantsGlovesCloaksIcons_105
+  - first:
+      213: 7627009808881358541
+    second: BeltsPantsGlovesCloaksIcons_106
+  - first:
+      213: -9098747821402808590
+    second: BeltsPantsGlovesCloaksIcons_107
+  - first:
+      213: 6126969801340091724
+    second: BeltsPantsGlovesCloaksIcons_108
+  - first:
+      213: -4096927389147766097
+    second: BeltsPantsGlovesCloaksIcons_109
+  - first:
+      213: 1150559212420508
+    second: BeltsPantsGlovesCloaksIcons_110
+  - first:
+      213: -5483656538072873686
+    second: BeltsPantsGlovesCloaksIcons_111
+  - first:
+      213: 6127680830366640085
+    second: BeltsPantsGlovesCloaksIcons_112
+  - first:
+      213: -6547902567197947830
+    second: BeltsPantsGlovesCloaksIcons_113
+  - first:
+      213: -576172925385759145
+    second: BeltsPantsGlovesCloaksIcons_114
+  - first:
+      213: 8577556929047434829
+    second: BeltsPantsGlovesCloaksIcons_115
+  - first:
+      213: -3148928880902086904
+    second: BeltsPantsGlovesCloaksIcons_116
+  - first:
+      213: 3123822121596037624
+    second: BeltsPantsGlovesCloaksIcons_117
+  - first:
+      213: 2461283468600668333
+    second: BeltsPantsGlovesCloaksIcons_118
+  - first:
+      213: 5963577315086864731
+    second: BeltsPantsGlovesCloaksIcons_119
+  - first:
+      213: 3133537797469383938
+    second: BeltsPantsGlovesCloaksIcons_120
+  - first:
+      213: -6480426056377361726
+    second: BeltsPantsGlovesCloaksIcons_121
+  - first:
+      213: 2293285339626693674
+    second: BeltsPantsGlovesCloaksIcons_122
+  - first:
+      213: -8966702157837146668
+    second: BeltsPantsGlovesCloaksIcons_123
+  - first:
+      213: -6718284795317254545
+    second: BeltsPantsGlovesCloaksIcons_124
+  - first:
+      213: 2871476218426466700
+    second: BeltsPantsGlovesCloaksIcons_125
+  - first:
+      213: -2138345407525814682
+    second: BeltsPantsGlovesCloaksIcons_126
+  - first:
+      213: 6786208550172170181
+    second: BeltsPantsGlovesCloaksIcons_127
+  - first:
+      213: -4723890078822469362
+    second: BeltsPantsGlovesCloaksIcons_128
+  - first:
+      213: 6030664882499598360
+    second: BeltsPantsGlovesCloaksIcons_129
+  - first:
+      213: 3040133267925096962
+    second: BeltsPantsGlovesCloaksIcons_130
+  - first:
+      213: 1481035367980454801
+    second: BeltsPantsGlovesCloaksIcons_131
+  - first:
+      213: -2037358782821646788
+    second: BeltsPantsGlovesCloaksIcons_132
+  - first:
+      213: 2980502483299141410
+    second: BeltsPantsGlovesCloaksIcons_133
+  - first:
+      213: -95369204744369268
+    second: BeltsPantsGlovesCloaksIcons_134
+  - first:
+      213: 5304488071506824779
+    second: BeltsPantsGlovesCloaksIcons_135
+  - first:
+      213: -3987934494127867496
+    second: BeltsPantsGlovesCloaksIcons_136
+  - first:
+      213: -2255814508882288624
+    second: BeltsPantsGlovesCloaksIcons_137
+  - first:
+      213: 5293080346767435372
+    second: BeltsPantsGlovesCloaksIcons_138
+  - first:
+      213: -7164754074110545061
+    second: BeltsPantsGlovesCloaksIcons_139
+  - first:
+      213: 6972037667665637810
+    second: BeltsPantsGlovesCloaksIcons_140
+  - first:
+      213: 4141135488293027179
+    second: BeltsPantsGlovesCloaksIcons_141
+  - first:
+      213: -4429158113154453685
+    second: BeltsPantsGlovesCloaksIcons_142
+  - first:
+      213: 1242235516184787129
+    second: BeltsPantsGlovesCloaksIcons_143
+  - first:
+      213: -8126215974077621494
+    second: BeltsPantsGlovesCloaksIcons_144
+  - first:
+      213: 5763182138230974793
+    second: BeltsPantsGlovesCloaksIcons_145
+  - first:
+      213: 6453556706708057045
+    second: BeltsPantsGlovesCloaksIcons_146
+  - first:
+      213: -8276082084643487336
+    second: BeltsPantsGlovesCloaksIcons_147
+  - first:
+      213: -7902563163519661407
+    second: BeltsPantsGlovesCloaksIcons_148
+  - first:
+      213: -3458104877554274733
+    second: BeltsPantsGlovesCloaksIcons_149
+  - first:
+      213: 3518462049068138632
+    second: BeltsPantsGlovesCloaksIcons_150
+  - first:
+      213: 5002438187290811903
+    second: BeltsPantsGlovesCloaksIcons_151
+  - first:
+      213: 3968724746909367342
+    second: BeltsPantsGlovesCloaksIcons_152
+  - first:
+      213: -4633592375530043005
+    second: BeltsPantsGlovesCloaksIcons_153
+  - first:
+      213: -2717130675783372017
+    second: BeltsPantsGlovesCloaksIcons_154
+  - first:
+      213: 3660528199171972755
+    second: BeltsPantsGlovesCloaksIcons_155
+  - first:
+      213: 5577624515634458165
+    second: BeltsPantsGlovesCloaksIcons_156
+  - first:
+      213: 8062378985224324370
+    second: BeltsPantsGlovesCloaksIcons_157
+  - first:
+      213: 2390655828996938038
+    second: BeltsPantsGlovesCloaksIcons_158
+  - first:
+      213: -3190826737278952541
+    second: BeltsPantsGlovesCloaksIcons_159
+  - first:
+      213: -6218168796067354905
+    second: BeltsPantsGlovesCloaksIcons_160
+  - first:
+      213: 4667230162316514410
+    second: BeltsPantsGlovesCloaksIcons_161
+  - first:
+      213: 2166919736468870328
+    second: BeltsPantsGlovesCloaksIcons_162
+  - first:
+      213: 263329380059100304
+    second: BeltsPantsGlovesCloaksIcons_163
+  - first:
+      213: 4254317841712056304
+    second: BeltsPantsGlovesCloaksIcons_164
+  - first:
+      213: -8250287315075304029
+    second: BeltsPantsGlovesCloaksIcons_165
+  - first:
+      213: -7232261942033476045
+    second: BeltsPantsGlovesCloaksIcons_166
+  - first:
+      213: -5056219818796996469
+    second: BeltsPantsGlovesCloaksIcons_167
+  - first:
+      213: -458013697466374598
+    second: BeltsPantsGlovesCloaksIcons_168
+  - first:
+      213: -8879547918672986991
+    second: BeltsPantsGlovesCloaksIcons_169
+  - first:
+      213: -4443133817418642468
+    second: BeltsPantsGlovesCloaksIcons_170
+  - first:
+      213: 1116164380982769333
+    second: BeltsPantsGlovesCloaksIcons_171
+  - first:
+      213: 8872142450655936639
+    second: BeltsPantsGlovesCloaksIcons_172
+  - first:
+      213: -6936277575092785818
+    second: BeltsPantsGlovesCloaksIcons_173
+  - first:
+      213: 1755680563031644613
+    second: BeltsPantsGlovesCloaksIcons_174
+  - first:
+      213: -5990124261808075604
+    second: BeltsPantsGlovesCloaksIcons_175
+  - first:
+      213: 7037618939843408246
+    second: BeltsPantsGlovesCloaksIcons_176
+  - first:
+      213: -1728853032108189870
+    second: BeltsPantsGlovesCloaksIcons_177
+  - first:
+      213: 7866621061261851590
+    second: BeltsPantsGlovesCloaksIcons_178
+  - first:
+      213: -3281512241024693990
+    second: BeltsPantsGlovesCloaksIcons_179
+  - first:
+      213: -8552609036977449349
+    second: BeltsPantsGlovesCloaksIcons_180
+  - first:
+      213: -303215074371522998
+    second: BeltsPantsGlovesCloaksIcons_181
+  - first:
+      213: 3638069711076051440
+    second: BeltsPantsGlovesCloaksIcons_182
+  - first:
+      213: -3667088309570625358
+    second: BeltsPantsGlovesCloaksIcons_183
+  - first:
+      213: -1543504401561668980
+    second: BeltsPantsGlovesCloaksIcons_184
+  - first:
+      213: 6766162270054101349
+    second: BeltsPantsGlovesCloaksIcons_185
+  - first:
+      213: -5564703066337846067
+    second: BeltsPantsGlovesCloaksIcons_186
+  - first:
+      213: 7217041602626916992
+    second: BeltsPantsGlovesCloaksIcons_187
+  - first:
+      213: -5129245876957608921
+    second: BeltsPantsGlovesCloaksIcons_188
+  - first:
+      213: -5600343246077457115
+    second: BeltsPantsGlovesCloaksIcons_189
+  - first:
+      213: -7168536861307575860
+    second: BeltsPantsGlovesCloaksIcons_190
+  - first:
+      213: -7924927092144803532
+    second: BeltsPantsGlovesCloaksIcons_191
+  - first:
+      213: 6067401525427282424
+    second: BeltsPantsGlovesCloaksIcons_192
+  - first:
+      213: -645558340189566539
+    second: BeltsPantsGlovesCloaksIcons_193
+  - first:
+      213: -3222752017384433028
+    second: BeltsPantsGlovesCloaksIcons_194
+  - first:
+      213: 2427158311288927621
+    second: BeltsPantsGlovesCloaksIcons_195
+  - first:
+      213: 296941030458021813
+    second: BeltsPantsGlovesCloaksIcons_196
+  - first:
+      213: -6457447731663756547
+    second: BeltsPantsGlovesCloaksIcons_197
+  - first:
+      213: -5286994608309919298
+    second: BeltsPantsGlovesCloaksIcons_198
+  - first:
+      213: 4018477237030108014
+    second: BeltsPantsGlovesCloaksIcons_199
+  - first:
+      213: -2228564939994274426
+    second: BeltsPantsGlovesCloaksIcons_200
+  - first:
+      213: 381797722043218364
+    second: BeltsPantsGlovesCloaksIcons_201
+  - first:
+      213: 6617124873170650438
+    second: BeltsPantsGlovesCloaksIcons_202
+  - first:
+      213: 1275233123541155366
+    second: BeltsPantsGlovesCloaksIcons_203
+  - first:
+      213: -6151033376037913802
+    second: BeltsPantsGlovesCloaksIcons_204
+  - first:
+      213: 6341746754087678630
+    second: BeltsPantsGlovesCloaksIcons_205
+  - first:
+      213: 7189993338919260660
+    second: BeltsPantsGlovesCloaksIcons_206
+  - first:
+      213: -6033105825329108023
+    second: BeltsPantsGlovesCloaksIcons_207
+  - first:
+      213: 5291938070918288120
+    second: BeltsPantsGlovesCloaksIcons_208
+  - first:
+      213: -252713138170557403
+    second: BeltsPantsGlovesCloaksIcons_209
+  - first:
+      213: -481973764505909706
+    second: BeltsPantsGlovesCloaksIcons_210
+  - first:
+      213: 7261941302854275802
+    second: BeltsPantsGlovesCloaksIcons_211
+  - first:
+      213: -3579013311607646723
+    second: BeltsPantsGlovesCloaksIcons_212
+  - first:
+      213: 6895993674117933770
+    second: BeltsPantsGlovesCloaksIcons_213
+  - first:
+      213: 7778316487784549200
+    second: BeltsPantsGlovesCloaksIcons_214
+  - first:
+      213: -5762843032570643252
+    second: BeltsPantsGlovesCloaksIcons_215
+  - first:
+      213: -3783002506525183631
+    second: BeltsPantsGlovesCloaksIcons_216
+  - first:
+      213: 3378827505218100251
+    second: BeltsPantsGlovesCloaksIcons_217
+  - first:
+      213: 316488907060972207
+    second: BeltsPantsGlovesCloaksIcons_218
+  - first:
+      213: -3329950301442012375
+    second: BeltsPantsGlovesCloaksIcons_219
+  - first:
+      213: -832132292339837651
+    second: BeltsPantsGlovesCloaksIcons_220
+  - first:
+      213: 8570977463382833001
+    second: BeltsPantsGlovesCloaksIcons_221
+  - first:
+      213: -2718782499018125475
+    second: BeltsPantsGlovesCloaksIcons_222
+  - first:
+      213: -5027073275430180437
+    second: BeltsPantsGlovesCloaksIcons_223
+  - first:
+      213: 7236270705727179787
+    second: BeltsPantsGlovesCloaksIcons_224
+  - first:
+      213: 1679434924569087394
+    second: BeltsPantsGlovesCloaksIcons_225
+  - first:
+      213: 9159864232169952785
+    second: BeltsPantsGlovesCloaksIcons_226
+  - first:
+      213: 7679443166028870866
+    second: BeltsPantsGlovesCloaksIcons_227
+  - first:
+      213: -6752626325727945393
+    second: BeltsPantsGlovesCloaksIcons_228
+  - first:
+      213: 9066971589364152750
+    second: BeltsPantsGlovesCloaksIcons_229
+  - first:
+      213: 6379771180592395955
+    second: BeltsPantsGlovesCloaksIcons_230
+  - first:
+      213: 2835643816669308652
+    second: BeltsPantsGlovesCloaksIcons_231
+  - first:
+      213: -8684379636220379730
+    second: BeltsPantsGlovesCloaksIcons_232
+  - first:
+      213: -1347225969091237187
+    second: BeltsPantsGlovesCloaksIcons_233
+  - first:
+      213: -2881922100853648137
+    second: BeltsPantsGlovesCloaksIcons_234
+  - first:
+      213: 6278830914366773425
+    second: BeltsPantsGlovesCloaksIcons_235
+  - first:
+      213: 5234085280891395622
+    second: BeltsPantsGlovesCloaksIcons_236
+  - first:
+      213: 1364907017779605242
+    second: BeltsPantsGlovesCloaksIcons_237
+  - first:
+      213: 466472213577730164
+    second: BeltsPantsGlovesCloaksIcons_238
+  - first:
+      213: 1327851751948740781
+    second: BeltsPantsGlovesCloaksIcons_239
+  - first:
+      213: 1067372746160666483
+    second: BeltsPantsGlovesCloaksIcons_240
+  - first:
+      213: -1266089987132848770
+    second: BeltsPantsGlovesCloaksIcons_241
+  - first:
+      213: -1663521837438702459
+    second: BeltsPantsGlovesCloaksIcons_242
+  - first:
+      213: -873589834703327386
+    second: BeltsPantsGlovesCloaksIcons_243
+  - first:
+      213: 7328238308960447541
+    second: BeltsPantsGlovesCloaksIcons_244
+  - first:
+      213: 4563310093372907003
+    second: BeltsPantsGlovesCloaksIcons_245
+  - first:
+      213: -8414763649547104370
+    second: BeltsPantsGlovesCloaksIcons_246
+  - first:
+      213: -4887780189599077999
+    second: BeltsPantsGlovesCloaksIcons_247
+  - first:
+      213: 6344176117624507017
+    second: BeltsPantsGlovesCloaksIcons_248
+  - first:
+      213: 3584654097129902898
+    second: BeltsPantsGlovesCloaksIcons_249
+  - first:
+      213: 8941346767064580094
+    second: BeltsPantsGlovesCloaksIcons_250
+  - first:
+      213: 6501132184848085114
+    second: BeltsPantsGlovesCloaksIcons_251
+  - first:
+      213: -7384598547118983185
+    second: BeltsPantsGlovesCloaksIcons_252
+  - first:
+      213: 6461864873347727049
+    second: BeltsPantsGlovesCloaksIcons_253
+  - first:
+      213: -2440616160363841187
+    second: BeltsPantsGlovesCloaksIcons_254
+  - first:
+      213: 5310952431897960536
+    second: BeltsPantsGlovesCloaksIcons_255
+  - first:
+      213: -5027264287530668056
+    second: BeltsPantsGlovesCloaksIcons_256
+  - first:
+      213: -5134607208376660838
+    second: BeltsPantsGlovesCloaksIcons_257
+  - first:
+      213: -2161206759865801300
+    second: BeltsPantsGlovesCloaksIcons_258
+  - first:
+      213: 4046189540944039251
+    second: BeltsPantsGlovesCloaksIcons_259
+  - first:
+      213: 4306785200393251999
+    second: BeltsPantsGlovesCloaksIcons_260
+  - first:
+      213: 4349651552024749043
+    second: BeltsPantsGlovesCloaksIcons_261
+  - first:
+      213: -8579450977779241603
+    second: BeltsPantsGlovesCloaksIcons_262
+  - first:
+      213: -7404185159238721992
+    second: BeltsPantsGlovesCloaksIcons_263
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 183
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2174b283f20c678d0800000000000000
+      internalID: -2848878405226903790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 175
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b12f6f357a1edf0800000000000000
+      internalID: -152656933286700193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 183
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55922f4996b2a630800000000000000
+      internalID: 3936909793849152860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_3
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 183
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cf7038050957b60800000000000000
+      internalID: 7743253809803557920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 151
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870c3a7e2b761c4d0800000000000000
+      internalID: -3116095449075564424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 184
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f605a6af547ce390800000000000000
+      internalID: -7787721701463881994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 184
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8feca0217510b3b0800000000000000
+      internalID: -5498871569395683441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_7
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 185
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57487fadd91b6fd40800000000000000
+      internalID: 5617872876732908661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_8
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 183
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d96473d1453c0280800000000000000
+      internalID: -9075820592221623847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_9
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 183
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8adf93a142e7fc50800000000000000
+      internalID: 6699071742282816140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_10
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 151
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7413a441ebbe7df0800000000000000
+      internalID: -180500358854667142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_11
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 183
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13f7fe4839a2a590800000000000000
+      internalID: -7664377556523027683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_12
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 183
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6db464d0edc9f9f0800000000000000
+      internalID: -434089523544801940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 167
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea63994c282950d0800000000000000
+      internalID: -3433669070215222547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 175
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3ecd91a448a0870800000000000000
+      internalID: 8649871488114811847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 175
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43915f0536da0240800000000000000
+      internalID: 4758851479648965451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_16
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 176
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7eec3b643eaa5aa0800000000000000
+      internalID: -6171428799197155717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_17
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 176
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ed25fd2b445eb40800000000000000
+      internalID: 5468852857552952938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_18
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 177
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a361f3a94db8a10800000000000000
+      internalID: 1912856225697380983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_19
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 175
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e367111c3256890800000000000000
+      internalID: -7465521495168106883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_20
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 175
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a043cc4224ed9e0800000000000000
+      internalID: -1594764492230358516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_21
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 175
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0f49f6b6fe03210800000000000000
+      internalID: 1310810736277385385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_22
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 175
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639f6ff2a015d1b20800000000000000
+      internalID: 3106728422151747894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 159
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225582c7808f8cb30800000000000000
+      internalID: 4307965758906324258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_24
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 167
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a331a74e2d34720800000000000000
+      internalID: 2829336869661260405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 167
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161835113c1f8e470800000000000000
+      internalID: 8424248923108114785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_26
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 168
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864a661f0539430d0800000000000000
+      internalID: -3443965839174884248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_27
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 168
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6571f3a0dc1bd2b00800000000000000
+      internalID: 805495402567505750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_28
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 169
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00d6ee887e8a8090800000000000000
+      internalID: -8031450337017147379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_29
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 167
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26581660c73925fe0800000000000000
+      internalID: -1201735989662218910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_30
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 167
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81829952be337c40800000000000000
+      internalID: 5508815704932123022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_31
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 167
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655a7c6ff21c37470800000000000000
+      internalID: 8391262942469268822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_32
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 167
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998c7ac014a530fe0800000000000000
+      internalID: -1224035438282946407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_33
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 151
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a5a4eceb4f39a60800000000000000
+      internalID: 7679750889938770548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_34
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 159
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363131a2bba075a30800000000000000
+      internalID: 4203840576154702691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_35
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 159
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fab7bbebff366220800000000000000
+      internalID: 2478738996138064629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_36
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 160
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c476ae94f4bed4720800000000000000
+      internalID: 2832178466460952396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_37
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 160
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b108ca358fc6b5e30800000000000000
+      internalID: 4493304867043704859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_38
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 161
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3c974e6c354ad20800000000000000
+      internalID: 3288845741589119994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_39
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 159
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ae368f1645365b0800000000000000
+      internalID: -5376360750394381741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_40
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 159
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6e5bcaed4085850800000000000000
+      internalID: 6365843427715049148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_41
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 159
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898a9c082fe92b260800000000000000
+      internalID: 7111921525951408280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_42
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 159
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3d58da7a465b700800000000000000
+      internalID: 555460800383669159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_43
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 151
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f488f8c634c5a5f0800000000000000
+      internalID: -745974423680940813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_44
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 151
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de0323e75cfaeaf0800000000000000
+      internalID: -366202965274194221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_45
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 152
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ab5dd3bfa7d9160800000000000000
+      internalID: 7033913412515379803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_46
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 152
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87aae0d310094170800000000000000
+      internalID: 8163055884695152525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_47
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82348e6861e326f0800000000000000
+      internalID: -710476477547400561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_48
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 151
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89677be1871bd4480800000000000000
+      internalID: -8913272958026811752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_49
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 151
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6140fd9efd06a40800000000000000
+      internalID: 5359529752132851374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_50
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 151
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a151eb9e877861f30800000000000000
+      internalID: 4545969827264468250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_51
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 151
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a137a2215704903c0800000000000000
+      internalID: -4392909089963085030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_52
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 135
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38d34fb26d7723d0800000000000000
+      internalID: -3231476344545880005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_53
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 127
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b84003646ad32f0800000000000000
+      internalID: -991453522568115386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_54
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 136
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1b2e167ea040fc0800000000000000
+      internalID: -3529684219055656452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_55
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 136
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933ae61fcf96a7b70800000000000000
+      internalID: 8897540548927071033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_56
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 136
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d5731849aee36a0800000000000000
+      internalID: -6467474091313504915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_57
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 136
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc434449b9b9d9b0800000000000000
+      internalID: -5054804901381321475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_58
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 136
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3e1daf9026e1dc0800000000000000
+      internalID: -3666385251630718041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_59
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 136
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8667fef562bb52a40800000000000000
+      internalID: 5342882306437641832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_60
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 103
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e653f32796e4ba680800000000000000
+      internalID: -8742808036814408338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_61
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 135
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b8cefc704e45c10800000000000000
+      internalID: 2041507253309967253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_62
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 135
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc17ab5c6b97a41b0800000000000000
+      internalID: -5671586954811379249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_63
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 135
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e97324c98cb8050800000000000000
+      internalID: 5803953118248410682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_64
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 135
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d014940283622380800000000000000
+      internalID: -8997519695459118892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_65
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 135
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a4baf8af07adc00800000000000000
+      internalID: 926176894832560776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_66
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 135
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d3bd6c6fbb61960800000000000000
+      internalID: 7572446492042673488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_67
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40317dc2d788eff60800000000000000
+      internalID: 8070037653499089668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_68
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 135
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c607c76fb0603100800000000000000
+      internalID: 85674768116156103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_69
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 135
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858183ec6edaacbc0800000000000000
+      internalID: -3762003331900762024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_70
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 135
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a88264e7fa57b10800000000000000
+      internalID: 1978680568177003042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_71
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 135
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f9c358900722470800000000000000
+      internalID: 8368374243800162065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_72
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 135
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4f278d7a8c71a70800000000000000
+      internalID: 8797721020308059311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_73
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 135
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58066059823a7dbb0800000000000000
+      internalID: -4911277473929994107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_74
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 103
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06df4372324a81230800000000000000
+      internalID: 3609815572226047328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_75
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 135
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f197a61a9f227d0800000000000000
+      internalID: -2944516734675509428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_76
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 135
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f2b3e6f3a2cd680800000000000000
+      internalID: -8729055525830185192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_77
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 135
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7bfa85349329bc0800000000000000
+      internalID: -3777894175996921922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_78
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 135
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e792c6286bb45520800000000000000
+      internalID: 2689980933448308704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_79
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 135
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cdcfae65cf5d730800000000000000
+      internalID: 4023399292365233296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_80
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 135
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a0aa86de4902fe0800000000000000
+      internalID: -1215808152005899698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_81
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e91478217a9b460800000000000000
+      internalID: 7258015972504739365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_82
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 128
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8a0d63da93a8240800000000000000
+      internalID: 4794708169401084089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_83
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 128
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d04b132bb7c7370800000000000000
+      internalID: 8321662216742112632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_84
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 128
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a3356d9af1838b0800000000000000
+      internalID: -5172349357729302011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_85
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 128
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaab8808c04ba62d0800000000000000
+      internalID: -3284615012424303958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_86
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 128
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc71f298398bdec60800000000000000
+      internalID: 7849132669377910731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_87
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 128
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49822c7a8df870e10800000000000000
+      internalID: 2163856306665040020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_88
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 127
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e66b7625ff3e5bc0800000000000000
+      internalID: -3792523514054220058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_89
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 127
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db4bd5bf5f39ba80800000000000000
+      internalID: -8450653545478534187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_90
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 127
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f228fb8a2f38e6b80800000000000000
+      internalID: -8399631176762949073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_91
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 127
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2886cd166f492d0800000000000000
+      internalID: -3272720129021410582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_92
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 127
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d617f718f21d6470800000000000000
+      internalID: 8389382537624360664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_93
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 127
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b127261690d014250800000000000000
+      internalID: 5927032918535991835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_94
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 129
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d55408f763b85d0800000000000000
+      internalID: -3059291600627344032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_95
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 127
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a298e88cdc66ddd0800000000000000
+      internalID: -2461660451865849177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_96
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 127
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050b989dac192b3f0800000000000000
+      internalID: -886485876219465648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_97
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 127
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df5cf3bc7b852310800000000000000
+      internalID: 1379662228570791888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_98
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 127
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694cb3f267da70190800000000000000
+      internalID: -7996231890262834026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_99
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 127
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9b75edd30ea2c50800000000000000
+      internalID: 6641367156839135741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_100
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 127
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf64b732fcbad8f0800000000000000
+      internalID: -514891458877821005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_101
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 127
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d1da98a707bdb00800000000000000
+      internalID: 854400225914985853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_102
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 127
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2a28e1053ee5670800000000000000
+      internalID: 8529504677535064766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_103
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 127
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddaf2c294053b800800000000000000
+      internalID: 626933048338787806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_104
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 127
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84276c6f6f4198d30800000000000000
+      internalID: 4434098359057674824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_105
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 127
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c84c5734add0f4d0800000000000000
+      internalID: -3102736445885101882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_106
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 127
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc61bc4f20598d960800000000000000
+      internalID: 7627009808881358541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_107
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 111
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe1d6c4011cab180800000000000000
+      internalID: -9098747821402808590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_108
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 120
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4dfb6e729e570550800000000000000
+      internalID: 6126969801340091724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_109
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 120
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2674bfe3ac427c0800000000000000
+      internalID: -4096927389147766097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_110
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 120
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d36217d66140000800000000000000
+      internalID: 1150559212420508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_111
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 120
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a250be9ae6326e3b0800000000000000
+      internalID: -5483656538072873686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_112
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 120
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d769f6df35e90550800000000000000
+      internalID: 6127680830366640085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_113
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 120
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a484c42be4d2125a0800000000000000
+      internalID: -6547902567197947830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_114
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7562f2de6c50108f0800000000000000
+      internalID: -576172925385759145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_115
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d461094c49a990770800000000000000
+      internalID: 8577556929047434829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_116
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fdcd6ddd1cc44d0800000000000000
+      internalID: -3148928880902086904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_117
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f92d3b3bab0a5b20800000000000000
+      internalID: 3123822121596037624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_118
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0fb75364c382220800000000000000
+      internalID: 2461283468600668333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_119
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b519450c8f1e2c250800000000000000
+      internalID: 5963577315086864731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_120
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 121
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d2c6c46009c7b20800000000000000
+      internalID: 3133537797469383938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_121
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca117426d6e016a0800000000000000
+      internalID: -6480426056377361726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_122
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a246f05bdd263df10800000000000000
+      internalID: 2293285339626693674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_123
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5636325efdf8380800000000000000
+      internalID: -8966702157837146668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_124
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66053bd29bd3c2a0800000000000000
+      internalID: -6718284795317254545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_125
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81aa4c286889d720800000000000000
+      internalID: 2871476218426466700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_126
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ef5596e221352e0800000000000000
+      internalID: -2138345407525814682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_127
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c71bb4b8b47d2e50800000000000000
+      internalID: 6786208550172170181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_128
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e017bc5600f517eb0800000000000000
+      internalID: -4723890078822469362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_129
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818bfc042c931b350800000000000000
+      internalID: 6030664882499598360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_130
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ad5809919b03a20800000000000000
+      internalID: 3040133267925096962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_131
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193d34002d1bd8410800000000000000
+      internalID: 1481035367980454801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_132
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3eb4ed3bf8d9b3e0800000000000000
+      internalID: -2037358782821646788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_133
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 103
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2270739973fdc5920800000000000000
+      internalID: 2980502483299141410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_134
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 112
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b43bca63e2daef0800000000000000
+      internalID: -95369204744369268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_135
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 112
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e0671fbc35d9940800000000000000
+      internalID: 5304488071506824779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_136
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 112
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8993bf1e4b208a8c0800000000000000
+      internalID: -3987934494127867496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_137
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 112
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01026eee7acb1b0e0800000000000000
+      internalID: -2255814508882288624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_138
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 112
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66acac088cc47940800000000000000
+      internalID: 5293080346767435372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_139
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 112
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53bb9d412ea19c90800000000000000
+      internalID: -7164754074110545061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_140
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 111
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b17addb157a1c060800000000000000
+      internalID: 6972037667665637810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_141
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 111
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d387239c4487930800000000000000
+      internalID: 4141135488293027179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_142
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 111
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fa36ba9287882c0800000000000000
+      internalID: -4429158113154453685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_143
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 111
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8719dce9e4d3110800000000000000
+      internalID: 1242235516184787129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_144
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 111
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b9ff840a1e93f80800000000000000
+      internalID: -8126215974077621494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_145
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 111
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949222dbe9feaff40800000000000000
+      internalID: 5763182138230974793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_146
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 113
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db6c21e1a3af8950800000000000000
+      internalID: 6453556706708057045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_147
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 111
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891c9dc4133752d80800000000000000
+      internalID: -8276082084643487336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_148
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 111
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aac25f1ca4745290800000000000000
+      internalID: -7902563163519661407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_149
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 111
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ee4598fe75200d0800000000000000
+      internalID: -3458104877554274733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_150
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 111
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880466e879614d030800000000000000
+      internalID: 3518462049068138632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_151
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 111
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd515cf60b3c6540800000000000000
+      internalID: 5002438187290811903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_152
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 111
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cb5de412eb31730800000000000000
+      internalID: 3968724746909367342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_153
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 111
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389c296c84c22bfb0800000000000000
+      internalID: -4633592375530043005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_154
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 111
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f037d9ddb00da4ad0800000000000000
+      internalID: -2717130675783372017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_155
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 111
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e12f9b00fccc230800000000000000
+      internalID: 3660528199171972755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_156
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 111
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ee6e802f3b76d40800000000000000
+      internalID: 5577624515634458165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_157
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 111
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215ced288f253ef60800000000000000
+      internalID: 8062378985224324370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_158
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 111
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639549b6fc05d2120800000000000000
+      internalID: 2390655828996938038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_159
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 104
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab5ba8fcf7e7b3d0800000000000000
+      internalID: -3190826737278952541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_160
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 104
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6acfcdc60a4b9a0800000000000000
+      internalID: -6218168796067354905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_161
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 104
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a645dd5ca1555c040800000000000000
+      internalID: 4667230162316514410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_162
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 104
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4920df402721e10800000000000000
+      internalID: 2166919736468870328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_163
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 104
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094b85d0da887a300800000000000000
+      internalID: 263329380059100304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_164
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 104
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f78ad4698f5a0b30800000000000000
+      internalID: 4254317841712056304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_165
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 103
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5760a1667118d80800000000000000
+      internalID: -8250287315075304029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_166
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 103
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3369486f418d1ab90800000000000000
+      internalID: -7232261942033476045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_167
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 103
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88a0522dd2b4d9b0800000000000000
+      internalID: -5056219818796996469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_168
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 103
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36e04408fec4a9f0800000000000000
+      internalID: -458013697466374598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_169
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 103
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cff6db63285c480800000000000000
+      internalID: -8879547918672986991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_170
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 103
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb8c337551d652c0800000000000000
+      internalID: -4443133817418642468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_171
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6fb6f37996d7f00800000000000000
+      internalID: 1116164380982769333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_172
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 103
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70c2006d8e202b70800000000000000
+      internalID: 8872142450655936639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_173
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 103
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d2611ab446dbf90800000000000000
+      internalID: -6936277575092785818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_174
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 103
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c91f8a8b2e6d5810800000000000000
+      internalID: 1755680563031644613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_175
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 103
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac0b7e88bdcedca0800000000000000
+      internalID: -5990124261808075604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_176
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 103
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6717ded8325aaa160800000000000000
+      internalID: 7037618939843408246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_177
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 103
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2579550c351e108e0800000000000000
+      internalID: -1728853032108189870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_178
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 103
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb7e131d2adb2d60800000000000000
+      internalID: 7866621061261851590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_179
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 103
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1980a3c00ab572d0800000000000000
+      internalID: -3281512241024693990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_180
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 103
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76d92005670f4980800000000000000
+      internalID: -8552609036977449349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_181
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 103
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4eaa811f73cacbf0800000000000000
+      internalID: -303215074371522998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_182
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 103
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9cbcc70250d7230800000000000000
+      internalID: 3638069711076051440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_183
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 103
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b02e0c8c92eb1dc0800000000000000
+      internalID: -3667088309570625358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_184
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 87
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c823aa3bcee549ae0800000000000000
+      internalID: -1543504401561668980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_185
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 79
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561b9376cbc36ed50800000000000000
+      internalID: 6766162270054101349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_186
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccd7625b0436c2b0800000000000000
+      internalID: -5564703066337846067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_187
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0821bcd9915182460800000000000000
+      internalID: 7217041602626916992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_188
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7240e420d0241d8b0800000000000000
+      internalID: -5129245876957608921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_189
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d8b455d759742b0800000000000000
+      internalID: -5600343246077457115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_190
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1e77684bd348c90800000000000000
+      internalID: -7168536861307575860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_191
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431f6d93cc0050290800000000000000
+      internalID: -7924927092144803532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_192
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 55
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1a1c87a8db33450800000000000000
+      internalID: 6067401525427282424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_193
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 88
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9c5332c148a07f0800000000000000
+      internalID: -645558340189566539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_194
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 88
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a90a47d1c7643d0800000000000000
+      internalID: -3222752017384433028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_195
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585730edf9ffea120800000000000000
+      internalID: 2427158311288927621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_196
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 55
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b750bf3b42fe1400800000000000000
+      internalID: 296941030458021813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_197
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 55
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2a78640898266a0800000000000000
+      internalID: -6457447731663756547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_198
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 55
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1284a5a62d0a6b0800000000000000
+      internalID: -5286994608309919298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_199
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 55
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b3c2b91cf74c730800000000000000
+      internalID: 4018477237030108014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_200
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 55
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68560c89efb8211e0800000000000000
+      internalID: -2228564939994274426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_201
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 55
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9707e510b6c4500800000000000000
+      internalID: 381797722043218364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_202
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 55
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6450dbb5300c4db50800000000000000
+      internalID: 6617124873170650438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_203
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 55
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e7b76f4c982b110800000000000000
+      internalID: 1275233123541155366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_204
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 55
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b30bbebb323aaa0800000000000000
+      internalID: -6151033376037913802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_205
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 71
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2f1e4a219620850800000000000000
+      internalID: 6341746754087678630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_206
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f115b7f8dcf7c360800000000000000
+      internalID: 7189993338919260660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_207
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb2be4773a164ca0800000000000000
+      internalID: -6033105825329108023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_208
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2537a33adb07940800000000000000
+      internalID: 5291938070918288120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_209
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c05416dbe2e7cf0800000000000000
+      internalID: -252713138170557403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_210
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636419f2a6faf49f0800000000000000
+      internalID: -481973764505909706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_211
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2dd58b32997c460800000000000000
+      internalID: 7261941302854275802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_212
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 80
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df55b330b5ac45ec0800000000000000
+      internalID: -3579013311607646723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_213
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 80
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acae327c5bd73bf50800000000000000
+      internalID: 6895993674117933770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_214
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b46f462a122fb60800000000000000
+      internalID: 7778316487784549200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_215
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccba437bc44600b0800000000000000
+      internalID: -5762843032570643252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_216
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17177267343108bc0800000000000000
+      internalID: -3783002506525183631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_217
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c18d5d6b104ee20800000000000000
+      internalID: 3378827505218100251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_218
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa88b0fbf4646400800000000000000
+      internalID: 316488907060972207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_219
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b08daf7d3a9c1d0800000000000000
+      internalID: -3329950301442012375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_220
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25d3f4c61ca374f0800000000000000
+      internalID: -832132292339837651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_221
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967ffca879a32f670800000000000000
+      internalID: 8570977463382833001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_222
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 72
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fc97cc8b1f44ad0800000000000000
+      internalID: -2718782499018125475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_223
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 72
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9ef169d7f3c3ab0800000000000000
+      internalID: -5027073275430180437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_224
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 73
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c0f611ed56c6460800000000000000
+      internalID: 7236270705727179787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_225
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 55
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad43567a2d8e4710800000000000000
+      internalID: 1679434924569087394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_226
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116db45fcff5e1f70800000000000000
+      internalID: 9159864232169952785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_227
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4b3ff3fdcd29a60800000000000000
+      internalID: 7679443166028870866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_228
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4dd80a322ad942a0800000000000000
+      internalID: -6752626325727945393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_229
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9fb942f9a54dd70800000000000000
+      internalID: 9066971589364152750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_230
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6fb775610898850800000000000000
+      internalID: 6379771180592395955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_231
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce66b12070b3a5720800000000000000
+      internalID: 2835643816669308652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_232
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 64
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadb2709bb2ea7780800000000000000
+      internalID: -8684379636220379730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_233
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 64
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbaa2287e11bd4de0800000000000000
+      internalID: -1347225969091237187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_234
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 65
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4554c4e1b5108d0800000000000000
+      internalID: -2881922100853648137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_235
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8929f2373e22750800000000000000
+      internalID: 6278830914366773425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_236
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ed1a3e4d433a840800000000000000
+      internalID: 5234085280891395622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_237
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afee03a73bf11f210800000000000000
+      internalID: 1364907017779605242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_238
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47804ebb10e397600800000000000000
+      internalID: 466472213577730164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_239
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8e845122a7d6210800000000000000
+      internalID: 1327851751948740781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_240
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377f6d18bd110de00800000000000000
+      internalID: 1067372746160666483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_241
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 56
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75844f5dd1fd6ee0800000000000000
+      internalID: -1266089987132848770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_242
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 56
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c6c5bd3bbf9e8e0800000000000000
+      internalID: -1663521837438702459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_243
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fad1f7ca260e3f0800000000000000
+      internalID: -873589834703327386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_244
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 39
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c2ff25ae123b560800000000000000
+      internalID: 7328238308960447541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_245
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 31
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd527b3a52245f30800000000000000
+      internalID: 4563310093372907003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_246
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 7
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f00e74b01c83b80800000000000000
+      internalID: -8414763649547104370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_247
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 7
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19961ca60dd1b2cb0800000000000000
+      internalID: -4887780189599077999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_248
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 7
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a868be09a0b0850800000000000000
+      internalID: 6344176117624507017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_249
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 7
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2339316b8ef3fb130800000000000000
+      internalID: 3584654097129902898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_250
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 7
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effb878e28b061c70800000000000000
+      internalID: 8941346767064580094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_251
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70bab31749a83a50800000000000000
+      internalID: 6501132184848085114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_252
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 7
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe77b162fb2a48990800000000000000
+      internalID: -7384598547118983185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_253
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 7
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce377aadd72da950800000000000000
+      internalID: 6461864873347727049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_254
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 7
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d597f687880312ed0800000000000000
+      internalID: -2440616160363841187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_255
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 7
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8506642291b44b940800000000000000
+      internalID: 5310952431897960536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_256
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 7
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef2abd14c19b3ab0800000000000000
+      internalID: -5027264287530668056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_257
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 23
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c8c83c2f53eb8b0800000000000000
+      internalID: -5134607208376660838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_258
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5a60807e9d102e0800000000000000
+      internalID: -2161206759865801300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_259
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 15
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35dced923f3f62830800000000000000
+      internalID: 4046189540944039251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_260
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c69594256c4cb30800000000000000
+      internalID: 4306785200393251999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_261
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f369278a011d5c30800000000000000
+      internalID: 4349651552024749043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_262
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 17
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d2795aacaafe880800000000000000
+      internalID: -8579450977779241603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeltsPantsGlovesCloaksIcons_263
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e5b54a3dc0f3990800000000000000
+      internalID: -7404185159238721992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BeltsPantsGlovesCloaksIcons_0: -2848878405226903790
+      BeltsPantsGlovesCloaksIcons_1: -152656933286700193
+      BeltsPantsGlovesCloaksIcons_10: -180500358854667142
+      BeltsPantsGlovesCloaksIcons_100: -514891458877821005
+      BeltsPantsGlovesCloaksIcons_101: 854400225914985853
+      BeltsPantsGlovesCloaksIcons_102: 8529504677535064766
+      BeltsPantsGlovesCloaksIcons_103: 626933048338787806
+      BeltsPantsGlovesCloaksIcons_104: 4434098359057674824
+      BeltsPantsGlovesCloaksIcons_105: -3102736445885101882
+      BeltsPantsGlovesCloaksIcons_106: 7627009808881358541
+      BeltsPantsGlovesCloaksIcons_107: -9098747821402808590
+      BeltsPantsGlovesCloaksIcons_108: 6126969801340091724
+      BeltsPantsGlovesCloaksIcons_109: -4096927389147766097
+      BeltsPantsGlovesCloaksIcons_11: -7664377556523027683
+      BeltsPantsGlovesCloaksIcons_110: 1150559212420508
+      BeltsPantsGlovesCloaksIcons_111: -5483656538072873686
+      BeltsPantsGlovesCloaksIcons_112: 6127680830366640085
+      BeltsPantsGlovesCloaksIcons_113: -6547902567197947830
+      BeltsPantsGlovesCloaksIcons_114: -576172925385759145
+      BeltsPantsGlovesCloaksIcons_115: 8577556929047434829
+      BeltsPantsGlovesCloaksIcons_116: -3148928880902086904
+      BeltsPantsGlovesCloaksIcons_117: 3123822121596037624
+      BeltsPantsGlovesCloaksIcons_118: 2461283468600668333
+      BeltsPantsGlovesCloaksIcons_119: 5963577315086864731
+      BeltsPantsGlovesCloaksIcons_12: -434089523544801940
+      BeltsPantsGlovesCloaksIcons_120: 3133537797469383938
+      BeltsPantsGlovesCloaksIcons_121: -6480426056377361726
+      BeltsPantsGlovesCloaksIcons_122: 2293285339626693674
+      BeltsPantsGlovesCloaksIcons_123: -8966702157837146668
+      BeltsPantsGlovesCloaksIcons_124: -6718284795317254545
+      BeltsPantsGlovesCloaksIcons_125: 2871476218426466700
+      BeltsPantsGlovesCloaksIcons_126: -2138345407525814682
+      BeltsPantsGlovesCloaksIcons_127: 6786208550172170181
+      BeltsPantsGlovesCloaksIcons_128: -4723890078822469362
+      BeltsPantsGlovesCloaksIcons_129: 6030664882499598360
+      BeltsPantsGlovesCloaksIcons_13: -3433669070215222547
+      BeltsPantsGlovesCloaksIcons_130: 3040133267925096962
+      BeltsPantsGlovesCloaksIcons_131: 1481035367980454801
+      BeltsPantsGlovesCloaksIcons_132: -2037358782821646788
+      BeltsPantsGlovesCloaksIcons_133: 2980502483299141410
+      BeltsPantsGlovesCloaksIcons_134: -95369204744369268
+      BeltsPantsGlovesCloaksIcons_135: 5304488071506824779
+      BeltsPantsGlovesCloaksIcons_136: -3987934494127867496
+      BeltsPantsGlovesCloaksIcons_137: -2255814508882288624
+      BeltsPantsGlovesCloaksIcons_138: 5293080346767435372
+      BeltsPantsGlovesCloaksIcons_139: -7164754074110545061
+      BeltsPantsGlovesCloaksIcons_14: 8649871488114811847
+      BeltsPantsGlovesCloaksIcons_140: 6972037667665637810
+      BeltsPantsGlovesCloaksIcons_141: 4141135488293027179
+      BeltsPantsGlovesCloaksIcons_142: -4429158113154453685
+      BeltsPantsGlovesCloaksIcons_143: 1242235516184787129
+      BeltsPantsGlovesCloaksIcons_144: -8126215974077621494
+      BeltsPantsGlovesCloaksIcons_145: 5763182138230974793
+      BeltsPantsGlovesCloaksIcons_146: 6453556706708057045
+      BeltsPantsGlovesCloaksIcons_147: -8276082084643487336
+      BeltsPantsGlovesCloaksIcons_148: -7902563163519661407
+      BeltsPantsGlovesCloaksIcons_149: -3458104877554274733
+      BeltsPantsGlovesCloaksIcons_15: 4758851479648965451
+      BeltsPantsGlovesCloaksIcons_150: 3518462049068138632
+      BeltsPantsGlovesCloaksIcons_151: 5002438187290811903
+      BeltsPantsGlovesCloaksIcons_152: 3968724746909367342
+      BeltsPantsGlovesCloaksIcons_153: -4633592375530043005
+      BeltsPantsGlovesCloaksIcons_154: -2717130675783372017
+      BeltsPantsGlovesCloaksIcons_155: 3660528199171972755
+      BeltsPantsGlovesCloaksIcons_156: 5577624515634458165
+      BeltsPantsGlovesCloaksIcons_157: 8062378985224324370
+      BeltsPantsGlovesCloaksIcons_158: 2390655828996938038
+      BeltsPantsGlovesCloaksIcons_159: -3190826737278952541
+      BeltsPantsGlovesCloaksIcons_16: -6171428799197155717
+      BeltsPantsGlovesCloaksIcons_160: -6218168796067354905
+      BeltsPantsGlovesCloaksIcons_161: 4667230162316514410
+      BeltsPantsGlovesCloaksIcons_162: 2166919736468870328
+      BeltsPantsGlovesCloaksIcons_163: 263329380059100304
+      BeltsPantsGlovesCloaksIcons_164: 4254317841712056304
+      BeltsPantsGlovesCloaksIcons_165: -8250287315075304029
+      BeltsPantsGlovesCloaksIcons_166: -7232261942033476045
+      BeltsPantsGlovesCloaksIcons_167: -5056219818796996469
+      BeltsPantsGlovesCloaksIcons_168: -458013697466374598
+      BeltsPantsGlovesCloaksIcons_169: -8879547918672986991
+      BeltsPantsGlovesCloaksIcons_17: 5468852857552952938
+      BeltsPantsGlovesCloaksIcons_170: -4443133817418642468
+      BeltsPantsGlovesCloaksIcons_171: 1116164380982769333
+      BeltsPantsGlovesCloaksIcons_172: 8872142450655936639
+      BeltsPantsGlovesCloaksIcons_173: -6936277575092785818
+      BeltsPantsGlovesCloaksIcons_174: 1755680563031644613
+      BeltsPantsGlovesCloaksIcons_175: -5990124261808075604
+      BeltsPantsGlovesCloaksIcons_176: 7037618939843408246
+      BeltsPantsGlovesCloaksIcons_177: -1728853032108189870
+      BeltsPantsGlovesCloaksIcons_178: 7866621061261851590
+      BeltsPantsGlovesCloaksIcons_179: -3281512241024693990
+      BeltsPantsGlovesCloaksIcons_18: 1912856225697380983
+      BeltsPantsGlovesCloaksIcons_180: -8552609036977449349
+      BeltsPantsGlovesCloaksIcons_181: -303215074371522998
+      BeltsPantsGlovesCloaksIcons_182: 3638069711076051440
+      BeltsPantsGlovesCloaksIcons_183: -3667088309570625358
+      BeltsPantsGlovesCloaksIcons_184: -1543504401561668980
+      BeltsPantsGlovesCloaksIcons_185: 6766162270054101349
+      BeltsPantsGlovesCloaksIcons_186: -5564703066337846067
+      BeltsPantsGlovesCloaksIcons_187: 7217041602626916992
+      BeltsPantsGlovesCloaksIcons_188: -5129245876957608921
+      BeltsPantsGlovesCloaksIcons_189: -5600343246077457115
+      BeltsPantsGlovesCloaksIcons_19: -7465521495168106883
+      BeltsPantsGlovesCloaksIcons_190: -7168536861307575860
+      BeltsPantsGlovesCloaksIcons_191: -7924927092144803532
+      BeltsPantsGlovesCloaksIcons_192: 6067401525427282424
+      BeltsPantsGlovesCloaksIcons_193: -645558340189566539
+      BeltsPantsGlovesCloaksIcons_194: -3222752017384433028
+      BeltsPantsGlovesCloaksIcons_195: 2427158311288927621
+      BeltsPantsGlovesCloaksIcons_196: 296941030458021813
+      BeltsPantsGlovesCloaksIcons_197: -6457447731663756547
+      BeltsPantsGlovesCloaksIcons_198: -5286994608309919298
+      BeltsPantsGlovesCloaksIcons_199: 4018477237030108014
+      BeltsPantsGlovesCloaksIcons_2: 3936909793849152860
+      BeltsPantsGlovesCloaksIcons_20: -1594764492230358516
+      BeltsPantsGlovesCloaksIcons_200: -2228564939994274426
+      BeltsPantsGlovesCloaksIcons_201: 381797722043218364
+      BeltsPantsGlovesCloaksIcons_202: 6617124873170650438
+      BeltsPantsGlovesCloaksIcons_203: 1275233123541155366
+      BeltsPantsGlovesCloaksIcons_204: -6151033376037913802
+      BeltsPantsGlovesCloaksIcons_205: 6341746754087678630
+      BeltsPantsGlovesCloaksIcons_206: 7189993338919260660
+      BeltsPantsGlovesCloaksIcons_207: -6033105825329108023
+      BeltsPantsGlovesCloaksIcons_208: 5291938070918288120
+      BeltsPantsGlovesCloaksIcons_209: -252713138170557403
+      BeltsPantsGlovesCloaksIcons_21: 1310810736277385385
+      BeltsPantsGlovesCloaksIcons_210: -481973764505909706
+      BeltsPantsGlovesCloaksIcons_211: 7261941302854275802
+      BeltsPantsGlovesCloaksIcons_212: -3579013311607646723
+      BeltsPantsGlovesCloaksIcons_213: 6895993674117933770
+      BeltsPantsGlovesCloaksIcons_214: 7778316487784549200
+      BeltsPantsGlovesCloaksIcons_215: -5762843032570643252
+      BeltsPantsGlovesCloaksIcons_216: -3783002506525183631
+      BeltsPantsGlovesCloaksIcons_217: 3378827505218100251
+      BeltsPantsGlovesCloaksIcons_218: 316488907060972207
+      BeltsPantsGlovesCloaksIcons_219: -3329950301442012375
+      BeltsPantsGlovesCloaksIcons_22: 3106728422151747894
+      BeltsPantsGlovesCloaksIcons_220: -832132292339837651
+      BeltsPantsGlovesCloaksIcons_221: 8570977463382833001
+      BeltsPantsGlovesCloaksIcons_222: -2718782499018125475
+      BeltsPantsGlovesCloaksIcons_223: -5027073275430180437
+      BeltsPantsGlovesCloaksIcons_224: 7236270705727179787
+      BeltsPantsGlovesCloaksIcons_225: 1679434924569087394
+      BeltsPantsGlovesCloaksIcons_226: 9159864232169952785
+      BeltsPantsGlovesCloaksIcons_227: 7679443166028870866
+      BeltsPantsGlovesCloaksIcons_228: -6752626325727945393
+      BeltsPantsGlovesCloaksIcons_229: 9066971589364152750
+      BeltsPantsGlovesCloaksIcons_23: 4307965758906324258
+      BeltsPantsGlovesCloaksIcons_230: 6379771180592395955
+      BeltsPantsGlovesCloaksIcons_231: 2835643816669308652
+      BeltsPantsGlovesCloaksIcons_232: -8684379636220379730
+      BeltsPantsGlovesCloaksIcons_233: -1347225969091237187
+      BeltsPantsGlovesCloaksIcons_234: -2881922100853648137
+      BeltsPantsGlovesCloaksIcons_235: 6278830914366773425
+      BeltsPantsGlovesCloaksIcons_236: 5234085280891395622
+      BeltsPantsGlovesCloaksIcons_237: 1364907017779605242
+      BeltsPantsGlovesCloaksIcons_238: 466472213577730164
+      BeltsPantsGlovesCloaksIcons_239: 1327851751948740781
+      BeltsPantsGlovesCloaksIcons_24: 2829336869661260405
+      BeltsPantsGlovesCloaksIcons_240: 1067372746160666483
+      BeltsPantsGlovesCloaksIcons_241: -1266089987132848770
+      BeltsPantsGlovesCloaksIcons_242: -1663521837438702459
+      BeltsPantsGlovesCloaksIcons_243: -873589834703327386
+      BeltsPantsGlovesCloaksIcons_244: 7328238308960447541
+      BeltsPantsGlovesCloaksIcons_245: 4563310093372907003
+      BeltsPantsGlovesCloaksIcons_246: -8414763649547104370
+      BeltsPantsGlovesCloaksIcons_247: -4887780189599077999
+      BeltsPantsGlovesCloaksIcons_248: 6344176117624507017
+      BeltsPantsGlovesCloaksIcons_249: 3584654097129902898
+      BeltsPantsGlovesCloaksIcons_25: 8424248923108114785
+      BeltsPantsGlovesCloaksIcons_250: 8941346767064580094
+      BeltsPantsGlovesCloaksIcons_251: 6501132184848085114
+      BeltsPantsGlovesCloaksIcons_252: -7384598547118983185
+      BeltsPantsGlovesCloaksIcons_253: 6461864873347727049
+      BeltsPantsGlovesCloaksIcons_254: -2440616160363841187
+      BeltsPantsGlovesCloaksIcons_255: 5310952431897960536
+      BeltsPantsGlovesCloaksIcons_256: -5027264287530668056
+      BeltsPantsGlovesCloaksIcons_257: -5134607208376660838
+      BeltsPantsGlovesCloaksIcons_258: -2161206759865801300
+      BeltsPantsGlovesCloaksIcons_259: 4046189540944039251
+      BeltsPantsGlovesCloaksIcons_26: -3443965839174884248
+      BeltsPantsGlovesCloaksIcons_260: 4306785200393251999
+      BeltsPantsGlovesCloaksIcons_261: 4349651552024749043
+      BeltsPantsGlovesCloaksIcons_262: -8579450977779241603
+      BeltsPantsGlovesCloaksIcons_263: -7404185159238721992
+      BeltsPantsGlovesCloaksIcons_27: 805495402567505750
+      BeltsPantsGlovesCloaksIcons_28: -8031450337017147379
+      BeltsPantsGlovesCloaksIcons_29: -1201735989662218910
+      BeltsPantsGlovesCloaksIcons_3: 7743253809803557920
+      BeltsPantsGlovesCloaksIcons_30: 5508815704932123022
+      BeltsPantsGlovesCloaksIcons_31: 8391262942469268822
+      BeltsPantsGlovesCloaksIcons_32: -1224035438282946407
+      BeltsPantsGlovesCloaksIcons_33: 7679750889938770548
+      BeltsPantsGlovesCloaksIcons_34: 4203840576154702691
+      BeltsPantsGlovesCloaksIcons_35: 2478738996138064629
+      BeltsPantsGlovesCloaksIcons_36: 2832178466460952396
+      BeltsPantsGlovesCloaksIcons_37: 4493304867043704859
+      BeltsPantsGlovesCloaksIcons_38: 3288845741589119994
+      BeltsPantsGlovesCloaksIcons_39: -5376360750394381741
+      BeltsPantsGlovesCloaksIcons_4: -3116095449075564424
+      BeltsPantsGlovesCloaksIcons_40: 6365843427715049148
+      BeltsPantsGlovesCloaksIcons_41: 7111921525951408280
+      BeltsPantsGlovesCloaksIcons_42: 555460800383669159
+      BeltsPantsGlovesCloaksIcons_43: -745974423680940813
+      BeltsPantsGlovesCloaksIcons_44: -366202965274194221
+      BeltsPantsGlovesCloaksIcons_45: 7033913412515379803
+      BeltsPantsGlovesCloaksIcons_46: 8163055884695152525
+      BeltsPantsGlovesCloaksIcons_47: -710476477547400561
+      BeltsPantsGlovesCloaksIcons_48: -8913272958026811752
+      BeltsPantsGlovesCloaksIcons_49: 5359529752132851374
+      BeltsPantsGlovesCloaksIcons_5: -7787721701463881994
+      BeltsPantsGlovesCloaksIcons_50: 4545969827264468250
+      BeltsPantsGlovesCloaksIcons_51: -4392909089963085030
+      BeltsPantsGlovesCloaksIcons_52: -3231476344545880005
+      BeltsPantsGlovesCloaksIcons_53: -991453522568115386
+      BeltsPantsGlovesCloaksIcons_54: -3529684219055656452
+      BeltsPantsGlovesCloaksIcons_55: 8897540548927071033
+      BeltsPantsGlovesCloaksIcons_56: -6467474091313504915
+      BeltsPantsGlovesCloaksIcons_57: -5054804901381321475
+      BeltsPantsGlovesCloaksIcons_58: -3666385251630718041
+      BeltsPantsGlovesCloaksIcons_59: 5342882306437641832
+      BeltsPantsGlovesCloaksIcons_6: -5498871569395683441
+      BeltsPantsGlovesCloaksIcons_60: -8742808036814408338
+      BeltsPantsGlovesCloaksIcons_61: 2041507253309967253
+      BeltsPantsGlovesCloaksIcons_62: -5671586954811379249
+      BeltsPantsGlovesCloaksIcons_63: 5803953118248410682
+      BeltsPantsGlovesCloaksIcons_64: -8997519695459118892
+      BeltsPantsGlovesCloaksIcons_65: 926176894832560776
+      BeltsPantsGlovesCloaksIcons_66: 7572446492042673488
+      BeltsPantsGlovesCloaksIcons_67: 8070037653499089668
+      BeltsPantsGlovesCloaksIcons_68: 85674768116156103
+      BeltsPantsGlovesCloaksIcons_69: -3762003331900762024
+      BeltsPantsGlovesCloaksIcons_7: 5617872876732908661
+      BeltsPantsGlovesCloaksIcons_70: 1978680568177003042
+      BeltsPantsGlovesCloaksIcons_71: 8368374243800162065
+      BeltsPantsGlovesCloaksIcons_72: 8797721020308059311
+      BeltsPantsGlovesCloaksIcons_73: -4911277473929994107
+      BeltsPantsGlovesCloaksIcons_74: 3609815572226047328
+      BeltsPantsGlovesCloaksIcons_75: -2944516734675509428
+      BeltsPantsGlovesCloaksIcons_76: -8729055525830185192
+      BeltsPantsGlovesCloaksIcons_77: -3777894175996921922
+      BeltsPantsGlovesCloaksIcons_78: 2689980933448308704
+      BeltsPantsGlovesCloaksIcons_79: 4023399292365233296
+      BeltsPantsGlovesCloaksIcons_8: -9075820592221623847
+      BeltsPantsGlovesCloaksIcons_80: -1215808152005899698
+      BeltsPantsGlovesCloaksIcons_81: 7258015972504739365
+      BeltsPantsGlovesCloaksIcons_82: 4794708169401084089
+      BeltsPantsGlovesCloaksIcons_83: 8321662216742112632
+      BeltsPantsGlovesCloaksIcons_84: -5172349357729302011
+      BeltsPantsGlovesCloaksIcons_85: -3284615012424303958
+      BeltsPantsGlovesCloaksIcons_86: 7849132669377910731
+      BeltsPantsGlovesCloaksIcons_87: 2163856306665040020
+      BeltsPantsGlovesCloaksIcons_88: -3792523514054220058
+      BeltsPantsGlovesCloaksIcons_89: -8450653545478534187
+      BeltsPantsGlovesCloaksIcons_9: 6699071742282816140
+      BeltsPantsGlovesCloaksIcons_90: -8399631176762949073
+      BeltsPantsGlovesCloaksIcons_91: -3272720129021410582
+      BeltsPantsGlovesCloaksIcons_92: 8389382537624360664
+      BeltsPantsGlovesCloaksIcons_93: 5927032918535991835
+      BeltsPantsGlovesCloaksIcons_94: -3059291600627344032
+      BeltsPantsGlovesCloaksIcons_95: -2461660451865849177
+      BeltsPantsGlovesCloaksIcons_96: -886485876219465648
+      BeltsPantsGlovesCloaksIcons_97: 1379662228570791888
+      BeltsPantsGlovesCloaksIcons_98: -7996231890262834026
+      BeltsPantsGlovesCloaksIcons_99: 6641367156839135741
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

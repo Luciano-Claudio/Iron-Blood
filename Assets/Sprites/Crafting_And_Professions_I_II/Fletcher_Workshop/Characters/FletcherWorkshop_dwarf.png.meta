@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 143c78f55981c8343a22110dd262f9ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2322708632144270999
+    second: FletcherWorkshop_dwarf_0
+  - first:
+      213: -5393752044801200082
+    second: FletcherWorkshop_dwarf_1
+  - first:
+      213: -617069151171904814
+    second: FletcherWorkshop_dwarf_2
+  - first:
+      213: 5218512569257401401
+    second: FletcherWorkshop_dwarf_3
+  - first:
+      213: 5129982249488648161
+    second: FletcherWorkshop_dwarf_4
+  - first:
+      213: 3966776519549559164
+    second: FletcherWorkshop_dwarf_5
+  - first:
+      213: 7192118275997750950
+    second: FletcherWorkshop_dwarf_6
+  - first:
+      213: -2253202831601141255
+    second: FletcherWorkshop_dwarf_7
+  - first:
+      213: 7391935375045165727
+    second: FletcherWorkshop_dwarf_8
+  - first:
+      213: 6959722291533650192
+    second: FletcherWorkshop_dwarf_9
+  - first:
+      213: -2037199612057329212
+    second: FletcherWorkshop_dwarf_10
+  - first:
+      213: 5721292952591627471
+    second: FletcherWorkshop_dwarf_11
+  - first:
+      213: -1615218581057910564
+    second: FletcherWorkshop_dwarf_12
+  - first:
+      213: -6469893803323604767
+    second: FletcherWorkshop_dwarf_13
+  - first:
+      213: 8277770949016463330
+    second: FletcherWorkshop_dwarf_14
+  - first:
+      213: 751543811676085282
+    second: FletcherWorkshop_dwarf_15
+  - first:
+      213: 3152875412844363950
+    second: FletcherWorkshop_dwarf_16
+  - first:
+      213: -6711881868589912932
+    second: FletcherWorkshop_dwarf_17
+  - first:
+      213: 737817045049869900
+    second: FletcherWorkshop_dwarf_18
+  - first:
+      213: -3896594644795649395
+    second: FletcherWorkshop_dwarf_19
+  - first:
+      213: -6456557725964154867
+    second: FletcherWorkshop_dwarf_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FletcherWorkshop_dwarf_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 14
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969ae482ec414cfd0800000000000000
+      internalID: -2322708632144270999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_dwarf_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 14
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e207613b71b8525b0800000000000000
+      internalID: -5393752044801200082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_dwarf_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 14
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dafb8a50eabf67f0800000000000000
+      internalID: -617069151171904814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_dwarf_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c9f7a6881eb6840800000000000000
+      internalID: 5218512569257401401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_dwarf_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e784d41dab513740800000000000000
+      internalID: 5129982249488648161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_dwarf_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71ac174a32dc0730800000000000000
+      internalID: 3966776519549559164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_dwarf_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6d07f67798fc360800000000000000
+      internalID: 7192118275997750950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_dwarf_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9728f66f30bb0e0800000000000000
+      internalID: -2253202831601141255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_dwarf_8
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 14
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9206383f0e659660800000000000000
+      internalID: 7391935375045165727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_dwarf_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 14
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0191b3acc86e59060800000000000000
+      internalID: 6959722291533650192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_dwarf_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 14
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c162c21fb96ab3e0800000000000000
+      internalID: -2037199612057329212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_dwarf_11
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc47b2fa0ad166f40800000000000000
+      internalID: 5721292952591627471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_dwarf_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8ce6122479599e0800000000000000
+      internalID: -1615218581057910564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_dwarf_13
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e045666dd15636a0800000000000000
+      internalID: -6469893803323604767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_dwarf_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7ac2412dc80e270800000000000000
+      internalID: 8277770949016463330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_dwarf_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 14
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c98186d150e6a00800000000000000
+      internalID: 751543811676085282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_dwarf_16
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 13
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0c6abbb7341cb20800000000000000
+      internalID: 3152875412844363950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_dwarf_17
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 14
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c2058600b9ad2a0800000000000000
+      internalID: -6711881868589912932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_dwarf_18
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 14
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c460d6f71b04d3a00800000000000000
+      internalID: 737817045049869900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_dwarf_19
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 12
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82144bc0d38ce9c0800000000000000
+      internalID: -3896594644795649395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_dwarf_20
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 14
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d084a10e4f2b566a0800000000000000
+      internalID: -6456557725964154867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FletcherWorkshop_dwarf_0: -2322708632144270999
+      FletcherWorkshop_dwarf_1: -5393752044801200082
+      FletcherWorkshop_dwarf_10: -2037199612057329212
+      FletcherWorkshop_dwarf_11: 5721292952591627471
+      FletcherWorkshop_dwarf_12: -1615218581057910564
+      FletcherWorkshop_dwarf_13: -6469893803323604767
+      FletcherWorkshop_dwarf_14: 8277770949016463330
+      FletcherWorkshop_dwarf_15: 751543811676085282
+      FletcherWorkshop_dwarf_16: 3152875412844363950
+      FletcherWorkshop_dwarf_17: -6711881868589912932
+      FletcherWorkshop_dwarf_18: 737817045049869900
+      FletcherWorkshop_dwarf_19: -3896594644795649395
+      FletcherWorkshop_dwarf_2: -617069151171904814
+      FletcherWorkshop_dwarf_20: -6456557725964154867
+      FletcherWorkshop_dwarf_3: 5218512569257401401
+      FletcherWorkshop_dwarf_4: 5129982249488648161
+      FletcherWorkshop_dwarf_5: 3966776519549559164
+      FletcherWorkshop_dwarf_6: 7192118275997750950
+      FletcherWorkshop_dwarf_7: -2253202831601141255
+      FletcherWorkshop_dwarf_8: 7391935375045165727
+      FletcherWorkshop_dwarf_9: 6959722291533650192
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

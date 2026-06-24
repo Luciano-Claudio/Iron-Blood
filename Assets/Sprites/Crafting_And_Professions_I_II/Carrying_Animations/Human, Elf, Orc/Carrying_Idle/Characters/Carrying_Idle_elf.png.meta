@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: f51cfbde7c6045643a75d92074bfc4a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6236368230035430144
+    second: Carrying_Idle_elf_0
+  - first:
+      213: -2018770222800832048
+    second: Carrying_Idle_elf_1
+  - first:
+      213: 8653649208041981559
+    second: Carrying_Idle_elf_2
+  - first:
+      213: 589602742758160011
+    second: Carrying_Idle_elf_3
+  - first:
+      213: 8395913263833657580
+    second: Carrying_Idle_elf_4
+  - first:
+      213: 2858162583390252414
+    second: Carrying_Idle_elf_5
+  - first:
+      213: 3048557456145695277
+    second: Carrying_Idle_elf_6
+  - first:
+      213: 577264265031240905
+    second: Carrying_Idle_elf_7
+  - first:
+      213: -5158833318191860358
+    second: Carrying_Idle_elf_8
+  - first:
+      213: -7387990708427134701
+    second: Carrying_Idle_elf_9
+  - first:
+      213: -1756911181968910666
+    second: Carrying_Idle_elf_10
+  - first:
+      213: -6262083106154995848
+    second: Carrying_Idle_elf_11
+  - first:
+      213: 1706057142387282134
+    second: Carrying_Idle_elf_12
+  - first:
+      213: 554971871454829522
+    second: Carrying_Idle_elf_13
+  - first:
+      213: -5556538728514474486
+    second: Carrying_Idle_elf_14
+  - first:
+      213: 291784853094074912
+    second: Carrying_Idle_elf_15
+  - first:
+      213: 8264340999784465483
+    second: Carrying_Idle_elf_16
+  - first:
+      213: 5717744900923657674
+    second: Carrying_Idle_elf_17
+  - first:
+      213: -6490214138505891865
+    second: Carrying_Idle_elf_18
+  - first:
+      213: 1059021870555263969
+    second: Carrying_Idle_elf_19
+  - first:
+      213: 3836464764765327842
+    second: Carrying_Idle_elf_20
+  - first:
+      213: 8807667841953000125
+    second: Carrying_Idle_elf_21
+  - first:
+      213: 4138276812010560582
+    second: Carrying_Idle_elf_22
+  - first:
+      213: -2563351382317472827
+    second: Carrying_Idle_elf_23
+  - first:
+      213: -2533599840237357071
+    second: Carrying_Idle_elf_24
+  - first:
+      213: -5041262834651783991
+    second: Carrying_Idle_elf_25
+  - first:
+      213: -6888648408668715478
+    second: Carrying_Idle_elf_26
+  - first:
+      213: 9103799033619020809
+    second: Carrying_Idle_elf_27
+  - first:
+      213: -5157869576534039266
+    second: Carrying_Idle_elf_28
+  - first:
+      213: 8593752938781150070
+    second: Carrying_Idle_elf_29
+  - first:
+      213: 8486534196205845040
+    second: Carrying_Idle_elf_30
+  - first:
+      213: 1612449490165822622
+    second: Carrying_Idle_elf_31
+  - first:
+      213: -509149486554405170
+    second: Carrying_Idle_elf_32
+  - first:
+      213: 3798701235109382959
+    second: Carrying_Idle_elf_33
+  - first:
+      213: -7084608507365179321
+    second: Carrying_Idle_elf_34
+  - first:
+      213: -2353196746540939881
+    second: Carrying_Idle_elf_35
+  - first:
+      213: -7887768548714267685
+    second: Carrying_Idle_elf_36
+  - first:
+      213: -8351403861386804317
+    second: Carrying_Idle_elf_37
+  - first:
+      213: 2352850197943546193
+    second: Carrying_Idle_elf_38
+  - first:
+      213: 7539117789056885168
+    second: Carrying_Idle_elf_39
+  - first:
+      213: -5018291321757412749
+    second: Carrying_Idle_elf_40
+  - first:
+      213: 7822196272206665376
+    second: Carrying_Idle_elf_41
+  - first:
+      213: -3266730910082951673
+    second: Carrying_Idle_elf_42
+  - first:
+      213: -283157534634856134
+    second: Carrying_Idle_elf_43
+  - first:
+      213: -458689688313526724
+    second: Carrying_Idle_elf_44
+  - first:
+      213: -5332015390164863002
+    second: Carrying_Idle_elf_45
+  - first:
+      213: -2629935228173941187
+    second: Carrying_Idle_elf_46
+  - first:
+      213: 7702880714131640159
+    second: Carrying_Idle_elf_47
+  - first:
+      213: -929857137877775300
+    second: Carrying_Idle_elf_48
+  - first:
+      213: 892791890299833863
+    second: Carrying_Idle_elf_49
+  - first:
+      213: 2889777010736378587
+    second: Carrying_Idle_elf_50
+  - first:
+      213: -1856178105966121945
+    second: Carrying_Idle_elf_51
+  - first:
+      213: 378838402072341491
+    second: Carrying_Idle_elf_52
+  - first:
+      213: 6393425491550996777
+    second: Carrying_Idle_elf_53
+  - first:
+      213: -4415335191982746616
+    second: Carrying_Idle_elf_54
+  - first:
+      213: 6396887845474778575
+    second: Carrying_Idle_elf_55
+  - first:
+      213: -5892539766639470988
+    second: Carrying_Idle_elf_56
+  - first:
+      213: -679717613286370600
+    second: Carrying_Idle_elf_57
+  - first:
+      213: 1768634505137744325
+    second: Carrying_Idle_elf_58
+  - first:
+      213: -4634278652645454496
+    second: Carrying_Idle_elf_59
+  - first:
+      213: -1199415651718234379
+    second: Carrying_Idle_elf_60
+  - first:
+      213: -7798873357876584011
+    second: Carrying_Idle_elf_61
+  - first:
+      213: 3199608011681452825
+    second: Carrying_Idle_elf_62
+  - first:
+      213: 7326810690095625509
+    second: Carrying_Idle_elf_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005e430f228f379a0800000000000000
+      internalID: -6236368230035430144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9f1d2ad23ebf3e0800000000000000
+      internalID: -2018770222800832048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776ce201b10f71870800000000000000
+      internalID: 8653649208041981559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8632b81290be2800800000000000000
+      internalID: 589602742758160011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0bbc741a6448470800000000000000
+      internalID: 8395913263833657580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7de945f9bb3aa720800000000000000
+      internalID: 2858162583390252414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22ceeabad6ae4a20800000000000000
+      internalID: 3048557456145695277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccc6b26acad20800800000000000000
+      internalID: 577264265031240905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_8
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7579b50e642868b0800000000000000
+      internalID: -5158833318191860358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319605c0895987990800000000000000
+      internalID: -7387990708427134701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6d4d8a6923e97e0800000000000000
+      internalID: -1756911181968910666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f18a7c79c9819a0800000000000000
+      internalID: -6262083106154995848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d013829ee12da710800000000000000
+      internalID: 1706057142387282134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_13
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db166a0af7a3b700800000000000000
+      internalID: 554971871454829522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ea13a577533e2b0800000000000000
+      internalID: -5556538728514474486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 108
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a038727c0ac0400800000000000000
+      internalID: 291784853094074912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4489da5a56d0b270800000000000000
+      internalID: 8264340999784465483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd0bd781b2895f40800000000000000
+      internalID: 5717744900923657674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef632ea0a02ee5a0800000000000000
+      internalID: -6490214138505891865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3f0d3c7c662be00800000000000000
+      internalID: 1059021870555263969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1d329806cdd3530800000000000000
+      internalID: 3836464764765327842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_21
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba6d3bbc3f1b3a70800000000000000
+      internalID: 8807667841953000125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c1022c5dc1e6930800000000000000
+      internalID: 4138276812010560582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_23
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3e57ebf752d6cd0800000000000000
+      internalID: -2563351382317472827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_24
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f77aaf6e58d6dcd0800000000000000
+      internalID: -2533599840237357071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc93316926d90ab0800000000000000
+      internalID: -5041262834651783991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26cdba15ca9660a0800000000000000
+      internalID: -6888648408668715478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_27
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cf761bcf0375e70800000000000000
+      internalID: 9103799033619020809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_28
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15e4ec92f09b68b0800000000000000
+      internalID: -5157869576534039266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_29
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b058324c4234770800000000000000
+      internalID: 8593752938781150070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_30
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03afd0b43e936c570800000000000000
+      internalID: 8486534196205845040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_31
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94f797a442906610800000000000000
+      internalID: 1612449490165822622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_32
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec62a545d332fe8f0800000000000000
+      internalID: -509149486554405170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_33
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b488e95a2b7b430800000000000000
+      internalID: 3798701235109382959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_34
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740c9c1391a6ead90800000000000000
+      internalID: -7084608507365179321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_35
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79582dbd604c75fd0800000000000000
+      internalID: -2353196746540939881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_36
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb336fcb44098290800000000000000
+      internalID: -7887768548714267685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_37
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3c63a8f6ad91c80800000000000000
+      internalID: -8351403861386804317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_38
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151f1220ac007a020800000000000000
+      internalID: 2352850197943546193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_39
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b160986fa350a860800000000000000
+      internalID: 7539117789056885168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_40
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372593381a27b5ab0800000000000000
+      internalID: -5018291321757412749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_41
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a65348d0160e8c60800000000000000
+      internalID: 7822196272206665376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_42
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70697bf8b8d3aa2d0800000000000000
+      internalID: -3266730910082951673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_43
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a313d94f8b5021cf0800000000000000
+      internalID: -283157534634856134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_44
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3600f1a82862a9f0800000000000000
+      internalID: -458689688313526724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_45
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7be4cb040e006b0800000000000000
+      internalID: -5332015390164863002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_46
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36086e08d7908bd0800000000000000
+      internalID: -2629935228173941187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_47
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f0609a23126ea60800000000000000
+      internalID: 7702880714131640159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_48
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c0fe41cdb7813f0800000000000000
+      internalID: -929857137877775300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_49
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ecba77e75d36c00800000000000000
+      internalID: 892791890299833863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_50
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2380d61ec8a1820800000000000000
+      internalID: 2889777010736378587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_51
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c280ad8d78d36e0800000000000000
+      internalID: -1856178105966121945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_52
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb6ccef487e14500800000000000000
+      internalID: 378838402072341491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_53
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92903d95c920ab850800000000000000
+      internalID: 6393425491550996777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_54
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804569d490499b2c0800000000000000
+      internalID: -4415335191982746616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_55
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdb9817a9f46c850800000000000000
+      internalID: 6396887845474778575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_56
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47657906d4e793ea0800000000000000
+      internalID: -5892539766639470988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_57
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d25d789e682196f0800000000000000
+      internalID: -679717613286370600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_58
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9eb3836b37b8810800000000000000
+      internalID: 1768634505137744325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_59
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d44ee6e1cbfafb0800000000000000
+      internalID: -4634278652645454496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_60
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe7a4dc1d1da5fe0800000000000000
+      internalID: -1199415651718234379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_61
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1228f4006d4c390800000000000000
+      internalID: -7798873357876584011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_62
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91354ccc88a476c20800000000000000
+      internalID: 3199608011681452825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_elf_63
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5253fa7e08f0ea560800000000000000
+      internalID: 7326810690095625509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Idle_elf_0: -6236368230035430144
+      Carrying_Idle_elf_1: -2018770222800832048
+      Carrying_Idle_elf_10: -1756911181968910666
+      Carrying_Idle_elf_11: -6262083106154995848
+      Carrying_Idle_elf_12: 1706057142387282134
+      Carrying_Idle_elf_13: 554971871454829522
+      Carrying_Idle_elf_14: -5556538728514474486
+      Carrying_Idle_elf_15: 291784853094074912
+      Carrying_Idle_elf_16: 8264340999784465483
+      Carrying_Idle_elf_17: 5717744900923657674
+      Carrying_Idle_elf_18: -6490214138505891865
+      Carrying_Idle_elf_19: 1059021870555263969
+      Carrying_Idle_elf_2: 8653649208041981559
+      Carrying_Idle_elf_20: 3836464764765327842
+      Carrying_Idle_elf_21: 8807667841953000125
+      Carrying_Idle_elf_22: 4138276812010560582
+      Carrying_Idle_elf_23: -2563351382317472827
+      Carrying_Idle_elf_24: -2533599840237357071
+      Carrying_Idle_elf_25: -5041262834651783991
+      Carrying_Idle_elf_26: -6888648408668715478
+      Carrying_Idle_elf_27: 9103799033619020809
+      Carrying_Idle_elf_28: -5157869576534039266
+      Carrying_Idle_elf_29: 8593752938781150070
+      Carrying_Idle_elf_3: 589602742758160011
+      Carrying_Idle_elf_30: 8486534196205845040
+      Carrying_Idle_elf_31: 1612449490165822622
+      Carrying_Idle_elf_32: -509149486554405170
+      Carrying_Idle_elf_33: 3798701235109382959
+      Carrying_Idle_elf_34: -7084608507365179321
+      Carrying_Idle_elf_35: -2353196746540939881
+      Carrying_Idle_elf_36: -7887768548714267685
+      Carrying_Idle_elf_37: -8351403861386804317
+      Carrying_Idle_elf_38: 2352850197943546193
+      Carrying_Idle_elf_39: 7539117789056885168
+      Carrying_Idle_elf_4: 8395913263833657580
+      Carrying_Idle_elf_40: -5018291321757412749
+      Carrying_Idle_elf_41: 7822196272206665376
+      Carrying_Idle_elf_42: -3266730910082951673
+      Carrying_Idle_elf_43: -283157534634856134
+      Carrying_Idle_elf_44: -458689688313526724
+      Carrying_Idle_elf_45: -5332015390164863002
+      Carrying_Idle_elf_46: -2629935228173941187
+      Carrying_Idle_elf_47: 7702880714131640159
+      Carrying_Idle_elf_48: -929857137877775300
+      Carrying_Idle_elf_49: 892791890299833863
+      Carrying_Idle_elf_5: 2858162583390252414
+      Carrying_Idle_elf_50: 2889777010736378587
+      Carrying_Idle_elf_51: -1856178105966121945
+      Carrying_Idle_elf_52: 378838402072341491
+      Carrying_Idle_elf_53: 6393425491550996777
+      Carrying_Idle_elf_54: -4415335191982746616
+      Carrying_Idle_elf_55: 6396887845474778575
+      Carrying_Idle_elf_56: -5892539766639470988
+      Carrying_Idle_elf_57: -679717613286370600
+      Carrying_Idle_elf_58: 1768634505137744325
+      Carrying_Idle_elf_59: -4634278652645454496
+      Carrying_Idle_elf_6: 3048557456145695277
+      Carrying_Idle_elf_60: -1199415651718234379
+      Carrying_Idle_elf_61: -7798873357876584011
+      Carrying_Idle_elf_62: 3199608011681452825
+      Carrying_Idle_elf_63: 7326810690095625509
+      Carrying_Idle_elf_7: 577264265031240905
+      Carrying_Idle_elf_8: -5158833318191860358
+      Carrying_Idle_elf_9: -7387990708427134701
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3679 @@
+fileFormatVersion: 2
+guid: ed28eacd0ee3df246875fd21ddea8dd3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -877352335633465733
+    second: PainterStudio_workbench_0
+  - first:
+      213: -8418868260557663139
+    second: PainterStudio_workbench_1
+  - first:
+      213: -5155237763192224040
+    second: PainterStudio_workbench_2
+  - first:
+      213: -3626633656200944873
+    second: PainterStudio_workbench_3
+  - first:
+      213: 6940350105875511002
+    second: PainterStudio_workbench_4
+  - first:
+      213: 511338418334564047
+    second: PainterStudio_workbench_5
+  - first:
+      213: -3093556158013471025
+    second: PainterStudio_workbench_6
+  - first:
+      213: 1508992743718097537
+    second: PainterStudio_workbench_7
+  - first:
+      213: -6599721885397769540
+    second: PainterStudio_workbench_8
+  - first:
+      213: 2421895841428324434
+    second: PainterStudio_workbench_9
+  - first:
+      213: -7212934561894670095
+    second: PainterStudio_workbench_10
+  - first:
+      213: -1520365284569571918
+    second: PainterStudio_workbench_11
+  - first:
+      213: 1111366015289195666
+    second: PainterStudio_workbench_12
+  - first:
+      213: -5963988413625727326
+    second: PainterStudio_workbench_13
+  - first:
+      213: -1095876401236969168
+    second: PainterStudio_workbench_14
+  - first:
+      213: -3088491588024476792
+    second: PainterStudio_workbench_15
+  - first:
+      213: -3100532176792775807
+    second: PainterStudio_workbench_16
+  - first:
+      213: -7235863092217164646
+    second: PainterStudio_workbench_17
+  - first:
+      213: 6230562880568416061
+    second: PainterStudio_workbench_18
+  - first:
+      213: 1982027702982205567
+    second: PainterStudio_workbench_19
+  - first:
+      213: -2763729232815569509
+    second: PainterStudio_workbench_20
+  - first:
+      213: 8137959205505828646
+    second: PainterStudio_workbench_21
+  - first:
+      213: -5023400199411530923
+    second: PainterStudio_workbench_22
+  - first:
+      213: -5417171421412831648
+    second: PainterStudio_workbench_23
+  - first:
+      213: 3086976875100902538
+    second: PainterStudio_workbench_24
+  - first:
+      213: 684602265561421422
+    second: PainterStudio_workbench_25
+  - first:
+      213: -6889087174180356882
+    second: PainterStudio_workbench_26
+  - first:
+      213: -6243359282519546358
+    second: PainterStudio_workbench_27
+  - first:
+      213: -7669649292611395931
+    second: PainterStudio_workbench_28
+  - first:
+      213: 767235143036162988
+    second: PainterStudio_workbench_29
+  - first:
+      213: 8039932593812538570
+    second: PainterStudio_workbench_30
+  - first:
+      213: -1522381328801521210
+    second: PainterStudio_workbench_31
+  - first:
+      213: -7231614868546629315
+    second: PainterStudio_workbench_32
+  - first:
+      213: 5965849531633991047
+    second: PainterStudio_workbench_33
+  - first:
+      213: 2694052330603706760
+    second: PainterStudio_workbench_34
+  - first:
+      213: 8712640062413422779
+    second: PainterStudio_workbench_35
+  - first:
+      213: 8715047302875502708
+    second: PainterStudio_workbench_36
+  - first:
+      213: -1658622891241920405
+    second: PainterStudio_workbench_37
+  - first:
+      213: 3989245724235752215
+    second: PainterStudio_workbench_38
+  - first:
+      213: -162671661157320612
+    second: PainterStudio_workbench_39
+  - first:
+      213: 1967158253028022894
+    second: PainterStudio_workbench_40
+  - first:
+      213: -850593084568776457
+    second: PainterStudio_workbench_41
+  - first:
+      213: -4694383851130606025
+    second: PainterStudio_workbench_42
+  - first:
+      213: -5032725468695041470
+    second: PainterStudio_workbench_43
+  - first:
+      213: -7648563991086252737
+    second: PainterStudio_workbench_44
+  - first:
+      213: -8492242362029206180
+    second: PainterStudio_workbench_45
+  - first:
+      213: 4630457756302930510
+    second: PainterStudio_workbench_46
+  - first:
+      213: 8077914777400140443
+    second: PainterStudio_workbench_47
+  - first:
+      213: 2486748210438694518
+    second: PainterStudio_workbench_48
+  - first:
+      213: 3549567182780989550
+    second: PainterStudio_workbench_49
+  - first:
+      213: -5531183710515106992
+    second: PainterStudio_workbench_50
+  - first:
+      213: 2237656481487398932
+    second: PainterStudio_workbench_51
+  - first:
+      213: 3215866229885696926
+    second: PainterStudio_workbench_52
+  - first:
+      213: -8079571110940586506
+    second: PainterStudio_workbench_53
+  - first:
+      213: 1532603895674438339
+    second: PainterStudio_workbench_54
+  - first:
+      213: 8814503072277317482
+    second: PainterStudio_workbench_55
+  - first:
+      213: -1919865792066618901
+    second: PainterStudio_workbench_56
+  - first:
+      213: -4997583307411502661
+    second: PainterStudio_workbench_57
+  - first:
+      213: -908392982540716829
+    second: PainterStudio_workbench_58
+  - first:
+      213: -8468129418660446698
+    second: PainterStudio_workbench_59
+  - first:
+      213: -1246630939176220860
+    second: PainterStudio_workbench_60
+  - first:
+      213: -4240648840994851736
+    second: PainterStudio_workbench_61
+  - first:
+      213: 3125354043702469069
+    second: PainterStudio_workbench_62
+  - first:
+      213: -7498454636857943563
+    second: PainterStudio_workbench_63
+  - first:
+      213: 4477707002731158821
+    second: PainterStudio_workbench_64
+  - first:
+      213: 2649860948583657181
+    second: PainterStudio_workbench_65
+  - first:
+      213: 6187249948321799738
+    second: PainterStudio_workbench_66
+  - first:
+      213: 5303668367867393833
+    second: PainterStudio_workbench_67
+  - first:
+      213: -7861502309022479225
+    second: PainterStudio_workbench_68
+  - first:
+      213: -2781566950158449961
+    second: PainterStudio_workbench_69
+  - first:
+      213: -2538480762936807043
+    second: PainterStudio_workbench_70
+  - first:
+      213: -3282696624771547373
+    second: PainterStudio_workbench_71
+  - first:
+      213: 5939073892030577014
+    second: PainterStudio_workbench_72
+  - first:
+      213: 4851988982296920551
+    second: PainterStudio_workbench_73
+  - first:
+      213: 8437120374697330727
+    second: PainterStudio_workbench_74
+  - first:
+      213: -2415168370971819759
+    second: PainterStudio_workbench_75
+  - first:
+      213: -8511325973422647471
+    second: PainterStudio_workbench_76
+  - first:
+      213: -5731682029564887810
+    second: PainterStudio_workbench_77
+  - first:
+      213: -1484456631098934974
+    second: PainterStudio_workbench_78
+  - first:
+      213: 500726729253774388
+    second: PainterStudio_workbench_79
+  - first:
+      213: -7367599571351945844
+    second: PainterStudio_workbench_80
+  - first:
+      213: 1114602641602910778
+    second: PainterStudio_workbench_81
+  - first:
+      213: 3419443166979126794
+    second: PainterStudio_workbench_82
+  - first:
+      213: -451393849708571311
+    second: PainterStudio_workbench_83
+  - first:
+      213: -1179848986721516335
+    second: PainterStudio_workbench_84
+  - first:
+      213: -60535740548842103
+    second: PainterStudio_workbench_85
+  - first:
+      213: 7555478267688570973
+    second: PainterStudio_workbench_86
+  - first:
+      213: 5578961101261705228
+    second: PainterStudio_workbench_87
+  - first:
+      213: 8602008889947492806
+    second: PainterStudio_workbench_88
+  - first:
+      213: 4554133540413696523
+    second: PainterStudio_workbench_89
+  - first:
+      213: 8652835374484984206
+    second: PainterStudio_workbench_90
+  - first:
+      213: -4737197026022615817
+    second: PainterStudio_workbench_91
+  - first:
+      213: -2408731496168755119
+    second: PainterStudio_workbench_92
+  - first:
+      213: -5785549163494313781
+    second: PainterStudio_workbench_93
+  - first:
+      213: 2951488742939772929
+    second: PainterStudio_workbench_94
+  - first:
+      213: 3134133736354815864
+    second: PainterStudio_workbench_95
+  - first:
+      213: -2625884491418502734
+    second: PainterStudio_workbench_96
+  - first:
+      213: 610055531828461488
+    second: PainterStudio_workbench_97
+  - first:
+      213: 236157359124641555
+    second: PainterStudio_workbench_98
+  - first:
+      213: -3792447548271898081
+    second: PainterStudio_workbench_99
+  - first:
+      213: -1213150730571743322
+    second: PainterStudio_workbench_100
+  - first:
+      213: -1699458445531559883
+    second: PainterStudio_workbench_101
+  - first:
+      213: -8153526350792692926
+    second: PainterStudio_workbench_102
+  - first:
+      213: 526662620723336126
+    second: PainterStudio_workbench_103
+  - first:
+      213: 6022026830741898644
+    second: PainterStudio_workbench_104
+  - first:
+      213: -1295790641585008828
+    second: PainterStudio_workbench_105
+  - first:
+      213: 1623892716875225494
+    second: PainterStudio_workbench_106
+  - first:
+      213: 8520707802636855928
+    second: PainterStudio_workbench_107
+  - first:
+      213: -1299145118397232226
+    second: PainterStudio_workbench_108
+  - first:
+      213: -1720112721928446701
+    second: PainterStudio_workbench_109
+  - first:
+      213: 1020479833474697164
+    second: PainterStudio_workbench_110
+  - first:
+      213: 8429929773363923759
+    second: PainterStudio_workbench_111
+  - first:
+      213: -6895472272592436253
+    second: PainterStudio_workbench_112
+  - first:
+      213: 3140559360718499810
+    second: PainterStudio_workbench_113
+  - first:
+      213: -4281590536875732507
+    second: PainterStudio_workbench_114
+  - first:
+      213: 3116727362652930316
+    second: PainterStudio_workbench_115
+  - first:
+      213: 7560066917490704748
+    second: PainterStudio_workbench_116
+  - first:
+      213: 4015370962791957414
+    second: PainterStudio_workbench_117
+  - first:
+      213: 5699682689175440231
+    second: PainterStudio_workbench_118
+  - first:
+      213: -5820765824609175943
+    second: PainterStudio_workbench_119
+  - first:
+      213: -3181080957858111540
+    second: PainterStudio_workbench_120
+  - first:
+      213: -3635963812010904099
+    second: PainterStudio_workbench_121
+  - first:
+      213: -5717084683649015772
+    second: PainterStudio_workbench_122
+  - first:
+      213: -8523142254101739480
+    second: PainterStudio_workbench_123
+  - first:
+      213: 197811868703407853
+    second: PainterStudio_workbench_124
+  - first:
+      213: -5505040897314587733
+    second: PainterStudio_workbench_125
+  - first:
+      213: -6450154847763129894
+    second: PainterStudio_workbench_126
+  - first:
+      213: 5836070451778010631
+    second: PainterStudio_workbench_127
+  - first:
+      213: 976577817782665791
+    second: PainterStudio_workbench_128
+  - first:
+      213: 778197268304642891
+    second: PainterStudio_workbench_129
+  - first:
+      213: -8098295583184934416
+    second: PainterStudio_workbench_130
+  - first:
+      213: -884657029105271380
+    second: PainterStudio_workbench_131
+  - first:
+      213: 3625668008653633683
+    second: PainterStudio_workbench_132
+  - first:
+      213: -8148030603071437711
+    second: PainterStudio_workbench_133
+  - first:
+      213: -1925984411148922635
+    second: PainterStudio_workbench_134
+  - first:
+      213: 8446836559529255697
+    second: PainterStudio_workbench_135
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PainterStudio_workbench_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e35bbf2b403d3f0800000000000000
+      internalID: -877352335633465733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 21
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5456ae0ceb2a2b80800000000000000
+      internalID: -8418868260557663139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d68f38619ae478b0800000000000000
+      internalID: -5155237763192224040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 19
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713aaa787eb9badc0800000000000000
+      internalID: -3626633656200944873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_4
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 21
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6fd8556a3115060800000000000000
+      internalID: 6940350105875511002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce77d01593a81700800000000000000
+      internalID: 511338418334564047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 19
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc682ec801b7115d0800000000000000
+      internalID: -3093556158013471025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_7
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 21
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18295f9c7e401f410800000000000000
+      internalID: 1508992743718097537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2ae7c79e31964a0800000000000000
+      internalID: -6599721885397769540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 19
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250c45f9f6d4c9120800000000000000
+      internalID: 2421895841428324434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_10
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 21
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f061225b3286eb90800000000000000
+      internalID: -7212934561894670095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_11
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd156434d396eae0800000000000000
+      internalID: -1520365284569571918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 19
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cf0cca08d5c6f00800000000000000
+      internalID: 1111366015289195666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_13
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 21
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a60b49e228ab3da0800000000000000
+      internalID: -5963988413625727326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_14
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0397982283aaac0f0800000000000000
+      internalID: -1095876401236969168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 19
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bd404a3497325d0800000000000000
+      internalID: -3088491588024476792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_16
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 21
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183199b9962b8f4d0800000000000000
+      internalID: -3100532176792775807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_17
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c4909dadc059b90800000000000000
+      internalID: -7235863092217164646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 19
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37d30fcde7677650800000000000000
+      internalID: 6230562880568416061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_19
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 21
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70ec33d1b3918b10800000000000000
+      internalID: 1982027702982205567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_20
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b954aa6d7e245a9d0800000000000000
+      internalID: -2763729232815569509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 19
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6278bc8d7c6dfe070800000000000000
+      internalID: 8137959205505828646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_22
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 21
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553037d322c494ab0800000000000000
+      internalID: -5023400199411530923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_23
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e4a4b2b4752d4b0800000000000000
+      internalID: -5417171421412831648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 19
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a841c36cc1527da20800000000000000
+      internalID: 3086976875100902538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_25
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 21
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6657332222308900800000000000000
+      internalID: 684602265561421422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_26
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecb74c07bb0560a0800000000000000
+      internalID: -6889087174180356882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 19
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06e840bfc12b59a0800000000000000
+      internalID: -6243359282519546358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_28
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 21
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae521a9a9eef8590800000000000000
+      internalID: -7669649292611395931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_29
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3dddf2c44c5aa00800000000000000
+      internalID: 767235143036162988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 19
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac40840c814939f60800000000000000
+      internalID: 8039932593812538570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_31
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 21
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c129145f3a6fdae0800000000000000
+      internalID: -1522381328801521210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_32
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3158df779424ab90800000000000000
+      internalID: -7231614868546629315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_33
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 19
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d79746a84fac250800000000000000
+      internalID: 5965849531633991047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_34
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 21
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88972fb2252336520800000000000000
+      internalID: 2694052330603706760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_35
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb04df7a9f389e870800000000000000
+      internalID: 8712640062413422779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 19
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478de90095112f870800000000000000
+      internalID: 8715047302875502708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_37
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 21
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68a137a4436bf8e0800000000000000
+      internalID: -1658622891241920405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_38
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71361daa9d5ac5730800000000000000
+      internalID: 3989245724235752215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_39
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 19
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58f1bd6cf21ebdf0800000000000000
+      internalID: -162671661157320612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_40
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 21
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a96b83200cc4b10800000000000000
+      internalID: 1967158253028022894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_41
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0dfd1a8161234f0800000000000000
+      internalID: -850593084568776457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_42
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 19
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ea70262c23adeb0800000000000000
+      internalID: -4694383851130606025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_43
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 21
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24aee5ac9da282ab0800000000000000
+      internalID: -5032725468695041470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_44
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3db57de297dad590800000000000000
+      internalID: -7648563991086252737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_45
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 19
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5599b8c09e752a80800000000000000
+      internalID: -8492242362029206180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_46
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 21
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4273efcbc0b24040800000000000000
+      internalID: 4630457756302930510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_47
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9260d001b48a1070800000000000000
+      internalID: 8077914777400140443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_48
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 19
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67669017254b28220800000000000000
+      internalID: 2486748210438694518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_49
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 21
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e608b0cdb88924130800000000000000
+      internalID: 3549567182780989550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_50
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05be15388b94d33b0800000000000000
+      internalID: -5531183710515106992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_51
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 19
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418286cd6b0cd0f10800000000000000
+      internalID: 2237656481487398932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_52
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 21
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bf2853c4d01ac20800000000000000
+      internalID: 3215866229885696926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_53
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdc0eac1e89fdf80800000000000000
+      internalID: -8079571110940586506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_54
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 19
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c20e0f7f17e44510800000000000000
+      internalID: 1532603895674438339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_55
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 21
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67cdaec7d7635a70800000000000000
+      internalID: 8814503072277317482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_56
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9f177eb344b55e0800000000000000
+      internalID: -1919865792066618901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_57
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 19
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9c052d57405aab0800000000000000
+      internalID: -4997583307411502661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_58
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 21
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4f33f256db463f0800000000000000
+      internalID: -908392982540716829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_59
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e75b8e8292b7a80800000000000000
+      internalID: -8468129418660446698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_60
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 19
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447c36804c313bee0800000000000000
+      internalID: -1246630939176220860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_61
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 21
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8647457d8503625c0800000000000000
+      internalID: -4240648840994851736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_62
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc16734a1fc7f5b20800000000000000
+      internalID: 3125354043702469069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_63
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 19
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f993bd7c3320f790800000000000000
+      internalID: -7498454636857943563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_64
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 21
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dd11a8bc2042e30800000000000000
+      internalID: 4477707002731158821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_65
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde22804e7236c420800000000000000
+      internalID: 2649860948583657181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_66
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 19
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e564aeb078dd550800000000000000
+      internalID: 6187249948321799738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_67
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 21
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9273631d74a6a9940800000000000000
+      internalID: 5303668367867393833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_68
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c4dcd4d4556e290800000000000000
+      internalID: -7861502309022479225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_69
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 19
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2c6d0a893e569d0800000000000000
+      internalID: -2781566950158449961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_70
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 21
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d713dff023185ccd0800000000000000
+      internalID: -2538480762936807043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_71
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f3e1fefc48172d0800000000000000
+      internalID: -3282696624771547373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_72
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 19
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679774dfc34db6250800000000000000
+      internalID: 5939073892030577014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_73
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 21
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1caefb54ab55340800000000000000
+      internalID: 4851988982296920551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_74
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7288b0d674ca61570800000000000000
+      internalID: 8437120374697330727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_75
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 19
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1114777a9299b7ed0800000000000000
+      internalID: -2415168370971819759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_76
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 21
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15756924f12b1e980800000000000000
+      internalID: -8511325973422647471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_77
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc7b46df89f470b0800000000000000
+      internalID: -5731682029564887810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_78
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 19
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249ffda1f86266be0800000000000000
+      internalID: -1484456631098934974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_79
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 21
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434e6baae40f2f600800000000000000
+      internalID: 500726729253774388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_80
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d3f3e993701c990800000000000000
+      internalID: -7367599571351945844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a1476723dd77f00800000000000000
+      internalID: 1114602641602910778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_82
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a067d61817d447f20800000000000000
+      internalID: 3419443166979126794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_83
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155135e6fa35cb9f0800000000000000
+      internalID: -451393849708571311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_84
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d40cd1099550afe0800000000000000
+      internalID: -1179848986721516335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_85
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98dfe50901fe82ff0800000000000000
+      internalID: -60535740548842103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_86
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50d2cd24737ad860800000000000000
+      internalID: 7555478267688570973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_87
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c001d6020937c6d40800000000000000
+      internalID: 5578961101261705228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_88
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c192109289706770800000000000000
+      internalID: 8602008889947492806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_89
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0aec008358833f30800000000000000
+      internalID: 4554133540413696523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_90
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e819c1cadeb051870800000000000000
+      internalID: 8652835374484984206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_91
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f492e05768124eb0800000000000000
+      internalID: -4737197026022615817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_92
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150f09b5777729ed0800000000000000
+      internalID: -2408731496168755119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_93
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0fc5f50b995bfa0800000000000000
+      internalID: -5785549163494313781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_94
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1084d71cf5bc5f820800000000000000
+      internalID: 2951488742939772929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_95
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f1ff1270eae7b20800000000000000
+      internalID: 3134133736354815864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_96
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9fac3b7fbfe8bd0800000000000000
+      internalID: -2625884491418502734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_97
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfb5e3264a577800800000000000000
+      internalID: 610055531828461488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_98
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317f7bdeddff64300800000000000000
+      internalID: 236157359124641555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_99
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12d3ff4c058e5bc0800000000000000
+      internalID: -3792447548271898081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_100
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aff34d86d50a2fe0800000000000000
+      internalID: -1213150730571743322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_101
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538cd834c8f4a68e0800000000000000
+      internalID: -1699458445531559883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_102
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24be632bbfad8de80800000000000000
+      internalID: -8153526350792692926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_103
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3d0b8fcd41f4700800000000000000
+      internalID: 526662620723336126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_104
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4950e3a1f79829350800000000000000
+      internalID: 6022026830741898644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_105
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fcc01e64d640ee0800000000000000
+      internalID: -1295790641585008828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_106
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69911be72d9398610800000000000000
+      internalID: 1623892716875225494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_107
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87aa1131a92af3670800000000000000
+      internalID: 8520707802636855928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_108
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b0042e56288fde0800000000000000
+      internalID: -1299145118397232226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_109
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d13dbc79ee028e0800000000000000
+      internalID: -1720112721928446701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_110
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc785b67009792e00800000000000000
+      internalID: 1020479833474697164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_111
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b88d617702df470800000000000000
+      internalID: 8429929773363923759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_112
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e38299708c5e40a0800000000000000
+      internalID: -6895472272592436253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_113
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef67a36912859b20800000000000000
+      internalID: 3140559360718499810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_114
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e119df671cb494c0800000000000000
+      internalID: -4281590536875732507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_115
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c010ba0f507d04b20800000000000000
+      internalID: 3116727362652930316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_116
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6147377ec0cae860800000000000000
+      internalID: 7560066917490704748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_117
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a302a6cd9679b730800000000000000
+      internalID: 4015370962791957414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_118
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bceb42537591f40800000000000000
+      internalID: 5699682689175440231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_119
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976bf6f725c783fa0800000000000000
+      internalID: -5820765824609175943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_120
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf9b1119b78ad3d0800000000000000
+      internalID: -3181080957858111540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_121
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd53ae85d267a8dc0800000000000000
+      internalID: -3635963812010904099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_122
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420264845c5d8a0b0800000000000000
+      internalID: -5717084683649015772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_123
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828c4260747b7b980800000000000000
+      internalID: -8523142254101739480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_124
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee3c66b8d4ceb200800000000000000
+      internalID: 197811868703407853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_125
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babf099887a2a93b0800000000000000
+      internalID: -5505040897314587733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_126
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad990d027527c76a0800000000000000
+      internalID: -6450154847763129894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_127
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70eb162b723edf050800000000000000
+      internalID: 5836070451778010631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_128
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f324674e9508d8d00800000000000000
+      internalID: 976577817782665791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_129
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b434a7eda46bcca00800000000000000
+      internalID: 778197268304642891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_130
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9a52ed2131d9f80800000000000000
+      internalID: -8098295583184934416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_131
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadb0208e1119b3f0800000000000000
+      internalID: -884657029105271380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_132
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3983c4128d5f05230800000000000000
+      internalID: 3625668008653633683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_133
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1744aec26516cee80800000000000000
+      internalID: -8148030603071437711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_134
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f05782e1678545e0800000000000000
+      internalID: -1925984411148922635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PainterStudio_workbench_135
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113268ef811393570800000000000000
+      internalID: 8446836559529255697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PainterStudio_workbench_0: -877352335633465733
+      PainterStudio_workbench_1: -8418868260557663139
+      PainterStudio_workbench_10: -7212934561894670095
+      PainterStudio_workbench_100: -1213150730571743322
+      PainterStudio_workbench_101: -1699458445531559883
+      PainterStudio_workbench_102: -8153526350792692926
+      PainterStudio_workbench_103: 526662620723336126
+      PainterStudio_workbench_104: 6022026830741898644
+      PainterStudio_workbench_105: -1295790641585008828
+      PainterStudio_workbench_106: 1623892716875225494
+      PainterStudio_workbench_107: 8520707802636855928
+      PainterStudio_workbench_108: -1299145118397232226
+      PainterStudio_workbench_109: -1720112721928446701
+      PainterStudio_workbench_11: -1520365284569571918
+      PainterStudio_workbench_110: 1020479833474697164
+      PainterStudio_workbench_111: 8429929773363923759
+      PainterStudio_workbench_112: -6895472272592436253
+      PainterStudio_workbench_113: 3140559360718499810
+      PainterStudio_workbench_114: -4281590536875732507
+      PainterStudio_workbench_115: 3116727362652930316
+      PainterStudio_workbench_116: 7560066917490704748
+      PainterStudio_workbench_117: 4015370962791957414
+      PainterStudio_workbench_118: 5699682689175440231
+      PainterStudio_workbench_119: -5820765824609175943
+      PainterStudio_workbench_12: 1111366015289195666
+      PainterStudio_workbench_120: -3181080957858111540
+      PainterStudio_workbench_121: -3635963812010904099
+      PainterStudio_workbench_122: -5717084683649015772
+      PainterStudio_workbench_123: -8523142254101739480
+      PainterStudio_workbench_124: 197811868703407853
+      PainterStudio_workbench_125: -5505040897314587733
+      PainterStudio_workbench_126: -6450154847763129894
+      PainterStudio_workbench_127: 5836070451778010631
+      PainterStudio_workbench_128: 976577817782665791
+      PainterStudio_workbench_129: 778197268304642891
+      PainterStudio_workbench_13: -5963988413625727326
+      PainterStudio_workbench_130: -8098295583184934416
+      PainterStudio_workbench_131: -884657029105271380
+      PainterStudio_workbench_132: 3625668008653633683
+      PainterStudio_workbench_133: -8148030603071437711
+      PainterStudio_workbench_134: -1925984411148922635
+      PainterStudio_workbench_135: 8446836559529255697
+      PainterStudio_workbench_14: -1095876401236969168
+      PainterStudio_workbench_15: -3088491588024476792
+      PainterStudio_workbench_16: -3100532176792775807
+      PainterStudio_workbench_17: -7235863092217164646
+      PainterStudio_workbench_18: 6230562880568416061
+      PainterStudio_workbench_19: 1982027702982205567
+      PainterStudio_workbench_2: -5155237763192224040
+      PainterStudio_workbench_20: -2763729232815569509
+      PainterStudio_workbench_21: 8137959205505828646
+      PainterStudio_workbench_22: -5023400199411530923
+      PainterStudio_workbench_23: -5417171421412831648
+      PainterStudio_workbench_24: 3086976875100902538
+      PainterStudio_workbench_25: 684602265561421422
+      PainterStudio_workbench_26: -6889087174180356882
+      PainterStudio_workbench_27: -6243359282519546358
+      PainterStudio_workbench_28: -7669649292611395931
+      PainterStudio_workbench_29: 767235143036162988
+      PainterStudio_workbench_3: -3626633656200944873
+      PainterStudio_workbench_30: 8039932593812538570
+      PainterStudio_workbench_31: -1522381328801521210
+      PainterStudio_workbench_32: -7231614868546629315
+      PainterStudio_workbench_33: 5965849531633991047
+      PainterStudio_workbench_34: 2694052330603706760
+      PainterStudio_workbench_35: 8712640062413422779
+      PainterStudio_workbench_36: 8715047302875502708
+      PainterStudio_workbench_37: -1658622891241920405
+      PainterStudio_workbench_38: 3989245724235752215
+      PainterStudio_workbench_39: -162671661157320612
+      PainterStudio_workbench_4: 6940350105875511002
+      PainterStudio_workbench_40: 1967158253028022894
+      PainterStudio_workbench_41: -850593084568776457
+      PainterStudio_workbench_42: -4694383851130606025
+      PainterStudio_workbench_43: -5032725468695041470
+      PainterStudio_workbench_44: -7648563991086252737
+      PainterStudio_workbench_45: -8492242362029206180
+      PainterStudio_workbench_46: 4630457756302930510
+      PainterStudio_workbench_47: 8077914777400140443
+      PainterStudio_workbench_48: 2486748210438694518
+      PainterStudio_workbench_49: 3549567182780989550
+      PainterStudio_workbench_5: 511338418334564047
+      PainterStudio_workbench_50: -5531183710515106992
+      PainterStudio_workbench_51: 2237656481487398932
+      PainterStudio_workbench_52: 3215866229885696926
+      PainterStudio_workbench_53: -8079571110940586506
+      PainterStudio_workbench_54: 1532603895674438339
+      PainterStudio_workbench_55: 8814503072277317482
+      PainterStudio_workbench_56: -1919865792066618901
+      PainterStudio_workbench_57: -4997583307411502661
+      PainterStudio_workbench_58: -908392982540716829
+      PainterStudio_workbench_59: -8468129418660446698
+      PainterStudio_workbench_6: -3093556158013471025
+      PainterStudio_workbench_60: -1246630939176220860
+      PainterStudio_workbench_61: -4240648840994851736
+      PainterStudio_workbench_62: 3125354043702469069
+      PainterStudio_workbench_63: -7498454636857943563
+      PainterStudio_workbench_64: 4477707002731158821
+      PainterStudio_workbench_65: 2649860948583657181
+      PainterStudio_workbench_66: 6187249948321799738
+      PainterStudio_workbench_67: 5303668367867393833
+      PainterStudio_workbench_68: -7861502309022479225
+      PainterStudio_workbench_69: -2781566950158449961
+      PainterStudio_workbench_7: 1508992743718097537
+      PainterStudio_workbench_70: -2538480762936807043
+      PainterStudio_workbench_71: -3282696624771547373
+      PainterStudio_workbench_72: 5939073892030577014
+      PainterStudio_workbench_73: 4851988982296920551
+      PainterStudio_workbench_74: 8437120374697330727
+      PainterStudio_workbench_75: -2415168370971819759
+      PainterStudio_workbench_76: -8511325973422647471
+      PainterStudio_workbench_77: -5731682029564887810
+      PainterStudio_workbench_78: -1484456631098934974
+      PainterStudio_workbench_79: 500726729253774388
+      PainterStudio_workbench_8: -6599721885397769540
+      PainterStudio_workbench_80: -7367599571351945844
+      PainterStudio_workbench_81: 1114602641602910778
+      PainterStudio_workbench_82: 3419443166979126794
+      PainterStudio_workbench_83: -451393849708571311
+      PainterStudio_workbench_84: -1179848986721516335
+      PainterStudio_workbench_85: -60535740548842103
+      PainterStudio_workbench_86: 7555478267688570973
+      PainterStudio_workbench_87: 5578961101261705228
+      PainterStudio_workbench_88: 8602008889947492806
+      PainterStudio_workbench_89: 4554133540413696523
+      PainterStudio_workbench_9: 2421895841428324434
+      PainterStudio_workbench_90: 8652835374484984206
+      PainterStudio_workbench_91: -4737197026022615817
+      PainterStudio_workbench_92: -2408731496168755119
+      PainterStudio_workbench_93: -5785549163494313781
+      PainterStudio_workbench_94: 2951488742939772929
+      PainterStudio_workbench_95: 3134133736354815864
+      PainterStudio_workbench_96: -2625884491418502734
+      PainterStudio_workbench_97: 610055531828461488
+      PainterStudio_workbench_98: 236157359124641555
+      PainterStudio_workbench_99: -3792447548271898081
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

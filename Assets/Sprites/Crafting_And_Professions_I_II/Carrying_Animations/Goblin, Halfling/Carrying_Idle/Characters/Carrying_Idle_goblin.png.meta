@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: f88b6cb88831a4b429261f03167de2dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9031975528795501437
+    second: Carrying_Idle_goblin_0
+  - first:
+      213: 3290731726464803758
+    second: Carrying_Idle_goblin_1
+  - first:
+      213: 3112457028770001611
+    second: Carrying_Idle_goblin_2
+  - first:
+      213: 4986509171444439641
+    second: Carrying_Idle_goblin_3
+  - first:
+      213: 2414142138058249765
+    second: Carrying_Idle_goblin_4
+  - first:
+      213: -2617643456392749307
+    second: Carrying_Idle_goblin_5
+  - first:
+      213: -3470447085664079629
+    second: Carrying_Idle_goblin_6
+  - first:
+      213: 1438431197565755442
+    second: Carrying_Idle_goblin_7
+  - first:
+      213: 2684141553214804987
+    second: Carrying_Idle_goblin_8
+  - first:
+      213: -6469877595566265539
+    second: Carrying_Idle_goblin_9
+  - first:
+      213: -3173748410531816116
+    second: Carrying_Idle_goblin_10
+  - first:
+      213: 5251338413446208709
+    second: Carrying_Idle_goblin_11
+  - first:
+      213: 1756621985820903355
+    second: Carrying_Idle_goblin_12
+  - first:
+      213: 138379120000630593
+    second: Carrying_Idle_goblin_13
+  - first:
+      213: -6670120084028552415
+    second: Carrying_Idle_goblin_14
+  - first:
+      213: 2860321432425590052
+    second: Carrying_Idle_goblin_15
+  - first:
+      213: -1418706526730923469
+    second: Carrying_Idle_goblin_16
+  - first:
+      213: 4834329120421826897
+    second: Carrying_Idle_goblin_17
+  - first:
+      213: 4629408293696666263
+    second: Carrying_Idle_goblin_18
+  - first:
+      213: -1435230670505505288
+    second: Carrying_Idle_goblin_19
+  - first:
+      213: 6820426139033742686
+    second: Carrying_Idle_goblin_20
+  - first:
+      213: 729077244423784161
+    second: Carrying_Idle_goblin_21
+  - first:
+      213: 5078400759187118504
+    second: Carrying_Idle_goblin_22
+  - first:
+      213: -5418726621027231084
+    second: Carrying_Idle_goblin_23
+  - first:
+      213: 1582412608860914993
+    second: Carrying_Idle_goblin_24
+  - first:
+      213: -7856375873607761183
+    second: Carrying_Idle_goblin_25
+  - first:
+      213: 8720318712024102060
+    second: Carrying_Idle_goblin_26
+  - first:
+      213: 1802404581212384000
+    second: Carrying_Idle_goblin_27
+  - first:
+      213: 9080371026954815261
+    second: Carrying_Idle_goblin_28
+  - first:
+      213: 5538385607740904759
+    second: Carrying_Idle_goblin_29
+  - first:
+      213: 3826342257045457825
+    second: Carrying_Idle_goblin_30
+  - first:
+      213: -718700861926939552
+    second: Carrying_Idle_goblin_31
+  - first:
+      213: -407734670134105176
+    second: Carrying_Idle_goblin_32
+  - first:
+      213: 5358797656285503552
+    second: Carrying_Idle_goblin_33
+  - first:
+      213: 8717928181928334507
+    second: Carrying_Idle_goblin_34
+  - first:
+      213: 2773179824265040207
+    second: Carrying_Idle_goblin_35
+  - first:
+      213: 2767241499113803807
+    second: Carrying_Idle_goblin_36
+  - first:
+      213: -1351915689282410514
+    second: Carrying_Idle_goblin_37
+  - first:
+      213: -1196434950609596400
+    second: Carrying_Idle_goblin_38
+  - first:
+      213: 4837776843578903092
+    second: Carrying_Idle_goblin_39
+  - first:
+      213: -1961627835665531383
+    second: Carrying_Idle_goblin_40
+  - first:
+      213: -8499008497865298230
+    second: Carrying_Idle_goblin_41
+  - first:
+      213: -2058042447284467630
+    second: Carrying_Idle_goblin_42
+  - first:
+      213: -3894974906022501061
+    second: Carrying_Idle_goblin_43
+  - first:
+      213: -701292800324842780
+    second: Carrying_Idle_goblin_44
+  - first:
+      213: 7250139425357426458
+    second: Carrying_Idle_goblin_45
+  - first:
+      213: 8549458529161067647
+    second: Carrying_Idle_goblin_46
+  - first:
+      213: -7146777437937258666
+    second: Carrying_Idle_goblin_47
+  - first:
+      213: -1337686945933488846
+    second: Carrying_Idle_goblin_48
+  - first:
+      213: 7734989639095521504
+    second: Carrying_Idle_goblin_49
+  - first:
+      213: 2168960213548674014
+    second: Carrying_Idle_goblin_50
+  - first:
+      213: 7397776492015028225
+    second: Carrying_Idle_goblin_51
+  - first:
+      213: 5795379316408854609
+    second: Carrying_Idle_goblin_52
+  - first:
+      213: -4640235597624047852
+    second: Carrying_Idle_goblin_53
+  - first:
+      213: -6958075718151469032
+    second: Carrying_Idle_goblin_54
+  - first:
+      213: 2023699048045628678
+    second: Carrying_Idle_goblin_55
+  - first:
+      213: -4356561115459366800
+    second: Carrying_Idle_goblin_56
+  - first:
+      213: -3105566006530051545
+    second: Carrying_Idle_goblin_57
+  - first:
+      213: 7528261821946344242
+    second: Carrying_Idle_goblin_58
+  - first:
+      213: -7707324273602475214
+    second: Carrying_Idle_goblin_59
+  - first:
+      213: -6564741845259218730
+    second: Carrying_Idle_goblin_60
+  - first:
+      213: 8310907689168368297
+    second: Carrying_Idle_goblin_61
+  - first:
+      213: -5436547725294952600
+    second: Carrying_Idle_goblin_62
+  - first:
+      213: 4043519763437956819
+    second: Carrying_Idle_goblin_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c8f1a2c1af7a280800000000000000
+      internalID: -9031975528795501437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3ea07f1170bad20800000000000000
+      internalID: 3290731726464803758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2f08a5d2ba13b20800000000000000
+      internalID: 3112457028770001611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a5c29fba3a33540800000000000000
+      internalID: 4986509171444439641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5269340eb71c08120800000000000000
+      internalID: 2414142138058249765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f951135234cabd0800000000000000
+      internalID: -2617643456392749307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0f33743ce76dfc0800000000000000
+      internalID: -3470447085664079629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2302fb49d8556f310800000000000000
+      internalID: 1438431197565755442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_8
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3db3e758cff3520800000000000000
+      internalID: 2684141553214804987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ba3001b906636a0800000000000000
+      internalID: -6469877595566265539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d5ac7c2a494f3d0800000000000000
+      internalID: -3173748410531816116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc13d8d67080e840800000000000000
+      internalID: 5251338413446208709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb70f7d9366c06810800000000000000
+      internalID: 1756621985820903355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_13
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ff7f3931f9be100800000000000000
+      internalID: 138379120000630593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b87469f19fe63a0800000000000000
+      internalID: -6670120084028552415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42de92b2037e1b720800000000000000
+      internalID: 2860321432425590052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332dca93eedbf4ce0800000000000000
+      internalID: -1418706526730923469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151d11eb8bcf61340800000000000000
+      internalID: 4834329120421826897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a7902c056fe3040800000000000000
+      internalID: 4629408293696666263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd06c13f49051ce0800000000000000
+      internalID: -1435230670505505288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d25e1ff6507ae50800000000000000
+      internalID: 6820426139033742686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_21
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e643b714e33e1a00800000000000000
+      internalID: 729077244423784161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a91c6e759a1a7640800000000000000
+      internalID: 5078400759187118504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_23
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a18ba09d0dcc4b0800000000000000
+      internalID: -5418726621027231084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_24
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135014f32ebd5f510800000000000000
+      internalID: 1582412608860914993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e209af84cb88f290800000000000000
+      internalID: -7856375873607761183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca473669aabc40970800000000000000
+      internalID: 8720318712024102060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_27
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b63b4ca6d630910800000000000000
+      internalID: 1802404581212384000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_28
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d170462d655f30e70800000000000000
+      internalID: 9080371026954815261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_29
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735588add5c4cdc40800000000000000
+      internalID: 5538385607740904759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_30
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abc24c8206e91530800000000000000
+      internalID: 3826342257045457825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_31
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064e319bf59a606f0800000000000000
+      internalID: -718700861926939552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_32
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abab005a7f675af0800000000000000
+      internalID: -407734670134105176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_33
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040e71683164e5a40800000000000000
+      internalID: 5358797656285503552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_34
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4943ded7d4cf870800000000000000
+      internalID: 8717928181928334507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_35
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4119937b505c7620800000000000000
+      internalID: 2773179824265040207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_36
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10d5626b77376620800000000000000
+      internalID: 2767241499113803807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_37
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee76b06e7d70d3de0800000000000000
+      internalID: -1351915689282410514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_38
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0109d0c50c8656fe0800000000000000
+      internalID: -1196434950609596400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_39
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a8128586c332340800000000000000
+      internalID: 4837776843578903092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_40
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e33a960e5e6c4e0800000000000000
+      internalID: -1961627835665531383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_41
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace66b50dc47d0a80800000000000000
+      internalID: -8499008497865298230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_42
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2580fe45c4d5073e0800000000000000
+      internalID: -2058042447284467630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_43
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35e77d95f442f9c0800000000000000
+      internalID: -3894974906022501061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_44
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea4919e9e18446f0800000000000000
+      internalID: -701292800324842780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_45
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1feb7cf46bad9460800000000000000
+      internalID: 7250139425357426458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_46
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c349c3c37c5a670800000000000000
+      internalID: 8549458529161067647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_47
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f29f219cb81dc90800000000000000
+      internalID: -7146777437937258666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_48
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d05fe5fc49f6de0800000000000000
+      internalID: -1337686945933488846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_49
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e09d935814385b60800000000000000
+      internalID: 7734989639095521504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_50
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb268492d1b91e10800000000000000
+      internalID: 2168960213548674014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_51
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1088a4e368e2aa660800000000000000
+      internalID: 7397776492015028225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_52
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158223578c25d6050800000000000000
+      internalID: 5795379316408854609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_53
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4170f791f429a9fb0800000000000000
+      internalID: -4640235597624047852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_54
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8188f43fff2ff6f90800000000000000
+      internalID: -6958075718151469032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_55
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d4e0bef8f951c10800000000000000
+      internalID: 2023699048045628678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_56
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070d3ce5fb26a83c0800000000000000
+      internalID: -4356561115459366800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_57
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7227f3acb20d6e4d0800000000000000
+      internalID: -3105566006530051545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_58
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2333f399d32c97860800000000000000
+      internalID: 7528261821946344242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_59
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bcd2788651a0590800000000000000
+      internalID: -7707324273602475214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_60
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d09e2fb21a55e4a0800000000000000
+      internalID: -6564741845259218730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_61
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a271fd9286465370800000000000000
+      internalID: 8310907689168368297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_62
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f165dd5a08d84b0800000000000000
+      internalID: -5436547725294952600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_goblin_63
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3deadf52dc77d1830800000000000000
+      internalID: 4043519763437956819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Idle_goblin_0: -9031975528795501437
+      Carrying_Idle_goblin_1: 3290731726464803758
+      Carrying_Idle_goblin_10: -3173748410531816116
+      Carrying_Idle_goblin_11: 5251338413446208709
+      Carrying_Idle_goblin_12: 1756621985820903355
+      Carrying_Idle_goblin_13: 138379120000630593
+      Carrying_Idle_goblin_14: -6670120084028552415
+      Carrying_Idle_goblin_15: 2860321432425590052
+      Carrying_Idle_goblin_16: -1418706526730923469
+      Carrying_Idle_goblin_17: 4834329120421826897
+      Carrying_Idle_goblin_18: 4629408293696666263
+      Carrying_Idle_goblin_19: -1435230670505505288
+      Carrying_Idle_goblin_2: 3112457028770001611
+      Carrying_Idle_goblin_20: 6820426139033742686
+      Carrying_Idle_goblin_21: 729077244423784161
+      Carrying_Idle_goblin_22: 5078400759187118504
+      Carrying_Idle_goblin_23: -5418726621027231084
+      Carrying_Idle_goblin_24: 1582412608860914993
+      Carrying_Idle_goblin_25: -7856375873607761183
+      Carrying_Idle_goblin_26: 8720318712024102060
+      Carrying_Idle_goblin_27: 1802404581212384000
+      Carrying_Idle_goblin_28: 9080371026954815261
+      Carrying_Idle_goblin_29: 5538385607740904759
+      Carrying_Idle_goblin_3: 4986509171444439641
+      Carrying_Idle_goblin_30: 3826342257045457825
+      Carrying_Idle_goblin_31: -718700861926939552
+      Carrying_Idle_goblin_32: -407734670134105176
+      Carrying_Idle_goblin_33: 5358797656285503552
+      Carrying_Idle_goblin_34: 8717928181928334507
+      Carrying_Idle_goblin_35: 2773179824265040207
+      Carrying_Idle_goblin_36: 2767241499113803807
+      Carrying_Idle_goblin_37: -1351915689282410514
+      Carrying_Idle_goblin_38: -1196434950609596400
+      Carrying_Idle_goblin_39: 4837776843578903092
+      Carrying_Idle_goblin_4: 2414142138058249765
+      Carrying_Idle_goblin_40: -1961627835665531383
+      Carrying_Idle_goblin_41: -8499008497865298230
+      Carrying_Idle_goblin_42: -2058042447284467630
+      Carrying_Idle_goblin_43: -3894974906022501061
+      Carrying_Idle_goblin_44: -701292800324842780
+      Carrying_Idle_goblin_45: 7250139425357426458
+      Carrying_Idle_goblin_46: 8549458529161067647
+      Carrying_Idle_goblin_47: -7146777437937258666
+      Carrying_Idle_goblin_48: -1337686945933488846
+      Carrying_Idle_goblin_49: 7734989639095521504
+      Carrying_Idle_goblin_5: -2617643456392749307
+      Carrying_Idle_goblin_50: 2168960213548674014
+      Carrying_Idle_goblin_51: 7397776492015028225
+      Carrying_Idle_goblin_52: 5795379316408854609
+      Carrying_Idle_goblin_53: -4640235597624047852
+      Carrying_Idle_goblin_54: -6958075718151469032
+      Carrying_Idle_goblin_55: 2023699048045628678
+      Carrying_Idle_goblin_56: -4356561115459366800
+      Carrying_Idle_goblin_57: -3105566006530051545
+      Carrying_Idle_goblin_58: 7528261821946344242
+      Carrying_Idle_goblin_59: -7707324273602475214
+      Carrying_Idle_goblin_6: -3470447085664079629
+      Carrying_Idle_goblin_60: -6564741845259218730
+      Carrying_Idle_goblin_61: 8310907689168368297
+      Carrying_Idle_goblin_62: -5436547725294952600
+      Carrying_Idle_goblin_63: 4043519763437956819
+      Carrying_Idle_goblin_7: 1438431197565755442
+      Carrying_Idle_goblin_8: 2684141553214804987
+      Carrying_Idle_goblin_9: -6469877595566265539
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

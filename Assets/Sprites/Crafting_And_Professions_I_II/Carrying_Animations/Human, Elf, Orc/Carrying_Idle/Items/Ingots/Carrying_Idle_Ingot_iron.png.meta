@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: c2b38d1f512c9e442bf5d10941122f65
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7072711438753445555
+    second: Carrying_Idle_Ingot_iron_0
+  - first:
+      213: 8464867529528926314
+    second: Carrying_Idle_Ingot_iron_1
+  - first:
+      213: -1916484718287376657
+    second: Carrying_Idle_Ingot_iron_2
+  - first:
+      213: 2239308447693376812
+    second: Carrying_Idle_Ingot_iron_3
+  - first:
+      213: 53663585943240332
+    second: Carrying_Idle_Ingot_iron_4
+  - first:
+      213: -9107542262960391272
+    second: Carrying_Idle_Ingot_iron_5
+  - first:
+      213: 3034318735274479467
+    second: Carrying_Idle_Ingot_iron_6
+  - first:
+      213: 3006722297792673201
+    second: Carrying_Idle_Ingot_iron_7
+  - first:
+      213: 4527888393523283647
+    second: Carrying_Idle_Ingot_iron_8
+  - first:
+      213: 2918183062277855003
+    second: Carrying_Idle_Ingot_iron_9
+  - first:
+      213: -8119751334971896194
+    second: Carrying_Idle_Ingot_iron_10
+  - first:
+      213: 2683808999263607605
+    second: Carrying_Idle_Ingot_iron_11
+  - first:
+      213: 7918971250683852093
+    second: Carrying_Idle_Ingot_iron_12
+  - first:
+      213: 8118338590434931533
+    second: Carrying_Idle_Ingot_iron_13
+  - first:
+      213: 2680481126343372839
+    second: Carrying_Idle_Ingot_iron_14
+  - first:
+      213: 8094297496001985114
+    second: Carrying_Idle_Ingot_iron_15
+  - first:
+      213: 360313031779226085
+    second: Carrying_Idle_Ingot_iron_16
+  - first:
+      213: -2515825575089323831
+    second: Carrying_Idle_Ingot_iron_17
+  - first:
+      213: 153592859012949469
+    second: Carrying_Idle_Ingot_iron_18
+  - first:
+      213: 7661001888593683569
+    second: Carrying_Idle_Ingot_iron_19
+  - first:
+      213: -8304822027673783771
+    second: Carrying_Idle_Ingot_iron_20
+  - first:
+      213: 8740262312911111989
+    second: Carrying_Idle_Ingot_iron_21
+  - first:
+      213: 5623624968727567889
+    second: Carrying_Idle_Ingot_iron_22
+  - first:
+      213: 6950711510841605070
+    second: Carrying_Idle_Ingot_iron_23
+  - first:
+      213: 7510950972613795616
+    second: Carrying_Idle_Ingot_iron_24
+  - first:
+      213: 1867855473288566960
+    second: Carrying_Idle_Ingot_iron_25
+  - first:
+      213: -7062337677148888221
+    second: Carrying_Idle_Ingot_iron_26
+  - first:
+      213: -1798422411057432843
+    second: Carrying_Idle_Ingot_iron_27
+  - first:
+      213: -5140976555522324050
+    second: Carrying_Idle_Ingot_iron_28
+  - first:
+      213: 8335250525284350109
+    second: Carrying_Idle_Ingot_iron_29
+  - first:
+      213: 7117225387762238723
+    second: Carrying_Idle_Ingot_iron_30
+  - first:
+      213: 1982266341148138397
+    second: Carrying_Idle_Ingot_iron_31
+  - first:
+      213: -5739123081556681158
+    second: Carrying_Idle_Ingot_iron_32
+  - first:
+      213: -6656288645810911243
+    second: Carrying_Idle_Ingot_iron_33
+  - first:
+      213: 2752738038703892557
+    second: Carrying_Idle_Ingot_iron_34
+  - first:
+      213: 1356801915635906594
+    second: Carrying_Idle_Ingot_iron_35
+  - first:
+      213: -6434128485691755413
+    second: Carrying_Idle_Ingot_iron_36
+  - first:
+      213: -3371840573671631201
+    second: Carrying_Idle_Ingot_iron_37
+  - first:
+      213: 6543080602145946802
+    second: Carrying_Idle_Ingot_iron_38
+  - first:
+      213: -1147441623817887102
+    second: Carrying_Idle_Ingot_iron_39
+  - first:
+      213: 3879043590312488422
+    second: Carrying_Idle_Ingot_iron_40
+  - first:
+      213: 2878436544631677328
+    second: Carrying_Idle_Ingot_iron_41
+  - first:
+      213: 5906171447103942232
+    second: Carrying_Idle_Ingot_iron_42
+  - first:
+      213: -1154457703322786489
+    second: Carrying_Idle_Ingot_iron_43
+  - first:
+      213: -8194515031875592608
+    second: Carrying_Idle_Ingot_iron_44
+  - first:
+      213: 6927674457134418426
+    second: Carrying_Idle_Ingot_iron_45
+  - first:
+      213: -5258078064380398082
+    second: Carrying_Idle_Ingot_iron_46
+  - first:
+      213: -4426811610742892340
+    second: Carrying_Idle_Ingot_iron_47
+  - first:
+      213: -1671345621694679143
+    second: Carrying_Idle_Ingot_iron_48
+  - first:
+      213: -2398170553286431333
+    second: Carrying_Idle_Ingot_iron_49
+  - first:
+      213: 1241992644715786421
+    second: Carrying_Idle_Ingot_iron_50
+  - first:
+      213: -5695596387048767254
+    second: Carrying_Idle_Ingot_iron_51
+  - first:
+      213: -3956414877998259452
+    second: Carrying_Idle_Ingot_iron_52
+  - first:
+      213: -1262899368542067694
+    second: Carrying_Idle_Ingot_iron_53
+  - first:
+      213: -8316707274335598681
+    second: Carrying_Idle_Ingot_iron_54
+  - first:
+      213: -3430720723841474744
+    second: Carrying_Idle_Ingot_iron_55
+  - first:
+      213: -7118256695864322660
+    second: Carrying_Idle_Ingot_iron_56
+  - first:
+      213: 3537637792453202404
+    second: Carrying_Idle_Ingot_iron_57
+  - first:
+      213: -4594754358667400376
+    second: Carrying_Idle_Ingot_iron_58
+  - first:
+      213: 3161337411167477384
+    second: Carrying_Idle_Ingot_iron_59
+  - first:
+      213: 2853679061896687711
+    second: Carrying_Idle_Ingot_iron_60
+  - first:
+      213: 9212026702873711637
+    second: Carrying_Idle_Ingot_iron_61
+  - first:
+      213: 2354486940647041746
+    second: Carrying_Idle_Ingot_iron_62
+  - first:
+      213: 6219156575704643544
+    second: Carrying_Idle_Ingot_iron_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4942465b6ea8dd90800000000000000
+      internalID: -7072711438753445555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a606f485b20497570800000000000000
+      internalID: 8464867529528926314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee240d7d474765e0800000000000000
+      internalID: -1916484718287376657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d8b473b2f931f10800000000000000
+      internalID: 2239308447693376812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e35814fb6aeb000800000000000000
+      internalID: 53663585943240332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b736fc0928b9180800000000000000
+      internalID: -9107542262960391272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f095f20d01c1a20800000000000000
+      internalID: 3034318735274479467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_7
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5bd22eff50ab920800000000000000
+      internalID: 3006722297792673201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6c19e018a46de30800000000000000
+      internalID: 4527888393523283647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1712a0b8087f7820800000000000000
+      internalID: 2918183062277855003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_10
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e0f7e5e29d05f80800000000000000
+      internalID: -8119751334971896194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_11
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b9a1eb01ece3520800000000000000
+      internalID: 2683808999263607605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_12
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35ba8f5566d5ed60800000000000000
+      internalID: 7918971250683852093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_13
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4338396fe12aa070800000000000000
+      internalID: 8118338590434931533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_14
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720f5d2f16bf23520800000000000000
+      internalID: 2680481126343372839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_15
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a388befa8b45070800000000000000
+      internalID: 8094297496001985114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1152b1bc6100500800000000000000
+      internalID: 360313031779226085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_17
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c045f708fdf51dd0800000000000000
+      internalID: -2515825575089323831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_18
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5e08934eba12200800000000000000
+      internalID: 153592859012949469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1742931c0a8515a60800000000000000
+      internalID: 7661001888593683569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_20
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5223aaddd585fbc80800000000000000
+      internalID: -8304822027673783771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_21
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5370dc40446ab4970800000000000000
+      internalID: 8740262312911111989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e16032d112b0e40800000000000000
+      internalID: 5623624968727567889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_23
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbbeebea43e57060800000000000000
+      internalID: 6950711510841605070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_24
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f15086d124c3860800000000000000
+      internalID: 7510950972613795616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_25
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8522918a4fbe910800000000000000
+      internalID: 1867855473288566960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363eeadec498dfd90800000000000000
+      internalID: -7062337677148888221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_27
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6f1d87858ba07e0800000000000000
+      internalID: -1798422411057432843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_28
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea90b719f0597a8b0800000000000000
+      internalID: -5140976555522324050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_29
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d983671d032cca370800000000000000
+      internalID: 8335250525284350109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_30
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305c5ff08c675c260800000000000000
+      internalID: 7117225387762238723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_31
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b195a1cbc628b10800000000000000
+      internalID: 1982266341148138397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_32
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e9199e6f98a50b0800000000000000
+      internalID: -5739123081556681158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_33
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f789ff3ebc10a3a0800000000000000
+      internalID: -6656288645810911243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_34
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48a6ac59a0b33620800000000000000
+      internalID: 2752738038703892557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_35
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2283c04572454d210800000000000000
+      internalID: 1356801915635906594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_36
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64fe135b3265b6a0800000000000000
+      internalID: -6434128485691755413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_37
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f969d0fecd0d431d0800000000000000
+      internalID: -3371840573671631201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_38
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc78a31421bdca50800000000000000
+      internalID: 6543080602145946802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_39
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28266db2ce77310f0800000000000000
+      internalID: -1147441623817887102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_40
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ede4d4e79125d530800000000000000
+      internalID: 3879043590312488422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_41
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091264769c242f720800000000000000
+      internalID: 2878436544631677328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_42
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e6f2f83afe6f150800000000000000
+      internalID: 5906171447103942232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_43
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7456b3dd5da8affe0800000000000000
+      internalID: -1154457703322786489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_44
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ed472befb374e80800000000000000
+      internalID: -8194515031875592608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_45
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af94b01e63b042060800000000000000
+      internalID: 6927674457134418426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_46
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef53553ebdd8707b0800000000000000
+      internalID: -5258078064380398082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_47
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc858165b4ec092c0800000000000000
+      internalID: -4426811610742892340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997fbf123003ec8e0800000000000000
+      internalID: -1671345621694679143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_49
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d6f8c769cf7bed0800000000000000
+      internalID: -2398170553286431333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_50
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0bee1eab17c3110800000000000000
+      internalID: 1241992644715786421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_51
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0c5f5334d25f0b0800000000000000
+      internalID: -5695596387048767254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_52
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403e7d461adf719c0800000000000000
+      internalID: -3956414877998259452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_53
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2142cf627b7497ee0800000000000000
+      internalID: -1262899368542067694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_54
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7c15c3cce159c80800000000000000
+      internalID: -8316707274335598681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_55
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f9bdbada1a360d0800000000000000
+      internalID: -3430720723841474744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_56
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9516fecf3fd63d90800000000000000
+      internalID: -7118256695864322660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_57
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e19b2b34d6381130800000000000000
+      internalID: 3537637792453202404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_58
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ba37d31472c30c0800000000000000
+      internalID: -4594754358667400376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_59
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e5acf30a35fdb20800000000000000
+      internalID: 3161337411167477384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_60
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f507253ccfd4a9720800000000000000
+      internalID: 2853679061896687711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_61
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51453369a71b7df70800000000000000
+      internalID: 9212026702873711637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_62
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da209dd561dca020800000000000000
+      internalID: 2354486940647041746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_iron_63
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7f86184f1ee4650800000000000000
+      internalID: 6219156575704643544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Idle_Ingot_iron_0: -7072711438753445555
+      Carrying_Idle_Ingot_iron_1: 8464867529528926314
+      Carrying_Idle_Ingot_iron_10: -8119751334971896194
+      Carrying_Idle_Ingot_iron_11: 2683808999263607605
+      Carrying_Idle_Ingot_iron_12: 7918971250683852093
+      Carrying_Idle_Ingot_iron_13: 8118338590434931533
+      Carrying_Idle_Ingot_iron_14: 2680481126343372839
+      Carrying_Idle_Ingot_iron_15: 8094297496001985114
+      Carrying_Idle_Ingot_iron_16: 360313031779226085
+      Carrying_Idle_Ingot_iron_17: -2515825575089323831
+      Carrying_Idle_Ingot_iron_18: 153592859012949469
+      Carrying_Idle_Ingot_iron_19: 7661001888593683569
+      Carrying_Idle_Ingot_iron_2: -1916484718287376657
+      Carrying_Idle_Ingot_iron_20: -8304822027673783771
+      Carrying_Idle_Ingot_iron_21: 8740262312911111989
+      Carrying_Idle_Ingot_iron_22: 5623624968727567889
+      Carrying_Idle_Ingot_iron_23: 6950711510841605070
+      Carrying_Idle_Ingot_iron_24: 7510950972613795616
+      Carrying_Idle_Ingot_iron_25: 1867855473288566960
+      Carrying_Idle_Ingot_iron_26: -7062337677148888221
+      Carrying_Idle_Ingot_iron_27: -1798422411057432843
+      Carrying_Idle_Ingot_iron_28: -5140976555522324050
+      Carrying_Idle_Ingot_iron_29: 8335250525284350109
+      Carrying_Idle_Ingot_iron_3: 2239308447693376812
+      Carrying_Idle_Ingot_iron_30: 7117225387762238723
+      Carrying_Idle_Ingot_iron_31: 1982266341148138397
+      Carrying_Idle_Ingot_iron_32: -5739123081556681158
+      Carrying_Idle_Ingot_iron_33: -6656288645810911243
+      Carrying_Idle_Ingot_iron_34: 2752738038703892557
+      Carrying_Idle_Ingot_iron_35: 1356801915635906594
+      Carrying_Idle_Ingot_iron_36: -6434128485691755413
+      Carrying_Idle_Ingot_iron_37: -3371840573671631201
+      Carrying_Idle_Ingot_iron_38: 6543080602145946802
+      Carrying_Idle_Ingot_iron_39: -1147441623817887102
+      Carrying_Idle_Ingot_iron_4: 53663585943240332
+      Carrying_Idle_Ingot_iron_40: 3879043590312488422
+      Carrying_Idle_Ingot_iron_41: 2878436544631677328
+      Carrying_Idle_Ingot_iron_42: 5906171447103942232
+      Carrying_Idle_Ingot_iron_43: -1154457703322786489
+      Carrying_Idle_Ingot_iron_44: -8194515031875592608
+      Carrying_Idle_Ingot_iron_45: 6927674457134418426
+      Carrying_Idle_Ingot_iron_46: -5258078064380398082
+      Carrying_Idle_Ingot_iron_47: -4426811610742892340
+      Carrying_Idle_Ingot_iron_48: -1671345621694679143
+      Carrying_Idle_Ingot_iron_49: -2398170553286431333
+      Carrying_Idle_Ingot_iron_5: -9107542262960391272
+      Carrying_Idle_Ingot_iron_50: 1241992644715786421
+      Carrying_Idle_Ingot_iron_51: -5695596387048767254
+      Carrying_Idle_Ingot_iron_52: -3956414877998259452
+      Carrying_Idle_Ingot_iron_53: -1262899368542067694
+      Carrying_Idle_Ingot_iron_54: -8316707274335598681
+      Carrying_Idle_Ingot_iron_55: -3430720723841474744
+      Carrying_Idle_Ingot_iron_56: -7118256695864322660
+      Carrying_Idle_Ingot_iron_57: 3537637792453202404
+      Carrying_Idle_Ingot_iron_58: -4594754358667400376
+      Carrying_Idle_Ingot_iron_59: 3161337411167477384
+      Carrying_Idle_Ingot_iron_6: 3034318735274479467
+      Carrying_Idle_Ingot_iron_60: 2853679061896687711
+      Carrying_Idle_Ingot_iron_61: 9212026702873711637
+      Carrying_Idle_Ingot_iron_62: 2354486940647041746
+      Carrying_Idle_Ingot_iron_63: 6219156575704643544
+      Carrying_Idle_Ingot_iron_7: 3006722297792673201
+      Carrying_Idle_Ingot_iron_8: 4527888393523283647
+      Carrying_Idle_Ingot_iron_9: 2918183062277855003
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

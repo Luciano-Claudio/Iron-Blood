@@ -1,0 +1,2795 @@
+fileFormatVersion: 2
+guid: 7c399e842b21b2f4081a0724580dab62
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -152098117401005411
+    second: Material_Piles_Shadows_0
+  - first:
+      213: -6172374106369709223
+    second: Material_Piles_Shadows_1
+  - first:
+      213: 4868454822534091505
+    second: Material_Piles_Shadows_2
+  - first:
+      213: -5561496411665563533
+    second: Material_Piles_Shadows_3
+  - first:
+      213: 9172906844480449689
+    second: Material_Piles_Shadows_4
+  - first:
+      213: -4993798671162650032
+    second: Material_Piles_Shadows_5
+  - first:
+      213: -1177520119798595300
+    second: Material_Piles_Shadows_6
+  - first:
+      213: -279695095023724711
+    second: Material_Piles_Shadows_7
+  - first:
+      213: -1262966238860063819
+    second: Material_Piles_Shadows_8
+  - first:
+      213: 2520038180429127737
+    second: Material_Piles_Shadows_9
+  - first:
+      213: -8600935982963341656
+    second: Material_Piles_Shadows_10
+  - first:
+      213: -8662129818498978595
+    second: Material_Piles_Shadows_11
+  - first:
+      213: -2550970252591132173
+    second: Material_Piles_Shadows_12
+  - first:
+      213: -4291699599176124795
+    second: Material_Piles_Shadows_13
+  - first:
+      213: 4066726284181762087
+    second: Material_Piles_Shadows_14
+  - first:
+      213: 4902207863683912932
+    second: Material_Piles_Shadows_15
+  - first:
+      213: -7285681935513278172
+    second: Material_Piles_Shadows_16
+  - first:
+      213: 2898000179326535443
+    second: Material_Piles_Shadows_17
+  - first:
+      213: 3767332506292482415
+    second: Material_Piles_Shadows_18
+  - first:
+      213: 2408267812821519885
+    second: Material_Piles_Shadows_19
+  - first:
+      213: 8844376072246225779
+    second: Material_Piles_Shadows_20
+  - first:
+      213: -4848300613581623840
+    second: Material_Piles_Shadows_21
+  - first:
+      213: -5228244539847695332
+    second: Material_Piles_Shadows_22
+  - first:
+      213: 7144997461351965715
+    second: Material_Piles_Shadows_23
+  - first:
+      213: -3026823406419484331
+    second: Material_Piles_Shadows_24
+  - first:
+      213: 3123873966269183367
+    second: Material_Piles_Shadows_25
+  - first:
+      213: -7562303741694825554
+    second: Material_Piles_Shadows_26
+  - first:
+      213: -1180332748744746353
+    second: Material_Piles_Shadows_27
+  - first:
+      213: 7151582815737891791
+    second: Material_Piles_Shadows_28
+  - first:
+      213: -5960790777264892230
+    second: Material_Piles_Shadows_29
+  - first:
+      213: 4876250717910710216
+    second: Material_Piles_Shadows_30
+  - first:
+      213: 2106805232119982205
+    second: Material_Piles_Shadows_31
+  - first:
+      213: 7853164534543132428
+    second: Material_Piles_Shadows_32
+  - first:
+      213: -6447006789167902123
+    second: Material_Piles_Shadows_33
+  - first:
+      213: -2494445026887855861
+    second: Material_Piles_Shadows_34
+  - first:
+      213: -879517915405008515
+    second: Material_Piles_Shadows_35
+  - first:
+      213: -3748118754630688110
+    second: Material_Piles_Shadows_36
+  - first:
+      213: 3326625576273743150
+    second: Material_Piles_Shadows_37
+  - first:
+      213: 4912964787588407694
+    second: Material_Piles_Shadows_38
+  - first:
+      213: -1731108196444356363
+    second: Material_Piles_Shadows_39
+  - first:
+      213: -8510639805303497213
+    second: Material_Piles_Shadows_40
+  - first:
+      213: 2215134699150937411
+    second: Material_Piles_Shadows_41
+  - first:
+      213: -7492914610237741097
+    second: Material_Piles_Shadows_42
+  - first:
+      213: -7073537665353729027
+    second: Material_Piles_Shadows_43
+  - first:
+      213: 1421313567226731264
+    second: Material_Piles_Shadows_44
+  - first:
+      213: 636518489289709815
+    second: Material_Piles_Shadows_45
+  - first:
+      213: 5637876199918762314
+    second: Material_Piles_Shadows_46
+  - first:
+      213: -7299709074112626353
+    second: Material_Piles_Shadows_47
+  - first:
+      213: 8591332277588529561
+    second: Material_Piles_Shadows_48
+  - first:
+      213: -4273285263174754949
+    second: Material_Piles_Shadows_49
+  - first:
+      213: 3921868416437910966
+    second: Material_Piles_Shadows_50
+  - first:
+      213: 3496019436957443961
+    second: Material_Piles_Shadows_51
+  - first:
+      213: -373073005774791078
+    second: Material_Piles_Shadows_52
+  - first:
+      213: -6847459352061814979
+    second: Material_Piles_Shadows_53
+  - first:
+      213: -4266627783037544598
+    second: Material_Piles_Shadows_54
+  - first:
+      213: 9154861838494037861
+    second: Material_Piles_Shadows_55
+  - first:
+      213: -3239842568358123061
+    second: Material_Piles_Shadows_56
+  - first:
+      213: 1645844782654838252
+    second: Material_Piles_Shadows_57
+  - first:
+      213: 1452011658529278272
+    second: Material_Piles_Shadows_58
+  - first:
+      213: 2532523419292422685
+    second: Material_Piles_Shadows_59
+  - first:
+      213: 9036010583941466630
+    second: Material_Piles_Shadows_60
+  - first:
+      213: 6465185578143289627
+    second: Material_Piles_Shadows_61
+  - first:
+      213: 626249722757033575
+    second: Material_Piles_Shadows_62
+  - first:
+      213: 714308527447043024
+    second: Material_Piles_Shadows_63
+  - first:
+      213: 8379681851242217310
+    second: Material_Piles_Shadows_64
+  - first:
+      213: -1171943949487935030
+    second: Material_Piles_Shadows_65
+  - first:
+      213: -8462457680536531435
+    second: Material_Piles_Shadows_66
+  - first:
+      213: 8964602634277862177
+    second: Material_Piles_Shadows_67
+  - first:
+      213: -998771690951591285
+    second: Material_Piles_Shadows_68
+  - first:
+      213: 2308269680798043832
+    second: Material_Piles_Shadows_69
+  - first:
+      213: 3418609292696307041
+    second: Material_Piles_Shadows_70
+  - first:
+      213: -8125396591549151988
+    second: Material_Piles_Shadows_71
+  - first:
+      213: 2154584993841076344
+    second: Material_Piles_Shadows_72
+  - first:
+      213: 7722167180180786959
+    second: Material_Piles_Shadows_73
+  - first:
+      213: -8335991736527959451
+    second: Material_Piles_Shadows_74
+  - first:
+      213: 2507167538304089107
+    second: Material_Piles_Shadows_75
+  - first:
+      213: -5102697254986869314
+    second: Material_Piles_Shadows_76
+  - first:
+      213: -1128198139565855479
+    second: Material_Piles_Shadows_77
+  - first:
+      213: 8771560766024650711
+    second: Material_Piles_Shadows_78
+  - first:
+      213: 8843984839972988455
+    second: Material_Piles_Shadows_79
+  - first:
+      213: 2096271247758381576
+    second: Material_Piles_Shadows_80
+  - first:
+      213: 3412884949027164478
+    second: Material_Piles_Shadows_81
+  - first:
+      213: 8570538287526120495
+    second: Material_Piles_Shadows_82
+  - first:
+      213: -578591895201074868
+    second: Material_Piles_Shadows_83
+  - first:
+      213: 8498336984430041203
+    second: Material_Piles_Shadows_84
+  - first:
+      213: -7578808181383258784
+    second: Material_Piles_Shadows_85
+  - first:
+      213: -2873105042384916459
+    second: Material_Piles_Shadows_86
+  - first:
+      213: -9015726377506993108
+    second: Material_Piles_Shadows_87
+  - first:
+      213: 7757080517878644337
+    second: Material_Piles_Shadows_88
+  - first:
+      213: -8006311061762551127
+    second: Material_Piles_Shadows_89
+  - first:
+      213: 80296086276983268
+    second: Material_Piles_Shadows_90
+  - first:
+      213: -2471455294727136594
+    second: Material_Piles_Shadows_91
+  - first:
+      213: 6162143541096403366
+    second: Material_Piles_Shadows_92
+  - first:
+      213: 6510655415044069716
+    second: Material_Piles_Shadows_93
+  - first:
+      213: 6075384538630118792
+    second: Material_Piles_Shadows_94
+  - first:
+      213: 5487020079158903876
+    second: Material_Piles_Shadows_95
+  - first:
+      213: 5442199284958879923
+    second: Material_Piles_Shadows_96
+  - first:
+      213: -8489156745870388281
+    second: Material_Piles_Shadows_97
+  - first:
+      213: -2410051208311753749
+    second: Material_Piles_Shadows_98
+  - first:
+      213: 8261428585066597967
+    second: Material_Piles_Shadows_99
+  - first:
+      213: 3702750796211701708
+    second: Material_Piles_Shadows_100
+  - first:
+      213: -4718670452037382440
+    second: Material_Piles_Shadows_101
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 327
+        width: 58
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92be4d6193a3edf0800000000000000
+      internalID: -152098117401005411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 319
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ba301f372575aa0800000000000000
+      internalID: -6172374106369709223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 319
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f29e2eedd9309340800000000000000
+      internalID: 4868454822534091505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 328
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370801bca7891d2b0800000000000000
+      internalID: -5561496411665563533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 319
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ca107cc26bc4f70800000000000000
+      internalID: 9172906844480449689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 327
+        width: 50
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052588d119672bab0800000000000000
+      internalID: -4993798671162650032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_6
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 319
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11878790bb98afe0800000000000000
+      internalID: -1177520119798595300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 319
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95711bffac25e1cf0800000000000000
+      internalID: -279695095023724711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 319
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb4f61b5ea097ee0800000000000000
+      internalID: -1262966238860063819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_9
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 295
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93066e49f59f8f220800000000000000
+      internalID: 2520038180429127737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_10
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 320
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6489f0b4653a880800000000000000
+      internalID: -8600935982963341656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_11
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 319
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddcac02f2dee9c780800000000000000
+      internalID: -8662129818498978595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_12
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 319
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f197b52212299cd0800000000000000
+      internalID: -2550970252591132173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 295
+        width: 58
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586bb64f3f1d074c0800000000000000
+      internalID: -4291699599176124795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_14
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 287
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720f56f420aef6830800000000000000
+      internalID: 4066726284181762087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_15
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 287
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4910a3414280440800000000000000
+      internalID: 4902207863683912932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_16
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 296
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429204f71ee04ea90800000000000000
+      internalID: -7285681935513278172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_17
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 287
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317c6cf0fc3c73820800000000000000
+      internalID: 2898000179326535443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_18
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 295
+        width: 50
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61785c44f0484430800000000000000
+      internalID: 3767332506292482415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_19
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 287
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ecb33f0d2eb6120800000000000000
+      internalID: 2408267812821519885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_20
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 287
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b633e9d298dba70800000000000000
+      internalID: 8844376072246225779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_21
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 287
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eda823874067bcb0800000000000000
+      internalID: -4848300613581623840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_22
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 295
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14a08b9a4b8177b0800000000000000
+      internalID: -5228244539847695332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_23
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 288
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314a3f4d551282360800000000000000
+      internalID: 7144997461351965715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_24
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 287
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551678e06209ef5d0800000000000000
+      internalID: -3026823406419484331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_25
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 287
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785b09242da3a5b20800000000000000
+      internalID: 3123873966269183367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_26
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 263
+        width: 58
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab2ca050dc4d0790800000000000000
+      internalID: -7562303741694825554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_27
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 255
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a1f426e9d9e9fe0800000000000000
+      internalID: -1180332748744746353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_28
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 255
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb48d12ea68f3360800000000000000
+      internalID: 7151582815737891791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_29
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 263
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab693b4ae54074da0800000000000000
+      internalID: -5960790777264892230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_30
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 255
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7bfc4413ceba340800000000000000
+      internalID: 4876250717910710216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_31
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 263
+        width: 50
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78227f3230ec3d10800000000000000
+      internalID: 2106805232119982205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_32
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 255
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07a32c498b0cfc60800000000000000
+      internalID: 7853164534543132428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_33
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 255
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5529d13ab71a786a0800000000000000
+      internalID: -6447006789167902123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_34
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 255
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b011c94d673f16dd0800000000000000
+      internalID: -2494445026887855861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_35
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 231
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7141b6ad135bc3f0800000000000000
+      internalID: -879517915405008515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_36
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 223
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292224ed9d10cfbc0800000000000000
+      internalID: -3748118754630688110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_37
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 223
+        width: 16
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d868e165c8a2e20800000000000000
+      internalID: 3326625576273743150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_38
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 255
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81a53eb17b5e2440800000000000000
+      internalID: 4912964787588407694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_39
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 231
+        width: 58
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0ca23644ed9f7e0800000000000000
+      internalID: -1731108196444356363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_40
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 223
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ed599303224e980800000000000000
+      internalID: -8510639805303497213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_41
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 223
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d8888c54dbdbe10800000000000000
+      internalID: 2215134699150937411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_42
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 232
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7e1747cd1d30890800000000000000
+      internalID: -7492914610237741097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_43
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 223
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbbe3778feb5dd90800000000000000
+      internalID: -7073537665353729027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_44
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 231
+        width: 50
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b1ef0b82589b310800000000000000
+      internalID: 1421313567226731264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_45
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 223
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8d41f813e55d800800000000000000
+      internalID: 636518489289709815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_46
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 220
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4979c77882cd3e40800000000000000
+      internalID: 5637876199918762314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_47
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 223
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4142d9c54932ba90800000000000000
+      internalID: -7299709074112626353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_48
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 223
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9911309003b8a3770800000000000000
+      internalID: 8591332277588529561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_49
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 199
+        width: 58
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d9e88a1bd32b4c0800000000000000
+      internalID: -4273285263174754949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_50
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 191
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdfa99bb864d6630800000000000000
+      internalID: 3921868416437910966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_51
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 191
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977a5bbb72b548030800000000000000
+      internalID: 3496019436957443961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_52
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 200
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e918fe31492daf0800000000000000
+      internalID: -373073005774791078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_53
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 191
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37dd6aafffe8f0a0800000000000000
+      internalID: -6847459352061814979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_54
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 199
+        width: 50
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a671c3b03a4e9c4c0800000000000000
+      internalID: -4266627783037544598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_55
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 191
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567773b665a9c0f70800000000000000
+      internalID: 9154861838494037861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_56
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 191
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc923d87954c903d0800000000000000
+      internalID: -3239842568358123061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_57
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 191
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce552991c1737d610800000000000000
+      internalID: 1645844782654838252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_58
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 199
+        width: 49
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0490d5c09e4962410800000000000000
+      internalID: 1452011658529278272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_59
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 191
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d125848c1a4552320800000000000000
+      internalID: 2532523419292422685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_60
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 191
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a408250cb566d70800000000000000
+      internalID: 9036010583941466630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_61
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 191
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1195308704f8b950800000000000000
+      internalID: 6465185578143289627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_62
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 23
+        width: 62
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76eae990ec2e0b800800000000000000
+      internalID: 626249722757033575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_63
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 144
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db638632dbb9e900800000000000000
+      internalID: 714308527447043024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_64
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 143
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f741a0f3c9a4470800000000000000
+      internalID: 8379681851242217310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_65
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 15
+        width: 69
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac17a1aef2b6cbfe0800000000000000
+      internalID: -1171943949487935030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_66
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 151
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e08d8539f4f8a80800000000000000
+      internalID: -8462457680536531435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_67
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 139
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bb9a0799aa86c70800000000000000
+      internalID: 8964602634277862177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_68
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 143
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a3d155076a322f0800000000000000
+      internalID: -998771690951591285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_69
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 143
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be85c18b0f980020800000000000000
+      internalID: 2308269680798043832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_70
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 119
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16543050a07517f20800000000000000
+      internalID: 3418609292696307041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_71
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 112
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c050b85a9dacc3f80800000000000000
+      internalID: -8125396591549151988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_72
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 104
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878d84ce2af96ed10800000000000000
+      internalID: 2154584993841076344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_73
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 111
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f0bd6f226aa2b60800000000000000
+      internalID: 7722167180180786959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_74
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 119
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ac8ad7eab905c80800000000000000
+      internalID: -8335991736527959451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_75
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 111
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c7101b79f3bc220800000000000000
+      internalID: 2507167538304089107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_76
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 111
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb59520c1e39f29b0800000000000000
+      internalID: -5102697254986869314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_77
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 111
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90dabeef4c5d750f0800000000000000
+      internalID: -1128198139565855479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_78
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 87
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df07a00b08dab970800000000000000
+      internalID: 8771560766024650711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_79
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 80
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726a781ca552cba70800000000000000
+      internalID: 8843984839972988455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_80
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 79
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802d083e793771d10800000000000000
+      internalID: 2096271247758381576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_81
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 79
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e319a0667c00d5f20800000000000000
+      internalID: 3412884949027164478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_82
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 87
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c01e1f92ba0f670800000000000000
+      internalID: 8570538287526120495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_83
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 79
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41be90acbd68f7f0800000000000000
+      internalID: -578591895201074868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_84
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 79
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3785482167820f570800000000000000
+      internalID: 8498336984430041203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_85
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 79
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d93dffc1aa2d690800000000000000
+      internalID: -7578808181383258784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_86
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 55
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5107342bf2ea028d0800000000000000
+      internalID: -2873105042384916459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_87
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 48
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c839480a4b1e280800000000000000
+      internalID: -9015726377506993108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_88
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 47
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e724ad1afa6ab60800000000000000
+      internalID: 7757080517878644337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_89
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 47
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2dc52328ed3e090800000000000000
+      internalID: -8006311061762551127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_90
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 55
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9c4637dd44d1100800000000000000
+      internalID: 80296086276983268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_91
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 47
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaad787f080a3bdd0800000000000000
+      internalID: -2471455294727136594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_92
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 47
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1d406f6e4548550800000000000000
+      internalID: 6162143541096403366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_93
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 47
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459dca4ea9e7a5a50800000000000000
+      internalID: 6510655415044069716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_94
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 23
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88dd2f29c0a105450800000000000000
+      internalID: 6075384538630118792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_95
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 16
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444c3b5c0bfc52c40800000000000000
+      internalID: 5487020079158903876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_96
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 15
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0ebd86a63968b40800000000000000
+      internalID: 5442199284958879923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_97
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 15
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3d8c7cae4703a80800000000000000
+      internalID: -8489156745870388281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_98
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 23
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3b31ee137cd8ed0800000000000000
+      internalID: -2410051208311753749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_99
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 15
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e0726f68d76a270800000000000000
+      internalID: 8261428585066597967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_100
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 15
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc74efb2b30d26330800000000000000
+      internalID: 3702750796211701708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_Piles_Shadows_101
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 15
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de0e26793ae38eb0800000000000000
+      internalID: -4718670452037382440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Material_Piles_Shadows_0: -152098117401005411
+      Material_Piles_Shadows_1: -6172374106369709223
+      Material_Piles_Shadows_10: -8600935982963341656
+      Material_Piles_Shadows_100: 3702750796211701708
+      Material_Piles_Shadows_101: -4718670452037382440
+      Material_Piles_Shadows_11: -8662129818498978595
+      Material_Piles_Shadows_12: -2550970252591132173
+      Material_Piles_Shadows_13: -4291699599176124795
+      Material_Piles_Shadows_14: 4066726284181762087
+      Material_Piles_Shadows_15: 4902207863683912932
+      Material_Piles_Shadows_16: -7285681935513278172
+      Material_Piles_Shadows_17: 2898000179326535443
+      Material_Piles_Shadows_18: 3767332506292482415
+      Material_Piles_Shadows_19: 2408267812821519885
+      Material_Piles_Shadows_2: 4868454822534091505
+      Material_Piles_Shadows_20: 8844376072246225779
+      Material_Piles_Shadows_21: -4848300613581623840
+      Material_Piles_Shadows_22: -5228244539847695332
+      Material_Piles_Shadows_23: 7144997461351965715
+      Material_Piles_Shadows_24: -3026823406419484331
+      Material_Piles_Shadows_25: 3123873966269183367
+      Material_Piles_Shadows_26: -7562303741694825554
+      Material_Piles_Shadows_27: -1180332748744746353
+      Material_Piles_Shadows_28: 7151582815737891791
+      Material_Piles_Shadows_29: -5960790777264892230
+      Material_Piles_Shadows_3: -5561496411665563533
+      Material_Piles_Shadows_30: 4876250717910710216
+      Material_Piles_Shadows_31: 2106805232119982205
+      Material_Piles_Shadows_32: 7853164534543132428
+      Material_Piles_Shadows_33: -6447006789167902123
+      Material_Piles_Shadows_34: -2494445026887855861
+      Material_Piles_Shadows_35: -879517915405008515
+      Material_Piles_Shadows_36: -3748118754630688110
+      Material_Piles_Shadows_37: 3326625576273743150
+      Material_Piles_Shadows_38: 4912964787588407694
+      Material_Piles_Shadows_39: -1731108196444356363
+      Material_Piles_Shadows_4: 9172906844480449689
+      Material_Piles_Shadows_40: -8510639805303497213
+      Material_Piles_Shadows_41: 2215134699150937411
+      Material_Piles_Shadows_42: -7492914610237741097
+      Material_Piles_Shadows_43: -7073537665353729027
+      Material_Piles_Shadows_44: 1421313567226731264
+      Material_Piles_Shadows_45: 636518489289709815
+      Material_Piles_Shadows_46: 5637876199918762314
+      Material_Piles_Shadows_47: -7299709074112626353
+      Material_Piles_Shadows_48: 8591332277588529561
+      Material_Piles_Shadows_49: -4273285263174754949
+      Material_Piles_Shadows_5: -4993798671162650032
+      Material_Piles_Shadows_50: 3921868416437910966
+      Material_Piles_Shadows_51: 3496019436957443961
+      Material_Piles_Shadows_52: -373073005774791078
+      Material_Piles_Shadows_53: -6847459352061814979
+      Material_Piles_Shadows_54: -4266627783037544598
+      Material_Piles_Shadows_55: 9154861838494037861
+      Material_Piles_Shadows_56: -3239842568358123061
+      Material_Piles_Shadows_57: 1645844782654838252
+      Material_Piles_Shadows_58: 1452011658529278272
+      Material_Piles_Shadows_59: 2532523419292422685
+      Material_Piles_Shadows_6: -1177520119798595300
+      Material_Piles_Shadows_60: 9036010583941466630
+      Material_Piles_Shadows_61: 6465185578143289627
+      Material_Piles_Shadows_62: 626249722757033575
+      Material_Piles_Shadows_63: 714308527447043024
+      Material_Piles_Shadows_64: 8379681851242217310
+      Material_Piles_Shadows_65: -1171943949487935030
+      Material_Piles_Shadows_66: -8462457680536531435
+      Material_Piles_Shadows_67: 8964602634277862177
+      Material_Piles_Shadows_68: -998771690951591285
+      Material_Piles_Shadows_69: 2308269680798043832
+      Material_Piles_Shadows_7: -279695095023724711
+      Material_Piles_Shadows_70: 3418609292696307041
+      Material_Piles_Shadows_71: -8125396591549151988
+      Material_Piles_Shadows_72: 2154584993841076344
+      Material_Piles_Shadows_73: 7722167180180786959
+      Material_Piles_Shadows_74: -8335991736527959451
+      Material_Piles_Shadows_75: 2507167538304089107
+      Material_Piles_Shadows_76: -5102697254986869314
+      Material_Piles_Shadows_77: -1128198139565855479
+      Material_Piles_Shadows_78: 8771560766024650711
+      Material_Piles_Shadows_79: 8843984839972988455
+      Material_Piles_Shadows_8: -1262966238860063819
+      Material_Piles_Shadows_80: 2096271247758381576
+      Material_Piles_Shadows_81: 3412884949027164478
+      Material_Piles_Shadows_82: 8570538287526120495
+      Material_Piles_Shadows_83: -578591895201074868
+      Material_Piles_Shadows_84: 8498336984430041203
+      Material_Piles_Shadows_85: -7578808181383258784
+      Material_Piles_Shadows_86: -2873105042384916459
+      Material_Piles_Shadows_87: -9015726377506993108
+      Material_Piles_Shadows_88: 7757080517878644337
+      Material_Piles_Shadows_89: -8006311061762551127
+      Material_Piles_Shadows_9: 2520038180429127737
+      Material_Piles_Shadows_90: 80296086276983268
+      Material_Piles_Shadows_91: -2471455294727136594
+      Material_Piles_Shadows_92: 6162143541096403366
+      Material_Piles_Shadows_93: 6510655415044069716
+      Material_Piles_Shadows_94: 6075384538630118792
+      Material_Piles_Shadows_95: 5487020079158903876
+      Material_Piles_Shadows_96: 5442199284958879923
+      Material_Piles_Shadows_97: -8489156745870388281
+      Material_Piles_Shadows_98: -2410051208311753749
+      Material_Piles_Shadows_99: 8261428585066597967
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

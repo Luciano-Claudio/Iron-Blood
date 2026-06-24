@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 6bbf3832405a48d4cb39473791b7eccc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5678416997639769381
+    second: Carrying_Dmg_Wood_oak_0
+  - first:
+      213: 3516110776136593071
+    second: Carrying_Dmg_Wood_oak_1
+  - first:
+      213: -3235665982808938194
+    second: Carrying_Dmg_Wood_oak_2
+  - first:
+      213: 2973290970250030636
+    second: Carrying_Dmg_Wood_oak_3
+  - first:
+      213: -5780191555906453494
+    second: Carrying_Dmg_Wood_oak_4
+  - first:
+      213: 6161170828712433074
+    second: Carrying_Dmg_Wood_oak_5
+  - first:
+      213: 4844463196703956408
+    second: Carrying_Dmg_Wood_oak_6
+  - first:
+      213: 103554363497669864
+    second: Carrying_Dmg_Wood_oak_7
+  - first:
+      213: 3409534734227062441
+    second: Carrying_Dmg_Wood_oak_8
+  - first:
+      213: -4414665456014662011
+    second: Carrying_Dmg_Wood_oak_9
+  - first:
+      213: -2363879112948279726
+    second: Carrying_Dmg_Wood_oak_10
+  - first:
+      213: 8684393349030065535
+    second: Carrying_Dmg_Wood_oak_11
+  - first:
+      213: -4596868419149810972
+    second: Carrying_Dmg_Wood_oak_12
+  - first:
+      213: 1908914011373621325
+    second: Carrying_Dmg_Wood_oak_13
+  - first:
+      213: 2288091549132566421
+    second: Carrying_Dmg_Wood_oak_14
+  - first:
+      213: -3548121524079069660
+    second: Carrying_Dmg_Wood_oak_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_oak_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 116
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dcbde7c2acdce40800000000000000
+      internalID: 5678416997639769381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_oak_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 116
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae6b8a2f1cbbc030800000000000000
+      internalID: 3516110776136593071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_oak_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 115
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29abd29eea9813d0800000000000000
+      internalID: -3235665982808938194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_oak_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 115
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e21af5260434920800000000000000
+      internalID: 2973290970250030636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_oak_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 84
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00cb789762a8cfa0800000000000000
+      internalID: -5780191555906453494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_oak_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 84
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b557e5b930e08550800000000000000
+      internalID: 6161170828712433074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_oak_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 83
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd1efe3c9dfa3340800000000000000
+      internalID: 4844463196703956408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_oak_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 83
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4683b1526ef6100800000000000000
+      internalID: 103554363497669864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_oak_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 52
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aeb5fab6c9115f20800000000000000
+      internalID: 3409534734227062441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_oak_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 52
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586ee0c5825fbb2c0800000000000000
+      internalID: -4414665456014662011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_oak_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 51
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25690cc9870d13fd0800000000000000
+      internalID: -2363879112948279726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_oak_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 51
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75b3b23db9258870800000000000000
+      internalID: 8684393349030065535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_oak_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 20
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e23d5d2784a430c0800000000000000
+      internalID: -4596868419149810972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_oak_13
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 20
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40d0b2fd23dd7a10800000000000000
+      internalID: 1908914011373621325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_oak_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 19
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fae9f142fe0cf10800000000000000
+      internalID: 2288091549132566421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_oak_15
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 19
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4267959c54a82cec0800000000000000
+      internalID: -3548121524079069660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Dmg_Wood_oak_0: 5678416997639769381
+      Carrying_Dmg_Wood_oak_1: 3516110776136593071
+      Carrying_Dmg_Wood_oak_10: -2363879112948279726
+      Carrying_Dmg_Wood_oak_11: 8684393349030065535
+      Carrying_Dmg_Wood_oak_12: -4596868419149810972
+      Carrying_Dmg_Wood_oak_13: 1908914011373621325
+      Carrying_Dmg_Wood_oak_14: 2288091549132566421
+      Carrying_Dmg_Wood_oak_15: -3548121524079069660
+      Carrying_Dmg_Wood_oak_2: -3235665982808938194
+      Carrying_Dmg_Wood_oak_3: 2973290970250030636
+      Carrying_Dmg_Wood_oak_4: -5780191555906453494
+      Carrying_Dmg_Wood_oak_5: 6161170828712433074
+      Carrying_Dmg_Wood_oak_6: 4844463196703956408
+      Carrying_Dmg_Wood_oak_7: 103554363497669864
+      Carrying_Dmg_Wood_oak_8: 3409534734227062441
+      Carrying_Dmg_Wood_oak_9: -4414665456014662011
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

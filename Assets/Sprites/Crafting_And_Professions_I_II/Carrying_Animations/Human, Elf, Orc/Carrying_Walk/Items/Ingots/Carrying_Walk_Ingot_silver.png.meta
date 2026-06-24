@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: c3db47e8952303d41b4609b0d3f81737
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3703047700060920728
+    second: Carrying_Walk_Ingot_silver_0
+  - first:
+      213: -7191159007851889436
+    second: Carrying_Walk_Ingot_silver_1
+  - first:
+      213: 4838907027952832876
+    second: Carrying_Walk_Ingot_silver_2
+  - first:
+      213: 1310089512759458301
+    second: Carrying_Walk_Ingot_silver_3
+  - first:
+      213: -7147214933825066587
+    second: Carrying_Walk_Ingot_silver_4
+  - first:
+      213: 4492810242121977786
+    second: Carrying_Walk_Ingot_silver_5
+  - first:
+      213: -8330727755629413610
+    second: Carrying_Walk_Ingot_silver_6
+  - first:
+      213: -8245394051652548433
+    second: Carrying_Walk_Ingot_silver_7
+  - first:
+      213: 5426474488259852925
+    second: Carrying_Walk_Ingot_silver_8
+  - first:
+      213: 3110902314997910634
+    second: Carrying_Walk_Ingot_silver_9
+  - first:
+      213: 2808387029662062899
+    second: Carrying_Walk_Ingot_silver_10
+  - first:
+      213: -7680090444577104998
+    second: Carrying_Walk_Ingot_silver_11
+  - first:
+      213: 6508733609984033835
+    second: Carrying_Walk_Ingot_silver_12
+  - first:
+      213: -8648343238410972122
+    second: Carrying_Walk_Ingot_silver_13
+  - first:
+      213: 5427160489867634590
+    second: Carrying_Walk_Ingot_silver_14
+  - first:
+      213: -7304633973521281084
+    second: Carrying_Walk_Ingot_silver_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Walk_Ingot_silver_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b557c734ed36330800000000000000
+      internalID: 3703047700060920728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Ingot_silver_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 116
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec33a59bfed33c90800000000000000
+      internalID: -7191159007851889436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Ingot_silver_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c611546ed40472340800000000000000
+      internalID: 4838907027952832876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Ingot_silver_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 116
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9fdff787f5e2210800000000000000
+      internalID: 1310089512759458301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Ingot_silver_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a96dff92edffcc90800000000000000
+      internalID: -7147214933825066587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Ingot_silver_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 84
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfcaec7c1ba95e30800000000000000
+      internalID: 4492810242121977786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Ingot_silver_6
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bb83d8e3f436c80800000000000000
+      internalID: -8330727755629413610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Ingot_silver_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 84
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa88126cbc9729d80800000000000000
+      internalID: -8245394051652548433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Ingot_silver_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ab27fdbc5be4b40800000000000000
+      internalID: 5426474488259852925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Ingot_silver_9
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 52
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c04685c252c2b20800000000000000
+      internalID: 3110902314997910634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Ingot_silver_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33952debf1569f620800000000000000
+      internalID: 2808387029662062899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Ingot_silver_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 52
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b1c187e66da6590800000000000000
+      internalID: -7680090444577104998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Ingot_silver_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b248eb8cbbaa35a50800000000000000
+      internalID: 6508733609984033835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Ingot_silver_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 20
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624dcd245a9eaf780800000000000000
+      internalID: -8648343238410972122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Ingot_silver_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97689116b5215b40800000000000000
+      internalID: 5427160489867634590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Walk_Ingot_silver_15
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 20
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf830a4a1ab0aa90800000000000000
+      internalID: -7304633973521281084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Walk_Ingot_silver_0: 3703047700060920728
+      Carrying_Walk_Ingot_silver_1: -7191159007851889436
+      Carrying_Walk_Ingot_silver_10: 2808387029662062899
+      Carrying_Walk_Ingot_silver_11: -7680090444577104998
+      Carrying_Walk_Ingot_silver_12: 6508733609984033835
+      Carrying_Walk_Ingot_silver_13: -8648343238410972122
+      Carrying_Walk_Ingot_silver_14: 5427160489867634590
+      Carrying_Walk_Ingot_silver_15: -7304633973521281084
+      Carrying_Walk_Ingot_silver_2: 4838907027952832876
+      Carrying_Walk_Ingot_silver_3: 1310089512759458301
+      Carrying_Walk_Ingot_silver_4: -7147214933825066587
+      Carrying_Walk_Ingot_silver_5: 4492810242121977786
+      Carrying_Walk_Ingot_silver_6: -8330727755629413610
+      Carrying_Walk_Ingot_silver_7: -8245394051652548433
+      Carrying_Walk_Ingot_silver_8: 5426474488259852925
+      Carrying_Walk_Ingot_silver_9: 3110902314997910634
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

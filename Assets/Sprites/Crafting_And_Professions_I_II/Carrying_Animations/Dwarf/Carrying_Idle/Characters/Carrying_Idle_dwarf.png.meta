@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: c155a8697fbded3478b444adcf6e5cab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1040840004969650442
+    second: Carrying_Idle_dwarf_0
+  - first:
+      213: 1187547055786667554
+    second: Carrying_Idle_dwarf_1
+  - first:
+      213: -3238343738953785037
+    second: Carrying_Idle_dwarf_2
+  - first:
+      213: -8998659057880925902
+    second: Carrying_Idle_dwarf_3
+  - first:
+      213: -4149167888822584394
+    second: Carrying_Idle_dwarf_4
+  - first:
+      213: 4384368494564249105
+    second: Carrying_Idle_dwarf_5
+  - first:
+      213: -1078865378338956428
+    second: Carrying_Idle_dwarf_6
+  - first:
+      213: -4119747692853948241
+    second: Carrying_Idle_dwarf_7
+  - first:
+      213: 198909732703303422
+    second: Carrying_Idle_dwarf_8
+  - first:
+      213: -2229231400126251251
+    second: Carrying_Idle_dwarf_9
+  - first:
+      213: 2540688956796437297
+    second: Carrying_Idle_dwarf_10
+  - first:
+      213: -9222172983483609328
+    second: Carrying_Idle_dwarf_11
+  - first:
+      213: -2292602670977547495
+    second: Carrying_Idle_dwarf_12
+  - first:
+      213: -8719782677620239033
+    second: Carrying_Idle_dwarf_13
+  - first:
+      213: -2427475223929127578
+    second: Carrying_Idle_dwarf_14
+  - first:
+      213: -2940179813347710800
+    second: Carrying_Idle_dwarf_15
+  - first:
+      213: 277124818611993894
+    second: Carrying_Idle_dwarf_16
+  - first:
+      213: -2231158337112656048
+    second: Carrying_Idle_dwarf_17
+  - first:
+      213: 4917795164835052672
+    second: Carrying_Idle_dwarf_18
+  - first:
+      213: -6613781332030315769
+    second: Carrying_Idle_dwarf_19
+  - first:
+      213: -2303598509423803843
+    second: Carrying_Idle_dwarf_20
+  - first:
+      213: 8734435870188454854
+    second: Carrying_Idle_dwarf_21
+  - first:
+      213: 97299885830968417
+    second: Carrying_Idle_dwarf_22
+  - first:
+      213: 6709607626326656799
+    second: Carrying_Idle_dwarf_23
+  - first:
+      213: 6741326951865923987
+    second: Carrying_Idle_dwarf_24
+  - first:
+      213: 5977503114800077479
+    second: Carrying_Idle_dwarf_25
+  - first:
+      213: 8026197902886407303
+    second: Carrying_Idle_dwarf_26
+  - first:
+      213: -906871362734754594
+    second: Carrying_Idle_dwarf_27
+  - first:
+      213: -3006207460139543939
+    second: Carrying_Idle_dwarf_28
+  - first:
+      213: -1605620969258000006
+    second: Carrying_Idle_dwarf_29
+  - first:
+      213: 5462483813748288888
+    second: Carrying_Idle_dwarf_30
+  - first:
+      213: 6712051230728031942
+    second: Carrying_Idle_dwarf_31
+  - first:
+      213: -6867111082700211633
+    second: Carrying_Idle_dwarf_32
+  - first:
+      213: 3135809054336907027
+    second: Carrying_Idle_dwarf_33
+  - first:
+      213: -5806992582893668875
+    second: Carrying_Idle_dwarf_34
+  - first:
+      213: -4661367908063569548
+    second: Carrying_Idle_dwarf_35
+  - first:
+      213: 2570493038243099959
+    second: Carrying_Idle_dwarf_36
+  - first:
+      213: -5843507159084908328
+    second: Carrying_Idle_dwarf_37
+  - first:
+      213: 5004202799906845134
+    second: Carrying_Idle_dwarf_38
+  - first:
+      213: 5745971829887597178
+    second: Carrying_Idle_dwarf_39
+  - first:
+      213: -189890473231113080
+    second: Carrying_Idle_dwarf_40
+  - first:
+      213: -5733239514247940068
+    second: Carrying_Idle_dwarf_41
+  - first:
+      213: 6423301543031399231
+    second: Carrying_Idle_dwarf_42
+  - first:
+      213: -919028171533520920
+    second: Carrying_Idle_dwarf_43
+  - first:
+      213: 343219704099601114
+    second: Carrying_Idle_dwarf_44
+  - first:
+      213: 1709884990434018674
+    second: Carrying_Idle_dwarf_45
+  - first:
+      213: -6833273354072815551
+    second: Carrying_Idle_dwarf_46
+  - first:
+      213: -35377899902345927
+    second: Carrying_Idle_dwarf_47
+  - first:
+      213: -8767543609593454106
+    second: Carrying_Idle_dwarf_48
+  - first:
+      213: -2890822592065713528
+    second: Carrying_Idle_dwarf_49
+  - first:
+      213: 7268935328015503806
+    second: Carrying_Idle_dwarf_50
+  - first:
+      213: -5038636285650028191
+    second: Carrying_Idle_dwarf_51
+  - first:
+      213: -5794805461131812405
+    second: Carrying_Idle_dwarf_52
+  - first:
+      213: -5240073468058263184
+    second: Carrying_Idle_dwarf_53
+  - first:
+      213: 2013699982535276046
+    second: Carrying_Idle_dwarf_54
+  - first:
+      213: 8579018146802044246
+    second: Carrying_Idle_dwarf_55
+  - first:
+      213: 1858482466640489572
+    second: Carrying_Idle_dwarf_56
+  - first:
+      213: -6872213375481870916
+    second: Carrying_Idle_dwarf_57
+  - first:
+      213: 7774708251341735391
+    second: Carrying_Idle_dwarf_58
+  - first:
+      213: -5690874858113894191
+    second: Carrying_Idle_dwarf_59
+  - first:
+      213: -5639528008525132843
+    second: Carrying_Idle_dwarf_60
+  - first:
+      213: 6490884737585440015
+    second: Carrying_Idle_dwarf_61
+  - first:
+      213: -1306606031811640167
+    second: Carrying_Idle_dwarf_62
+  - first:
+      213: -3354030331763780385
+    second: Carrying_Idle_dwarf_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a095b3c487ec17e00800000000000000
+      internalID: 1040840004969650442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ea93e51c30b7010800000000000000
+      internalID: 1187547055786667554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331ac03e6871f03d0800000000000000
+      internalID: -3238343738953785037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239f72883475e1380800000000000000
+      internalID: -8998659057880925902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbb541d9c13b66c0800000000000000
+      internalID: -4149167888822584394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e8aea9ae768dc30800000000000000
+      internalID: 4384368494564249105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b93ab87a91701f0800000000000000
+      internalID: -1078865378338956428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0943bfc47b3d6c0800000000000000
+      internalID: -4119747692853948241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6f528195ba2c200800000000000000
+      internalID: 198909732703303422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ff3514add2011e0800000000000000
+      internalID: -2229231400126251251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_10
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1330c922527524320800000000000000
+      internalID: 2540688956796437297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_11
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f414e5882440080800000000000000
+      internalID: -9222172983483609328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_12
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9138549740a0f20e0800000000000000
+      internalID: -2292602670977547495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_13
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74557d5aadb1df680800000000000000
+      internalID: -8719782677620239033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_14
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d74a82520ef4ed0800000000000000
+      internalID: -2427475223929127578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_15
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8a2a999026237d0800000000000000
+      internalID: -2940179813347710800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62dffc3ed8b88d300800000000000000
+      internalID: 277124818611993894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_17
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057bfb640555901e0800000000000000
+      internalID: -2231158337112656048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_18
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c702695a48f3440800000000000000
+      internalID: 4917795164835052672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703293a7be02734a0800000000000000
+      internalID: -6613781332030315769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_20
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32cca45c59f700e0800000000000000
+      internalID: -2303598509423803843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_21
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3430c9523f63970800000000000000
+      internalID: 8734435870188454854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16414ab0bbda95100800000000000000
+      internalID: 97299885830968417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_23
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17c37d46905d1d50800000000000000
+      internalID: 6709607626326656799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_24
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3993cb845210e8d50800000000000000
+      internalID: 6741326951865923987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_25
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa1379a96b54f250800000000000000
+      internalID: 5977503114800077479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_26
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c8782d778c26f60800000000000000
+      internalID: 8026197902886407303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_27
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed47837ec452a63f0800000000000000
+      internalID: -906871362734754594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_28
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72d0491e3ec746d0800000000000000
+      internalID: -3006207460139543939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_29
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7165734c30b7b9e0800000000000000
+      internalID: -1605620969258000006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_30
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87da9cd4614aecb40800000000000000
+      internalID: 5462483813748288888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_31
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce84c9480ff52d50800000000000000
+      internalID: 6712051230728031942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_32
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a71829ade13b0a0800000000000000
+      internalID: -6867111082700211633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_33
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317743f78b1a48b20800000000000000
+      internalID: 3135809054336907027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_34
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f57b4b330b696fa0800000000000000
+      internalID: -5806992582893668875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_35
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4791778a59e7f4fb0800000000000000
+      internalID: -4661367908063569548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_36
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735381a9cc93ca320800000000000000
+      internalID: 2570493038243099959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_37
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0ca44f231b7eea0800000000000000
+      internalID: -5843507159084908328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_38
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec17670eeef727540800000000000000
+      internalID: 5004202799906845134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_39
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7af9d19feacdbf40800000000000000
+      internalID: 5745971829887597178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_40
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88424d4ee9f5d5df0800000000000000
+      internalID: -189890473231113080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_41
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18b40da9017f60b0800000000000000
+      internalID: -5733239514247940068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_42
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33ea95a8b6242950800000000000000
+      internalID: 6423301543031399231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_43
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efea294fb4fe33f0800000000000000
+      internalID: -919028171533520920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_44
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada75ce908c53c400800000000000000
+      internalID: 343219704099601114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_45
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2758795e65bbab710800000000000000
+      internalID: 1709884990434018674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_46
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1480955b6165b21a0800000000000000
+      internalID: -6833273354072815551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_47
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ddb6bccff428ff0800000000000000
+      internalID: -35377899902345927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_48
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1af6d1a8d635680800000000000000
+      internalID: -8767543609593454106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_49
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88acf333b2cb1e7d0800000000000000
+      internalID: -2890822592065713528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_50
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1d6a91b2270e460800000000000000
+      internalID: 7268935328015503806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_51
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169bf697efa231ab0800000000000000
+      internalID: -5038636285650028191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_52
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1aeb2a227b49fa0800000000000000
+      internalID: -5794805461131812405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_53
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0712073a1f48747b0800000000000000
+      internalID: -5240073468058263184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_54
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06b93f077912fb10800000000000000
+      internalID: 2013699982535276046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_55
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d04c90d8bce0770800000000000000
+      internalID: 8579018146802044246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_56
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ce56de4f7aac910800000000000000
+      internalID: 1858482466640489572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_57
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb507b5785ef0a0a0800000000000000
+      internalID: -6872213375481870916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_58
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5c58166ff45eb60800000000000000
+      internalID: 7774708251341735391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_59
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d87be4d773f501b0800000000000000
+      internalID: -5690874858113894191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_60
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db4efed72f5cb1b0800000000000000
+      internalID: -5639528008525132843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_61
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05e8c55741441a50800000000000000
+      internalID: 6490884737585440015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_62
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9940c7c9cb00edde0800000000000000
+      internalID: -1306606031811640167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_dwarf_63
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd495550f271471d0800000000000000
+      internalID: -3354030331763780385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Idle_dwarf_0: 1040840004969650442
+      Carrying_Idle_dwarf_1: 1187547055786667554
+      Carrying_Idle_dwarf_10: 2540688956796437297
+      Carrying_Idle_dwarf_11: -9222172983483609328
+      Carrying_Idle_dwarf_12: -2292602670977547495
+      Carrying_Idle_dwarf_13: -8719782677620239033
+      Carrying_Idle_dwarf_14: -2427475223929127578
+      Carrying_Idle_dwarf_15: -2940179813347710800
+      Carrying_Idle_dwarf_16: 277124818611993894
+      Carrying_Idle_dwarf_17: -2231158337112656048
+      Carrying_Idle_dwarf_18: 4917795164835052672
+      Carrying_Idle_dwarf_19: -6613781332030315769
+      Carrying_Idle_dwarf_2: -3238343738953785037
+      Carrying_Idle_dwarf_20: -2303598509423803843
+      Carrying_Idle_dwarf_21: 8734435870188454854
+      Carrying_Idle_dwarf_22: 97299885830968417
+      Carrying_Idle_dwarf_23: 6709607626326656799
+      Carrying_Idle_dwarf_24: 6741326951865923987
+      Carrying_Idle_dwarf_25: 5977503114800077479
+      Carrying_Idle_dwarf_26: 8026197902886407303
+      Carrying_Idle_dwarf_27: -906871362734754594
+      Carrying_Idle_dwarf_28: -3006207460139543939
+      Carrying_Idle_dwarf_29: -1605620969258000006
+      Carrying_Idle_dwarf_3: -8998659057880925902
+      Carrying_Idle_dwarf_30: 5462483813748288888
+      Carrying_Idle_dwarf_31: 6712051230728031942
+      Carrying_Idle_dwarf_32: -6867111082700211633
+      Carrying_Idle_dwarf_33: 3135809054336907027
+      Carrying_Idle_dwarf_34: -5806992582893668875
+      Carrying_Idle_dwarf_35: -4661367908063569548
+      Carrying_Idle_dwarf_36: 2570493038243099959
+      Carrying_Idle_dwarf_37: -5843507159084908328
+      Carrying_Idle_dwarf_38: 5004202799906845134
+      Carrying_Idle_dwarf_39: 5745971829887597178
+      Carrying_Idle_dwarf_4: -4149167888822584394
+      Carrying_Idle_dwarf_40: -189890473231113080
+      Carrying_Idle_dwarf_41: -5733239514247940068
+      Carrying_Idle_dwarf_42: 6423301543031399231
+      Carrying_Idle_dwarf_43: -919028171533520920
+      Carrying_Idle_dwarf_44: 343219704099601114
+      Carrying_Idle_dwarf_45: 1709884990434018674
+      Carrying_Idle_dwarf_46: -6833273354072815551
+      Carrying_Idle_dwarf_47: -35377899902345927
+      Carrying_Idle_dwarf_48: -8767543609593454106
+      Carrying_Idle_dwarf_49: -2890822592065713528
+      Carrying_Idle_dwarf_5: 4384368494564249105
+      Carrying_Idle_dwarf_50: 7268935328015503806
+      Carrying_Idle_dwarf_51: -5038636285650028191
+      Carrying_Idle_dwarf_52: -5794805461131812405
+      Carrying_Idle_dwarf_53: -5240073468058263184
+      Carrying_Idle_dwarf_54: 2013699982535276046
+      Carrying_Idle_dwarf_55: 8579018146802044246
+      Carrying_Idle_dwarf_56: 1858482466640489572
+      Carrying_Idle_dwarf_57: -6872213375481870916
+      Carrying_Idle_dwarf_58: 7774708251341735391
+      Carrying_Idle_dwarf_59: -5690874858113894191
+      Carrying_Idle_dwarf_6: -1078865378338956428
+      Carrying_Idle_dwarf_60: -5639528008525132843
+      Carrying_Idle_dwarf_61: 6490884737585440015
+      Carrying_Idle_dwarf_62: -1306606031811640167
+      Carrying_Idle_dwarf_63: -3354030331763780385
+      Carrying_Idle_dwarf_7: -4119747692853948241
+      Carrying_Idle_dwarf_8: 198909732703303422
+      Carrying_Idle_dwarf_9: -2229231400126251251
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

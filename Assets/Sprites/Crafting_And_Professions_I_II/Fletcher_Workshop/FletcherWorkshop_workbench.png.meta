@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: 11107ccd85341d0418c638ca03e3fb3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7621695729880177312
+    second: FletcherWorkshop_workbench_0
+  - first:
+      213: -8180128724775673384
+    second: FletcherWorkshop_workbench_1
+  - first:
+      213: 7259950988038284761
+    second: FletcherWorkshop_workbench_2
+  - first:
+      213: 4173769022255541544
+    second: FletcherWorkshop_workbench_3
+  - first:
+      213: 9150745493321355863
+    second: FletcherWorkshop_workbench_4
+  - first:
+      213: 2799502675059894428
+    second: FletcherWorkshop_workbench_5
+  - first:
+      213: 8989025108222544374
+    second: FletcherWorkshop_workbench_6
+  - first:
+      213: 3604836899164593659
+    second: FletcherWorkshop_workbench_7
+  - first:
+      213: 6367770121920430786
+    second: FletcherWorkshop_workbench_8
+  - first:
+      213: 3542187706886826645
+    second: FletcherWorkshop_workbench_9
+  - first:
+      213: -7902985036926666760
+    second: FletcherWorkshop_workbench_10
+  - first:
+      213: -8425647020047517458
+    second: FletcherWorkshop_workbench_11
+  - first:
+      213: -3444945810406311830
+    second: FletcherWorkshop_workbench_12
+  - first:
+      213: 3985979667101141262
+    second: FletcherWorkshop_workbench_13
+  - first:
+      213: -498955740581965207
+    second: FletcherWorkshop_workbench_14
+  - first:
+      213: 4033145283696085639
+    second: FletcherWorkshop_workbench_15
+  - first:
+      213: 6293294959576341138
+    second: FletcherWorkshop_workbench_16
+  - first:
+      213: 2715014931770700816
+    second: FletcherWorkshop_workbench_17
+  - first:
+      213: 607779564854973155
+    second: FletcherWorkshop_workbench_18
+  - first:
+      213: -7815491559356739081
+    second: FletcherWorkshop_workbench_19
+  - first:
+      213: 447333533716819465
+    second: FletcherWorkshop_workbench_20
+  - first:
+      213: -8464238515289159275
+    second: FletcherWorkshop_workbench_21
+  - first:
+      213: -8296045343922503312
+    second: FletcherWorkshop_workbench_22
+  - first:
+      213: 5490146467086716257
+    second: FletcherWorkshop_workbench_23
+  - first:
+      213: 5264424758370580998
+    second: FletcherWorkshop_workbench_24
+  - first:
+      213: 8933481662809985091
+    second: FletcherWorkshop_workbench_25
+  - first:
+      213: 3894060561753313471
+    second: FletcherWorkshop_workbench_26
+  - first:
+      213: 3438902093065141692
+    second: FletcherWorkshop_workbench_27
+  - first:
+      213: 673483000536082603
+    second: FletcherWorkshop_workbench_28
+  - first:
+      213: 949416894802601113
+    second: FletcherWorkshop_workbench_29
+  - first:
+      213: 7495526361412982585
+    second: FletcherWorkshop_workbench_30
+  - first:
+      213: -1965175981419198338
+    second: FletcherWorkshop_workbench_31
+  - first:
+      213: 4697155276942361930
+    second: FletcherWorkshop_workbench_32
+  - first:
+      213: 5047812643470478735
+    second: FletcherWorkshop_workbench_33
+  - first:
+      213: -4437679452166953349
+    second: FletcherWorkshop_workbench_34
+  - first:
+      213: 3764618702096963006
+    second: FletcherWorkshop_workbench_35
+  - first:
+      213: 6980634640569196790
+    second: FletcherWorkshop_workbench_36
+  - first:
+      213: 1109237530481421961
+    second: FletcherWorkshop_workbench_37
+  - first:
+      213: 1188815225079114640
+    second: FletcherWorkshop_workbench_38
+  - first:
+      213: 3930355557312798821
+    second: FletcherWorkshop_workbench_39
+  - first:
+      213: -5822624463826394594
+    second: FletcherWorkshop_workbench_40
+  - first:
+      213: 3659009175078383908
+    second: FletcherWorkshop_workbench_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa9e9582e3b5c960800000000000000
+      internalID: 7621695729880177312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1e6c6d3485a7e80800000000000000
+      internalID: -8180128724775673384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 20
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5a4c075f680c460800000000000000
+      internalID: 7259950988038284761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_3
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 5
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d221aefc43ce930800000000000000
+      internalID: 4173769022255541544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 20
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7521d6f1b8afdfe70800000000000000
+      internalID: 9150745493321355863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 5
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9863beb9d4d9d620800000000000000
+      internalID: 2799502675059894428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 20
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f90ca4c5be6fbc70800000000000000
+      internalID: 8989025108222544374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 5
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd1def7f04f60230800000000000000
+      internalID: 3604836899164593659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 20
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2c960203dde5850800000000000000
+      internalID: 6367770121920430786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_9
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 5
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59aaebcb3f0682130800000000000000
+      internalID: 3542187706886826645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 20
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f732c01bf4f25290800000000000000
+      internalID: -7902985036926666760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 5
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee83d3f1da6121b80800000000000000
+      internalID: -8425647020047517458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 20
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68f24c99081130d0800000000000000
+      internalID: -3444945810406311830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_13
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 5
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e094e7b736b015730800000000000000
+      internalID: 3985979667101141262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 20
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96258f3c56a5319f0800000000000000
+      internalID: -498955740581965207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_15
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 5
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a4f3a544c98f730800000000000000
+      internalID: 4033145283696085639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 20
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29add442c66465750800000000000000
+      internalID: 6293294959576341138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_17
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 5
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014f21812bbada520800000000000000
+      internalID: 2715014931770700816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 20
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e21ce84b444f6800800000000000000
+      internalID: 607779564854973155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_19
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 5
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f15a73c5dbc98390800000000000000
+      internalID: -7815491559356739081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 20
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90eaf459a7f353600800000000000000
+      internalID: 447333533716819465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_21
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 5
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59982027aebf88a80800000000000000
+      internalID: -8464238515289159275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 20
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07147fac6b68edc80800000000000000
+      internalID: -8296045343922503312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_23
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 5
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16dc19faf1be03c40800000000000000
+      internalID: 5490146467086716257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 20
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a3375fc6efe0940800000000000000
+      internalID: 5264424758370580998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_25
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 5
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340514f9d3a1afb70800000000000000
+      internalID: 8933481662809985091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_26
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 20
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb01a25037b7a0630800000000000000
+      internalID: 3894060561753313471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_27
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 5
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdbe7acb3f69bf20800000000000000
+      internalID: 3438902093065141692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_28
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 20
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8a7318831b85900800000000000000
+      internalID: 673483000536082603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_29
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 5
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994a676b2a10d2d00800000000000000
+      internalID: 949416894802601113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_30
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 20
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937d8904385750860800000000000000
+      internalID: 7495526361412982585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_31
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 5
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78016a5bda4ab4e0800000000000000
+      internalID: -1965175981419198338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 20
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45400976d5af2140800000000000000
+      internalID: 4697155276942361930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_33
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 5
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d88c2dade6d0640800000000000000
+      internalID: 5047812643470478735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_34
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 20
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76e982dc023a62c0800000000000000
+      internalID: -4437679452166953349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_35
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 5
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5184583cc9e3430800000000000000
+      internalID: 3764618702096963006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_36
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 20
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0e9e9783230e060800000000000000
+      internalID: 6980634640569196790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_37
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 5
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e60ef28adc46f00800000000000000
+      internalID: 1109237530481421961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_38
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 20
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09baa6a06258f7010800000000000000
+      internalID: 1188815225079114640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_39
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 5
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560ac923e8d6b8630800000000000000
+      internalID: 3930355557312798821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_40
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 20
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12e02556e1e13fa0800000000000000
+      internalID: -5822624463826394594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FletcherWorkshop_workbench_41
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 5
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421317e557967c230800000000000000
+      internalID: 3659009175078383908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FletcherWorkshop_workbench_0: 7621695729880177312
+      FletcherWorkshop_workbench_1: -8180128724775673384
+      FletcherWorkshop_workbench_10: -7902985036926666760
+      FletcherWorkshop_workbench_11: -8425647020047517458
+      FletcherWorkshop_workbench_12: -3444945810406311830
+      FletcherWorkshop_workbench_13: 3985979667101141262
+      FletcherWorkshop_workbench_14: -498955740581965207
+      FletcherWorkshop_workbench_15: 4033145283696085639
+      FletcherWorkshop_workbench_16: 6293294959576341138
+      FletcherWorkshop_workbench_17: 2715014931770700816
+      FletcherWorkshop_workbench_18: 607779564854973155
+      FletcherWorkshop_workbench_19: -7815491559356739081
+      FletcherWorkshop_workbench_2: 7259950988038284761
+      FletcherWorkshop_workbench_20: 447333533716819465
+      FletcherWorkshop_workbench_21: -8464238515289159275
+      FletcherWorkshop_workbench_22: -8296045343922503312
+      FletcherWorkshop_workbench_23: 5490146467086716257
+      FletcherWorkshop_workbench_24: 5264424758370580998
+      FletcherWorkshop_workbench_25: 8933481662809985091
+      FletcherWorkshop_workbench_26: 3894060561753313471
+      FletcherWorkshop_workbench_27: 3438902093065141692
+      FletcherWorkshop_workbench_28: 673483000536082603
+      FletcherWorkshop_workbench_29: 949416894802601113
+      FletcherWorkshop_workbench_3: 4173769022255541544
+      FletcherWorkshop_workbench_30: 7495526361412982585
+      FletcherWorkshop_workbench_31: -1965175981419198338
+      FletcherWorkshop_workbench_32: 4697155276942361930
+      FletcherWorkshop_workbench_33: 5047812643470478735
+      FletcherWorkshop_workbench_34: -4437679452166953349
+      FletcherWorkshop_workbench_35: 3764618702096963006
+      FletcherWorkshop_workbench_36: 6980634640569196790
+      FletcherWorkshop_workbench_37: 1109237530481421961
+      FletcherWorkshop_workbench_38: 1188815225079114640
+      FletcherWorkshop_workbench_39: 3930355557312798821
+      FletcherWorkshop_workbench_4: 9150745493321355863
+      FletcherWorkshop_workbench_40: -5822624463826394594
+      FletcherWorkshop_workbench_41: 3659009175078383908
+      FletcherWorkshop_workbench_5: 2799502675059894428
+      FletcherWorkshop_workbench_6: 8989025108222544374
+      FletcherWorkshop_workbench_7: 3604836899164593659
+      FletcherWorkshop_workbench_8: 6367770121920430786
+      FletcherWorkshop_workbench_9: 3542187706886826645
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

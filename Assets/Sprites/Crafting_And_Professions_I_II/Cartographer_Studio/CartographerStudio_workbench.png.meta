@@ -1,0 +1,2119 @@
+fileFormatVersion: 2
+guid: 41032cb10be41d44496c6fa69c8a21b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4784495444195931878
+    second: CartographerStudio_workbench_0
+  - first:
+      213: 7524127728525660713
+    second: CartographerStudio_workbench_1
+  - first:
+      213: 552603994877348095
+    second: CartographerStudio_workbench_2
+  - first:
+      213: 6672688979905152575
+    second: CartographerStudio_workbench_3
+  - first:
+      213: -1322260296498728304
+    second: CartographerStudio_workbench_4
+  - first:
+      213: -964760647942758990
+    second: CartographerStudio_workbench_5
+  - first:
+      213: -5330210171957084292
+    second: CartographerStudio_workbench_6
+  - first:
+      213: -6154545572853795474
+    second: CartographerStudio_workbench_7
+  - first:
+      213: 2945512618152305355
+    second: CartographerStudio_workbench_8
+  - first:
+      213: 6108362422795731481
+    second: CartographerStudio_workbench_9
+  - first:
+      213: -7178271938319478037
+    second: CartographerStudio_workbench_10
+  - first:
+      213: 3211485439653860774
+    second: CartographerStudio_workbench_11
+  - first:
+      213: 636049138657196205
+    second: CartographerStudio_workbench_12
+  - first:
+      213: -3683237624225656235
+    second: CartographerStudio_workbench_13
+  - first:
+      213: -1473338303627173753
+    second: CartographerStudio_workbench_14
+  - first:
+      213: 2390868650499303386
+    second: CartographerStudio_workbench_15
+  - first:
+      213: 6142958232285952994
+    second: CartographerStudio_workbench_16
+  - first:
+      213: -3068071745021455253
+    second: CartographerStudio_workbench_17
+  - first:
+      213: -4714147226477557957
+    second: CartographerStudio_workbench_18
+  - first:
+      213: -4109266066984227298
+    second: CartographerStudio_workbench_19
+  - first:
+      213: 7147638592779133430
+    second: CartographerStudio_workbench_20
+  - first:
+      213: 6993480363646803936
+    second: CartographerStudio_workbench_21
+  - first:
+      213: 1070126059823548729
+    second: CartographerStudio_workbench_22
+  - first:
+      213: -1141575803446747735
+    second: CartographerStudio_workbench_23
+  - first:
+      213: 9041179371760617189
+    second: CartographerStudio_workbench_24
+  - first:
+      213: 8165350716411968577
+    second: CartographerStudio_workbench_25
+  - first:
+      213: -1013946729996495364
+    second: CartographerStudio_workbench_26
+  - first:
+      213: 8833185272824746445
+    second: CartographerStudio_workbench_27
+  - first:
+      213: -1038102428819471281
+    second: CartographerStudio_workbench_28
+  - first:
+      213: -8354978349641218287
+    second: CartographerStudio_workbench_29
+  - first:
+      213: 1290174985663231868
+    second: CartographerStudio_workbench_30
+  - first:
+      213: -2562821193259280062
+    second: CartographerStudio_workbench_31
+  - first:
+      213: -8734827402129509089
+    second: CartographerStudio_workbench_32
+  - first:
+      213: 2918706380940731092
+    second: CartographerStudio_workbench_33
+  - first:
+      213: 1047623777153165509
+    second: CartographerStudio_workbench_34
+  - first:
+      213: -5230087962939113119
+    second: CartographerStudio_workbench_35
+  - first:
+      213: -2242644727018998699
+    second: CartographerStudio_workbench_36
+  - first:
+      213: 7122126031921071880
+    second: CartographerStudio_workbench_37
+  - first:
+      213: -797937791847542117
+    second: CartographerStudio_workbench_38
+  - first:
+      213: 1846495688645429504
+    second: CartographerStudio_workbench_39
+  - first:
+      213: -1072966563193065432
+    second: CartographerStudio_workbench_40
+  - first:
+      213: -590045006410167126
+    second: CartographerStudio_workbench_41
+  - first:
+      213: -6368291933424521333
+    second: CartographerStudio_workbench_42
+  - first:
+      213: 8267941734207899781
+    second: CartographerStudio_workbench_43
+  - first:
+      213: 6287352895845735346
+    second: CartographerStudio_workbench_44
+  - first:
+      213: 4117553560274794156
+    second: CartographerStudio_workbench_45
+  - first:
+      213: -7984310261892074869
+    second: CartographerStudio_workbench_46
+  - first:
+      213: 7644436469136718893
+    second: CartographerStudio_workbench_47
+  - first:
+      213: -8744484810852613664
+    second: CartographerStudio_workbench_48
+  - first:
+      213: -2996100639973615515
+    second: CartographerStudio_workbench_49
+  - first:
+      213: -6021205111548117738
+    second: CartographerStudio_workbench_50
+  - first:
+      213: -6113448969441826179
+    second: CartographerStudio_workbench_51
+  - first:
+      213: 6198379294846551830
+    second: CartographerStudio_workbench_52
+  - first:
+      213: -2712424268344208194
+    second: CartographerStudio_workbench_53
+  - first:
+      213: 5783818385382689798
+    second: CartographerStudio_workbench_54
+  - first:
+      213: 7890489774801633389
+    second: CartographerStudio_workbench_55
+  - first:
+      213: -2754887343060381175
+    second: CartographerStudio_workbench_56
+  - first:
+      213: 6417969189089381353
+    second: CartographerStudio_workbench_57
+  - first:
+      213: 5187466665875284396
+    second: CartographerStudio_workbench_58
+  - first:
+      213: 3609521246049363195
+    second: CartographerStudio_workbench_59
+  - first:
+      213: -1455151941150479174
+    second: CartographerStudio_workbench_60
+  - first:
+      213: -5602180139739579694
+    second: CartographerStudio_workbench_61
+  - first:
+      213: -3585076526696143723
+    second: CartographerStudio_workbench_62
+  - first:
+      213: -518886860278375699
+    second: CartographerStudio_workbench_63
+  - first:
+      213: -7039003184343826383
+    second: CartographerStudio_workbench_64
+  - first:
+      213: -3279504862492232302
+    second: CartographerStudio_workbench_65
+  - first:
+      213: -3446524261480350431
+    second: CartographerStudio_workbench_66
+  - first:
+      213: 8874664287040640633
+    second: CartographerStudio_workbench_67
+  - first:
+      213: 3964273419899723492
+    second: CartographerStudio_workbench_68
+  - first:
+      213: -539687131655224528
+    second: CartographerStudio_workbench_69
+  - first:
+      213: 9041309235400109216
+    second: CartographerStudio_workbench_70
+  - first:
+      213: -4281034824506833532
+    second: CartographerStudio_workbench_71
+  - first:
+      213: 2854685860694181993
+    second: CartographerStudio_workbench_72
+  - first:
+      213: -4020539401461123636
+    second: CartographerStudio_workbench_73
+  - first:
+      213: 4322568068008919947
+    second: CartographerStudio_workbench_74
+  - first:
+      213: -401590164680604816
+    second: CartographerStudio_workbench_75
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6f5c4d141f56240800000000000000
+      internalID: 4784495444195931878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9225077fd421b6860800000000000000
+      internalID: 7524127728525660713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff84020d76e3ba700800000000000000
+      internalID: 552603994877348095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3609e716472a9c50800000000000000
+      internalID: 6672688979905152575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0923796144366ade0800000000000000
+      internalID: -1322260296498728304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd981e5d4b7c92f0800000000000000
+      internalID: -964760647942758990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ff25ad61a4706b0800000000000000
+      internalID: -5330210171957084292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65b810e869a69aa0800000000000000
+      internalID: -6154545572853795474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc22666ce1090e820800000000000000
+      internalID: 2945512618152305355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9128512924345c450800000000000000
+      internalID: 6108362422795731481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2105744b7a16c90800000000000000
+      internalID: -7178271938319478037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a558effdfc719c20800000000000000
+      internalID: 3211485439653860774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8fa595253b3d800800000000000000
+      internalID: 636049138657196205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_13
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5521da835e282ecc0800000000000000
+      internalID: -3683237624225656235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_14
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78063527e96ad8be0800000000000000
+      internalID: -1473338303627173753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7e0a9ce521e2120800000000000000
+      internalID: 2390868650499303386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_16
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb377927fb204550800000000000000
+      internalID: 6142958232285952994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_17
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b645594d0050c65d0800000000000000
+      internalID: -3068071745021455253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3789eaf21cf39eb0800000000000000
+      internalID: -4714147226477557957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_19
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ea6dda844f8f6c0800000000000000
+      internalID: -4109266066984227298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_20
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f129792e63813360800000000000000
+      internalID: 7147638592779133430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef56d27655dd0160800000000000000
+      internalID: 6993480363646803936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_22
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939cbac4bf9d9de00800000000000000
+      internalID: 1070126059823548729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_23
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad1067eade4820f0800000000000000
+      internalID: -1141575803446747735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e681648cb8b87d70800000000000000
+      internalID: 9041179371760617189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_25
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c7736f637215170800000000000000
+      internalID: 8165350716411968577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_26
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5d36932dcbde1f0800000000000000
+      internalID: -1013946729996495364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc15ee59437c59a70800000000000000
+      internalID: 8833185272824746445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_28
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44ceb1575be791f0800000000000000
+      internalID: -1038102428819471281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_29
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1174e8325772d0c80800000000000000
+      internalID: -8354978349641218287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c773d86505f97e110800000000000000
+      internalID: 1290174985663231868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_31
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24910f004b70f6cd0800000000000000
+      internalID: -2562821193259280062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_32
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15f8b1c1c8a7c680800000000000000
+      internalID: -8734827402129509089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_33
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d263af4df3518820800000000000000
+      internalID: 2918706380940731092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_34
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8a7775648e98e00800000000000000
+      internalID: 1047623777153165509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_35
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161c7f835befa67b0800000000000000
+      internalID: -5230087962939113119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55431a8b08680e0e0800000000000000
+      internalID: -2242644727018998699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_37
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807c73234efd6d260800000000000000
+      internalID: 7122126031921071880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_38
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9251145ec72de4f0800000000000000
+      internalID: -797937791847542117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_39
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0094001bb0210a910800000000000000
+      internalID: 1846495688645429504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_40
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8207109789e0c11f0800000000000000
+      internalID: -1072966563193065432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_41
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaccd6f513dbfc7f0800000000000000
+      internalID: -590045006410167126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_42
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fee3a2a384f97a0800000000000000
+      internalID: -6368291933424521333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_43
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588c61ba331adb270800000000000000
+      internalID: 8267941734207899781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_44
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb986e952a214750800000000000000
+      internalID: 6287352895845735346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_45
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6f2d7b52d742930800000000000000
+      internalID: 4117553560274794156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_46
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82ba679e18023190800000000000000
+      internalID: -7984310261892074869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_47
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c7fea777e761a60800000000000000
+      internalID: 7644436469136718893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_48
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1c451156955a680800000000000000
+      internalID: -8744484810852613664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_49
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5685d0b8756bb66d0800000000000000
+      internalID: -2996100639973615515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_50
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d786e4ad1607ca0800000000000000
+      internalID: -6021205111548117738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_51
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a21ff7d8aa82ba0800000000000000
+      internalID: -6113448969441826179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_52
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6170774d021150650800000000000000
+      internalID: 6198379294846551830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_53
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4d13dbf788b5ad0800000000000000
+      internalID: -2712424268344208194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_54
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ccb127d20444050800000000000000
+      internalID: 5783818385382689798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_55
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 18
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6047e205a6a08d60800000000000000
+      internalID: 7890489774801633389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_56
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9029aa8be8ca4c9d0800000000000000
+      internalID: -2754887343060381175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_57
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb031f39f4311950800000000000000
+      internalID: 6417969189089381353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_58
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca12dafb2759df740800000000000000
+      internalID: 5187466665875284396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_59
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf46ffff278971230800000000000000
+      internalID: 3609521246049363195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_60
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc618de4034ecbe0800000000000000
+      internalID: -1455151941150479174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_61
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2daf21338de0142b0800000000000000
+      internalID: -5602180139739579694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_62
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 0
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5946fadb4ef3f3ec0800000000000000
+      internalID: -3585076526696143723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_63
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea5d76562b8cc8f0800000000000000
+      internalID: -518886860278375699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_64
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130c758e5ef605e90800000000000000
+      internalID: -7039003184343826383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_65
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 0
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295fbfff3bbdc72d0800000000000000
+      internalID: -3279504862492232302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_66
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12db2b4d17c7b20d0800000000000000
+      internalID: -3446524261480350431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_67
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 0
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97617e92624292b70800000000000000
+      internalID: 8874664287040640633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_68
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 0
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee55a9fbade30730800000000000000
+      internalID: 3964273419899723492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_69
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03347d3c965a288f0800000000000000
+      internalID: -539687131655224528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_70
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 0
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac6b70c8de297d70800000000000000
+      internalID: 9041309235400109216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_71
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485813e4285b694c0800000000000000
+      internalID: -4281034824506833532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_72
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 0
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968c1006aa1ed9720800000000000000
+      internalID: 2854685860694181993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_73
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 0
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5b27257bc2438c0800000000000000
+      internalID: -4020539401461123636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_74
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 0
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b834e1381c8dcfb30800000000000000
+      internalID: 4322568068008919947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_workbench_75
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0730ce87fd34d6af0800000000000000
+      internalID: -401590164680604816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CartographerStudio_workbench_0: 4784495444195931878
+      CartographerStudio_workbench_1: 7524127728525660713
+      CartographerStudio_workbench_10: -7178271938319478037
+      CartographerStudio_workbench_11: 3211485439653860774
+      CartographerStudio_workbench_12: 636049138657196205
+      CartographerStudio_workbench_13: -3683237624225656235
+      CartographerStudio_workbench_14: -1473338303627173753
+      CartographerStudio_workbench_15: 2390868650499303386
+      CartographerStudio_workbench_16: 6142958232285952994
+      CartographerStudio_workbench_17: -3068071745021455253
+      CartographerStudio_workbench_18: -4714147226477557957
+      CartographerStudio_workbench_19: -4109266066984227298
+      CartographerStudio_workbench_2: 552603994877348095
+      CartographerStudio_workbench_20: 7147638592779133430
+      CartographerStudio_workbench_21: 6993480363646803936
+      CartographerStudio_workbench_22: 1070126059823548729
+      CartographerStudio_workbench_23: -1141575803446747735
+      CartographerStudio_workbench_24: 9041179371760617189
+      CartographerStudio_workbench_25: 8165350716411968577
+      CartographerStudio_workbench_26: -1013946729996495364
+      CartographerStudio_workbench_27: 8833185272824746445
+      CartographerStudio_workbench_28: -1038102428819471281
+      CartographerStudio_workbench_29: -8354978349641218287
+      CartographerStudio_workbench_3: 6672688979905152575
+      CartographerStudio_workbench_30: 1290174985663231868
+      CartographerStudio_workbench_31: -2562821193259280062
+      CartographerStudio_workbench_32: -8734827402129509089
+      CartographerStudio_workbench_33: 2918706380940731092
+      CartographerStudio_workbench_34: 1047623777153165509
+      CartographerStudio_workbench_35: -5230087962939113119
+      CartographerStudio_workbench_36: -2242644727018998699
+      CartographerStudio_workbench_37: 7122126031921071880
+      CartographerStudio_workbench_38: -797937791847542117
+      CartographerStudio_workbench_39: 1846495688645429504
+      CartographerStudio_workbench_4: -1322260296498728304
+      CartographerStudio_workbench_40: -1072966563193065432
+      CartographerStudio_workbench_41: -590045006410167126
+      CartographerStudio_workbench_42: -6368291933424521333
+      CartographerStudio_workbench_43: 8267941734207899781
+      CartographerStudio_workbench_44: 6287352895845735346
+      CartographerStudio_workbench_45: 4117553560274794156
+      CartographerStudio_workbench_46: -7984310261892074869
+      CartographerStudio_workbench_47: 7644436469136718893
+      CartographerStudio_workbench_48: -8744484810852613664
+      CartographerStudio_workbench_49: -2996100639973615515
+      CartographerStudio_workbench_5: -964760647942758990
+      CartographerStudio_workbench_50: -6021205111548117738
+      CartographerStudio_workbench_51: -6113448969441826179
+      CartographerStudio_workbench_52: 6198379294846551830
+      CartographerStudio_workbench_53: -2712424268344208194
+      CartographerStudio_workbench_54: 5783818385382689798
+      CartographerStudio_workbench_55: 7890489774801633389
+      CartographerStudio_workbench_56: -2754887343060381175
+      CartographerStudio_workbench_57: 6417969189089381353
+      CartographerStudio_workbench_58: 5187466665875284396
+      CartographerStudio_workbench_59: 3609521246049363195
+      CartographerStudio_workbench_6: -5330210171957084292
+      CartographerStudio_workbench_60: -1455151941150479174
+      CartographerStudio_workbench_61: -5602180139739579694
+      CartographerStudio_workbench_62: -3585076526696143723
+      CartographerStudio_workbench_63: -518886860278375699
+      CartographerStudio_workbench_64: -7039003184343826383
+      CartographerStudio_workbench_65: -3279504862492232302
+      CartographerStudio_workbench_66: -3446524261480350431
+      CartographerStudio_workbench_67: 8874664287040640633
+      CartographerStudio_workbench_68: 3964273419899723492
+      CartographerStudio_workbench_69: -539687131655224528
+      CartographerStudio_workbench_7: -6154545572853795474
+      CartographerStudio_workbench_70: 9041309235400109216
+      CartographerStudio_workbench_71: -4281034824506833532
+      CartographerStudio_workbench_72: 2854685860694181993
+      CartographerStudio_workbench_73: -4020539401461123636
+      CartographerStudio_workbench_74: 4322568068008919947
+      CartographerStudio_workbench_75: -401590164680604816
+      CartographerStudio_workbench_8: 2945512618152305355
+      CartographerStudio_workbench_9: 6108362422795731481
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 927da57bf9224354e8b73118ca72b133
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9176430900125211747
+    second: Carrying_Dmg_Ores_silver_0
+  - first:
+      213: 4997333808435119576
+    second: Carrying_Dmg_Ores_silver_1
+  - first:
+      213: 2018663428516617199
+    second: Carrying_Dmg_Ores_silver_2
+  - first:
+      213: -1512561585595092548
+    second: Carrying_Dmg_Ores_silver_3
+  - first:
+      213: -4849721894776199175
+    second: Carrying_Dmg_Ores_silver_4
+  - first:
+      213: -90605133867690593
+    second: Carrying_Dmg_Ores_silver_5
+  - first:
+      213: -1983637874401969735
+    second: Carrying_Dmg_Ores_silver_6
+  - first:
+      213: 2283297336935248345
+    second: Carrying_Dmg_Ores_silver_7
+  - first:
+      213: 2242501464828182248
+    second: Carrying_Dmg_Ores_silver_8
+  - first:
+      213: 9170713606614257956
+    second: Carrying_Dmg_Ores_silver_9
+  - first:
+      213: -8580776716223608211
+    second: Carrying_Dmg_Ores_silver_10
+  - first:
+      213: -4049830704556197069
+    second: Carrying_Dmg_Ores_silver_11
+  - first:
+      213: -5315250213795471825
+    second: Carrying_Dmg_Ores_silver_12
+  - first:
+      213: 4374850468794331210
+    second: Carrying_Dmg_Ores_silver_13
+  - first:
+      213: 7249808456588854146
+    second: Carrying_Dmg_Ores_silver_14
+  - first:
+      213: 5894185723311594919
+    second: Carrying_Dmg_Ores_silver_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_silver_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 115
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d936e1417b4c6a080800000000000000
+      internalID: -9176430900125211747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_silver_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 115
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d543db2f981a5540800000000000000
+      internalID: 4997333808435119576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_silver_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 114
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb1ec161bbb30c10800000000000000
+      internalID: 2018663428516617199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_silver_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 114
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1f3b5704d420be0800000000000000
+      internalID: -1512561585595092548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_silver_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 83
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f72e62b1a352bcb0800000000000000
+      internalID: -4849721894776199175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_silver_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 83
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f955dfc5c1b1ebef0800000000000000
+      internalID: -90605133867690593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_silver_6
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 82
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9724decd3b874e0800000000000000
+      internalID: -1983637874401969735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_silver_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 82
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1fe9c94d6efaf10800000000000000
+      internalID: 2283297336935248345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_silver_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 51
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee70637337fe1f10800000000000000
+      internalID: 2242501464828182248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_silver_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 51
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421951bcf6be44f70800000000000000
+      internalID: 9170713606614257956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_silver_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 50
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a8c8c1a05fae880800000000000000
+      internalID: -8580776716223608211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_silver_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 50
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b357e5e6c1cc7c0800000000000000
+      internalID: -4049830704556197069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_silver_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 19
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ed66a87107c36b0800000000000000
+      internalID: -5315250213795471825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_silver_13
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 19
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40ffe9825796bc30800000000000000
+      internalID: 4374850468794331210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_silver_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 18
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2830a90516e7c9460800000000000000
+      internalID: 7249808456588854146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ores_silver_15
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 18
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad9a26cfaa5cc150800000000000000
+      internalID: 5894185723311594919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Dmg_Ores_silver_0: -9176430900125211747
+      Carrying_Dmg_Ores_silver_1: 4997333808435119576
+      Carrying_Dmg_Ores_silver_10: -8580776716223608211
+      Carrying_Dmg_Ores_silver_11: -4049830704556197069
+      Carrying_Dmg_Ores_silver_12: -5315250213795471825
+      Carrying_Dmg_Ores_silver_13: 4374850468794331210
+      Carrying_Dmg_Ores_silver_14: 7249808456588854146
+      Carrying_Dmg_Ores_silver_15: 5894185723311594919
+      Carrying_Dmg_Ores_silver_2: 2018663428516617199
+      Carrying_Dmg_Ores_silver_3: -1512561585595092548
+      Carrying_Dmg_Ores_silver_4: -4849721894776199175
+      Carrying_Dmg_Ores_silver_5: -90605133867690593
+      Carrying_Dmg_Ores_silver_6: -1983637874401969735
+      Carrying_Dmg_Ores_silver_7: 2283297336935248345
+      Carrying_Dmg_Ores_silver_8: 2242501464828182248
+      Carrying_Dmg_Ores_silver_9: 9170713606614257956
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

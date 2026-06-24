@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 77d681a9209910e4c8ce4e3ebca3abc1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3727220221047623138
+    second: Carrying_Dmg_Ingot_copper_0
+  - first:
+      213: -2917577477072969124
+    second: Carrying_Dmg_Ingot_copper_1
+  - first:
+      213: -7809749715346168990
+    second: Carrying_Dmg_Ingot_copper_2
+  - first:
+      213: -568659866053826271
+    second: Carrying_Dmg_Ingot_copper_3
+  - first:
+      213: -2982960685298666301
+    second: Carrying_Dmg_Ingot_copper_4
+  - first:
+      213: -36890697818998906
+    second: Carrying_Dmg_Ingot_copper_5
+  - first:
+      213: 7324327673893463808
+    second: Carrying_Dmg_Ingot_copper_6
+  - first:
+      213: 2402612500421861490
+    second: Carrying_Dmg_Ingot_copper_7
+  - first:
+      213: -3179299916978581628
+    second: Carrying_Dmg_Ingot_copper_8
+  - first:
+      213: -8899921773013050522
+    second: Carrying_Dmg_Ingot_copper_9
+  - first:
+      213: 7662117901963223809
+    second: Carrying_Dmg_Ingot_copper_10
+  - first:
+      213: -473113461893543237
+    second: Carrying_Dmg_Ingot_copper_11
+  - first:
+      213: 7216293595946334185
+    second: Carrying_Dmg_Ingot_copper_12
+  - first:
+      213: 2077930137104377679
+    second: Carrying_Dmg_Ingot_copper_13
+  - first:
+      213: -6089203722553217072
+    second: Carrying_Dmg_Ingot_copper_14
+  - first:
+      213: -2930417689775228529
+    second: Carrying_Dmg_Ingot_copper_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ingot_copper_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 117
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed423b1b0fb9b330800000000000000
+      internalID: 3727220221047623138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ingot_copper_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 115
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52a26a1ebea287d0800000000000000
+      internalID: -2917577477072969124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ingot_copper_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263651003023e9390800000000000000
+      internalID: -7809749715346168990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ingot_copper_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12927dd5dd6bb18f0800000000000000
+      internalID: -568659866053826271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ingot_copper_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 85
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c431d5af056a96d0800000000000000
+      internalID: -2982960685298666301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ingot_copper_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 83
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6877bf41b10fc7ff0800000000000000
+      internalID: -36890697818998906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ingot_copper_6
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007abf4a63d35a560800000000000000
+      internalID: 7324327673893463808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ingot_copper_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270ee8ce65bc75120800000000000000
+      internalID: 2402612500421861490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ingot_copper_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 53
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f0016f19bd0e3d0800000000000000
+      internalID: -3179299916978581628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ingot_copper_9
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 51
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bdace1d402d7480800000000000000
+      internalID: -8899921773013050522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ingot_copper_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103edadd2af455a60800000000000000
+      internalID: 7662117901963223809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ingot_copper_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba416520d92f69f0800000000000000
+      internalID: -473113461893543237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ingot_copper_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 21
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7be4dbacc652460800000000000000
+      internalID: 7216293595946334185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ingot_copper_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 19
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f476f2a437a46dc10800000000000000
+      internalID: 2077930137104377679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ingot_copper_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfaa30f97dce7ba0800000000000000
+      internalID: -6089203722553217072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Ingot_copper_15
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f893d6d13a01557d0800000000000000
+      internalID: -2930417689775228529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Dmg_Ingot_copper_0: 3727220221047623138
+      Carrying_Dmg_Ingot_copper_1: -2917577477072969124
+      Carrying_Dmg_Ingot_copper_10: 7662117901963223809
+      Carrying_Dmg_Ingot_copper_11: -473113461893543237
+      Carrying_Dmg_Ingot_copper_12: 7216293595946334185
+      Carrying_Dmg_Ingot_copper_13: 2077930137104377679
+      Carrying_Dmg_Ingot_copper_14: -6089203722553217072
+      Carrying_Dmg_Ingot_copper_15: -2930417689775228529
+      Carrying_Dmg_Ingot_copper_2: -7809749715346168990
+      Carrying_Dmg_Ingot_copper_3: -568659866053826271
+      Carrying_Dmg_Ingot_copper_4: -2982960685298666301
+      Carrying_Dmg_Ingot_copper_5: -36890697818998906
+      Carrying_Dmg_Ingot_copper_6: 7324327673893463808
+      Carrying_Dmg_Ingot_copper_7: 2402612500421861490
+      Carrying_Dmg_Ingot_copper_8: -3179299916978581628
+      Carrying_Dmg_Ingot_copper_9: -8899921773013050522
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

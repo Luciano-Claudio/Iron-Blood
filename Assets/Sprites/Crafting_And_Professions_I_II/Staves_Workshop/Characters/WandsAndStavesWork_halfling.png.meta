@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 7a25110a181c0f54985441118ec76759
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7505868156267499613
+    second: WandsAndStavesWork_halfling_0
+  - first:
+      213: 8136011358524105330
+    second: WandsAndStavesWork_halfling_1
+  - first:
+      213: 5428830119784973792
+    second: WandsAndStavesWork_halfling_2
+  - first:
+      213: 2867050866745982983
+    second: WandsAndStavesWork_halfling_3
+  - first:
+      213: -1722744831060424710
+    second: WandsAndStavesWork_halfling_4
+  - first:
+      213: 9099024468575268355
+    second: WandsAndStavesWork_halfling_5
+  - first:
+      213: -1732508832996900606
+    second: WandsAndStavesWork_halfling_6
+  - first:
+      213: -4847168231511931515
+    second: WandsAndStavesWork_halfling_7
+  - first:
+      213: -474305694712291446
+    second: WandsAndStavesWork_halfling_8
+  - first:
+      213: -5427420766233217891
+    second: WandsAndStavesWork_halfling_9
+  - first:
+      213: 5305786488768734368
+    second: WandsAndStavesWork_halfling_10
+  - first:
+      213: 4892668198347254451
+    second: WandsAndStavesWork_halfling_11
+  - first:
+      213: -2094927023422754047
+    second: WandsAndStavesWork_halfling_12
+  - first:
+      213: 7108653549201201757
+    second: WandsAndStavesWork_halfling_13
+  - first:
+      213: 4817022361546497580
+    second: WandsAndStavesWork_halfling_14
+  - first:
+      213: 756187516882593267
+    second: WandsAndStavesWork_halfling_15
+  - first:
+      213: 6644491353984751588
+    second: WandsAndStavesWork_halfling_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WandsAndStavesWork_halfling_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d509d3102533a2860800000000000000
+      internalID: 7505868156267499613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_halfling_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2726f51693be8e070800000000000000
+      internalID: 8136011358524105330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_halfling_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e589b31b34175b40800000000000000
+      internalID: 5428830119784973792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_halfling_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700ce51b29fc9c720800000000000000
+      internalID: 2867050866745982983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_halfling_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7c00224b49718e0800000000000000
+      internalID: -1722744831060424710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_halfling_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e2404ab8a364e70800000000000000
+      internalID: 9099024468575268355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_halfling_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2014ef64564e4f7e0800000000000000
+      internalID: -1732508832996900606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_halfling_7
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5854c22cc266bbcb0800000000000000
+      internalID: -4847168231511931515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_halfling_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f9abfcb7dea69f0800000000000000
+      internalID: -474305694712291446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_halfling_9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94371e919deda4b0800000000000000
+      internalID: -5427420766233217891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_halfling_10
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4a02543b0f1a940800000000000000
+      internalID: 5305786488768734368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_halfling_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3baa65ecdcf36e340800000000000000
+      internalID: 4892668198347254451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_halfling_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103358ab8f25de2e0800000000000000
+      internalID: -2094927023422754047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_halfling_13
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a157f5db207a260800000000000000
+      internalID: 7108653549201201757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_halfling_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e971fe05089d240800000000000000
+      internalID: 4817022361546497580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_halfling_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f52f574a848e7a00800000000000000
+      internalID: 756187516882593267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_halfling_16
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e75a63bea9f53c50800000000000000
+      internalID: 6644491353984751588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WandsAndStavesWork_halfling_0: 7505868156267499613
+      WandsAndStavesWork_halfling_1: 8136011358524105330
+      WandsAndStavesWork_halfling_10: 5305786488768734368
+      WandsAndStavesWork_halfling_11: 4892668198347254451
+      WandsAndStavesWork_halfling_12: -2094927023422754047
+      WandsAndStavesWork_halfling_13: 7108653549201201757
+      WandsAndStavesWork_halfling_14: 4817022361546497580
+      WandsAndStavesWork_halfling_15: 756187516882593267
+      WandsAndStavesWork_halfling_16: 6644491353984751588
+      WandsAndStavesWork_halfling_2: 5428830119784973792
+      WandsAndStavesWork_halfling_3: 2867050866745982983
+      WandsAndStavesWork_halfling_4: -1722744831060424710
+      WandsAndStavesWork_halfling_5: 9099024468575268355
+      WandsAndStavesWork_halfling_6: -1732508832996900606
+      WandsAndStavesWork_halfling_7: -4847168231511931515
+      WandsAndStavesWork_halfling_8: -474305694712291446
+      WandsAndStavesWork_halfling_9: -5427420766233217891
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

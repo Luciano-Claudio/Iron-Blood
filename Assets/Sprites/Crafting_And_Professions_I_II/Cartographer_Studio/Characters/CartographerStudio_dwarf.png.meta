@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: e6888602e8d09ce4c8789705919c2c09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6551995949744261736
+    second: CartographerStudio_dwarf_0
+  - first:
+      213: 6638740313988701736
+    second: CartographerStudio_dwarf_1
+  - first:
+      213: -4408119417657578131
+    second: CartographerStudio_dwarf_2
+  - first:
+      213: 1187267973515349513
+    second: CartographerStudio_dwarf_3
+  - first:
+      213: 92988956537322565
+    second: CartographerStudio_dwarf_4
+  - first:
+      213: 4348968501631138395
+    second: CartographerStudio_dwarf_5
+  - first:
+      213: -5503861460888089807
+    second: CartographerStudio_dwarf_6
+  - first:
+      213: 2528036638069588231
+    second: CartographerStudio_dwarf_7
+  - first:
+      213: -4528839541322930690
+    second: CartographerStudio_dwarf_8
+  - first:
+      213: -2068797217954077340
+    second: CartographerStudio_dwarf_9
+  - first:
+      213: 32388581897034465
+    second: CartographerStudio_dwarf_10
+  - first:
+      213: -339080112800348653
+    second: CartographerStudio_dwarf_11
+  - first:
+      213: -2073519208162088623
+    second: CartographerStudio_dwarf_12
+  - first:
+      213: -1857491809526977137
+    second: CartographerStudio_dwarf_13
+  - first:
+      213: 5153776601311962176
+    second: CartographerStudio_dwarf_14
+  - first:
+      213: -4215586432260088841
+    second: CartographerStudio_dwarf_15
+  - first:
+      213: -986156880312821644
+    second: CartographerStudio_dwarf_16
+  - first:
+      213: 577851729857285441
+    second: CartographerStudio_dwarf_17
+  - first:
+      213: -7012666777988238669
+    second: CartographerStudio_dwarf_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CartographerStudio_dwarf_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a0e423a9d5dea50800000000000000
+      internalID: 6551995949744261736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_dwarf_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 7
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e9c5b542b812c50800000000000000
+      internalID: 6638740313988701736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_dwarf_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 7
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6da40faeb633d2c0800000000000000
+      internalID: -4408119417657578131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_dwarf_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 7
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e84967ee50a7010800000000000000
+      internalID: 1187267973515349513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_dwarf_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 8
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54cf07a96fc5a4100800000000000000
+      internalID: 92988956537322565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_dwarf_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 7
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a36177fc3aa5c30800000000000000
+      internalID: 4348968501631138395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_dwarf_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 7
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b8dca792b5e93b0800000000000000
+      internalID: -5503861460888089807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_dwarf_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 7
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7018f4f9de3651320800000000000000
+      internalID: 2528036638069588231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_dwarf_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 7
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef524b69e645621c0800000000000000
+      internalID: -4528839541322930690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_dwarf_9
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 7
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465e78724e72a43e0800000000000000
+      internalID: -2068797217954077340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_dwarf_10
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 7
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea50ce5e31137000800000000000000
+      internalID: 32388581897034465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_dwarf_11
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 7
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316c2261f685b4bf0800000000000000
+      internalID: -339080112800348653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_dwarf_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 7
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159ac8224416933e0800000000000000
+      internalID: -2073519208162088623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_dwarf_13
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 7
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d62f76a0dd836e0800000000000000
+      internalID: -1857491809526977137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_dwarf_14
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 7
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0446be45384e58740800000000000000
+      internalID: 5153776601311962176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_dwarf_15
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 7
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb5e29997a3f75c0800000000000000
+      internalID: -4215586432260088841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_dwarf_16
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 7
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4789520da877052f0800000000000000
+      internalID: -986156880312821644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_dwarf_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 7
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d0df23611f40800800000000000000
+      internalID: 577851729857285441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_dwarf_18
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 7
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2f3d958b00eae90800000000000000
+      internalID: -7012666777988238669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CartographerStudio_dwarf_0: 6551995949744261736
+      CartographerStudio_dwarf_1: 6638740313988701736
+      CartographerStudio_dwarf_10: 32388581897034465
+      CartographerStudio_dwarf_11: -339080112800348653
+      CartographerStudio_dwarf_12: -2073519208162088623
+      CartographerStudio_dwarf_13: -1857491809526977137
+      CartographerStudio_dwarf_14: 5153776601311962176
+      CartographerStudio_dwarf_15: -4215586432260088841
+      CartographerStudio_dwarf_16: -986156880312821644
+      CartographerStudio_dwarf_17: 577851729857285441
+      CartographerStudio_dwarf_18: -7012666777988238669
+      CartographerStudio_dwarf_2: -4408119417657578131
+      CartographerStudio_dwarf_3: 1187267973515349513
+      CartographerStudio_dwarf_4: 92988956537322565
+      CartographerStudio_dwarf_5: 4348968501631138395
+      CartographerStudio_dwarf_6: -5503861460888089807
+      CartographerStudio_dwarf_7: 2528036638069588231
+      CartographerStudio_dwarf_8: -4528839541322930690
+      CartographerStudio_dwarf_9: -2068797217954077340
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1547 @@
+fileFormatVersion: 2
+guid: 9736ab5f520d6fd458a21afb3c1c09e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4235306600655825744
+    second: Gold_And_Rock_Nodes_0
+  - first:
+      213: 5054833665153888646
+    second: Gold_And_Rock_Nodes_1
+  - first:
+      213: 7890750850162830643
+    second: Gold_And_Rock_Nodes_2
+  - first:
+      213: 488817155076448023
+    second: Gold_And_Rock_Nodes_3
+  - first:
+      213: -6840694313153669946
+    second: Gold_And_Rock_Nodes_4
+  - first:
+      213: 3216445862637801054
+    second: Gold_And_Rock_Nodes_5
+  - first:
+      213: -949848433134117912
+    second: Gold_And_Rock_Nodes_6
+  - first:
+      213: 6140910264777553236
+    second: Gold_And_Rock_Nodes_7
+  - first:
+      213: -1365483524579987835
+    second: Gold_And_Rock_Nodes_8
+  - first:
+      213: 2799661095144800631
+    second: Gold_And_Rock_Nodes_9
+  - first:
+      213: 5923346078956210162
+    second: Gold_And_Rock_Nodes_10
+  - first:
+      213: 8671395582407464012
+    second: Gold_And_Rock_Nodes_11
+  - first:
+      213: -6065850156215082865
+    second: Gold_And_Rock_Nodes_12
+  - first:
+      213: 3804776104577310406
+    second: Gold_And_Rock_Nodes_13
+  - first:
+      213: 105388916182048299
+    second: Gold_And_Rock_Nodes_14
+  - first:
+      213: 1416271981599679345
+    second: Gold_And_Rock_Nodes_15
+  - first:
+      213: -3011689091079728257
+    second: Gold_And_Rock_Nodes_16
+  - first:
+      213: 6915391399527682527
+    second: Gold_And_Rock_Nodes_17
+  - first:
+      213: 6379950884695294514
+    second: Gold_And_Rock_Nodes_18
+  - first:
+      213: 1548646300152523976
+    second: Gold_And_Rock_Nodes_19
+  - first:
+      213: -490198042754509086
+    second: Gold_And_Rock_Nodes_20
+  - first:
+      213: 5180402203451279349
+    second: Gold_And_Rock_Nodes_21
+  - first:
+      213: -965357972415784588
+    second: Gold_And_Rock_Nodes_22
+  - first:
+      213: -2754541190686392843
+    second: Gold_And_Rock_Nodes_23
+  - first:
+      213: 7479567813791460560
+    second: Gold_And_Rock_Nodes_24
+  - first:
+      213: -2393956082865078451
+    second: Gold_And_Rock_Nodes_25
+  - first:
+      213: -4941960865841699460
+    second: Gold_And_Rock_Nodes_26
+  - first:
+      213: -108210296908761325
+    second: Gold_And_Rock_Nodes_27
+  - first:
+      213: 4075105342908139342
+    second: Gold_And_Rock_Nodes_28
+  - first:
+      213: -2412617124417660757
+    second: Gold_And_Rock_Nodes_29
+  - first:
+      213: 6196894114857668367
+    second: Gold_And_Rock_Nodes_30
+  - first:
+      213: -1379595157443745964
+    second: Gold_And_Rock_Nodes_31
+  - first:
+      213: -6874495362620457431
+    second: Gold_And_Rock_Nodes_32
+  - first:
+      213: -3462523757237408440
+    second: Gold_And_Rock_Nodes_33
+  - first:
+      213: -7948615751915538353
+    second: Gold_And_Rock_Nodes_34
+  - first:
+      213: 1785102168631930791
+    second: Gold_And_Rock_Nodes_35
+  - first:
+      213: 8620961612041146888
+    second: Gold_And_Rock_Nodes_36
+  - first:
+      213: -5307826548249677559
+    second: Gold_And_Rock_Nodes_37
+  - first:
+      213: 1569696484662601500
+    second: Gold_And_Rock_Nodes_38
+  - first:
+      213: -4181133500236916311
+    second: Gold_And_Rock_Nodes_39
+  - first:
+      213: -4239260413180415013
+    second: Gold_And_Rock_Nodes_40
+  - first:
+      213: -1738685663487119061
+    second: Gold_And_Rock_Nodes_41
+  - first:
+      213: -7882240280027400493
+    second: Gold_And_Rock_Nodes_42
+  - first:
+      213: 7335716341545823733
+    second: Gold_And_Rock_Nodes_43
+  - first:
+      213: -7832719526386751874
+    second: Gold_And_Rock_Nodes_44
+  - first:
+      213: -8310604127611002504
+    second: Gold_And_Rock_Nodes_45
+  - first:
+      213: 4991512616575743909
+    second: Gold_And_Rock_Nodes_46
+  - first:
+      213: 681978093787192521
+    second: Gold_And_Rock_Nodes_47
+  - first:
+      213: -8390353233327577025
+    second: Gold_And_Rock_Nodes_48
+  - first:
+      213: -2044408632467016391
+    second: Gold_And_Rock_Nodes_49
+  - first:
+      213: 998424857538378999
+    second: Gold_And_Rock_Nodes_50
+  - first:
+      213: 5423028616627161457
+    second: Gold_And_Rock_Nodes_51
+  - first:
+      213: 8504638716086490696
+    second: Gold_And_Rock_Nodes_52
+  - first:
+      213: -8857331660409681380
+    second: Gold_And_Rock_Nodes_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 112
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b25f6e9e4d6ca30800000000000000
+      internalID: 4235306600655825744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 96
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681fe22df60662640800000000000000
+      internalID: 5054833665153888646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_2
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 80
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d211b5714918d60800000000000000
+      internalID: 7890750850162830643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 112
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fd278dc90a8c600800000000000000
+      internalID: 488817155076448023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 96
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4d07704c8f011a0800000000000000
+      internalID: -6840694313153669946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 80
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e0dc9787c13ac20800000000000000
+      internalID: 3216445862637801054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 79
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb5490f1e571d2f0800000000000000
+      internalID: -949848433134117912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 79
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455bd919955e83550800000000000000
+      internalID: 6140910264777553236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 96
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ee2c218f3dc0de0800000000000000
+      internalID: -1365483524579987835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_9
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 112
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771469bcee46ad620800000000000000
+      internalID: 2799661095144800631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_10
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 96
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f743e520e3f33250800000000000000
+      internalID: 5923346078956210162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_11
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 80
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44d944d65cf65870800000000000000
+      internalID: 8671395582407464012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_12
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 112
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f806d02db65c1dba0800000000000000
+      internalID: -6065850156215082865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 96
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce993365b74dc430800000000000000
+      internalID: 3804776104577310406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_14
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 80
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e5b4039aa667100800000000000000
+      internalID: 105388916182048299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_15
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 80
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17366901ddb97a310800000000000000
+      internalID: 1416271981599679345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 79
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7316407ab45436d0800000000000000
+      internalID: -3011689091079728257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 96
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd193aba6d768ff50800000000000000
+      internalID: 6915391399527682527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 56
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232c3b6f6832a8850800000000000000
+      internalID: 6379950884695294514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_19
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 56
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc605bda95ed7510800000000000000
+      internalID: 1548646300152523976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_20
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 55
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e696003a777239f0800000000000000
+      internalID: -490198042754509086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_21
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 56
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f74d5a6b5c74e740800000000000000
+      internalID: 5180402203451279349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_22
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 55
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479d01de90c5a92f0800000000000000
+      internalID: -965357972415784588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_23
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 56
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdb4f99167e5c9d0800000000000000
+      internalID: -2754541190686392843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_24
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 56
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc2c765c43ccc760800000000000000
+      internalID: 7479567813791460560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_25
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 55
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ff0f850a5f6ced0800000000000000
+      internalID: -2393956082865078451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_26
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 56
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75af91b6c0aa6bb0800000000000000
+      internalID: -4941960865841699460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_27
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 55
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317b6bbee4f8f7ef0800000000000000
+      internalID: -108210296908761325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 33
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e470652f7bead8830800000000000000
+      internalID: 4075105342908139342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_29
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 32
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba89f080289a48ed0800000000000000
+      internalID: -2412617124417660757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_30
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 32
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fccca6d5acff550800000000000000
+      internalID: 6196894114857668367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_31
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 32
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45767b28381badce0800000000000000
+      internalID: -1379595157443745964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_32
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 32
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92effece3e2e890a0800000000000000
+      internalID: -6874495362620457431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_33
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d638fecf4a2ffc0800000000000000
+      internalID: -3462523757237408440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_34
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 33
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48fff25618d0b190800000000000000
+      internalID: -7948615751915538353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_35
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 32
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afe519e6f4f5c810800000000000000
+      internalID: 1785102168631930791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_36
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 32
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802ddfb09eec3a770800000000000000
+      internalID: 8620961612041146888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_37
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 32
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901b03e50efc656b0800000000000000
+      internalID: -5307826548249677559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_38
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 32
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c176e7dd2aea8c510800000000000000
+      internalID: 1569696484662601500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_39
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a994efeb31a9f5c0800000000000000
+      internalID: -4181133500236916311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 8
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd371026d1f1b25c0800000000000000
+      internalID: -4239260413180415013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_41
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 7
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2139cbd992fed7e0800000000000000
+      internalID: -1738685663487119061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_42
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 7
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6f0ba2a38ac9290800000000000000
+      internalID: -7882240280027400493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_43
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 7
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdedd67523bdc560800000000000000
+      internalID: 7335716341545823733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_44
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 9
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76a37c17179c4390800000000000000
+      internalID: -7832719526386751874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_45
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 7
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871e9d0d39dcaac80800000000000000
+      internalID: -8310604127611002504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_46
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7b0e2574a654540800000000000000
+      internalID: 4991512616575743909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_47
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 8
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc98c8867fd67900800000000000000
+      internalID: 681978093787192521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_48
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 7
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38a573303a7f8b80800000000000000
+      internalID: -8390353233327577025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_49
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 7
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935bf063e2dc0a3e0800000000000000
+      internalID: -2044408632467016391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_50
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 7
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcbe783e1e1bdd00800000000000000
+      internalID: 998424857538378999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_51
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 9
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17907dc5bc7724b40800000000000000
+      internalID: 5423028616627161457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_52
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 7
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8469e5f4adb860670800000000000000
+      internalID: 8504638716086490696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_And_Rock_Nodes_53
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ac57378cf641580800000000000000
+      internalID: -8857331660409681380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gold_And_Rock_Nodes_0: 4235306600655825744
+      Gold_And_Rock_Nodes_1: 5054833665153888646
+      Gold_And_Rock_Nodes_10: 5923346078956210162
+      Gold_And_Rock_Nodes_11: 8671395582407464012
+      Gold_And_Rock_Nodes_12: -6065850156215082865
+      Gold_And_Rock_Nodes_13: 3804776104577310406
+      Gold_And_Rock_Nodes_14: 105388916182048299
+      Gold_And_Rock_Nodes_15: 1416271981599679345
+      Gold_And_Rock_Nodes_16: -3011689091079728257
+      Gold_And_Rock_Nodes_17: 6915391399527682527
+      Gold_And_Rock_Nodes_18: 6379950884695294514
+      Gold_And_Rock_Nodes_19: 1548646300152523976
+      Gold_And_Rock_Nodes_2: 7890750850162830643
+      Gold_And_Rock_Nodes_20: -490198042754509086
+      Gold_And_Rock_Nodes_21: 5180402203451279349
+      Gold_And_Rock_Nodes_22: -965357972415784588
+      Gold_And_Rock_Nodes_23: -2754541190686392843
+      Gold_And_Rock_Nodes_24: 7479567813791460560
+      Gold_And_Rock_Nodes_25: -2393956082865078451
+      Gold_And_Rock_Nodes_26: -4941960865841699460
+      Gold_And_Rock_Nodes_27: -108210296908761325
+      Gold_And_Rock_Nodes_28: 4075105342908139342
+      Gold_And_Rock_Nodes_29: -2412617124417660757
+      Gold_And_Rock_Nodes_3: 488817155076448023
+      Gold_And_Rock_Nodes_30: 6196894114857668367
+      Gold_And_Rock_Nodes_31: -1379595157443745964
+      Gold_And_Rock_Nodes_32: -6874495362620457431
+      Gold_And_Rock_Nodes_33: -3462523757237408440
+      Gold_And_Rock_Nodes_34: -7948615751915538353
+      Gold_And_Rock_Nodes_35: 1785102168631930791
+      Gold_And_Rock_Nodes_36: 8620961612041146888
+      Gold_And_Rock_Nodes_37: -5307826548249677559
+      Gold_And_Rock_Nodes_38: 1569696484662601500
+      Gold_And_Rock_Nodes_39: -4181133500236916311
+      Gold_And_Rock_Nodes_4: -6840694313153669946
+      Gold_And_Rock_Nodes_40: -4239260413180415013
+      Gold_And_Rock_Nodes_41: -1738685663487119061
+      Gold_And_Rock_Nodes_42: -7882240280027400493
+      Gold_And_Rock_Nodes_43: 7335716341545823733
+      Gold_And_Rock_Nodes_44: -7832719526386751874
+      Gold_And_Rock_Nodes_45: -8310604127611002504
+      Gold_And_Rock_Nodes_46: 4991512616575743909
+      Gold_And_Rock_Nodes_47: 681978093787192521
+      Gold_And_Rock_Nodes_48: -8390353233327577025
+      Gold_And_Rock_Nodes_49: -2044408632467016391
+      Gold_And_Rock_Nodes_5: 3216445862637801054
+      Gold_And_Rock_Nodes_50: 998424857538378999
+      Gold_And_Rock_Nodes_51: 5423028616627161457
+      Gold_And_Rock_Nodes_52: 8504638716086490696
+      Gold_And_Rock_Nodes_53: -8857331660409681380
+      Gold_And_Rock_Nodes_6: -949848433134117912
+      Gold_And_Rock_Nodes_7: 6140910264777553236
+      Gold_And_Rock_Nodes_8: -1365483524579987835
+      Gold_And_Rock_Nodes_9: 2799661095144800631
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

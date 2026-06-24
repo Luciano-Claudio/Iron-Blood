@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: 343a587aef923f04bb771a76a38b5b1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4301688370656705627
+    second: Carrying_Idle_Ingot_copper_0
+  - first:
+      213: 3340539080601133487
+    second: Carrying_Idle_Ingot_copper_1
+  - first:
+      213: 6787382312744452526
+    second: Carrying_Idle_Ingot_copper_2
+  - first:
+      213: -8165085298479083037
+    second: Carrying_Idle_Ingot_copper_3
+  - first:
+      213: 9074263112258932131
+    second: Carrying_Idle_Ingot_copper_4
+  - first:
+      213: -386051574517846103
+    second: Carrying_Idle_Ingot_copper_5
+  - first:
+      213: -4173959495871134809
+    second: Carrying_Idle_Ingot_copper_6
+  - first:
+      213: 3424176099748150646
+    second: Carrying_Idle_Ingot_copper_7
+  - first:
+      213: -7002298555780358626
+    second: Carrying_Idle_Ingot_copper_8
+  - first:
+      213: -6586977761651579113
+    second: Carrying_Idle_Ingot_copper_9
+  - first:
+      213: -2869103824280351432
+    second: Carrying_Idle_Ingot_copper_10
+  - first:
+      213: -4738698014049892603
+    second: Carrying_Idle_Ingot_copper_11
+  - first:
+      213: 8690803013261799754
+    second: Carrying_Idle_Ingot_copper_12
+  - first:
+      213: -7432406473533210064
+    second: Carrying_Idle_Ingot_copper_13
+  - first:
+      213: -2008019514640972306
+    second: Carrying_Idle_Ingot_copper_14
+  - first:
+      213: 8340484716689474744
+    second: Carrying_Idle_Ingot_copper_15
+  - first:
+      213: -4419758288786899608
+    second: Carrying_Idle_Ingot_copper_16
+  - first:
+      213: -4543350935389191134
+    second: Carrying_Idle_Ingot_copper_17
+  - first:
+      213: -8912077870389583720
+    second: Carrying_Idle_Ingot_copper_18
+  - first:
+      213: -6335760246948794073
+    second: Carrying_Idle_Ingot_copper_19
+  - first:
+      213: 7673331133282831787
+    second: Carrying_Idle_Ingot_copper_20
+  - first:
+      213: 3072919805430824614
+    second: Carrying_Idle_Ingot_copper_21
+  - first:
+      213: -3591426539704095468
+    second: Carrying_Idle_Ingot_copper_22
+  - first:
+      213: 955080113160867931
+    second: Carrying_Idle_Ingot_copper_23
+  - first:
+      213: 7515690784483608683
+    second: Carrying_Idle_Ingot_copper_24
+  - first:
+      213: 504006990332207937
+    second: Carrying_Idle_Ingot_copper_25
+  - first:
+      213: -1526646034071013860
+    second: Carrying_Idle_Ingot_copper_26
+  - first:
+      213: 6958570875540289393
+    second: Carrying_Idle_Ingot_copper_27
+  - first:
+      213: 5371792439280304821
+    second: Carrying_Idle_Ingot_copper_28
+  - first:
+      213: -7668480012936910769
+    second: Carrying_Idle_Ingot_copper_29
+  - first:
+      213: -3139760250828554064
+    second: Carrying_Idle_Ingot_copper_30
+  - first:
+      213: 3316722091496421156
+    second: Carrying_Idle_Ingot_copper_31
+  - first:
+      213: 1037263252227110823
+    second: Carrying_Idle_Ingot_copper_32
+  - first:
+      213: -9160373698445224103
+    second: Carrying_Idle_Ingot_copper_33
+  - first:
+      213: -6007254471593107607
+    second: Carrying_Idle_Ingot_copper_34
+  - first:
+      213: -7283314282964741984
+    second: Carrying_Idle_Ingot_copper_35
+  - first:
+      213: -7828795986254240661
+    second: Carrying_Idle_Ingot_copper_36
+  - first:
+      213: -126714039612436820
+    second: Carrying_Idle_Ingot_copper_37
+  - first:
+      213: 1501534530400967246
+    second: Carrying_Idle_Ingot_copper_38
+  - first:
+      213: -5950848788298425241
+    second: Carrying_Idle_Ingot_copper_39
+  - first:
+      213: 8632248535765826161
+    second: Carrying_Idle_Ingot_copper_40
+  - first:
+      213: 5444466039683137499
+    second: Carrying_Idle_Ingot_copper_41
+  - first:
+      213: 4858798623798878808
+    second: Carrying_Idle_Ingot_copper_42
+  - first:
+      213: -7654850934585387618
+    second: Carrying_Idle_Ingot_copper_43
+  - first:
+      213: -2272518793230059094
+    second: Carrying_Idle_Ingot_copper_44
+  - first:
+      213: -5824769054546260646
+    second: Carrying_Idle_Ingot_copper_45
+  - first:
+      213: -958152981615106615
+    second: Carrying_Idle_Ingot_copper_46
+  - first:
+      213: -8710678200165596956
+    second: Carrying_Idle_Ingot_copper_47
+  - first:
+      213: -8599237794852103975
+    second: Carrying_Idle_Ingot_copper_48
+  - first:
+      213: 1192152752880451894
+    second: Carrying_Idle_Ingot_copper_49
+  - first:
+      213: 5810425959364300281
+    second: Carrying_Idle_Ingot_copper_50
+  - first:
+      213: -2936368427264788091
+    second: Carrying_Idle_Ingot_copper_51
+  - first:
+      213: -4734239435513425161
+    second: Carrying_Idle_Ingot_copper_52
+  - first:
+      213: -3533097259736609411
+    second: Carrying_Idle_Ingot_copper_53
+  - first:
+      213: -6206633808048762797
+    second: Carrying_Idle_Ingot_copper_54
+  - first:
+      213: 3123027100810773945
+    second: Carrying_Idle_Ingot_copper_55
+  - first:
+      213: 4512582284391677931
+    second: Carrying_Idle_Ingot_copper_56
+  - first:
+      213: -7523272316969075
+    second: Carrying_Idle_Ingot_copper_57
+  - first:
+      213: 6928397691926823334
+    second: Carrying_Idle_Ingot_copper_58
+  - first:
+      213: 8358633130448571092
+    second: Carrying_Idle_Ingot_copper_59
+  - first:
+      213: -6749499754756063887
+    second: Carrying_Idle_Ingot_copper_60
+  - first:
+      213: -6688785868745720192
+    second: Carrying_Idle_Ingot_copper_61
+  - first:
+      213: 676528363659937683
+    second: Carrying_Idle_Ingot_copper_62
+  - first:
+      213: 4824196418360007918
+    second: Carrying_Idle_Ingot_copper_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3049cd7355d44c0800000000000000
+      internalID: -4301688370656705627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa16a89489afb5e20800000000000000
+      internalID: 3340539080601133487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea107e99040a13e50800000000000000
+      internalID: 6787382312744452526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1d3677e2acfae80800000000000000
+      internalID: -8165085298479083037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adcf9c19324eed70800000000000000
+      internalID: 9074263112258932131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af22eb632874aaf0800000000000000
+      internalID: -386051574517846103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a38bbdf3fd1316c0800000000000000
+      internalID: -4173959495871134809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_7
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67dfed9450e158f20800000000000000
+      internalID: 3424176099748150646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e1b733096d2de90800000000000000
+      internalID: -7002298555780358626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7172c5500aa5694a0800000000000000
+      internalID: -6586977761651579113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_10
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d0e02e545ee28d0800000000000000
+      internalID: -2869103824280351432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_11
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50705be4343cc3eb0800000000000000
+      internalID: -4738698014049892603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_12
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a413d527b4feb9870800000000000000
+      internalID: 8690803013261799754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_13
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0324dbed0b9cad890800000000000000
+      internalID: -7432406473533210064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_14
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5c5cfe3e41224e0800000000000000
+      internalID: -2008019514640972306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_15
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4c9d8f8aa5fb370800000000000000
+      internalID: 8340484716689474744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86db4c3d04dd9a2c0800000000000000
+      internalID: -4419758288786899608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_17
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224403e5566c2f0c0800000000000000
+      internalID: -4543350935389191134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_18
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8902fc42560f15480800000000000000
+      internalID: -8912077870389583720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721739aaf9bd218a0800000000000000
+      internalID: -6335760246948794073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_20
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: badc44bb2062d7a60800000000000000
+      internalID: 7673331133282831787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_21
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae77f1384435aa20800000000000000
+      internalID: 3072919805430824614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41de6002790b82ec0800000000000000
+      internalID: -3591426539704095468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_23
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b505efc7d40214d00800000000000000
+      internalID: 955080113160867931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_24
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6882dad2f81d4860800000000000000
+      internalID: 7515690784483608683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_25
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143a017ffa79ef600800000000000000
+      internalID: 504006990332207937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c163071458340dae0800000000000000
+      internalID: -1526646034071013860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_27
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17735fcd75fc19060800000000000000
+      internalID: 6958570875540289393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_28
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b28e6633c07c8a40800000000000000
+      internalID: 5371792439280304821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_29
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4866bdbe06149590800000000000000
+      internalID: -7668480012936910769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_30
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b00971efa45d64d0800000000000000
+      internalID: -3139760250828554064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_31
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427b5526b2d570e20800000000000000
+      internalID: 3316722091496421156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_32
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a73097ae69156e00800000000000000
+      internalID: 1037263252227110823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_33
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957575ea7a0dfd080800000000000000
+      internalID: -9160373698445224103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_34
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fd059c2e1f1aca0800000000000000
+      internalID: -6007254471593107607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_35
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a09b509f387cea90800000000000000
+      internalID: -7283314282964741984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_36
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64ef4c77878a5390800000000000000
+      internalID: -7828795986254240661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_37
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae88d89042dd3ef0800000000000000
+      internalID: -126714039612436820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_38
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a588e23b586d410800000000000000
+      internalID: 1501534530400967246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_39
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c98655e865a6da0800000000000000
+      internalID: -5950848788298425241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_40
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a3533ce48ebc770800000000000000
+      internalID: 8632248535765826161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_41
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfbdfe5401ae8b40800000000000000
+      internalID: 5444466039683137499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_42
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85260b6fa9bed6340800000000000000
+      internalID: 4858798623798878808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_43
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e959873d1a184c590800000000000000
+      internalID: -7654850934585387618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_44
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa97f18a2346670e0800000000000000
+      internalID: -2272518793230059094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_45
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d0515e7634a2fa0800000000000000
+      internalID: -5824769054546260646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_46
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5a95290f4f3b2f0800000000000000
+      internalID: -958152981615106615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_47
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0046ef3547d1780800000000000000
+      internalID: -8710678200165596956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d81aba49ce59a880800000000000000
+      internalID: -8599237794852103975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_49
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6318179cc906b8010800000000000000
+      internalID: 1192152752880451894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_50
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd0e9500a7c2a050800000000000000
+      internalID: 5810425959364300281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_51
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589b533197cef37d0800000000000000
+      internalID: -2936368427264788091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_52
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f29394015a9c4eb0800000000000000
+      internalID: -4734239435513425161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_53
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d4e7ce2cae7fec0800000000000000
+      internalID: -3533097259736609411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_54
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350d25c8f6b9dd9a0800000000000000
+      internalID: -6206633808048762797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_55
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b58eb70a98375b20800000000000000
+      internalID: 3123027100810773945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_56
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beff2e0dda9ef9e30800000000000000
+      internalID: 4512582284391677931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_57
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f9ff9af9545eff0800000000000000
+      internalID: -7523272316969075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_58
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a14fe91efc962060800000000000000
+      internalID: 6928397691926823334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_59
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dac234db84dff370800000000000000
+      internalID: 8358633130448571092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_60
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17dbd22cbb5f452a0800000000000000
+      internalID: -6749499754756063887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_61
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e32cae0b8ac23a0800000000000000
+      internalID: -6688785868745720192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_62
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3974d6c56f2836900800000000000000
+      internalID: 676528363659937683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Ingot_copper_63
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec5f03351df2f240800000000000000
+      internalID: 4824196418360007918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Idle_Ingot_copper_0: -4301688370656705627
+      Carrying_Idle_Ingot_copper_1: 3340539080601133487
+      Carrying_Idle_Ingot_copper_10: -2869103824280351432
+      Carrying_Idle_Ingot_copper_11: -4738698014049892603
+      Carrying_Idle_Ingot_copper_12: 8690803013261799754
+      Carrying_Idle_Ingot_copper_13: -7432406473533210064
+      Carrying_Idle_Ingot_copper_14: -2008019514640972306
+      Carrying_Idle_Ingot_copper_15: 8340484716689474744
+      Carrying_Idle_Ingot_copper_16: -4419758288786899608
+      Carrying_Idle_Ingot_copper_17: -4543350935389191134
+      Carrying_Idle_Ingot_copper_18: -8912077870389583720
+      Carrying_Idle_Ingot_copper_19: -6335760246948794073
+      Carrying_Idle_Ingot_copper_2: 6787382312744452526
+      Carrying_Idle_Ingot_copper_20: 7673331133282831787
+      Carrying_Idle_Ingot_copper_21: 3072919805430824614
+      Carrying_Idle_Ingot_copper_22: -3591426539704095468
+      Carrying_Idle_Ingot_copper_23: 955080113160867931
+      Carrying_Idle_Ingot_copper_24: 7515690784483608683
+      Carrying_Idle_Ingot_copper_25: 504006990332207937
+      Carrying_Idle_Ingot_copper_26: -1526646034071013860
+      Carrying_Idle_Ingot_copper_27: 6958570875540289393
+      Carrying_Idle_Ingot_copper_28: 5371792439280304821
+      Carrying_Idle_Ingot_copper_29: -7668480012936910769
+      Carrying_Idle_Ingot_copper_3: -8165085298479083037
+      Carrying_Idle_Ingot_copper_30: -3139760250828554064
+      Carrying_Idle_Ingot_copper_31: 3316722091496421156
+      Carrying_Idle_Ingot_copper_32: 1037263252227110823
+      Carrying_Idle_Ingot_copper_33: -9160373698445224103
+      Carrying_Idle_Ingot_copper_34: -6007254471593107607
+      Carrying_Idle_Ingot_copper_35: -7283314282964741984
+      Carrying_Idle_Ingot_copper_36: -7828795986254240661
+      Carrying_Idle_Ingot_copper_37: -126714039612436820
+      Carrying_Idle_Ingot_copper_38: 1501534530400967246
+      Carrying_Idle_Ingot_copper_39: -5950848788298425241
+      Carrying_Idle_Ingot_copper_4: 9074263112258932131
+      Carrying_Idle_Ingot_copper_40: 8632248535765826161
+      Carrying_Idle_Ingot_copper_41: 5444466039683137499
+      Carrying_Idle_Ingot_copper_42: 4858798623798878808
+      Carrying_Idle_Ingot_copper_43: -7654850934585387618
+      Carrying_Idle_Ingot_copper_44: -2272518793230059094
+      Carrying_Idle_Ingot_copper_45: -5824769054546260646
+      Carrying_Idle_Ingot_copper_46: -958152981615106615
+      Carrying_Idle_Ingot_copper_47: -8710678200165596956
+      Carrying_Idle_Ingot_copper_48: -8599237794852103975
+      Carrying_Idle_Ingot_copper_49: 1192152752880451894
+      Carrying_Idle_Ingot_copper_5: -386051574517846103
+      Carrying_Idle_Ingot_copper_50: 5810425959364300281
+      Carrying_Idle_Ingot_copper_51: -2936368427264788091
+      Carrying_Idle_Ingot_copper_52: -4734239435513425161
+      Carrying_Idle_Ingot_copper_53: -3533097259736609411
+      Carrying_Idle_Ingot_copper_54: -6206633808048762797
+      Carrying_Idle_Ingot_copper_55: 3123027100810773945
+      Carrying_Idle_Ingot_copper_56: 4512582284391677931
+      Carrying_Idle_Ingot_copper_57: -7523272316969075
+      Carrying_Idle_Ingot_copper_58: 6928397691926823334
+      Carrying_Idle_Ingot_copper_59: 8358633130448571092
+      Carrying_Idle_Ingot_copper_6: -4173959495871134809
+      Carrying_Idle_Ingot_copper_60: -6749499754756063887
+      Carrying_Idle_Ingot_copper_61: -6688785868745720192
+      Carrying_Idle_Ingot_copper_62: 676528363659937683
+      Carrying_Idle_Ingot_copper_63: 4824196418360007918
+      Carrying_Idle_Ingot_copper_7: 3424176099748150646
+      Carrying_Idle_Ingot_copper_8: -7002298555780358626
+      Carrying_Idle_Ingot_copper_9: -6586977761651579113
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: ba49a2b92515cec409b7a0ed444f97b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2816701159300347714
+    second: Carrying_Idle_Plank_pine_0
+  - first:
+      213: 3367136611592882281
+    second: Carrying_Idle_Plank_pine_1
+  - first:
+      213: -3277630772612735207
+    second: Carrying_Idle_Plank_pine_2
+  - first:
+      213: -7534047108742963344
+    second: Carrying_Idle_Plank_pine_3
+  - first:
+      213: 8617014921967546424
+    second: Carrying_Idle_Plank_pine_4
+  - first:
+      213: 7770260638027156040
+    second: Carrying_Idle_Plank_pine_5
+  - first:
+      213: -2192957757847409863
+    second: Carrying_Idle_Plank_pine_6
+  - first:
+      213: -2912192748838903020
+    second: Carrying_Idle_Plank_pine_7
+  - first:
+      213: -4226603400797596248
+    second: Carrying_Idle_Plank_pine_8
+  - first:
+      213: 2054481181480010322
+    second: Carrying_Idle_Plank_pine_9
+  - first:
+      213: 7211501615891958261
+    second: Carrying_Idle_Plank_pine_10
+  - first:
+      213: 2951857082094296176
+    second: Carrying_Idle_Plank_pine_11
+  - first:
+      213: -3371329650298852252
+    second: Carrying_Idle_Plank_pine_12
+  - first:
+      213: 6851314684510793680
+    second: Carrying_Idle_Plank_pine_13
+  - first:
+      213: 8793982451493883125
+    second: Carrying_Idle_Plank_pine_14
+  - first:
+      213: 1025992480890917070
+    second: Carrying_Idle_Plank_pine_15
+  - first:
+      213: 8429258352765513485
+    second: Carrying_Idle_Plank_pine_16
+  - first:
+      213: -6492388211907205711
+    second: Carrying_Idle_Plank_pine_17
+  - first:
+      213: 3071393749935107316
+    second: Carrying_Idle_Plank_pine_18
+  - first:
+      213: 849702969250320178
+    second: Carrying_Idle_Plank_pine_19
+  - first:
+      213: -9020463200926070524
+    second: Carrying_Idle_Plank_pine_20
+  - first:
+      213: 5994689465868383655
+    second: Carrying_Idle_Plank_pine_21
+  - first:
+      213: 3099693452449342791
+    second: Carrying_Idle_Plank_pine_22
+  - first:
+      213: -3313125146314779478
+    second: Carrying_Idle_Plank_pine_23
+  - first:
+      213: -4412919607338181905
+    second: Carrying_Idle_Plank_pine_24
+  - first:
+      213: -1192719181417406318
+    second: Carrying_Idle_Plank_pine_25
+  - first:
+      213: 4189174095843406882
+    second: Carrying_Idle_Plank_pine_26
+  - first:
+      213: 4586027501593286196
+    second: Carrying_Idle_Plank_pine_27
+  - first:
+      213: 5497101126172994473
+    second: Carrying_Idle_Plank_pine_28
+  - first:
+      213: 783692633150274545
+    second: Carrying_Idle_Plank_pine_29
+  - first:
+      213: -5662093915841721770
+    second: Carrying_Idle_Plank_pine_30
+  - first:
+      213: -3584693453445334473
+    second: Carrying_Idle_Plank_pine_31
+  - first:
+      213: 8392769032844336794
+    second: Carrying_Idle_Plank_pine_32
+  - first:
+      213: -5867828476732476790
+    second: Carrying_Idle_Plank_pine_33
+  - first:
+      213: 2452674160570094453
+    second: Carrying_Idle_Plank_pine_34
+  - first:
+      213: -1295733725252876607
+    second: Carrying_Idle_Plank_pine_35
+  - first:
+      213: -8900395663582942435
+    second: Carrying_Idle_Plank_pine_36
+  - first:
+      213: 5678673505790271097
+    second: Carrying_Idle_Plank_pine_37
+  - first:
+      213: -312910118408388324
+    second: Carrying_Idle_Plank_pine_38
+  - first:
+      213: -3864554187807015994
+    second: Carrying_Idle_Plank_pine_39
+  - first:
+      213: -1078052329043342942
+    second: Carrying_Idle_Plank_pine_40
+  - first:
+      213: 2132097795853935074
+    second: Carrying_Idle_Plank_pine_41
+  - first:
+      213: 3693349269430091973
+    second: Carrying_Idle_Plank_pine_42
+  - first:
+      213: 3341527687209221934
+    second: Carrying_Idle_Plank_pine_43
+  - first:
+      213: -7634656093932762279
+    second: Carrying_Idle_Plank_pine_44
+  - first:
+      213: 8109832903238311640
+    second: Carrying_Idle_Plank_pine_45
+  - first:
+      213: 2607717288864136536
+    second: Carrying_Idle_Plank_pine_46
+  - first:
+      213: 2444022779762648577
+    second: Carrying_Idle_Plank_pine_47
+  - first:
+      213: 6063021511295766523
+    second: Carrying_Idle_Plank_pine_48
+  - first:
+      213: -5052412527194499679
+    second: Carrying_Idle_Plank_pine_49
+  - first:
+      213: -1804076299023556626
+    second: Carrying_Idle_Plank_pine_50
+  - first:
+      213: -4472918857987164149
+    second: Carrying_Idle_Plank_pine_51
+  - first:
+      213: -7236684621805917853
+    second: Carrying_Idle_Plank_pine_52
+  - first:
+      213: 529231999687348465
+    second: Carrying_Idle_Plank_pine_53
+  - first:
+      213: 2356498516986657724
+    second: Carrying_Idle_Plank_pine_54
+  - first:
+      213: 2410689373992238140
+    second: Carrying_Idle_Plank_pine_55
+  - first:
+      213: -6432852040536996371
+    second: Carrying_Idle_Plank_pine_56
+  - first:
+      213: -7621068760045233891
+    second: Carrying_Idle_Plank_pine_57
+  - first:
+      213: 5946412726378792312
+    second: Carrying_Idle_Plank_pine_58
+  - first:
+      213: 1443624554153884330
+    second: Carrying_Idle_Plank_pine_59
+  - first:
+      213: -928303856130057838
+    second: Carrying_Idle_Plank_pine_60
+  - first:
+      213: 936804781760479592
+    second: Carrying_Idle_Plank_pine_61
+  - first:
+      213: 3496832449491470330
+    second: Carrying_Idle_Plank_pine_62
+  - first:
+      213: -7507641802885876342
+    second: Carrying_Idle_Plank_pine_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8c879183119e8d0800000000000000
+      internalID: -2816701159300347714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968c43c88e87abe20800000000000000
+      internalID: 3367136611592882281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f578d8d248382d0800000000000000
+      internalID: -3277630772612735207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f115a5210b17790800000000000000
+      internalID: -7534047108742963344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830bd18aa69c59770800000000000000
+      internalID: 8617014921967546424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a0fc5b1e285db60800000000000000
+      internalID: 7770260638027156040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b611cb98c0191e0800000000000000
+      internalID: -2192957757847409863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4132df7df10d597d0800000000000000
+      internalID: -2912192748838903020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a55009b9961855c0800000000000000
+      internalID: -4226603400797596248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25247dbdfbbf28c10800000000000000
+      internalID: 2054481181480010322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_10
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f94560f286641460800000000000000
+      internalID: 7211501615891958261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c93f5606a17f820800000000000000
+      internalID: 2951857082094296176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_12
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ce13d8b81a631d0800000000000000
+      internalID: -3371329650298852252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_13
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfeeaed762c41f50800000000000000
+      internalID: 6851314684510793680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fccf4672708a0a70800000000000000
+      internalID: 8793982451493883125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec099b5b9be0d3e00800000000000000
+      internalID: 1025992480890917070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f259ccfcdbaf470800000000000000
+      internalID: 8429258352765513485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b56655c15766e5a0800000000000000
+      internalID: -6492388211907205711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_18
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcac36b758cf9a20800000000000000
+      internalID: 3071393749935107316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f82ce3950cacb00800000000000000
+      internalID: 849702969250320178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409815fd280e0d280800000000000000
+      internalID: -9020463200926070524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a57cd7de4a613350800000000000000
+      internalID: 5994689465868383655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_22
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745e8d9a5c2540b20800000000000000
+      internalID: 3099693452449342791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_23
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa45e7dab3a6502d0800000000000000
+      internalID: -3313125146314779478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_24
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea504e6ff822c2c0800000000000000
+      internalID: -4412919607338181905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_25
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29022da493c927fe0800000000000000
+      internalID: -1192719181417406318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_26
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224b30d15afe22a30800000000000000
+      internalID: 4189174095843406882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_27
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436d3a207b7d4af30800000000000000
+      internalID: 4586027501593286196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_28
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abe0ff6950a94c40800000000000000
+      internalID: 5497101126172994473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_29
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb33043c4c30ea00800000000000000
+      internalID: 783692633150274545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_30
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a8a5525933c61b0800000000000000
+      internalID: -5662093915841721770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_31
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73af8beeb4c904ec0800000000000000
+      internalID: -3584693453445334473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ed594f7fa197470800000000000000
+      internalID: 8392769032844336794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_33
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a827079e619419ea0800000000000000
+      internalID: -5867828476732476790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5735f8a7726a90220800000000000000
+      internalID: 2452674160570094453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_35
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c60fceba01a40ee0800000000000000
+      internalID: -1295733725252876607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_36
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b26bfdc417b7480800000000000000
+      internalID: -8900395663582942435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_37
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e1d047773bece40800000000000000
+      internalID: 5678673505790271097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_38
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1184a9b7e158abf0800000000000000
+      internalID: -312910118408388324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_39
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbb38401785e5ac0800000000000000
+      internalID: -3864554187807015994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_40
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9c6165e1df901f0800000000000000
+      internalID: -1078052329043342942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_41
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1644426abb69d10800000000000000
+      internalID: 2132097795853935074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_42
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c044d3a799614330800000000000000
+      internalID: 3693349269430091973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_43
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ffc333abd7f5e20800000000000000
+      internalID: 3341527687209221934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_44
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bcdd29bb04c0690800000000000000
+      internalID: -7634656093932762279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_45
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de5b49ce0aeb8070800000000000000
+      internalID: 8109832903238311640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_46
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d3465de09703420800000000000000
+      internalID: 2607717288864136536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_47
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10627bae4c9eae120800000000000000
+      internalID: 2444022779762648577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff0656f0fd242450800000000000000
+      internalID: 6063021511295766523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_49
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a596d9439932e9b0800000000000000
+      internalID: -5052412527194499679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_50
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefdff81a22a6f6e0800000000000000
+      internalID: -1804076299023556626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_51
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0877884ffffce1c0800000000000000
+      internalID: -4472918857987164149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_52
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369e9b59da1229b90800000000000000
+      internalID: -7236684621805917853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_53
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0522123b5385700800000000000000
+      internalID: 529231999687348465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_54
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb79ba7ae6f3b020800000000000000
+      internalID: 2356498516986657724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_55
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cbd98963d747120800000000000000
+      internalID: 2410689373992238140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_56
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5452fd62be9b6a0800000000000000
+      internalID: -6432852040536996371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_57
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d195da447568c3690800000000000000
+      internalID: -7621068760045233891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_58
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8758ba38ed6e58250800000000000000
+      internalID: 5946412726378792312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_59
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaabf5322e8c80410800000000000000
+      internalID: 1443624554153884330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_60
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2991ebbaf800e13f0800000000000000
+      internalID: -928303856130057838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_61
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86188b05cf2300d00800000000000000
+      internalID: 936804781760479592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_62
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af78ff6f59e378030800000000000000
+      internalID: 3496832449491470330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_pine_63
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a853d16be8f7fc790800000000000000
+      internalID: -7507641802885876342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Idle_Plank_pine_0: -2816701159300347714
+      Carrying_Idle_Plank_pine_1: 3367136611592882281
+      Carrying_Idle_Plank_pine_10: 7211501615891958261
+      Carrying_Idle_Plank_pine_11: 2951857082094296176
+      Carrying_Idle_Plank_pine_12: -3371329650298852252
+      Carrying_Idle_Plank_pine_13: 6851314684510793680
+      Carrying_Idle_Plank_pine_14: 8793982451493883125
+      Carrying_Idle_Plank_pine_15: 1025992480890917070
+      Carrying_Idle_Plank_pine_16: 8429258352765513485
+      Carrying_Idle_Plank_pine_17: -6492388211907205711
+      Carrying_Idle_Plank_pine_18: 3071393749935107316
+      Carrying_Idle_Plank_pine_19: 849702969250320178
+      Carrying_Idle_Plank_pine_2: -3277630772612735207
+      Carrying_Idle_Plank_pine_20: -9020463200926070524
+      Carrying_Idle_Plank_pine_21: 5994689465868383655
+      Carrying_Idle_Plank_pine_22: 3099693452449342791
+      Carrying_Idle_Plank_pine_23: -3313125146314779478
+      Carrying_Idle_Plank_pine_24: -4412919607338181905
+      Carrying_Idle_Plank_pine_25: -1192719181417406318
+      Carrying_Idle_Plank_pine_26: 4189174095843406882
+      Carrying_Idle_Plank_pine_27: 4586027501593286196
+      Carrying_Idle_Plank_pine_28: 5497101126172994473
+      Carrying_Idle_Plank_pine_29: 783692633150274545
+      Carrying_Idle_Plank_pine_3: -7534047108742963344
+      Carrying_Idle_Plank_pine_30: -5662093915841721770
+      Carrying_Idle_Plank_pine_31: -3584693453445334473
+      Carrying_Idle_Plank_pine_32: 8392769032844336794
+      Carrying_Idle_Plank_pine_33: -5867828476732476790
+      Carrying_Idle_Plank_pine_34: 2452674160570094453
+      Carrying_Idle_Plank_pine_35: -1295733725252876607
+      Carrying_Idle_Plank_pine_36: -8900395663582942435
+      Carrying_Idle_Plank_pine_37: 5678673505790271097
+      Carrying_Idle_Plank_pine_38: -312910118408388324
+      Carrying_Idle_Plank_pine_39: -3864554187807015994
+      Carrying_Idle_Plank_pine_4: 8617014921967546424
+      Carrying_Idle_Plank_pine_40: -1078052329043342942
+      Carrying_Idle_Plank_pine_41: 2132097795853935074
+      Carrying_Idle_Plank_pine_42: 3693349269430091973
+      Carrying_Idle_Plank_pine_43: 3341527687209221934
+      Carrying_Idle_Plank_pine_44: -7634656093932762279
+      Carrying_Idle_Plank_pine_45: 8109832903238311640
+      Carrying_Idle_Plank_pine_46: 2607717288864136536
+      Carrying_Idle_Plank_pine_47: 2444022779762648577
+      Carrying_Idle_Plank_pine_48: 6063021511295766523
+      Carrying_Idle_Plank_pine_49: -5052412527194499679
+      Carrying_Idle_Plank_pine_5: 7770260638027156040
+      Carrying_Idle_Plank_pine_50: -1804076299023556626
+      Carrying_Idle_Plank_pine_51: -4472918857987164149
+      Carrying_Idle_Plank_pine_52: -7236684621805917853
+      Carrying_Idle_Plank_pine_53: 529231999687348465
+      Carrying_Idle_Plank_pine_54: 2356498516986657724
+      Carrying_Idle_Plank_pine_55: 2410689373992238140
+      Carrying_Idle_Plank_pine_56: -6432852040536996371
+      Carrying_Idle_Plank_pine_57: -7621068760045233891
+      Carrying_Idle_Plank_pine_58: 5946412726378792312
+      Carrying_Idle_Plank_pine_59: 1443624554153884330
+      Carrying_Idle_Plank_pine_6: -2192957757847409863
+      Carrying_Idle_Plank_pine_60: -928303856130057838
+      Carrying_Idle_Plank_pine_61: 936804781760479592
+      Carrying_Idle_Plank_pine_62: 3496832449491470330
+      Carrying_Idle_Plank_pine_63: -7507641802885876342
+      Carrying_Idle_Plank_pine_7: -2912192748838903020
+      Carrying_Idle_Plank_pine_8: -4226603400797596248
+      Carrying_Idle_Plank_pine_9: 2054481181480010322
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

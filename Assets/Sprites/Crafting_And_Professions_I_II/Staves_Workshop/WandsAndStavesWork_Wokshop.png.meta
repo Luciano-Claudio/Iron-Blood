@@ -1,0 +1,1911 @@
+fileFormatVersion: 2
+guid: 7f3b0c878d48ece458ca083f0dc4b3c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1682460004262240572
+    second: WandsAndStavesWork_Wokshop_0
+  - first:
+      213: 904128273642656038
+    second: WandsAndStavesWork_Wokshop_1
+  - first:
+      213: -5488315346990766931
+    second: WandsAndStavesWork_Wokshop_2
+  - first:
+      213: -8247470856271278108
+    second: WandsAndStavesWork_Wokshop_3
+  - first:
+      213: 3247530112014943168
+    second: WandsAndStavesWork_Wokshop_4
+  - first:
+      213: 2418241414244896322
+    second: WandsAndStavesWork_Wokshop_5
+  - first:
+      213: 4007576265838044247
+    second: WandsAndStavesWork_Wokshop_6
+  - first:
+      213: -360010738476440516
+    second: WandsAndStavesWork_Wokshop_7
+  - first:
+      213: -4096258611960884097
+    second: WandsAndStavesWork_Wokshop_8
+  - first:
+      213: -3257881159772924218
+    second: WandsAndStavesWork_Wokshop_9
+  - first:
+      213: -2134512212191167009
+    second: WandsAndStavesWork_Wokshop_10
+  - first:
+      213: -6301544274429576593
+    second: WandsAndStavesWork_Wokshop_11
+  - first:
+      213: -3801334935448985188
+    second: WandsAndStavesWork_Wokshop_12
+  - first:
+      213: 166417520836016161
+    second: WandsAndStavesWork_Wokshop_13
+  - first:
+      213: 5565896081835309903
+    second: WandsAndStavesWork_Wokshop_14
+  - first:
+      213: -4950769112391850203
+    second: WandsAndStavesWork_Wokshop_15
+  - first:
+      213: -6952016975581213263
+    second: WandsAndStavesWork_Wokshop_16
+  - first:
+      213: 436536142880262256
+    second: WandsAndStavesWork_Wokshop_17
+  - first:
+      213: 5346161437648489875
+    second: WandsAndStavesWork_Wokshop_18
+  - first:
+      213: 7626873391291395111
+    second: WandsAndStavesWork_Wokshop_19
+  - first:
+      213: 4426210937330125434
+    second: WandsAndStavesWork_Wokshop_20
+  - first:
+      213: -2515460019522899097
+    second: WandsAndStavesWork_Wokshop_21
+  - first:
+      213: -6216925003458173253
+    second: WandsAndStavesWork_Wokshop_22
+  - first:
+      213: -3446508824715222116
+    second: WandsAndStavesWork_Wokshop_23
+  - first:
+      213: 7409973228990693739
+    second: WandsAndStavesWork_Wokshop_24
+  - first:
+      213: -5297459841397416635
+    second: WandsAndStavesWork_Wokshop_25
+  - first:
+      213: -3179067851820349872
+    second: WandsAndStavesWork_Wokshop_26
+  - first:
+      213: -1323220955812170701
+    second: WandsAndStavesWork_Wokshop_27
+  - first:
+      213: -8788034945865099725
+    second: WandsAndStavesWork_Wokshop_28
+  - first:
+      213: -8210658295053039065
+    second: WandsAndStavesWork_Wokshop_29
+  - first:
+      213: 5807222493056277410
+    second: WandsAndStavesWork_Wokshop_30
+  - first:
+      213: -1702679621122937929
+    second: WandsAndStavesWork_Wokshop_31
+  - first:
+      213: -5194879596101839834
+    second: WandsAndStavesWork_Wokshop_32
+  - first:
+      213: 323910748384958168
+    second: WandsAndStavesWork_Wokshop_33
+  - first:
+      213: -1919785752751262104
+    second: WandsAndStavesWork_Wokshop_34
+  - first:
+      213: -2706049222383113083
+    second: WandsAndStavesWork_Wokshop_35
+  - first:
+      213: 722210344928712056
+    second: WandsAndStavesWork_Wokshop_36
+  - first:
+      213: -7535242038854953982
+    second: WandsAndStavesWork_Wokshop_37
+  - first:
+      213: -2189129230763196812
+    second: WandsAndStavesWork_Wokshop_38
+  - first:
+      213: 7806506808706394383
+    second: WandsAndStavesWork_Wokshop_39
+  - first:
+      213: 2744246660493993604
+    second: WandsAndStavesWork_Wokshop_40
+  - first:
+      213: 781462495888580797
+    second: WandsAndStavesWork_Wokshop_41
+  - first:
+      213: 7302323880664922185
+    second: WandsAndStavesWork_Wokshop_42
+  - first:
+      213: -3786146172155670335
+    second: WandsAndStavesWork_Wokshop_43
+  - first:
+      213: 5998151517917282221
+    second: WandsAndStavesWork_Wokshop_44
+  - first:
+      213: -5339542719836880043
+    second: WandsAndStavesWork_Wokshop_45
+  - first:
+      213: -7088937472533160173
+    second: WandsAndStavesWork_Wokshop_46
+  - first:
+      213: -2600614977065934451
+    second: WandsAndStavesWork_Wokshop_47
+  - first:
+      213: 2197956457056959642
+    second: WandsAndStavesWork_Wokshop_48
+  - first:
+      213: -2742702891160687775
+    second: WandsAndStavesWork_Wokshop_49
+  - first:
+      213: 6904153969730064786
+    second: WandsAndStavesWork_Wokshop_50
+  - first:
+      213: 718263724322685450
+    second: WandsAndStavesWork_Wokshop_51
+  - first:
+      213: 2954722966960085340
+    second: WandsAndStavesWork_Wokshop_52
+  - first:
+      213: 4619906770650024730
+    second: WandsAndStavesWork_Wokshop_53
+  - first:
+      213: 1875816872823176835
+    second: WandsAndStavesWork_Wokshop_54
+  - first:
+      213: -2589052094063309493
+    second: WandsAndStavesWork_Wokshop_55
+  - first:
+      213: -2528518181172607057
+    second: WandsAndStavesWork_Wokshop_56
+  - first:
+      213: 7550700557688037553
+    second: WandsAndStavesWork_Wokshop_57
+  - first:
+      213: 6009643252327333189
+    second: WandsAndStavesWork_Wokshop_58
+  - first:
+      213: 6260846342985803712
+    second: WandsAndStavesWork_Wokshop_59
+  - first:
+      213: -5141461393173198809
+    second: WandsAndStavesWork_Wokshop_60
+  - first:
+      213: 203955375968672910
+    second: WandsAndStavesWork_Wokshop_61
+  - first:
+      213: -7227680446472023848
+    second: WandsAndStavesWork_Wokshop_62
+  - first:
+      213: -8222375671591218658
+    second: WandsAndStavesWork_Wokshop_63
+  - first:
+      213: -2190364950862042319
+    second: WandsAndStavesWork_Wokshop_64
+  - first:
+      213: 5476233691909132905
+    second: WandsAndStavesWork_Wokshop_65
+  - first:
+      213: 7858057152431528147
+    second: WandsAndStavesWork_Wokshop_66
+  - first:
+      213: -1430901564056011013
+    second: WandsAndStavesWork_Wokshop_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce95294a83b6a8e0800000000000000
+      internalID: -1682460004262240572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 21
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6219bd5efdb1c8c00800000000000000
+      internalID: 904128273642656038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 14
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da46a4f254695d3b0800000000000000
+      internalID: -5488315346990766931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 11
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef409404f81b8d80800000000000000
+      internalID: -8247470856271278108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_4
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 21
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c309044e6b811d20800000000000000
+      internalID: 3247530112014943168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 14
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e843df0c15f8120800000000000000
+      internalID: 2418241414244896322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 11
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75420977165cd9730800000000000000
+      internalID: 4007576265838044247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_7
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 21
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3429c9042cf00bf0800000000000000
+      internalID: -360010738476440516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 14
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74dfedce7a2727c0800000000000000
+      internalID: -4096258611960884097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 11
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c61c4f985ea9c2d0800000000000000
+      internalID: -3257881159772924218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 21
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddbc9fb370b062e0800000000000000
+      internalID: -2134512212191167009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 14
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a7a329eda6c88a0800000000000000
+      internalID: -6301544274429576593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 11
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91e74c3402fe3bc0800000000000000
+      internalID: -3801334935448985188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_13
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 21
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128f4dd7adb3f4200800000000000000
+      internalID: 166417520836016161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_14
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 14
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b388e3ff80e3d40800000000000000
+      internalID: 5565896081835309903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 11
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52768eaf8b55b4bb0800000000000000
+      internalID: -4950769112391850203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_16
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 21
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd0ff1e469758f90800000000000000
+      internalID: -6952016975581213263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_17
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 14
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0784fff1f43ee0600800000000000000
+      internalID: 436536142880262256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 11
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d0eea9081613a40800000000000000
+      internalID: 5346161437648489875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_19
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 21
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c6dc2c0f818d960800000000000000
+      internalID: 7626873391291395111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_20
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 14
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ac28c756f0d6d30800000000000000
+      internalID: 4426210937330125434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 11
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763f3a1907a471dd0800000000000000
+      internalID: -2515460019522899097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_22
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 21
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6a1a5e5ab09b9a0800000000000000
+      internalID: -6216925003458173253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_23
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 14
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93a99bfb7a8b20d0800000000000000
+      internalID: -3446508824715222116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 11
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61052d546385d660800000000000000
+      internalID: 7409973228990693739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_25
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 21
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d1c956754ab76b0800000000000000
+      internalID: -5297459841397416635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_26
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 14
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0564267d1aea1e3d0800000000000000
+      internalID: -3179067851820349872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 11
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33476792d89f2ade0800000000000000
+      internalID: -1323220955812170701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_28
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 21
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336ddf917c0aa0680800000000000000
+      internalID: -8788034945865099725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_29
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 13
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72acf3758c1ed0e80800000000000000
+      internalID: -8210658295053039065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 11
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab1746e616679050800000000000000
+      internalID: 5807222493056277410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_31
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 21
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbaba0e7edde58e0800000000000000
+      internalID: -1702679621122937929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_32
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 13
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624dc6fe78418e7b0800000000000000
+      internalID: -5194879596101839834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_33
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 11
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d69a680c13ce7400800000000000000
+      internalID: 323910748384958168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_34
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 21
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866b762870d8b55e0800000000000000
+      internalID: -1919785752751262104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_35
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 13
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ce12bc19e227ad0800000000000000
+      internalID: -2706049222383113083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 11
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87596967b7ec50a00800000000000000
+      internalID: 722210344928712056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_37
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 21
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204d5710a417d6790800000000000000
+      internalID: -7535242038854953982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_38
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 13
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e7fe82096ae91e0800000000000000
+      internalID: -2189129230763196812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_39
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 11
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09ec95f498465c60800000000000000
+      internalID: 7806506808706394383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_40
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 21
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486ebce4cc5851620800000000000000
+      internalID: 2744246660493993604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_41
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 13
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0aab8efff48da00800000000000000
+      internalID: 781462495888580797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_42
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 11
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94872ed41e0175560800000000000000
+      internalID: 7302323880664922185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_43
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 21
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0d4f4cd18e47bc0800000000000000
+      internalID: -3786146172155670335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_44
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 13
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daffd66a607bd3350800000000000000
+      internalID: 5998151517917282221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_45
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 11
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5538919bf2226e5b0800000000000000
+      internalID: -5339542719836880043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_46
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 21
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f94b27de80f9d90800000000000000
+      internalID: -7088937472533160173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_47
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 13
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81ac6ef472c8ebd0800000000000000
+      internalID: -2600614977065934451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_48
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 11
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cf7ae90c5b08e10800000000000000
+      internalID: 2197956457056959642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_49
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 21
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b2eef7046ffe9d0800000000000000
+      internalID: -2742702891160687775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_50
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 13
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2911d58a47b70df50800000000000000
+      internalID: 6904153969730064786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_51
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 5
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a028d4f3d09c7f900800000000000000
+      internalID: 718263724322685450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_52
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 5
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59185732e8410920800000000000000
+      internalID: 2954722966960085340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_53
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 5
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b44080bb43d1040800000000000000
+      internalID: 4619906770650024730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_54
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 5
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e3f40e18d380a10800000000000000
+      internalID: 1875816872823176835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_55
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 5
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d006c76d6d11cd0800000000000000
+      internalID: -2589052094063309493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_56
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 5
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa707136c16e8ecd0800000000000000
+      internalID: -2528518181172607057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_57
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 5
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0e652e62a79c860800000000000000
+      internalID: 7550700557688037553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_58
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 5
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d3bc192ba866350800000000000000
+      internalID: 6009643252327333189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_59
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 5
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7e8fad39ef2e650800000000000000
+      internalID: 6260846342985803712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_60
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 5
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728c6818a1cd5a8b0800000000000000
+      internalID: -5141461393173198809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_61
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 5
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cd4a6755894d200800000000000000
+      internalID: 203955375968672910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_62
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 5
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d09ff58dee12bb90800000000000000
+      internalID: -7227680446472023848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_63
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 5
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12ddf404e044ed80800000000000000
+      internalID: -8222375671591218658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_64
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 5
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13be667aea24a91e0800000000000000
+      internalID: -2190364950862042319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_65
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 5
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9621549478d7ffb40800000000000000
+      internalID: 5476233691909132905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_66
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 5
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8166ba85d6d0d60800000000000000
+      internalID: 7858057152431528147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WandsAndStavesWork_Wokshop_67
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 5
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfef3e5db9a642ce0800000000000000
+      internalID: -1430901564056011013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WandsAndStavesWork_Wokshop_0: -1682460004262240572
+      WandsAndStavesWork_Wokshop_1: 904128273642656038
+      WandsAndStavesWork_Wokshop_10: -2134512212191167009
+      WandsAndStavesWork_Wokshop_11: -6301544274429576593
+      WandsAndStavesWork_Wokshop_12: -3801334935448985188
+      WandsAndStavesWork_Wokshop_13: 166417520836016161
+      WandsAndStavesWork_Wokshop_14: 5565896081835309903
+      WandsAndStavesWork_Wokshop_15: -4950769112391850203
+      WandsAndStavesWork_Wokshop_16: -6952016975581213263
+      WandsAndStavesWork_Wokshop_17: 436536142880262256
+      WandsAndStavesWork_Wokshop_18: 5346161437648489875
+      WandsAndStavesWork_Wokshop_19: 7626873391291395111
+      WandsAndStavesWork_Wokshop_2: -5488315346990766931
+      WandsAndStavesWork_Wokshop_20: 4426210937330125434
+      WandsAndStavesWork_Wokshop_21: -2515460019522899097
+      WandsAndStavesWork_Wokshop_22: -6216925003458173253
+      WandsAndStavesWork_Wokshop_23: -3446508824715222116
+      WandsAndStavesWork_Wokshop_24: 7409973228990693739
+      WandsAndStavesWork_Wokshop_25: -5297459841397416635
+      WandsAndStavesWork_Wokshop_26: -3179067851820349872
+      WandsAndStavesWork_Wokshop_27: -1323220955812170701
+      WandsAndStavesWork_Wokshop_28: -8788034945865099725
+      WandsAndStavesWork_Wokshop_29: -8210658295053039065
+      WandsAndStavesWork_Wokshop_3: -8247470856271278108
+      WandsAndStavesWork_Wokshop_30: 5807222493056277410
+      WandsAndStavesWork_Wokshop_31: -1702679621122937929
+      WandsAndStavesWork_Wokshop_32: -5194879596101839834
+      WandsAndStavesWork_Wokshop_33: 323910748384958168
+      WandsAndStavesWork_Wokshop_34: -1919785752751262104
+      WandsAndStavesWork_Wokshop_35: -2706049222383113083
+      WandsAndStavesWork_Wokshop_36: 722210344928712056
+      WandsAndStavesWork_Wokshop_37: -7535242038854953982
+      WandsAndStavesWork_Wokshop_38: -2189129230763196812
+      WandsAndStavesWork_Wokshop_39: 7806506808706394383
+      WandsAndStavesWork_Wokshop_4: 3247530112014943168
+      WandsAndStavesWork_Wokshop_40: 2744246660493993604
+      WandsAndStavesWork_Wokshop_41: 781462495888580797
+      WandsAndStavesWork_Wokshop_42: 7302323880664922185
+      WandsAndStavesWork_Wokshop_43: -3786146172155670335
+      WandsAndStavesWork_Wokshop_44: 5998151517917282221
+      WandsAndStavesWork_Wokshop_45: -5339542719836880043
+      WandsAndStavesWork_Wokshop_46: -7088937472533160173
+      WandsAndStavesWork_Wokshop_47: -2600614977065934451
+      WandsAndStavesWork_Wokshop_48: 2197956457056959642
+      WandsAndStavesWork_Wokshop_49: -2742702891160687775
+      WandsAndStavesWork_Wokshop_5: 2418241414244896322
+      WandsAndStavesWork_Wokshop_50: 6904153969730064786
+      WandsAndStavesWork_Wokshop_51: 718263724322685450
+      WandsAndStavesWork_Wokshop_52: 2954722966960085340
+      WandsAndStavesWork_Wokshop_53: 4619906770650024730
+      WandsAndStavesWork_Wokshop_54: 1875816872823176835
+      WandsAndStavesWork_Wokshop_55: -2589052094063309493
+      WandsAndStavesWork_Wokshop_56: -2528518181172607057
+      WandsAndStavesWork_Wokshop_57: 7550700557688037553
+      WandsAndStavesWork_Wokshop_58: 6009643252327333189
+      WandsAndStavesWork_Wokshop_59: 6260846342985803712
+      WandsAndStavesWork_Wokshop_6: 4007576265838044247
+      WandsAndStavesWork_Wokshop_60: -5141461393173198809
+      WandsAndStavesWork_Wokshop_61: 203955375968672910
+      WandsAndStavesWork_Wokshop_62: -7227680446472023848
+      WandsAndStavesWork_Wokshop_63: -8222375671591218658
+      WandsAndStavesWork_Wokshop_64: -2190364950862042319
+      WandsAndStavesWork_Wokshop_65: 5476233691909132905
+      WandsAndStavesWork_Wokshop_66: 7858057152431528147
+      WandsAndStavesWork_Wokshop_67: -1430901564056011013
+      WandsAndStavesWork_Wokshop_7: -360010738476440516
+      WandsAndStavesWork_Wokshop_8: -4096258611960884097
+      WandsAndStavesWork_Wokshop_9: -3257881159772924218
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

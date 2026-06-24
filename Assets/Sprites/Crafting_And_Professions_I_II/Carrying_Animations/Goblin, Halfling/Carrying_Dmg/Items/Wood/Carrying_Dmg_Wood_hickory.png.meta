@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 2cbe0e2a00db8574b82ad3ed6ee5b8ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8689988725148713148
+    second: Carrying_Dmg_Wood_hickory_0
+  - first:
+      213: -5846766115321749120
+    second: Carrying_Dmg_Wood_hickory_1
+  - first:
+      213: -7293645238988046299
+    second: Carrying_Dmg_Wood_hickory_2
+  - first:
+      213: -3540572121334668349
+    second: Carrying_Dmg_Wood_hickory_3
+  - first:
+      213: -4098803605482625103
+    second: Carrying_Dmg_Wood_hickory_4
+  - first:
+      213: -7878715357388921690
+    second: Carrying_Dmg_Wood_hickory_5
+  - first:
+      213: 4208413551852198637
+    second: Carrying_Dmg_Wood_hickory_6
+  - first:
+      213: -6369699257262463821
+    second: Carrying_Dmg_Wood_hickory_7
+  - first:
+      213: 7893335963835414015
+    second: Carrying_Dmg_Wood_hickory_8
+  - first:
+      213: 1412334971018482987
+    second: Carrying_Dmg_Wood_hickory_9
+  - first:
+      213: -1534089830693651692
+    second: Carrying_Dmg_Wood_hickory_10
+  - first:
+      213: 4005975686709656608
+    second: Carrying_Dmg_Wood_hickory_11
+  - first:
+      213: -7684639564012514502
+    second: Carrying_Dmg_Wood_hickory_12
+  - first:
+      213: -370125699993344154
+    second: Carrying_Dmg_Wood_hickory_13
+  - first:
+      213: -5541737634807388299
+    second: Carrying_Dmg_Wood_hickory_14
+  - first:
+      213: -8756293064870892099
+    second: Carrying_Dmg_Wood_hickory_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_hickory_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 115
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb083a834ba099870800000000000000
+      internalID: 8689988725148713148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_hickory_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 115
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081e473123d1cdea0800000000000000
+      internalID: -5846766115321749120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_hickory_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520066c6c44c7ca90800000000000000
+      internalID: -7293645238988046299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_hickory_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c322361a6c5ddec0800000000000000
+      internalID: -3540572121334668349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_hickory_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 83
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b72e1356df1e17c0800000000000000
+      internalID: -4098803605482625103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_hickory_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 83
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a42b6c202e29a290800000000000000
+      internalID: -7878715357388921690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_hickory_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea171a04d9476a30800000000000000
+      internalID: 4208413551852198637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_hickory_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b42dcc06484a97a0800000000000000
+      internalID: -6369699257262463821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_hickory_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 51
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5b9390d33ca8d60800000000000000
+      internalID: 7893335963835414015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_hickory_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 51
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b251b6b5c2f999310800000000000000
+      internalID: 1412334971018482987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_hickory_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b37fb4d61d5bae0800000000000000
+      internalID: -1534089830693651692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_hickory_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c3e2999a5189730800000000000000
+      internalID: 4005975686709656608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_hickory_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 19
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a331f10180daa5590800000000000000
+      internalID: -7684639564012514502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_hickory_13
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 19
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66767a903ac0ddaf0800000000000000
+      internalID: -370125699993344154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_hickory_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57764e68bfac713b0800000000000000
+      internalID: -5541737634807388299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Dmg_Wood_hickory_15
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd672fa9d56b7680800000000000000
+      internalID: -8756293064870892099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Dmg_Wood_hickory_0: 8689988725148713148
+      Carrying_Dmg_Wood_hickory_1: -5846766115321749120
+      Carrying_Dmg_Wood_hickory_10: -1534089830693651692
+      Carrying_Dmg_Wood_hickory_11: 4005975686709656608
+      Carrying_Dmg_Wood_hickory_12: -7684639564012514502
+      Carrying_Dmg_Wood_hickory_13: -370125699993344154
+      Carrying_Dmg_Wood_hickory_14: -5541737634807388299
+      Carrying_Dmg_Wood_hickory_15: -8756293064870892099
+      Carrying_Dmg_Wood_hickory_2: -7293645238988046299
+      Carrying_Dmg_Wood_hickory_3: -3540572121334668349
+      Carrying_Dmg_Wood_hickory_4: -4098803605482625103
+      Carrying_Dmg_Wood_hickory_5: -7878715357388921690
+      Carrying_Dmg_Wood_hickory_6: 4208413551852198637
+      Carrying_Dmg_Wood_hickory_7: -6369699257262463821
+      Carrying_Dmg_Wood_hickory_8: 7893335963835414015
+      Carrying_Dmg_Wood_hickory_9: 1412334971018482987
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

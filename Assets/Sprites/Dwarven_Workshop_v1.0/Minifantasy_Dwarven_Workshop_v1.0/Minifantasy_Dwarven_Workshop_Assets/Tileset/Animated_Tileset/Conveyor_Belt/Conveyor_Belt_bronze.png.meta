@@ -1,0 +1,3263 @@
+fileFormatVersion: 2
+guid: 0bced48dbba01494ebec49f288225c4e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1936740183934255882
+    second: Conveyor_Belt_bronze_0
+  - first:
+      213: -5931905889136607981
+    second: Conveyor_Belt_bronze_1
+  - first:
+      213: 6825433161764043432
+    second: Conveyor_Belt_bronze_2
+  - first:
+      213: -9205868310799772577
+    second: Conveyor_Belt_bronze_3
+  - first:
+      213: 2072365373411300569
+    second: Conveyor_Belt_bronze_4
+  - first:
+      213: 898338330128171435
+    second: Conveyor_Belt_bronze_5
+  - first:
+      213: 1909060233178124354
+    second: Conveyor_Belt_bronze_6
+  - first:
+      213: -3713205658828879927
+    second: Conveyor_Belt_bronze_7
+  - first:
+      213: -3005599827886066537
+    second: Conveyor_Belt_bronze_8
+  - first:
+      213: -7586907104271961216
+    second: Conveyor_Belt_bronze_9
+  - first:
+      213: 9095952747367447639
+    second: Conveyor_Belt_bronze_10
+  - first:
+      213: -956813707425020520
+    second: Conveyor_Belt_bronze_11
+  - first:
+      213: -6042799544671812168
+    second: Conveyor_Belt_bronze_12
+  - first:
+      213: 3717940575630028827
+    second: Conveyor_Belt_bronze_13
+  - first:
+      213: 6443683629463373694
+    second: Conveyor_Belt_bronze_14
+  - first:
+      213: 7715881296997950346
+    second: Conveyor_Belt_bronze_15
+  - first:
+      213: 4087818942399562816
+    second: Conveyor_Belt_bronze_16
+  - first:
+      213: 4436181753881430995
+    second: Conveyor_Belt_bronze_17
+  - first:
+      213: 1995220882443770627
+    second: Conveyor_Belt_bronze_18
+  - first:
+      213: -3684819001112018562
+    second: Conveyor_Belt_bronze_19
+  - first:
+      213: -8811578720777316979
+    second: Conveyor_Belt_bronze_20
+  - first:
+      213: -7733045128414465318
+    second: Conveyor_Belt_bronze_21
+  - first:
+      213: 2754611057279416737
+    second: Conveyor_Belt_bronze_22
+  - first:
+      213: -7170698960242816628
+    second: Conveyor_Belt_bronze_23
+  - first:
+      213: -5264113996354856493
+    second: Conveyor_Belt_bronze_24
+  - first:
+      213: 2996747059424213617
+    second: Conveyor_Belt_bronze_25
+  - first:
+      213: -6222228707354169238
+    second: Conveyor_Belt_bronze_26
+  - first:
+      213: 7368269416911251162
+    second: Conveyor_Belt_bronze_27
+  - first:
+      213: 928262648538283845
+    second: Conveyor_Belt_bronze_28
+  - first:
+      213: 1303790188816297770
+    second: Conveyor_Belt_bronze_29
+  - first:
+      213: 651651259107680323
+    second: Conveyor_Belt_bronze_30
+  - first:
+      213: 121467727348900583
+    second: Conveyor_Belt_bronze_31
+  - first:
+      213: 5954171364189045554
+    second: Conveyor_Belt_bronze_32
+  - first:
+      213: -539436890696953282
+    second: Conveyor_Belt_bronze_33
+  - first:
+      213: -1257581897678754052
+    second: Conveyor_Belt_bronze_34
+  - first:
+      213: -4672068623496872740
+    second: Conveyor_Belt_bronze_35
+  - first:
+      213: -8995066622475835091
+    second: Conveyor_Belt_bronze_36
+  - first:
+      213: -8354229857023570164
+    second: Conveyor_Belt_bronze_37
+  - first:
+      213: -7528569474674063467
+    second: Conveyor_Belt_bronze_38
+  - first:
+      213: -8694410929647280588
+    second: Conveyor_Belt_bronze_39
+  - first:
+      213: -2030312489674722614
+    second: Conveyor_Belt_bronze_40
+  - first:
+      213: -8326126662156616590
+    second: Conveyor_Belt_bronze_41
+  - first:
+      213: 925097584861628397
+    second: Conveyor_Belt_bronze_42
+  - first:
+      213: 6720934093057374044
+    second: Conveyor_Belt_bronze_43
+  - first:
+      213: -9113562981741453099
+    second: Conveyor_Belt_bronze_44
+  - first:
+      213: -742892471981791572
+    second: Conveyor_Belt_bronze_45
+  - first:
+      213: 6875300356553088804
+    second: Conveyor_Belt_bronze_46
+  - first:
+      213: -461621934544541316
+    second: Conveyor_Belt_bronze_47
+  - first:
+      213: -8333008890880131856
+    second: Conveyor_Belt_bronze_48
+  - first:
+      213: -3149637909950929186
+    second: Conveyor_Belt_bronze_49
+  - first:
+      213: -5332051568179769254
+    second: Conveyor_Belt_bronze_50
+  - first:
+      213: -1767612390967509422
+    second: Conveyor_Belt_bronze_51
+  - first:
+      213: 8069683317740960866
+    second: Conveyor_Belt_bronze_52
+  - first:
+      213: -3247390722090914624
+    second: Conveyor_Belt_bronze_53
+  - first:
+      213: -2242524835087929478
+    second: Conveyor_Belt_bronze_54
+  - first:
+      213: -5213629772968817331
+    second: Conveyor_Belt_bronze_55
+  - first:
+      213: 4047290779476624423
+    second: Conveyor_Belt_bronze_56
+  - first:
+      213: 4300169941368724151
+    second: Conveyor_Belt_bronze_57
+  - first:
+      213: -894516439813569285
+    second: Conveyor_Belt_bronze_58
+  - first:
+      213: -140010229852407163
+    second: Conveyor_Belt_bronze_59
+  - first:
+      213: -5937826115474471176
+    second: Conveyor_Belt_bronze_60
+  - first:
+      213: 8489221293645160512
+    second: Conveyor_Belt_bronze_61
+  - first:
+      213: 7223854250556153324
+    second: Conveyor_Belt_bronze_62
+  - first:
+      213: -7438269359532845697
+    second: Conveyor_Belt_bronze_63
+  - first:
+      213: -6081397915668260079
+    second: Conveyor_Belt_bronze_64
+  - first:
+      213: 8144243287611751424
+    second: Conveyor_Belt_bronze_65
+  - first:
+      213: -1832225237573055350
+    second: Conveyor_Belt_bronze_66
+  - first:
+      213: 3634407050541182930
+    second: Conveyor_Belt_bronze_67
+  - first:
+      213: -1225416648954346567
+    second: Conveyor_Belt_bronze_68
+  - first:
+      213: -3827621622263569860
+    second: Conveyor_Belt_bronze_69
+  - first:
+      213: -7404733087648771245
+    second: Conveyor_Belt_bronze_70
+  - first:
+      213: -3642307329747362355
+    second: Conveyor_Belt_bronze_71
+  - first:
+      213: 8812705470135169551
+    second: Conveyor_Belt_bronze_72
+  - first:
+      213: 7098428816817985752
+    second: Conveyor_Belt_bronze_73
+  - first:
+      213: 1012935507118176720
+    second: Conveyor_Belt_bronze_74
+  - first:
+      213: -4253957758577783762
+    second: Conveyor_Belt_bronze_75
+  - first:
+      213: 7484313093334369501
+    second: Conveyor_Belt_bronze_76
+  - first:
+      213: -5737063378672229518
+    second: Conveyor_Belt_bronze_77
+  - first:
+      213: -7528679066213781742
+    second: Conveyor_Belt_bronze_78
+  - first:
+      213: 2577851294883937750
+    second: Conveyor_Belt_bronze_79
+  - first:
+      213: -2340025090169015366
+    second: Conveyor_Belt_bronze_80
+  - first:
+      213: -6369733745612804186
+    second: Conveyor_Belt_bronze_81
+  - first:
+      213: -647963779585655889
+    second: Conveyor_Belt_bronze_82
+  - first:
+      213: 470650738711217143
+    second: Conveyor_Belt_bronze_83
+  - first:
+      213: -2372363361483158082
+    second: Conveyor_Belt_bronze_84
+  - first:
+      213: 1981301869776038024
+    second: Conveyor_Belt_bronze_85
+  - first:
+      213: 935639808969516206
+    second: Conveyor_Belt_bronze_86
+  - first:
+      213: -1965269895753313492
+    second: Conveyor_Belt_bronze_87
+  - first:
+      213: -2685817399830303132
+    second: Conveyor_Belt_bronze_88
+  - first:
+      213: -7402678703224917935
+    second: Conveyor_Belt_bronze_89
+  - first:
+      213: -437202543463082015
+    second: Conveyor_Belt_bronze_90
+  - first:
+      213: 4786272123188009934
+    second: Conveyor_Belt_bronze_91
+  - first:
+      213: 4676759252692091577
+    second: Conveyor_Belt_bronze_92
+  - first:
+      213: -7401947685890874521
+    second: Conveyor_Belt_bronze_93
+  - first:
+      213: -3509634268812712589
+    second: Conveyor_Belt_bronze_94
+  - first:
+      213: 1104521254175145632
+    second: Conveyor_Belt_bronze_95
+  - first:
+      213: -4031590457478787120
+    second: Conveyor_Belt_bronze_96
+  - first:
+      213: 7987921587087853432
+    second: Conveyor_Belt_bronze_97
+  - first:
+      213: 5946103654024011698
+    second: Conveyor_Belt_bronze_98
+  - first:
+      213: 1686908045897469995
+    second: Conveyor_Belt_bronze_99
+  - first:
+      213: -3692021715462425295
+    second: Conveyor_Belt_bronze_100
+  - first:
+      213: 3275342249711042490
+    second: Conveyor_Belt_bronze_101
+  - first:
+      213: 6563790979481455994
+    second: Conveyor_Belt_bronze_102
+  - first:
+      213: 4605454101001880103
+    second: Conveyor_Belt_bronze_103
+  - first:
+      213: 2371592522964627057
+    second: Conveyor_Belt_bronze_104
+  - first:
+      213: 1947219322942312642
+    second: Conveyor_Belt_bronze_105
+  - first:
+      213: 9026358838039616858
+    second: Conveyor_Belt_bronze_106
+  - first:
+      213: -499246789772419678
+    second: Conveyor_Belt_bronze_107
+  - first:
+      213: -5801696888170599637
+    second: Conveyor_Belt_bronze_108
+  - first:
+      213: 6883576978141053486
+    second: Conveyor_Belt_bronze_109
+  - first:
+      213: -5583310273309104999
+    second: Conveyor_Belt_bronze_110
+  - first:
+      213: 5764931533411882330
+    second: Conveyor_Belt_bronze_111
+  - first:
+      213: -3813166748343253768
+    second: Conveyor_Belt_bronze_112
+  - first:
+      213: -4519222605485308462
+    second: Conveyor_Belt_bronze_113
+  - first:
+      213: 7431969355213979629
+    second: Conveyor_Belt_bronze_114
+  - first:
+      213: 1735862944547050218
+    second: Conveyor_Belt_bronze_115
+  - first:
+      213: -6382091169014964267
+    second: Conveyor_Belt_bronze_116
+  - first:
+      213: 14507691543908270
+    second: Conveyor_Belt_bronze_117
+  - first:
+      213: -8104339970011942486
+    second: Conveyor_Belt_bronze_118
+  - first:
+      213: -1836144778312852016
+    second: Conveyor_Belt_bronze_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 447
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcbf5260115f15e0800000000000000
+      internalID: -1936740183934255882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_1
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 447
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31df6fcb503adada0800000000000000
+      internalID: -5931905889136607981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_2
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 447
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aafd154c4fc8be50800000000000000
+      internalID: 6825433161764043432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 423
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5411cdcb8f2e3080800000000000000
+      internalID: -9205868310799772577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_4
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 423
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d41007c35582cc10800000000000000
+      internalID: 2072365373411300569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_5
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 423
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1486f93f9877c00800000000000000
+      internalID: 898338330128171435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 399
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240186dda285e7a10800000000000000
+      internalID: 1909060233178124354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 399
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7c88f602b087cc0800000000000000
+      internalID: -3713205658828879927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_8
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 399
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79430e181e6f946d0800000000000000
+      internalID: -3005599827886066537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 375
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0837bf19f24e5b690800000000000000
+      internalID: -7586907104271961216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_10
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 375
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c3390d4d05b3e70800000000000000
+      internalID: 9095952747367447639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 375
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89505b4a007b8b2f0800000000000000
+      internalID: -956813707425020520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_12
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 375
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5c1fa84d9a32ca0800000000000000
+      internalID: -6042799544671812168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_13
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 375
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10707a4147c89330800000000000000
+      internalID: 3717940575630028827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_14
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 375
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e770a23fe109c6950800000000000000
+      internalID: 6443683629463373694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_15
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 375
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83a4acb821541b60800000000000000
+      internalID: 7715881296997950346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_16
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 375
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044c6df7ba9dab830800000000000000
+      internalID: 4087818942399562816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_17
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 375
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db0c2f1dcb709d30800000000000000
+      internalID: 4436181753881430995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b908a42d270bb10800000000000000
+      internalID: 1995220882443770627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_19
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71cb1934a4ecdcc0800000000000000
+      internalID: -3684819001112018562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_20
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d855da5d6dbf6b580800000000000000
+      internalID: -8811578720777316979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad27ac85d64bea490800000000000000
+      internalID: -7733045128414465318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_22
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9b08b79285a3620800000000000000
+      internalID: 2754611057279416737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_23
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89c673a94f8c7c90800000000000000
+      internalID: -7170698960242816628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_24
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d95b16f53c12f6b0800000000000000
+      internalID: -5264113996354856493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_25
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a3da6b295969920800000000000000
+      internalID: 2996747059424213617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_26
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60baea15f336a9a0800000000000000
+      internalID: -6222228707354169238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_27
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6ae54fef9514660800000000000000
+      internalID: 7368269416911251162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_28
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f3360f5f9d1ec00800000000000000
+      internalID: 928262648538283845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_29
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fe80ad44ef71210800000000000000
+      internalID: 1303790188816297770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_30
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340ac881e512b0900800000000000000
+      internalID: 651651259107680323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_31
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e22e44214a8fa100800000000000000
+      internalID: 121467727348900583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_32
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2338a462f4771a250800000000000000
+      internalID: 5954171364189045554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_33
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32544781098388f0800000000000000
+      internalID: -539436890696953282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_34
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe65e05deb2c8ee0800000000000000
+      internalID: -1257581897678754052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_35
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc7832375a792fb0800000000000000
+      internalID: -4672068623496872740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_36
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29ea54909a1b2380800000000000000
+      internalID: -8995066622475835091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_37
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fc5282530df0c80800000000000000
+      internalID: -8354229857023570164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_38
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597043b63f5258790800000000000000
+      internalID: -7528569474674063467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_39
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e991f035f375780800000000000000
+      internalID: -8694410929647280588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_40
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac236e53c81e2d3e0800000000000000
+      internalID: -2030312489674722614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_41
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cfe3b1ae7a37c80800000000000000
+      internalID: -8326126662156616590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_42
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 327
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7cf302a5b96dc00800000000000000
+      internalID: 925097584861628397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_43
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 327
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c573f77d2fd854d50800000000000000
+      internalID: 6720934093057374044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_44
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 327
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0a62bf0ce168180800000000000000
+      internalID: -9113562981741453099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_45
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 327
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6a6359b37b0b5f0800000000000000
+      internalID: -742892471981791572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_46
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 327
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f96745f39f96f50800000000000000
+      internalID: 6875300356553088804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_47
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 327
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79a1fadb4df799f0800000000000000
+      internalID: -461621934544541316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_48
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 327
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcfaec50943b5c80800000000000000
+      internalID: -8333008890880131856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_49
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 327
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed66546220d3a44d0800000000000000
+      internalID: -3149637909950929186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_50
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 327
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a509492695fb006b0800000000000000
+      internalID: -5332051568179769254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_51
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 303
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e7dc745ed2877e0800000000000000
+      internalID: -1767612390967509422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_52
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 303
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c78d3f8364dff60800000000000000
+      internalID: 8069683317740960866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_53
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 303
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc2fdaf753fee2d0800000000000000
+      internalID: -3247390722090914624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_54
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 279
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fa79c3b83f0e0e0800000000000000
+      internalID: -2242524835087929478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_55
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 279
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d0bcf285775a7b0800000000000000
+      internalID: -5213629772968817331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_56
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 279
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7240b6d358dda2830800000000000000
+      internalID: 4047290779476624423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_57
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 255
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba581547c54dab30800000000000000
+      internalID: 4300169941368724151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_58
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 255
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf44a2f890a0693f0800000000000000
+      internalID: -894516439813569285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_59
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 255
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58af9b010759e0ef0800000000000000
+      internalID: -140010229852407163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_60
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 207
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f64b11ab9a989da0800000000000000
+      internalID: -5937826115474471176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_61
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 207
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040e66be9c5cfc570800000000000000
+      internalID: 8489221293645160512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_62
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 207
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced5891da29404460800000000000000
+      internalID: 7223854250556153324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_63
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 183
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f755f595d65f5c890800000000000000
+      internalID: -7438269359532845697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_64
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 183
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bdacaf0d88a9ba0800000000000000
+      internalID: -6081397915668260079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_65
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 183
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c357abe1a260170800000000000000
+      internalID: 8144243287611751424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_66
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cc3fd9ad0a296e0800000000000000
+      internalID: -1832225237573055350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_67
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfaea0e4f1007230800000000000000
+      internalID: 3634407050541182930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_68
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b30a31ec027efee0800000000000000
+      internalID: -1225416648954346567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_69
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3220660a6e81eac0800000000000000
+      internalID: -3827621622263569860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_70
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3531d1e1d7a1d3990800000000000000
+      internalID: -7404733087648771245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_71
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd5b9708cce37dc0800000000000000
+      internalID: -3642307329747362355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_72
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f027c81fee40d4a70800000000000000
+      internalID: 8812705470135169551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_73
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d815d9566fa28260800000000000000
+      internalID: 7098428816817985752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_74
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9b82a1a7bae0e00800000000000000
+      internalID: 1012935507118176720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_75
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c447ef4f7e6f4c0800000000000000
+      internalID: -4253957758577783762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_76
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd40004da1f9dd760800000000000000
+      internalID: 7484313093334369501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_77
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273e65cd04bd160b0800000000000000
+      internalID: -5737063378672229518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_78
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f68662742c48790800000000000000
+      internalID: -7528679066213781742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_79
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd765b381e56c320800000000000000
+      internalID: 2577851294883937750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_80
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab379f6149f868fd0800000000000000
+      internalID: -2340025090169015366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_81
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af2eea18e82a97a0800000000000000
+      internalID: -6369733745612804186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_82
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab3a722068f107f0800000000000000
+      internalID: -647963779585655889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_83
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3482e6a56188600800000000000000
+      internalID: 470650738711217143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_84
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd05a0971ca31fd0800000000000000
+      internalID: -2372363361483158082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_85
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88861dc9d8ffe7b10800000000000000
+      internalID: 1981301869776038024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_86
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4a753f27f0cfc00800000000000000
+      internalID: 935639808969516206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_87
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23dad73175f9b4e0800000000000000
+      internalID: -1965269895753313492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_88
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e2d8f0e4f0abad0800000000000000
+      internalID: -2685817399830303132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_89
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150fde3c0f6644990800000000000000
+      internalID: -7402678703224917935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_90
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e75cf56a9ebee9f0800000000000000
+      internalID: -437202543463082015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_91
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbd9f423214c6240800000000000000
+      internalID: 4786272123188009934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_92
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2cbb403cf27e040800000000000000
+      internalID: 4676759252692091577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_93
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76323700ccff64990800000000000000
+      internalID: -7401947685890874521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_94
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37561e33a364b4fc0800000000000000
+      internalID: -3509634268812712589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_95
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae7af98a3c045f00800000000000000
+      internalID: 1104521254175145632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_96
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df4f16d6d9ec08c0800000000000000
+      internalID: -4031590457478787120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_97
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877cb049c5ccade60800000000000000
+      internalID: 7987921587087853432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_98
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfd0cff4cdc48250800000000000000
+      internalID: 5946103654024011698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_99
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20977c1ee9196710800000000000000
+      internalID: 1686908045897469995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_100
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13575da9fcd43ccc0800000000000000
+      internalID: -3692021715462425295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_101
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abffadf2c6a547d20800000000000000
+      internalID: 3275342249711042490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_102
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7dc7ef8e15471b50800000000000000
+      internalID: 6563790979481455994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_103
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7224597aa1cd9ef30800000000000000
+      internalID: 4605454101001880103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_104
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e674b95d699e020800000000000000
+      internalID: 2371592522964627057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_105
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0d0cb48a9e50b10800000000000000
+      internalID: 1947219322942312642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_106
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d1f8c1a81144d70800000000000000
+      internalID: 9026358838039616858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_107
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad5c5890b15219f0800000000000000
+      internalID: -499246789772419678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_108
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b2a1e3b6b3c7fa0800000000000000
+      internalID: -5801696888170599637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_109
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2287267ac0678f50800000000000000
+      internalID: 6883576978141053486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_110
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9942f9853e81482b0800000000000000
+      internalID: -5583310273309104999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_111
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55967b8fa6210050800000000000000
+      internalID: 5764931533411882330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_112
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f44baf9b09e41bc0800000000000000
+      internalID: -3813166748343253768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_113
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d50223fbfe7841c0800000000000000
+      internalID: -4519222605485308462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_114
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 39
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def3e1790c8a32760800000000000000
+      internalID: 7431969355213979629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_115
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 39
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae29d7ca626071810800000000000000
+      internalID: 1735862944547050218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_116
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 39
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df94b245e14e67a0800000000000000
+      internalID: -6382091169014964267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_117
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf4cf82baa833000800000000000000
+      internalID: 14507691543908270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_118
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa130746cb9978f80800000000000000
+      internalID: -8104339970011942486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_bronze_119
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd597c6d04b486e0800000000000000
+      internalID: -1836144778312852016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Conveyor_Belt_bronze_0: -1936740183934255882
+      Conveyor_Belt_bronze_1: -5931905889136607981
+      Conveyor_Belt_bronze_10: 9095952747367447639
+      Conveyor_Belt_bronze_100: -3692021715462425295
+      Conveyor_Belt_bronze_101: 3275342249711042490
+      Conveyor_Belt_bronze_102: 6563790979481455994
+      Conveyor_Belt_bronze_103: 4605454101001880103
+      Conveyor_Belt_bronze_104: 2371592522964627057
+      Conveyor_Belt_bronze_105: 1947219322942312642
+      Conveyor_Belt_bronze_106: 9026358838039616858
+      Conveyor_Belt_bronze_107: -499246789772419678
+      Conveyor_Belt_bronze_108: -5801696888170599637
+      Conveyor_Belt_bronze_109: 6883576978141053486
+      Conveyor_Belt_bronze_11: -956813707425020520
+      Conveyor_Belt_bronze_110: -5583310273309104999
+      Conveyor_Belt_bronze_111: 5764931533411882330
+      Conveyor_Belt_bronze_112: -3813166748343253768
+      Conveyor_Belt_bronze_113: -4519222605485308462
+      Conveyor_Belt_bronze_114: 7431969355213979629
+      Conveyor_Belt_bronze_115: 1735862944547050218
+      Conveyor_Belt_bronze_116: -6382091169014964267
+      Conveyor_Belt_bronze_117: 14507691543908270
+      Conveyor_Belt_bronze_118: -8104339970011942486
+      Conveyor_Belt_bronze_119: -1836144778312852016
+      Conveyor_Belt_bronze_12: -6042799544671812168
+      Conveyor_Belt_bronze_13: 3717940575630028827
+      Conveyor_Belt_bronze_14: 6443683629463373694
+      Conveyor_Belt_bronze_15: 7715881296997950346
+      Conveyor_Belt_bronze_16: 4087818942399562816
+      Conveyor_Belt_bronze_17: 4436181753881430995
+      Conveyor_Belt_bronze_18: 1995220882443770627
+      Conveyor_Belt_bronze_19: -3684819001112018562
+      Conveyor_Belt_bronze_2: 6825433161764043432
+      Conveyor_Belt_bronze_20: -8811578720777316979
+      Conveyor_Belt_bronze_21: -7733045128414465318
+      Conveyor_Belt_bronze_22: 2754611057279416737
+      Conveyor_Belt_bronze_23: -7170698960242816628
+      Conveyor_Belt_bronze_24: -5264113996354856493
+      Conveyor_Belt_bronze_25: 2996747059424213617
+      Conveyor_Belt_bronze_26: -6222228707354169238
+      Conveyor_Belt_bronze_27: 7368269416911251162
+      Conveyor_Belt_bronze_28: 928262648538283845
+      Conveyor_Belt_bronze_29: 1303790188816297770
+      Conveyor_Belt_bronze_3: -9205868310799772577
+      Conveyor_Belt_bronze_30: 651651259107680323
+      Conveyor_Belt_bronze_31: 121467727348900583
+      Conveyor_Belt_bronze_32: 5954171364189045554
+      Conveyor_Belt_bronze_33: -539436890696953282
+      Conveyor_Belt_bronze_34: -1257581897678754052
+      Conveyor_Belt_bronze_35: -4672068623496872740
+      Conveyor_Belt_bronze_36: -8995066622475835091
+      Conveyor_Belt_bronze_37: -8354229857023570164
+      Conveyor_Belt_bronze_38: -7528569474674063467
+      Conveyor_Belt_bronze_39: -8694410929647280588
+      Conveyor_Belt_bronze_4: 2072365373411300569
+      Conveyor_Belt_bronze_40: -2030312489674722614
+      Conveyor_Belt_bronze_41: -8326126662156616590
+      Conveyor_Belt_bronze_42: 925097584861628397
+      Conveyor_Belt_bronze_43: 6720934093057374044
+      Conveyor_Belt_bronze_44: -9113562981741453099
+      Conveyor_Belt_bronze_45: -742892471981791572
+      Conveyor_Belt_bronze_46: 6875300356553088804
+      Conveyor_Belt_bronze_47: -461621934544541316
+      Conveyor_Belt_bronze_48: -8333008890880131856
+      Conveyor_Belt_bronze_49: -3149637909950929186
+      Conveyor_Belt_bronze_5: 898338330128171435
+      Conveyor_Belt_bronze_50: -5332051568179769254
+      Conveyor_Belt_bronze_51: -1767612390967509422
+      Conveyor_Belt_bronze_52: 8069683317740960866
+      Conveyor_Belt_bronze_53: -3247390722090914624
+      Conveyor_Belt_bronze_54: -2242524835087929478
+      Conveyor_Belt_bronze_55: -5213629772968817331
+      Conveyor_Belt_bronze_56: 4047290779476624423
+      Conveyor_Belt_bronze_57: 4300169941368724151
+      Conveyor_Belt_bronze_58: -894516439813569285
+      Conveyor_Belt_bronze_59: -140010229852407163
+      Conveyor_Belt_bronze_6: 1909060233178124354
+      Conveyor_Belt_bronze_60: -5937826115474471176
+      Conveyor_Belt_bronze_61: 8489221293645160512
+      Conveyor_Belt_bronze_62: 7223854250556153324
+      Conveyor_Belt_bronze_63: -7438269359532845697
+      Conveyor_Belt_bronze_64: -6081397915668260079
+      Conveyor_Belt_bronze_65: 8144243287611751424
+      Conveyor_Belt_bronze_66: -1832225237573055350
+      Conveyor_Belt_bronze_67: 3634407050541182930
+      Conveyor_Belt_bronze_68: -1225416648954346567
+      Conveyor_Belt_bronze_69: -3827621622263569860
+      Conveyor_Belt_bronze_7: -3713205658828879927
+      Conveyor_Belt_bronze_70: -7404733087648771245
+      Conveyor_Belt_bronze_71: -3642307329747362355
+      Conveyor_Belt_bronze_72: 8812705470135169551
+      Conveyor_Belt_bronze_73: 7098428816817985752
+      Conveyor_Belt_bronze_74: 1012935507118176720
+      Conveyor_Belt_bronze_75: -4253957758577783762
+      Conveyor_Belt_bronze_76: 7484313093334369501
+      Conveyor_Belt_bronze_77: -5737063378672229518
+      Conveyor_Belt_bronze_78: -7528679066213781742
+      Conveyor_Belt_bronze_79: 2577851294883937750
+      Conveyor_Belt_bronze_8: -3005599827886066537
+      Conveyor_Belt_bronze_80: -2340025090169015366
+      Conveyor_Belt_bronze_81: -6369733745612804186
+      Conveyor_Belt_bronze_82: -647963779585655889
+      Conveyor_Belt_bronze_83: 470650738711217143
+      Conveyor_Belt_bronze_84: -2372363361483158082
+      Conveyor_Belt_bronze_85: 1981301869776038024
+      Conveyor_Belt_bronze_86: 935639808969516206
+      Conveyor_Belt_bronze_87: -1965269895753313492
+      Conveyor_Belt_bronze_88: -2685817399830303132
+      Conveyor_Belt_bronze_89: -7402678703224917935
+      Conveyor_Belt_bronze_9: -7586907104271961216
+      Conveyor_Belt_bronze_90: -437202543463082015
+      Conveyor_Belt_bronze_91: 4786272123188009934
+      Conveyor_Belt_bronze_92: 4676759252692091577
+      Conveyor_Belt_bronze_93: -7401947685890874521
+      Conveyor_Belt_bronze_94: -3509634268812712589
+      Conveyor_Belt_bronze_95: 1104521254175145632
+      Conveyor_Belt_bronze_96: -4031590457478787120
+      Conveyor_Belt_bronze_97: 7987921587087853432
+      Conveyor_Belt_bronze_98: 5946103654024011698
+      Conveyor_Belt_bronze_99: 1686908045897469995
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

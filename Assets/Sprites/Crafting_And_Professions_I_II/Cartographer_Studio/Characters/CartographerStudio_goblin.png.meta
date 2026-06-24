@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: ef761384357124940a34291b5e8fe84b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 532067752632575582
+    second: CartographerStudio_goblin_0
+  - first:
+      213: 1138850798990970404
+    second: CartographerStudio_goblin_1
+  - first:
+      213: 2044558665293889609
+    second: CartographerStudio_goblin_2
+  - first:
+      213: -4444723807111599096
+    second: CartographerStudio_goblin_3
+  - first:
+      213: 1692446573254874569
+    second: CartographerStudio_goblin_4
+  - first:
+      213: -618608899559154777
+    second: CartographerStudio_goblin_5
+  - first:
+      213: 877353763777523620
+    second: CartographerStudio_goblin_6
+  - first:
+      213: -4562231936883013435
+    second: CartographerStudio_goblin_7
+  - first:
+      213: 4285425429808502665
+    second: CartographerStudio_goblin_8
+  - first:
+      213: -1588178049740934261
+    second: CartographerStudio_goblin_9
+  - first:
+      213: 1871969974173289020
+    second: CartographerStudio_goblin_10
+  - first:
+      213: -1658267782487433637
+    second: CartographerStudio_goblin_11
+  - first:
+      213: -5650831967276249208
+    second: CartographerStudio_goblin_12
+  - first:
+      213: 4652137869811541426
+    second: CartographerStudio_goblin_13
+  - first:
+      213: -8690751901257681952
+    second: CartographerStudio_goblin_14
+  - first:
+      213: -4777303598722196479
+    second: CartographerStudio_goblin_15
+  - first:
+      213: 6358432385149929943
+    second: CartographerStudio_goblin_16
+  - first:
+      213: -5531525798721096429
+    second: CartographerStudio_goblin_17
+  - first:
+      213: 6331268651464982384
+    second: CartographerStudio_goblin_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CartographerStudio_goblin_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 8
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56ea105dc8426700800000000000000
+      internalID: 532067752632575582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_goblin_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ec60e84c20ecf00800000000000000
+      internalID: 1138850798990970404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_goblin_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9400a47064bbf5c10800000000000000
+      internalID: 2044558665293889609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_goblin_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c24602f3b2152c0800000000000000
+      internalID: -4444723807111599096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_goblin_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 8
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c51f200137cc7710800000000000000
+      internalID: 1692446573254874569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_goblin_5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab91eebb724a67f0800000000000000
+      internalID: -618608899559154777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_goblin_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afaf48899cfc2c00800000000000000
+      internalID: 877353763777523620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_goblin_7
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c84523a932bfa0c0800000000000000
+      internalID: -4562231936883013435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_goblin_8
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987592729b3e87b30800000000000000
+      internalID: 4285425429808502665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_goblin_9
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b837e117a78a5f9e0800000000000000
+      internalID: -1588178049740934261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_goblin_10
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3acbccf5c29af910800000000000000
+      internalID: 1871969974173289020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_goblin_11
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e9c5adc36acf8e0800000000000000
+      internalID: -1658267782487433637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_goblin_12
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fc311e3463491b0800000000000000
+      internalID: -5650831967276249208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_goblin_13
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b562489eb6bf8040800000000000000
+      internalID: 4652137869811541426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_goblin_14
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e33c7ef03f346780800000000000000
+      internalID: -8690751901257681952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_goblin_15
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cd7fd20bb93bdb0800000000000000
+      internalID: -4777303598722196479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_goblin_16
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9833dd090bd3850800000000000000
+      internalID: 6358432385149929943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_goblin_17
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315f155e7921c33b0800000000000000
+      internalID: -5531525798721096429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CartographerStudio_goblin_18
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ff2244b4f2dd750800000000000000
+      internalID: 6331268651464982384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CartographerStudio_goblin_0: 532067752632575582
+      CartographerStudio_goblin_1: 1138850798990970404
+      CartographerStudio_goblin_10: 1871969974173289020
+      CartographerStudio_goblin_11: -1658267782487433637
+      CartographerStudio_goblin_12: -5650831967276249208
+      CartographerStudio_goblin_13: 4652137869811541426
+      CartographerStudio_goblin_14: -8690751901257681952
+      CartographerStudio_goblin_15: -4777303598722196479
+      CartographerStudio_goblin_16: 6358432385149929943
+      CartographerStudio_goblin_17: -5531525798721096429
+      CartographerStudio_goblin_18: 6331268651464982384
+      CartographerStudio_goblin_2: 2044558665293889609
+      CartographerStudio_goblin_3: -4444723807111599096
+      CartographerStudio_goblin_4: 1692446573254874569
+      CartographerStudio_goblin_5: -618608899559154777
+      CartographerStudio_goblin_6: 877353763777523620
+      CartographerStudio_goblin_7: -4562231936883013435
+      CartographerStudio_goblin_8: 4285425429808502665
+      CartographerStudio_goblin_9: -1588178049740934261
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

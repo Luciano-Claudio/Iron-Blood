@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: c4dbc8a4fd3dd194ea77914fd53b7de2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8239707719620782151
+    second: Carrying_Idle_Wood_hickory_0
+  - first:
+      213: 9188518476514123087
+    second: Carrying_Idle_Wood_hickory_1
+  - first:
+      213: -6624395700978734582
+    second: Carrying_Idle_Wood_hickory_2
+  - first:
+      213: 4987514263310805400
+    second: Carrying_Idle_Wood_hickory_3
+  - first:
+      213: -512120162330960974
+    second: Carrying_Idle_Wood_hickory_4
+  - first:
+      213: 8780659593946453862
+    second: Carrying_Idle_Wood_hickory_5
+  - first:
+      213: -423718938128462676
+    second: Carrying_Idle_Wood_hickory_6
+  - first:
+      213: -4537969309652247279
+    second: Carrying_Idle_Wood_hickory_7
+  - first:
+      213: -3909503198934880277
+    second: Carrying_Idle_Wood_hickory_8
+  - first:
+      213: -639353651830350940
+    second: Carrying_Idle_Wood_hickory_9
+  - first:
+      213: -3994999872108619779
+    second: Carrying_Idle_Wood_hickory_10
+  - first:
+      213: -7271543490246442834
+    second: Carrying_Idle_Wood_hickory_11
+  - first:
+      213: 3159116289299447732
+    second: Carrying_Idle_Wood_hickory_12
+  - first:
+      213: 7980639447051763369
+    second: Carrying_Idle_Wood_hickory_13
+  - first:
+      213: -4207972383525883921
+    second: Carrying_Idle_Wood_hickory_14
+  - first:
+      213: -6756274938158175845
+    second: Carrying_Idle_Wood_hickory_15
+  - first:
+      213: 1672273243326234766
+    second: Carrying_Idle_Wood_hickory_16
+  - first:
+      213: -5063328351185266703
+    second: Carrying_Idle_Wood_hickory_17
+  - first:
+      213: -4066291481891410059
+    second: Carrying_Idle_Wood_hickory_18
+  - first:
+      213: -1072279367416179115
+    second: Carrying_Idle_Wood_hickory_19
+  - first:
+      213: 2309534572340374224
+    second: Carrying_Idle_Wood_hickory_20
+  - first:
+      213: 7689224140819770429
+    second: Carrying_Idle_Wood_hickory_21
+  - first:
+      213: -5813097555394603470
+    second: Carrying_Idle_Wood_hickory_22
+  - first:
+      213: 339230547532752673
+    second: Carrying_Idle_Wood_hickory_23
+  - first:
+      213: -1200171888352171483
+    second: Carrying_Idle_Wood_hickory_24
+  - first:
+      213: -8248327312168942122
+    second: Carrying_Idle_Wood_hickory_25
+  - first:
+      213: -6972206459707414493
+    second: Carrying_Idle_Wood_hickory_26
+  - first:
+      213: 333341601797072025
+    second: Carrying_Idle_Wood_hickory_27
+  - first:
+      213: 4148088303558318159
+    second: Carrying_Idle_Wood_hickory_28
+  - first:
+      213: -7638609723030748201
+    second: Carrying_Idle_Wood_hickory_29
+  - first:
+      213: 9062406172268200898
+    second: Carrying_Idle_Wood_hickory_30
+  - first:
+      213: 1550296362312394860
+    second: Carrying_Idle_Wood_hickory_31
+  - first:
+      213: 8415033805901979499
+    second: Carrying_Idle_Wood_hickory_32
+  - first:
+      213: 496217705197312536
+    second: Carrying_Idle_Wood_hickory_33
+  - first:
+      213: 849024972954058030
+    second: Carrying_Idle_Wood_hickory_34
+  - first:
+      213: 6274343797945033148
+    second: Carrying_Idle_Wood_hickory_35
+  - first:
+      213: -1756421232127868214
+    second: Carrying_Idle_Wood_hickory_36
+  - first:
+      213: -906908086453970859
+    second: Carrying_Idle_Wood_hickory_37
+  - first:
+      213: -3855987592741076429
+    second: Carrying_Idle_Wood_hickory_38
+  - first:
+      213: 5682531144956070568
+    second: Carrying_Idle_Wood_hickory_39
+  - first:
+      213: 2229538782456240768
+    second: Carrying_Idle_Wood_hickory_40
+  - first:
+      213: 6101128057686678632
+    second: Carrying_Idle_Wood_hickory_41
+  - first:
+      213: 6778241974635121756
+    second: Carrying_Idle_Wood_hickory_42
+  - first:
+      213: 9117230727369529489
+    second: Carrying_Idle_Wood_hickory_43
+  - first:
+      213: -5291255280972049727
+    second: Carrying_Idle_Wood_hickory_44
+  - first:
+      213: -4473025193084369105
+    second: Carrying_Idle_Wood_hickory_45
+  - first:
+      213: 276035953183199467
+    second: Carrying_Idle_Wood_hickory_46
+  - first:
+      213: 3677195462403385631
+    second: Carrying_Idle_Wood_hickory_47
+  - first:
+      213: 1309272938245787020
+    second: Carrying_Idle_Wood_hickory_48
+  - first:
+      213: 4598083940448298244
+    second: Carrying_Idle_Wood_hickory_49
+  - first:
+      213: -1407261669595541397
+    second: Carrying_Idle_Wood_hickory_50
+  - first:
+      213: 7398371847070660841
+    second: Carrying_Idle_Wood_hickory_51
+  - first:
+      213: -1876835929550841798
+    second: Carrying_Idle_Wood_hickory_52
+  - first:
+      213: -8009034954096126880
+    second: Carrying_Idle_Wood_hickory_53
+  - first:
+      213: 7719427536504506316
+    second: Carrying_Idle_Wood_hickory_54
+  - first:
+      213: 2866481932265459701
+    second: Carrying_Idle_Wood_hickory_55
+  - first:
+      213: 586166964226078068
+    second: Carrying_Idle_Wood_hickory_56
+  - first:
+      213: 3399575607485919364
+    second: Carrying_Idle_Wood_hickory_57
+  - first:
+      213: -4263340470407715760
+    second: Carrying_Idle_Wood_hickory_58
+  - first:
+      213: 8347463029017873275
+    second: Carrying_Idle_Wood_hickory_59
+  - first:
+      213: 491270747791981991
+    second: Carrying_Idle_Wood_hickory_60
+  - first:
+      213: 8348959143139406460
+    second: Carrying_Idle_Wood_hickory_61
+  - first:
+      213: -7116779992926021383
+    second: Carrying_Idle_Wood_hickory_62
+  - first:
+      213: -5961812025341461352
+    second: Carrying_Idle_Wood_hickory_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b795fe1c7da6ad80800000000000000
+      internalID: -8239707719620782151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ddcbc1fdc248f70800000000000000
+      internalID: 9188518476514123087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0aa98f153b6114a0800000000000000
+      internalID: -6624395700978734582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899a5d82cc5373540800000000000000
+      internalID: 4987514263310805400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb92f9fc6594e8f0800000000000000
+      internalID: -512120162330960974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667ddc6f06b2bd970800000000000000
+      internalID: 8780659593946453862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac4f38eed5ae1af0800000000000000
+      internalID: -423718938128462676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d9d80c4f4e501c0800000000000000
+      internalID: -4537969309652247279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befab33dd87aeb9c0800000000000000
+      internalID: -3909503198934880277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab9dc8bd3f8027f0800000000000000
+      internalID: -639353651830350940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df71c3168c8ee88c0800000000000000
+      internalID: -3994999872108619779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_11
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea08e0fc8b9461b90800000000000000
+      internalID: -7271543490246442834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_12
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bff7d3078f67db20800000000000000
+      internalID: 3159116289299447732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae7df93b4de0ce60800000000000000
+      internalID: 7980639447051763369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_14
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef294779674a95c0800000000000000
+      internalID: -4207972383525883921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9925327db3ec32a0800000000000000
+      internalID: -6756274938158175845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80c9db97ab153710800000000000000
+      internalID: 1672273243326234766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f71076f0b17bb9b0800000000000000
+      internalID: -5063328351185266703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f6aacf071a197c0800000000000000
+      internalID: -4066291481891410059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5569d25b89f7e11f0800000000000000
+      internalID: -1072279367416179115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dae4d4057d1d0020800000000000000
+      internalID: 2309534572340374224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_21
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cabe7ed9c95ba60800000000000000
+      internalID: 7689224140819770429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236530e829ab35fa0800000000000000
+      internalID: -5813097555394603470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_23
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127a6aab26035b400800000000000000
+      internalID: 339230547532752673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_24
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52aeb5db602285fe0800000000000000
+      internalID: -1200171888352171483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d58407d20e088d80800000000000000
+      internalID: -8248327312168942122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328a47c4a2fbd3f90800000000000000
+      internalID: -6972206459707414493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_27
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99469f3bb6440a400800000000000000
+      internalID: 333341601797072025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_28
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48db86a558f09930800000000000000
+      internalID: 4148088303558318159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_29
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d348e09de43ef590800000000000000
+      internalID: -7638609723030748201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_30
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c38a54266224cd70800000000000000
+      internalID: 9062406172268200898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_31
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 82
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68e534e352c38510800000000000000
+      internalID: 1550296362312394860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_32
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fd0b569a438c470800000000000000
+      internalID: 8415033805901979499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a9b81bf5be2e600800000000000000
+      internalID: 496217705197312536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_34
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dbc5ee6b758cb00800000000000000
+      internalID: 849024972954058030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_35
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1603bf072f21750800000000000000
+      internalID: 6274343797945033148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_36
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2801ff130ff97e0800000000000000
+      internalID: -1756421232127868214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_37
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5585bfe76e30a63f0800000000000000
+      internalID: -906908086453970859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_38
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332ca5cd6b7cc7ac0800000000000000
+      internalID: -3855987592741076429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_39
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa433018f76cde40800000000000000
+      internalID: 5682531144956070568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_40
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ad245c5b9e0fe10800000000000000
+      internalID: 2229538782456240768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_41
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c559fa4af8ba450800000000000000
+      internalID: 6101128057686678632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_42
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cc4cbc927211e50800000000000000
+      internalID: 6778241974635121756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_43
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19813289a09e68e70800000000000000
+      internalID: 9117230727369529489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_44
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c250c13b5fa196b0800000000000000
+      internalID: -5291255280972049727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_45
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2745d6394f9ce1c0800000000000000
+      internalID: -4473025193084369105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_46
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be098b6ac3da4d300800000000000000
+      internalID: 276035953183199467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_47
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 50
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f196b3a5ac5080330800000000000000
+      internalID: 3677195462403385631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d0c2eecc87b2210800000000000000
+      internalID: 1309272938245787020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_49
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40569dd6bfcafcf30800000000000000
+      internalID: 4598083940448298244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_50
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b601cbda7f6687ce0800000000000000
+      internalID: -1407261669595541397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_51
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8b5e42ffb4ca660800000000000000
+      internalID: 7398371847070660841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_52
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a389e6d7aa324f5e0800000000000000
+      internalID: -1876835929550841798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_53
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064d96794213ad090800000000000000
+      internalID: -8009034954096126880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_54
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc748b6f17ae02b60800000000000000
+      internalID: 7719427536504506316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_55
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff02cf412ac7c720800000000000000
+      internalID: 2866481932265459701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_56
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475b3c19fbb722800800000000000000
+      internalID: 586166964226078068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_57
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480f747d008bd2f20800000000000000
+      internalID: 3399575607485919364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_58
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0542dc82e6295d4c0800000000000000
+      internalID: -4263340470407715760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_59
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b015ce56528d370800000000000000
+      internalID: 8347463029017873275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_60
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad7eaa642851d600800000000000000
+      internalID: 491270747791981991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_61
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72f2132b167dd370800000000000000
+      internalID: 8348959143139406460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_62
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f899018d4e1c3d90800000000000000
+      internalID: -7116779992926021383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Wood_hickory_63
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89cbedbcc83634da0800000000000000
+      internalID: -5961812025341461352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Idle_Wood_hickory_0: -8239707719620782151
+      Carrying_Idle_Wood_hickory_1: 9188518476514123087
+      Carrying_Idle_Wood_hickory_10: -3994999872108619779
+      Carrying_Idle_Wood_hickory_11: -7271543490246442834
+      Carrying_Idle_Wood_hickory_12: 3159116289299447732
+      Carrying_Idle_Wood_hickory_13: 7980639447051763369
+      Carrying_Idle_Wood_hickory_14: -4207972383525883921
+      Carrying_Idle_Wood_hickory_15: -6756274938158175845
+      Carrying_Idle_Wood_hickory_16: 1672273243326234766
+      Carrying_Idle_Wood_hickory_17: -5063328351185266703
+      Carrying_Idle_Wood_hickory_18: -4066291481891410059
+      Carrying_Idle_Wood_hickory_19: -1072279367416179115
+      Carrying_Idle_Wood_hickory_2: -6624395700978734582
+      Carrying_Idle_Wood_hickory_20: 2309534572340374224
+      Carrying_Idle_Wood_hickory_21: 7689224140819770429
+      Carrying_Idle_Wood_hickory_22: -5813097555394603470
+      Carrying_Idle_Wood_hickory_23: 339230547532752673
+      Carrying_Idle_Wood_hickory_24: -1200171888352171483
+      Carrying_Idle_Wood_hickory_25: -8248327312168942122
+      Carrying_Idle_Wood_hickory_26: -6972206459707414493
+      Carrying_Idle_Wood_hickory_27: 333341601797072025
+      Carrying_Idle_Wood_hickory_28: 4148088303558318159
+      Carrying_Idle_Wood_hickory_29: -7638609723030748201
+      Carrying_Idle_Wood_hickory_3: 4987514263310805400
+      Carrying_Idle_Wood_hickory_30: 9062406172268200898
+      Carrying_Idle_Wood_hickory_31: 1550296362312394860
+      Carrying_Idle_Wood_hickory_32: 8415033805901979499
+      Carrying_Idle_Wood_hickory_33: 496217705197312536
+      Carrying_Idle_Wood_hickory_34: 849024972954058030
+      Carrying_Idle_Wood_hickory_35: 6274343797945033148
+      Carrying_Idle_Wood_hickory_36: -1756421232127868214
+      Carrying_Idle_Wood_hickory_37: -906908086453970859
+      Carrying_Idle_Wood_hickory_38: -3855987592741076429
+      Carrying_Idle_Wood_hickory_39: 5682531144956070568
+      Carrying_Idle_Wood_hickory_4: -512120162330960974
+      Carrying_Idle_Wood_hickory_40: 2229538782456240768
+      Carrying_Idle_Wood_hickory_41: 6101128057686678632
+      Carrying_Idle_Wood_hickory_42: 6778241974635121756
+      Carrying_Idle_Wood_hickory_43: 9117230727369529489
+      Carrying_Idle_Wood_hickory_44: -5291255280972049727
+      Carrying_Idle_Wood_hickory_45: -4473025193084369105
+      Carrying_Idle_Wood_hickory_46: 276035953183199467
+      Carrying_Idle_Wood_hickory_47: 3677195462403385631
+      Carrying_Idle_Wood_hickory_48: 1309272938245787020
+      Carrying_Idle_Wood_hickory_49: 4598083940448298244
+      Carrying_Idle_Wood_hickory_5: 8780659593946453862
+      Carrying_Idle_Wood_hickory_50: -1407261669595541397
+      Carrying_Idle_Wood_hickory_51: 7398371847070660841
+      Carrying_Idle_Wood_hickory_52: -1876835929550841798
+      Carrying_Idle_Wood_hickory_53: -8009034954096126880
+      Carrying_Idle_Wood_hickory_54: 7719427536504506316
+      Carrying_Idle_Wood_hickory_55: 2866481932265459701
+      Carrying_Idle_Wood_hickory_56: 586166964226078068
+      Carrying_Idle_Wood_hickory_57: 3399575607485919364
+      Carrying_Idle_Wood_hickory_58: -4263340470407715760
+      Carrying_Idle_Wood_hickory_59: 8347463029017873275
+      Carrying_Idle_Wood_hickory_6: -423718938128462676
+      Carrying_Idle_Wood_hickory_60: 491270747791981991
+      Carrying_Idle_Wood_hickory_61: 8348959143139406460
+      Carrying_Idle_Wood_hickory_62: -7116779992926021383
+      Carrying_Idle_Wood_hickory_63: -5961812025341461352
+      Carrying_Idle_Wood_hickory_7: -4537969309652247279
+      Carrying_Idle_Wood_hickory_8: -3909503198934880277
+      Carrying_Idle_Wood_hickory_9: -639353651830350940
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

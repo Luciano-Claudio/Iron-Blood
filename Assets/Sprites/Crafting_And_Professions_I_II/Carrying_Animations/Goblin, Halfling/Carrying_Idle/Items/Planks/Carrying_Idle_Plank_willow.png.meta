@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: e2bd6cf44a5ce2044906639e089b1547
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1065921086912432231
+    second: Carrying_Idle_Plank_willow_0
+  - first:
+      213: -8275485543742437319
+    second: Carrying_Idle_Plank_willow_1
+  - first:
+      213: -6898552213415739320
+    second: Carrying_Idle_Plank_willow_2
+  - first:
+      213: -3142312871702429096
+    second: Carrying_Idle_Plank_willow_3
+  - first:
+      213: 7212018998181808321
+    second: Carrying_Idle_Plank_willow_4
+  - first:
+      213: -5225018352516478017
+    second: Carrying_Idle_Plank_willow_5
+  - first:
+      213: 679105558002695965
+    second: Carrying_Idle_Plank_willow_6
+  - first:
+      213: 309570626456994564
+    second: Carrying_Idle_Plank_willow_7
+  - first:
+      213: -4279985274584978301
+    second: Carrying_Idle_Plank_willow_8
+  - first:
+      213: 2296193824924338262
+    second: Carrying_Idle_Plank_willow_9
+  - first:
+      213: 4691210189351334719
+    second: Carrying_Idle_Plank_willow_10
+  - first:
+      213: 5233625897569681947
+    second: Carrying_Idle_Plank_willow_11
+  - first:
+      213: -850967735906840931
+    second: Carrying_Idle_Plank_willow_12
+  - first:
+      213: 690901742694399199
+    second: Carrying_Idle_Plank_willow_13
+  - first:
+      213: -7232951488095684235
+    second: Carrying_Idle_Plank_willow_14
+  - first:
+      213: -637580114491413652
+    second: Carrying_Idle_Plank_willow_15
+  - first:
+      213: 8142226292272650002
+    second: Carrying_Idle_Plank_willow_16
+  - first:
+      213: 1170881201820572811
+    second: Carrying_Idle_Plank_willow_17
+  - first:
+      213: 5765689388748418632
+    second: Carrying_Idle_Plank_willow_18
+  - first:
+      213: -3887830597234610618
+    second: Carrying_Idle_Plank_willow_19
+  - first:
+      213: -3833634542570961791
+    second: Carrying_Idle_Plank_willow_20
+  - first:
+      213: -494908139265046323
+    second: Carrying_Idle_Plank_willow_21
+  - first:
+      213: -6684613153050449807
+    second: Carrying_Idle_Plank_willow_22
+  - first:
+      213: 6344787375917196388
+    second: Carrying_Idle_Plank_willow_23
+  - first:
+      213: 5623228137621800871
+    second: Carrying_Idle_Plank_willow_24
+  - first:
+      213: -8950682507334934012
+    second: Carrying_Idle_Plank_willow_25
+  - first:
+      213: 8829498422668822132
+    second: Carrying_Idle_Plank_willow_26
+  - first:
+      213: -7022734474280598877
+    second: Carrying_Idle_Plank_willow_27
+  - first:
+      213: 7649256138611074515
+    second: Carrying_Idle_Plank_willow_28
+  - first:
+      213: -394443952625220959
+    second: Carrying_Idle_Plank_willow_29
+  - first:
+      213: 5677708462080902281
+    second: Carrying_Idle_Plank_willow_30
+  - first:
+      213: 8092078858439389777
+    second: Carrying_Idle_Plank_willow_31
+  - first:
+      213: -4203871117951489638
+    second: Carrying_Idle_Plank_willow_32
+  - first:
+      213: 2614983464316654122
+    second: Carrying_Idle_Plank_willow_33
+  - first:
+      213: -11905664617440331
+    second: Carrying_Idle_Plank_willow_34
+  - first:
+      213: -1259218301920110009
+    second: Carrying_Idle_Plank_willow_35
+  - first:
+      213: -6171464301436546231
+    second: Carrying_Idle_Plank_willow_36
+  - first:
+      213: 7419457678048324671
+    second: Carrying_Idle_Plank_willow_37
+  - first:
+      213: -1740427110739421606
+    second: Carrying_Idle_Plank_willow_38
+  - first:
+      213: -6700476992715786954
+    second: Carrying_Idle_Plank_willow_39
+  - first:
+      213: 497869773530998864
+    second: Carrying_Idle_Plank_willow_40
+  - first:
+      213: -1104240017155078799
+    second: Carrying_Idle_Plank_willow_41
+  - first:
+      213: -1849301677738379328
+    second: Carrying_Idle_Plank_willow_42
+  - first:
+      213: -5137379738777012839
+    second: Carrying_Idle_Plank_willow_43
+  - first:
+      213: 7431450208410037381
+    second: Carrying_Idle_Plank_willow_44
+  - first:
+      213: 6605604638157555139
+    second: Carrying_Idle_Plank_willow_45
+  - first:
+      213: -5804333975703737049
+    second: Carrying_Idle_Plank_willow_46
+  - first:
+      213: 3969498812150982844
+    second: Carrying_Idle_Plank_willow_47
+  - first:
+      213: -250720654836324834
+    second: Carrying_Idle_Plank_willow_48
+  - first:
+      213: 2667103787070796645
+    second: Carrying_Idle_Plank_willow_49
+  - first:
+      213: -408897005438764256
+    second: Carrying_Idle_Plank_willow_50
+  - first:
+      213: 2461651940742826269
+    second: Carrying_Idle_Plank_willow_51
+  - first:
+      213: 2182344506540216882
+    second: Carrying_Idle_Plank_willow_52
+  - first:
+      213: -391942124571671433
+    second: Carrying_Idle_Plank_willow_53
+  - first:
+      213: -1391755867025198632
+    second: Carrying_Idle_Plank_willow_54
+  - first:
+      213: -4406772296240778618
+    second: Carrying_Idle_Plank_willow_55
+  - first:
+      213: 1259566001300925804
+    second: Carrying_Idle_Plank_willow_56
+  - first:
+      213: -8777963011837638020
+    second: Carrying_Idle_Plank_willow_57
+  - first:
+      213: 2872171577837464594
+    second: Carrying_Idle_Plank_willow_58
+  - first:
+      213: -5059175401549958853
+    second: Carrying_Idle_Plank_willow_59
+  - first:
+      213: 3399805726921689693
+    second: Carrying_Idle_Plank_willow_60
+  - first:
+      213: -5456766721422985109
+    second: Carrying_Idle_Plank_willow_61
+  - first:
+      213: 4925419467800778832
+    second: Carrying_Idle_Plank_willow_62
+  - first:
+      213: -5926023067266693886
+    second: Carrying_Idle_Plank_willow_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7688300c499eace00800000000000000
+      internalID: 1065921086912432231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9380a5d4eb1972d80800000000000000
+      internalID: -8275485543742437319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840cededf4b6340a0800000000000000
+      internalID: -6898552213415739320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8520a0587134464d0800000000000000
+      internalID: -3142312871702429096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8cef3611d361460800000000000000
+      internalID: 7212018998181808321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbcb51ed710d77b0800000000000000
+      internalID: -5225018352516478017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f7ebd28eaac6900800000000000000
+      internalID: 679105558002695965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4034dd638d0db4400800000000000000
+      internalID: 309570626456994564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ca570b1107a94c0800000000000000
+      internalID: -4279985274584978301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6588f063e18bddf10800000000000000
+      internalID: 2296193824924338262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33baf6efc68a1140800000000000000
+      internalID: 4691210189351334719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_11
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b120def560391a840800000000000000
+      internalID: 5233625897569681947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_12
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e44f15a51c034f0800000000000000
+      internalID: -850967735906840931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc7ff37973969900800000000000000
+      internalID: 690901742694399199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_14
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5797c6281f46f9b90800000000000000
+      internalID: -7232951488095684235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 114
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6be2ef834cd627f0800000000000000
+      internalID: -637580114491413652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217d1c76caffef070800000000000000
+      internalID: 8142226292272650002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c92bcdf3ecf3010800000000000000
+      internalID: 1170881201820572811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ea69d73f7d30050800000000000000
+      internalID: 5765689388748418632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64eafe0aba6ab0ac0800000000000000
+      internalID: -3887830597234610618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_20
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184046be1b13ccac0800000000000000
+      internalID: -3833634542570961791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_21
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc848a26babb129f0800000000000000
+      internalID: -494908139265046323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_22
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178268ff0cb7b33a0800000000000000
+      internalID: -6684613153050449807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_23
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4646de490863d0850800000000000000
+      internalID: 6344787375917196388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_24
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7cde1b238b90e40800000000000000
+      internalID: 5623228137621800871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_25
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402affcaea9c8c380800000000000000
+      internalID: -8950682507334934012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_26
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4760c04e80ea88a70800000000000000
+      internalID: 8829498422668822132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_27
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a28d94243c3a8e90800000000000000
+      internalID: -7022734474280598877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_28
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5a3e93eed972a60800000000000000
+      internalID: 7649256138611074515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_29
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a209ff9057a68af0800000000000000
+      internalID: -394443952625220959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_30
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984cf84b3c54bce40800000000000000
+      internalID: 5677708462080902281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_31
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 82
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1527abb19d6dc4070800000000000000
+      internalID: 8092078858439389777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a992af4cd79d8a5c0800000000000000
+      internalID: -4203871117951489638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_33
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a225d142b994a4420800000000000000
+      internalID: 2614983464316654122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_34
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb99a17cd3b5dff0800000000000000
+      internalID: -11905664617440331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_35
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a916340ab568ee0800000000000000
+      internalID: -1259218301920110009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_36
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943ded86aed8a5aa0800000000000000
+      internalID: -6171464301436546231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_37
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c6d1eb27537f660800000000000000
+      internalID: 7419457678048324671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_38
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56dae293c2c8d7e0800000000000000
+      internalID: -1740427110739421606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_39
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6357f7ffcaf1303a0800000000000000
+      internalID: -6700476992715786954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_40
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05828b3dbe9c8e600800000000000000
+      internalID: 497869773530998864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_41
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17543be0e83fca0f0800000000000000
+      internalID: -1104240017155078799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_42
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7bedf0ce5f556e0800000000000000
+      internalID: -1849301677738379328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_43
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99538e9b85c54b8b0800000000000000
+      internalID: -5137379738777012839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_44
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c684e4790d12760800000000000000
+      internalID: 7431450208410037381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_45
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5cd00ab62dbab50800000000000000
+      internalID: 6605604638157555139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_46
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72da274700dd27fa0800000000000000
+      internalID: -5804333975703737049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_47
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8289a632e761730800000000000000
+      internalID: 3969498812150982844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_48
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16a0ae84e2458cf0800000000000000
+      internalID: -250720654836324834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_49
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563347f63c4730520800000000000000
+      internalID: 2667103787070796645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_50
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bf919075e435af0800000000000000
+      internalID: -408897005438764256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_51
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1980a0d56b892220800000000000000
+      internalID: 2461651940742826269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_52
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232dad124ce394e10800000000000000
+      internalID: 2182344506540216882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_53
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774c46cd6ba8f8af0800000000000000
+      internalID: -391942124571671433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_54
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1b5eba96d7face0800000000000000
+      internalID: -1391755867025198632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_55
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6823984d1fff7d2c0800000000000000
+      internalID: -4406772296240778618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_56
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d63beca90ea7110800000000000000
+      internalID: 1259566001300925804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_57
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a46ebf5296e2680800000000000000
+      internalID: -8777963011837638020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_58
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ca9f625d00cd720800000000000000
+      internalID: 2872171577837464594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_59
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b317836e6c23ac9b0800000000000000
+      internalID: -5059175401549958853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_60
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a8182bb498e2f20800000000000000
+      internalID: 3399805726921689693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_61
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68f86bf39ba544b0800000000000000
+      internalID: -5456766721422985109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_62
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0581f04f8ea9a5440800000000000000
+      internalID: 4925419467800778832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrying_Idle_Plank_willow_63
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2054cc0fa6982cda0800000000000000
+      internalID: -5926023067266693886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrying_Idle_Plank_willow_0: 1065921086912432231
+      Carrying_Idle_Plank_willow_1: -8275485543742437319
+      Carrying_Idle_Plank_willow_10: 4691210189351334719
+      Carrying_Idle_Plank_willow_11: 5233625897569681947
+      Carrying_Idle_Plank_willow_12: -850967735906840931
+      Carrying_Idle_Plank_willow_13: 690901742694399199
+      Carrying_Idle_Plank_willow_14: -7232951488095684235
+      Carrying_Idle_Plank_willow_15: -637580114491413652
+      Carrying_Idle_Plank_willow_16: 8142226292272650002
+      Carrying_Idle_Plank_willow_17: 1170881201820572811
+      Carrying_Idle_Plank_willow_18: 5765689388748418632
+      Carrying_Idle_Plank_willow_19: -3887830597234610618
+      Carrying_Idle_Plank_willow_2: -6898552213415739320
+      Carrying_Idle_Plank_willow_20: -3833634542570961791
+      Carrying_Idle_Plank_willow_21: -494908139265046323
+      Carrying_Idle_Plank_willow_22: -6684613153050449807
+      Carrying_Idle_Plank_willow_23: 6344787375917196388
+      Carrying_Idle_Plank_willow_24: 5623228137621800871
+      Carrying_Idle_Plank_willow_25: -8950682507334934012
+      Carrying_Idle_Plank_willow_26: 8829498422668822132
+      Carrying_Idle_Plank_willow_27: -7022734474280598877
+      Carrying_Idle_Plank_willow_28: 7649256138611074515
+      Carrying_Idle_Plank_willow_29: -394443952625220959
+      Carrying_Idle_Plank_willow_3: -3142312871702429096
+      Carrying_Idle_Plank_willow_30: 5677708462080902281
+      Carrying_Idle_Plank_willow_31: 8092078858439389777
+      Carrying_Idle_Plank_willow_32: -4203871117951489638
+      Carrying_Idle_Plank_willow_33: 2614983464316654122
+      Carrying_Idle_Plank_willow_34: -11905664617440331
+      Carrying_Idle_Plank_willow_35: -1259218301920110009
+      Carrying_Idle_Plank_willow_36: -6171464301436546231
+      Carrying_Idle_Plank_willow_37: 7419457678048324671
+      Carrying_Idle_Plank_willow_38: -1740427110739421606
+      Carrying_Idle_Plank_willow_39: -6700476992715786954
+      Carrying_Idle_Plank_willow_4: 7212018998181808321
+      Carrying_Idle_Plank_willow_40: 497869773530998864
+      Carrying_Idle_Plank_willow_41: -1104240017155078799
+      Carrying_Idle_Plank_willow_42: -1849301677738379328
+      Carrying_Idle_Plank_willow_43: -5137379738777012839
+      Carrying_Idle_Plank_willow_44: 7431450208410037381
+      Carrying_Idle_Plank_willow_45: 6605604638157555139
+      Carrying_Idle_Plank_willow_46: -5804333975703737049
+      Carrying_Idle_Plank_willow_47: 3969498812150982844
+      Carrying_Idle_Plank_willow_48: -250720654836324834
+      Carrying_Idle_Plank_willow_49: 2667103787070796645
+      Carrying_Idle_Plank_willow_5: -5225018352516478017
+      Carrying_Idle_Plank_willow_50: -408897005438764256
+      Carrying_Idle_Plank_willow_51: 2461651940742826269
+      Carrying_Idle_Plank_willow_52: 2182344506540216882
+      Carrying_Idle_Plank_willow_53: -391942124571671433
+      Carrying_Idle_Plank_willow_54: -1391755867025198632
+      Carrying_Idle_Plank_willow_55: -4406772296240778618
+      Carrying_Idle_Plank_willow_56: 1259566001300925804
+      Carrying_Idle_Plank_willow_57: -8777963011837638020
+      Carrying_Idle_Plank_willow_58: 2872171577837464594
+      Carrying_Idle_Plank_willow_59: -5059175401549958853
+      Carrying_Idle_Plank_willow_6: 679105558002695965
+      Carrying_Idle_Plank_willow_60: 3399805726921689693
+      Carrying_Idle_Plank_willow_61: -5456766721422985109
+      Carrying_Idle_Plank_willow_62: 4925419467800778832
+      Carrying_Idle_Plank_willow_63: -5926023067266693886
+      Carrying_Idle_Plank_willow_7: 309570626456994564
+      Carrying_Idle_Plank_willow_8: -4279985274584978301
+      Carrying_Idle_Plank_willow_9: 2296193824924338262
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

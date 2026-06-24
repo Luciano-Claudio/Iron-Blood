@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: dc9977a0fd563924a8580854d1b5a174
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9085165228878415254
+    second: Premade_Interior_c-prop_shadows_and_lights_0
+  - first:
+      213: -5028743467436430949
+    second: Premade_Interior_c-prop_shadows_and_lights_1
+  - first:
+      213: 1371699554285191025
+    second: Premade_Interior_c-prop_shadows_and_lights_2
+  - first:
+      213: 3588737410589664143
+    second: Premade_Interior_c-prop_shadows_and_lights_3
+  - first:
+      213: -3038248334955130551
+    second: Premade_Interior_c-prop_shadows_and_lights_4
+  - first:
+      213: -4104520017772918548
+    second: Premade_Interior_c-prop_shadows_and_lights_5
+  - first:
+      213: 4275059400817779220
+    second: Premade_Interior_c-prop_shadows_and_lights_6
+  - first:
+      213: 8681043418952619650
+    second: Premade_Interior_c-prop_shadows_and_lights_7
+  - first:
+      213: -668453111654049560
+    second: Premade_Interior_c-prop_shadows_and_lights_8
+  - first:
+      213: 2939772191150179062
+    second: Premade_Interior_c-prop_shadows_and_lights_9
+  - first:
+      213: -3408259538337814428
+    second: Premade_Interior_c-prop_shadows_and_lights_10
+  - first:
+      213: 6769597561699587813
+    second: Premade_Interior_c-prop_shadows_and_lights_11
+  - first:
+      213: 6137307854275495912
+    second: Premade_Interior_c-prop_shadows_and_lights_12
+  - first:
+      213: -6803000739216409133
+    second: Premade_Interior_c-prop_shadows_and_lights_13
+  - first:
+      213: -550628115363778326
+    second: Premade_Interior_c-prop_shadows_and_lights_14
+  - first:
+      213: 2232533456287377310
+    second: Premade_Interior_c-prop_shadows_and_lights_15
+  - first:
+      213: -1782684027340100093
+    second: Premade_Interior_c-prop_shadows_and_lights_16
+  - first:
+      213: 6693755156636199051
+    second: Premade_Interior_c-prop_shadows_and_lights_17
+  - first:
+      213: -6260994577198646777
+    second: Premade_Interior_c-prop_shadows_and_lights_18
+  - first:
+      213: -3179839692703409155
+    second: Premade_Interior_c-prop_shadows_and_lights_19
+  - first:
+      213: 4383758511028176095
+    second: Premade_Interior_c-prop_shadows_and_lights_20
+  - first:
+      213: 49954070681071353
+    second: Premade_Interior_c-prop_shadows_and_lights_21
+  - first:
+      213: 8479131232155779693
+    second: Premade_Interior_c-prop_shadows_and_lights_22
+  - first:
+      213: 1509017068782088320
+    second: Premade_Interior_c-prop_shadows_and_lights_23
+  - first:
+      213: -138923162019080748
+    second: Premade_Interior_c-prop_shadows_and_lights_24
+  - first:
+      213: 1595278672421750500
+    second: Premade_Interior_c-prop_shadows_and_lights_25
+  - first:
+      213: 480333762677168709
+    second: Premade_Interior_c-prop_shadows_and_lights_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Premade_Interior_c-prop_shadows_and_lights_0
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 526
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6954701f3adf41e70800000000000000
+      internalID: 9085165228878415254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_c-prop_shadows_and_lights_1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 519
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99a2e4b570563ab0800000000000000
+      internalID: -5028743467436430949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_c-prop_shadows_and_lights_2
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 479
+        width: 118
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ffabf1a71490310800000000000000
+      internalID: 1371699554285191025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_c-prop_shadows_and_lights_3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 515
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f832a5639a1cdc130800000000000000
+      internalID: 3588737410589664143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_c-prop_shadows_and_lights_4
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 543
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941d3979c39f5d5d0800000000000000
+      internalID: -3038248334955130551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_c-prop_shadows_and_lights_5
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 561
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce84a2f5ac0d907c0800000000000000
+      internalID: -4104520017772918548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_c-prop_shadows_and_lights_6
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 566
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4122073ffdf045b30800000000000000
+      internalID: 4275059400817779220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_c-prop_shadows_and_lights_7
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 523
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286d962def2497870800000000000000
+      internalID: 8681043418952619650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_c-prop_shadows_and_lights_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 491
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e81bd2cf6d29b6f0800000000000000
+      internalID: -668453111654049560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_c-prop_shadows_and_lights_9
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 310
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f204167b3b2cc820800000000000000
+      internalID: 2939772191150179062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_c-prop_shadows_and_lights_10
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 303
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468a903f10e63b0d0800000000000000
+      internalID: -3408259538337814428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_c-prop_shadows_and_lights_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 263
+        width: 118
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e654719d1172fd50800000000000000
+      internalID: 6769597561699587813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_c-prop_shadows_and_lights_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 299
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e74e430af81c2550800000000000000
+      internalID: 6137307854275495912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_c-prop_shadows_and_lights_13
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 327
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd394c1fd2e691a0800000000000000
+      internalID: -6803000739216409133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_c-prop_shadows_and_lights_14
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 345
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0366c75a6cb58f0800000000000000
+      internalID: -550628115363778326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_c-prop_shadows_and_lights_15
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 350
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e972f2b995d8bfe10800000000000000
+      internalID: 2232533456287377310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_c-prop_shadows_and_lights_16
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 307
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e61ab7252a247e0800000000000000
+      internalID: -1782684027340100093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_c-prop_shadows_and_lights_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 275
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b886db499def4ec50800000000000000
+      internalID: 6693755156636199051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_c-prop_shadows_and_lights_18
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 94
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a7d6daa9a7c19a0800000000000000
+      internalID: -6260994577198646777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_c-prop_shadows_and_lights_19
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 87
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbd9b1a5a0fed3d0800000000000000
+      internalID: -3179839692703409155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_c-prop_shadows_and_lights_20
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 47
+        width: 118
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd40eeeb32d36dc30800000000000000
+      internalID: 4383758511028176095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_c-prop_shadows_and_lights_21
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 83
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fea70e66f871b000800000000000000
+      internalID: 49954070681071353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_c-prop_shadows_and_lights_22
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 111
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62c0986eeceba570800000000000000
+      internalID: 8479131232155779693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_c-prop_shadows_and_lights_23
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 129
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080f1c8670b11f410800000000000000
+      internalID: 1509017068782088320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_c-prop_shadows_and_lights_24
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 134
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d557c4ce12721ef0800000000000000
+      internalID: -138923162019080748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_c-prop_shadows_and_lights_25
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 91
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6847b1081932610800000000000000
+      internalID: 1595278672421750500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_Interior_c-prop_shadows_and_lights_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 59
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54adff1230d7aa600800000000000000
+      internalID: 480333762677168709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Premade_Interior_c-prop_shadows_and_lights_0: 9085165228878415254
+      Premade_Interior_c-prop_shadows_and_lights_1: -5028743467436430949
+      Premade_Interior_c-prop_shadows_and_lights_10: -3408259538337814428
+      Premade_Interior_c-prop_shadows_and_lights_11: 6769597561699587813
+      Premade_Interior_c-prop_shadows_and_lights_12: 6137307854275495912
+      Premade_Interior_c-prop_shadows_and_lights_13: -6803000739216409133
+      Premade_Interior_c-prop_shadows_and_lights_14: -550628115363778326
+      Premade_Interior_c-prop_shadows_and_lights_15: 2232533456287377310
+      Premade_Interior_c-prop_shadows_and_lights_16: -1782684027340100093
+      Premade_Interior_c-prop_shadows_and_lights_17: 6693755156636199051
+      Premade_Interior_c-prop_shadows_and_lights_18: -6260994577198646777
+      Premade_Interior_c-prop_shadows_and_lights_19: -3179839692703409155
+      Premade_Interior_c-prop_shadows_and_lights_2: 1371699554285191025
+      Premade_Interior_c-prop_shadows_and_lights_20: 4383758511028176095
+      Premade_Interior_c-prop_shadows_and_lights_21: 49954070681071353
+      Premade_Interior_c-prop_shadows_and_lights_22: 8479131232155779693
+      Premade_Interior_c-prop_shadows_and_lights_23: 1509017068782088320
+      Premade_Interior_c-prop_shadows_and_lights_24: -138923162019080748
+      Premade_Interior_c-prop_shadows_and_lights_25: 1595278672421750500
+      Premade_Interior_c-prop_shadows_and_lights_26: 480333762677168709
+      Premade_Interior_c-prop_shadows_and_lights_3: 3588737410589664143
+      Premade_Interior_c-prop_shadows_and_lights_4: -3038248334955130551
+      Premade_Interior_c-prop_shadows_and_lights_5: -4104520017772918548
+      Premade_Interior_c-prop_shadows_and_lights_6: 4275059400817779220
+      Premade_Interior_c-prop_shadows_and_lights_7: 8681043418952619650
+      Premade_Interior_c-prop_shadows_and_lights_8: -668453111654049560
+      Premade_Interior_c-prop_shadows_and_lights_9: 2939772191150179062
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

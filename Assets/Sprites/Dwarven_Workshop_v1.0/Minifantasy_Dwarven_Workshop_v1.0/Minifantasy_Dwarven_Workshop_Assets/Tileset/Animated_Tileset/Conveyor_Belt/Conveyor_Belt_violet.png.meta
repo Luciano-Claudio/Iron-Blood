@@ -1,0 +1,3263 @@
+fileFormatVersion: 2
+guid: b624c045ce254b142b9d1a1acc337269
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1391278250314910183
+    second: Conveyor_Belt_violet_0
+  - first:
+      213: 3663704678200137451
+    second: Conveyor_Belt_violet_1
+  - first:
+      213: 3032308246525234429
+    second: Conveyor_Belt_violet_2
+  - first:
+      213: 8181882690131528211
+    second: Conveyor_Belt_violet_3
+  - first:
+      213: 663154559472441618
+    second: Conveyor_Belt_violet_4
+  - first:
+      213: 1050553988931754099
+    second: Conveyor_Belt_violet_5
+  - first:
+      213: -48146472791155254
+    second: Conveyor_Belt_violet_6
+  - first:
+      213: -1213092030811469996
+    second: Conveyor_Belt_violet_7
+  - first:
+      213: 7407936818088750761
+    second: Conveyor_Belt_violet_8
+  - first:
+      213: -5695746306062086673
+    second: Conveyor_Belt_violet_9
+  - first:
+      213: -2724237801467899031
+    second: Conveyor_Belt_violet_10
+  - first:
+      213: -1655931727638064817
+    second: Conveyor_Belt_violet_11
+  - first:
+      213: 8664335890972043306
+    second: Conveyor_Belt_violet_12
+  - first:
+      213: 4117704652018638025
+    second: Conveyor_Belt_violet_13
+  - first:
+      213: 7192047177313242490
+    second: Conveyor_Belt_violet_14
+  - first:
+      213: 5886227276649342027
+    second: Conveyor_Belt_violet_15
+  - first:
+      213: 1768519247828133586
+    second: Conveyor_Belt_violet_16
+  - first:
+      213: 5879877031629334746
+    second: Conveyor_Belt_violet_17
+  - first:
+      213: -5023873297617473537
+    second: Conveyor_Belt_violet_18
+  - first:
+      213: 7809476993537321636
+    second: Conveyor_Belt_violet_19
+  - first:
+      213: 1817817660533225617
+    second: Conveyor_Belt_violet_20
+  - first:
+      213: -8078667825176448241
+    second: Conveyor_Belt_violet_21
+  - first:
+      213: -7400820566897632580
+    second: Conveyor_Belt_violet_22
+  - first:
+      213: 1871714385974041316
+    second: Conveyor_Belt_violet_23
+  - first:
+      213: -2824993070568067181
+    second: Conveyor_Belt_violet_24
+  - first:
+      213: -7990389279843286629
+    second: Conveyor_Belt_violet_25
+  - first:
+      213: -1260129725030995279
+    second: Conveyor_Belt_violet_26
+  - first:
+      213: 8916746500267760726
+    second: Conveyor_Belt_violet_27
+  - first:
+      213: -2862391710834946458
+    second: Conveyor_Belt_violet_28
+  - first:
+      213: -1147612471757745040
+    second: Conveyor_Belt_violet_29
+  - first:
+      213: -683580964021144533
+    second: Conveyor_Belt_violet_30
+  - first:
+      213: 2938560760341871624
+    second: Conveyor_Belt_violet_31
+  - first:
+      213: -5072084751411103613
+    second: Conveyor_Belt_violet_32
+  - first:
+      213: 4913603545585671357
+    second: Conveyor_Belt_violet_33
+  - first:
+      213: -8643573284521177848
+    second: Conveyor_Belt_violet_34
+  - first:
+      213: -4243023136017728983
+    second: Conveyor_Belt_violet_35
+  - first:
+      213: 7522964749381950161
+    second: Conveyor_Belt_violet_36
+  - first:
+      213: 6473175998755358965
+    second: Conveyor_Belt_violet_37
+  - first:
+      213: 5684235986851971585
+    second: Conveyor_Belt_violet_38
+  - first:
+      213: 1365227206923871255
+    second: Conveyor_Belt_violet_39
+  - first:
+      213: -6156167410188762712
+    second: Conveyor_Belt_violet_40
+  - first:
+      213: -4943577849220444849
+    second: Conveyor_Belt_violet_41
+  - first:
+      213: -6062555238968103170
+    second: Conveyor_Belt_violet_42
+  - first:
+      213: 1449865908164121309
+    second: Conveyor_Belt_violet_43
+  - first:
+      213: 876964672656108297
+    second: Conveyor_Belt_violet_44
+  - first:
+      213: 8482216344559469455
+    second: Conveyor_Belt_violet_45
+  - first:
+      213: 4573342197142616005
+    second: Conveyor_Belt_violet_46
+  - first:
+      213: -7008008101433484840
+    second: Conveyor_Belt_violet_47
+  - first:
+      213: -5160135326743716991
+    second: Conveyor_Belt_violet_48
+  - first:
+      213: -9011622701248496016
+    second: Conveyor_Belt_violet_49
+  - first:
+      213: 303482043408506984
+    second: Conveyor_Belt_violet_50
+  - first:
+      213: -6367150726452750086
+    second: Conveyor_Belt_violet_51
+  - first:
+      213: -7851423592441102310
+    second: Conveyor_Belt_violet_52
+  - first:
+      213: -1205526156213754473
+    second: Conveyor_Belt_violet_53
+  - first:
+      213: -6845507396367651250
+    second: Conveyor_Belt_violet_54
+  - first:
+      213: 7741851011360610581
+    second: Conveyor_Belt_violet_55
+  - first:
+      213: -9136174312572520287
+    second: Conveyor_Belt_violet_56
+  - first:
+      213: -7885573408900849114
+    second: Conveyor_Belt_violet_57
+  - first:
+      213: -1795125156037818669
+    second: Conveyor_Belt_violet_58
+  - first:
+      213: 8672070347195002656
+    second: Conveyor_Belt_violet_59
+  - first:
+      213: 3144904161406182833
+    second: Conveyor_Belt_violet_60
+  - first:
+      213: -1815833443344473328
+    second: Conveyor_Belt_violet_61
+  - first:
+      213: 8040706888563304559
+    second: Conveyor_Belt_violet_62
+  - first:
+      213: 9052068278960461718
+    second: Conveyor_Belt_violet_63
+  - first:
+      213: 4999068041668059807
+    second: Conveyor_Belt_violet_64
+  - first:
+      213: -1582882928943641530
+    second: Conveyor_Belt_violet_65
+  - first:
+      213: -4665426871345120298
+    second: Conveyor_Belt_violet_66
+  - first:
+      213: -5008282772922899496
+    second: Conveyor_Belt_violet_67
+  - first:
+      213: -4576221090795457057
+    second: Conveyor_Belt_violet_68
+  - first:
+      213: -6265978328667390268
+    second: Conveyor_Belt_violet_69
+  - first:
+      213: -4367262109602836611
+    second: Conveyor_Belt_violet_70
+  - first:
+      213: -1097011925135558566
+    second: Conveyor_Belt_violet_71
+  - first:
+      213: 7516837438263797379
+    second: Conveyor_Belt_violet_72
+  - first:
+      213: -8066427691621571170
+    second: Conveyor_Belt_violet_73
+  - first:
+      213: 3644193280031835446
+    second: Conveyor_Belt_violet_74
+  - first:
+      213: 780330493148488832
+    second: Conveyor_Belt_violet_75
+  - first:
+      213: -2599437883040068829
+    second: Conveyor_Belt_violet_76
+  - first:
+      213: 5927070616658657527
+    second: Conveyor_Belt_violet_77
+  - first:
+      213: 1411023740236794220
+    second: Conveyor_Belt_violet_78
+  - first:
+      213: 7036138175112796281
+    second: Conveyor_Belt_violet_79
+  - first:
+      213: -8479585569552372152
+    second: Conveyor_Belt_violet_80
+  - first:
+      213: -5214320965590509315
+    second: Conveyor_Belt_violet_81
+  - first:
+      213: -1344728443979524319
+    second: Conveyor_Belt_violet_82
+  - first:
+      213: 1816590696660311364
+    second: Conveyor_Belt_violet_83
+  - first:
+      213: -2845816807117051191
+    second: Conveyor_Belt_violet_84
+  - first:
+      213: 7166311908868516533
+    second: Conveyor_Belt_violet_85
+  - first:
+      213: 2970730318475647299
+    second: Conveyor_Belt_violet_86
+  - first:
+      213: 4688804931867807565
+    second: Conveyor_Belt_violet_87
+  - first:
+      213: 8532834250027938588
+    second: Conveyor_Belt_violet_88
+  - first:
+      213: -395492862977410745
+    second: Conveyor_Belt_violet_89
+  - first:
+      213: 825777157863049276
+    second: Conveyor_Belt_violet_90
+  - first:
+      213: 1050078380834518490
+    second: Conveyor_Belt_violet_91
+  - first:
+      213: -7768092200884801345
+    second: Conveyor_Belt_violet_92
+  - first:
+      213: -6656333640086268260
+    second: Conveyor_Belt_violet_93
+  - first:
+      213: -4422771638648042328
+    second: Conveyor_Belt_violet_94
+  - first:
+      213: 6858523550850553229
+    second: Conveyor_Belt_violet_95
+  - first:
+      213: -4716198494068473232
+    second: Conveyor_Belt_violet_96
+  - first:
+      213: -258350387485014357
+    second: Conveyor_Belt_violet_97
+  - first:
+      213: -6191492462849863007
+    second: Conveyor_Belt_violet_98
+  - first:
+      213: 827308593726903520
+    second: Conveyor_Belt_violet_99
+  - first:
+      213: -6446910053779474442
+    second: Conveyor_Belt_violet_100
+  - first:
+      213: 4279373441740698724
+    second: Conveyor_Belt_violet_101
+  - first:
+      213: 6808432761198056595
+    second: Conveyor_Belt_violet_102
+  - first:
+      213: -4650142924820137208
+    second: Conveyor_Belt_violet_103
+  - first:
+      213: 3826973336784087293
+    second: Conveyor_Belt_violet_104
+  - first:
+      213: -7273020907082301417
+    second: Conveyor_Belt_violet_105
+  - first:
+      213: -3608359707740231062
+    second: Conveyor_Belt_violet_106
+  - first:
+      213: 2237411455640691129
+    second: Conveyor_Belt_violet_107
+  - first:
+      213: 2008980000648166468
+    second: Conveyor_Belt_violet_108
+  - first:
+      213: -2879108589606317067
+    second: Conveyor_Belt_violet_109
+  - first:
+      213: 8087774057444658588
+    second: Conveyor_Belt_violet_110
+  - first:
+      213: 8526109299274091200
+    second: Conveyor_Belt_violet_111
+  - first:
+      213: 462459374029491476
+    second: Conveyor_Belt_violet_112
+  - first:
+      213: -6655301753463428532
+    second: Conveyor_Belt_violet_113
+  - first:
+      213: -6073759671869813469
+    second: Conveyor_Belt_violet_114
+  - first:
+      213: -6665835005887818989
+    second: Conveyor_Belt_violet_115
+  - first:
+      213: 691682426846927663
+    second: Conveyor_Belt_violet_116
+  - first:
+      213: -1654110009513369181
+    second: Conveyor_Belt_violet_117
+  - first:
+      213: -7751494960917779462
+    second: Conveyor_Belt_violet_118
+  - first:
+      213: 773228027940760891
+    second: Conveyor_Belt_violet_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 447
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e94fb58230de4310800000000000000
+      internalID: 1391278250314910183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_1
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 447
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be65e026ef718d230800000000000000
+      internalID: 3663704678200137451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_2
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 447
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfccf9bc84ce41a20800000000000000
+      internalID: 3032308246525234429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 423
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a053b05f2eb8170800000000000000
+      internalID: 8181882690131528211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_4
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 423
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219198cee8ff33900800000000000000
+      internalID: 663154559472441618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_5
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 423
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37895af6941549e00800000000000000
+      internalID: 1050553988931754099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 399
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd5810c903f45ff0800000000000000
+      internalID: -48146472791155254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 399
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45700a7a93b3a2fe0800000000000000
+      internalID: -1213092030811469996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_8
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 399
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aea7b089474ec660800000000000000
+      internalID: 7407936818088750761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 375
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed0d6879e4a4f0b0800000000000000
+      internalID: -5695746306062086673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_10
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 375
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96390d73720913ad0800000000000000
+      internalID: -2724237801467899031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 375
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4195d10ed2f409e0800000000000000
+      internalID: -1655931727638064817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_12
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 375
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a286e045697ed3870800000000000000
+      internalID: 8664335890972043306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_13
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 375
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc5b818096052930800000000000000
+      internalID: 4117704652018638025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_14
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 375
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d4b9b7dc84fc360800000000000000
+      internalID: 7192047177313242490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_15
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 375
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4426e3858410b150800000000000000
+      internalID: 5886227276649342027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_16
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 375
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6ac39c2ea0b8810800000000000000
+      internalID: 1768519247828133586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_17
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 375
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8ae31e105899150800000000000000
+      internalID: 5879877031629334746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffa0fa7add974ab0800000000000000
+      internalID: -5023873297617473537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_19
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aaa06103f5d06c60800000000000000
+      internalID: 7809476993537321636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_20
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198b382f78f2a3910800000000000000
+      internalID: 1817817660533225617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03faf56a6ec2ef80800000000000000
+      internalID: -8078667825176448241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_22
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba59a7d7e00b4990800000000000000
+      internalID: -7400820566897632580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_23
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea98f8315aa9f910800000000000000
+      internalID: 1871714385974041316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_24
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fa9df05cb9bc8d0800000000000000
+      internalID: -2824993070568067181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_25
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b910adde84f6c1190800000000000000
+      internalID: -7990389279843286629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_26
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1baed9801be138ee0800000000000000
+      internalID: -1260129725030995279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_27
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cdaa4f2b5aebb70800000000000000
+      internalID: 8916746500267760726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_28
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e09a397edb648d0800000000000000
+      internalID: -2862391710834946458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_29
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0745219898cd210f0800000000000000
+      internalID: -1147612471757745040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_30
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24fc482cbe6386f0800000000000000
+      internalID: -683580964021144533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_31
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c341f317dd7c820800000000000000
+      internalID: 2938560760341871624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_32
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3883779aac55c99b0800000000000000
+      internalID: -5072084751411103613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_33
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcdbbd2460a03440800000000000000
+      internalID: 4913603545585671357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_34
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d0f02b4ebdb0880800000000000000
+      internalID: -8643573284521177848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_35
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a36e330f0cd15c0800000000000000
+      internalID: -4243023136017728983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_36
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da52b8c490f66860800000000000000
+      internalID: 7522964749381950161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_37
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8c566464755d950800000000000000
+      internalID: 6473175998755358965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_38
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102cdcf738672ee40800000000000000
+      internalID: 5684235986851971585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_39
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714656259e242f210800000000000000
+      internalID: 1365227206923871255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_40
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1ccd17b56e09aa0800000000000000
+      internalID: -6156167410188762712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_41
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4dc9b96322e46bb0800000000000000
+      internalID: -4943577849220444849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_42
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 327
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe6f16812a7ddba0800000000000000
+      internalID: -6062555238968103170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_43
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 327
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2521c9c55fe1410800000000000000
+      internalID: 1449865908164121309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_44
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 327
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90beb3239ba9b2c00800000000000000
+      internalID: 876964672656108297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_45
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 327
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83ca7d13d2e6b570800000000000000
+      internalID: 8482216344559469455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_46
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 327
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c77df86f76c77f30800000000000000
+      internalID: 4573342197142616005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_47
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 327
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d95ff203cd8ebe90800000000000000
+      internalID: -7008008101433484840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_48
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 327
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b1f7882448368b0800000000000000
+      internalID: -5160135326743716991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_49
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 327
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ebc3a16e840f280800000000000000
+      internalID: -9011622701248496016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_50
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 327
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860e2118f4f263400800000000000000
+      internalID: 303482043408506984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_51
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 303
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8d96e162653a7a0800000000000000
+      internalID: -6367150726452750086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_52
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 303
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a104d6f57d32a0390800000000000000
+      internalID: -7851423592441102310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_53
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 303
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795ef6b195c154fe0800000000000000
+      internalID: -1205526156213754473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_54
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 279
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e6234ca4fdff0a0800000000000000
+      internalID: -6845507396367651250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_55
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 279
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519d52c0a74907b60800000000000000
+      internalID: 7741851011360610581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_56
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 279
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8f0154ed9c53180800000000000000
+      internalID: -9136174312572520287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_57
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 255
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622e230a3c0d09290800000000000000
+      internalID: -7885573408900849114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_58
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 255
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d68ffa7e2f6617e0800000000000000
+      internalID: -1795125156037818669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_59
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 255
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fa1cfb802695870800000000000000
+      internalID: 8672070347195002656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_60
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 207
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b563412ca1f4ab20800000000000000
+      internalID: 3144904161406182833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_61
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 207
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013ad2e9a1ddcc6e0800000000000000
+      internalID: -1815833443344473328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_62
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 207
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f682adb4054569f60800000000000000
+      internalID: 8040706888563304559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_63
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 183
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697150ac3286f9d70800000000000000
+      internalID: 9052068278960461718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_64
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 183
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92e1afc5e1406540800000000000000
+      internalID: 4999068041668059807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_65
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 183
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cc843dc58780ae0800000000000000
+      internalID: -1582882928943641530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_66
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db79ef9af2114fb0800000000000000
+      internalID: -4665426871345120298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_67
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3e8316a510f7ab0800000000000000
+      internalID: -5008282772922899496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_68
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd57c7de92ffd70c0800000000000000
+      internalID: -4576221090795457057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_69
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cefb7d98e5ca09a0800000000000000
+      internalID: -6265978328667390268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_70
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f8914004e5463c0800000000000000
+      internalID: -4367262109602836611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_71
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a587def5771a6c0f0800000000000000
+      internalID: -1097011925135558566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_72
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386221ef2db215860800000000000000
+      internalID: 7516837438263797379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_73
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95a58290ca4e0090800000000000000
+      internalID: -8066427691621571170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_74
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635c92dfa76c29230800000000000000
+      internalID: 3644193280031835446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_75
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084658bf27a44da00800000000000000
+      internalID: 780330493148488832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_76
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b04bd8401fcebd0800000000000000
+      internalID: -2599437883040068829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_77
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f04898a25f214250800000000000000
+      internalID: 5927070616658657527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_78
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c690576ad96f49310800000000000000
+      internalID: 1411023740236794220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_79
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978d926246265a160800000000000000
+      internalID: 7036138175112796281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_80
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e6d4ce9d5725a80800000000000000
+      internalID: -8479585569552372152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_81
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df81b1d55b203a7b0800000000000000
+      internalID: -5214320965590509315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_82
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1279c39da90965de0800000000000000
+      internalID: -1344728443979524319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_83
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d97b82d93d53910800000000000000
+      internalID: 1816590696660311364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_84
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9caa3f311b0a188d0800000000000000
+      internalID: -2845816807117051191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_85
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba62cd56bad37360800000000000000
+      internalID: 7166311908868516533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_86
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349593c2c772a3920800000000000000
+      internalID: 2970730318475647299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_87
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f84114e3bf11140800000000000000
+      internalID: 4688804931867807565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_88
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13b330aa87ba6670800000000000000
+      internalID: 8532834250027938588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_89
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7497707265de28af0800000000000000
+      internalID: -395492862977410745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_90
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c380f0e23ffb57b00800000000000000
+      internalID: 825777157863049276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_91
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad575fb49b0a29e00800000000000000
+      internalID: 1050078380834518490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_92
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb077c7ec41323490800000000000000
+      internalID: -7768092200884801345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_93
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96dc2432d3ff93a0800000000000000
+      internalID: -6656333640086268260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_94
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac06b3a0a82f92c0800000000000000
+      internalID: -4422771638648042328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_95
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85191cd4de5e2f50800000000000000
+      internalID: 6858523550850553229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_96
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07201d60572bc8eb0800000000000000
+      internalID: -4716198494068473232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_97
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba60f5ef0b72a6cf0800000000000000
+      internalID: -258350387485014357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_98
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a25352b866631aa0800000000000000
+      internalID: -6191492462849863007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_99
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e458b068c03b7b00800000000000000
+      internalID: 827308593726903520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_100
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f774999679f786a0800000000000000
+      internalID: -6446910053779474442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_101
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464f130e873636b30800000000000000
+      internalID: 4279373441740698724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_102
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394975016896c7e50800000000000000
+      internalID: 6808432761198056595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_103
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bbc4bb5af577fb0800000000000000
+      internalID: -4650142924820137208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_104
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df828ef39f32c1530800000000000000
+      internalID: 3826973336784087293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_105
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710ce55e40a011b90800000000000000
+      internalID: -7273020907082301417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_106
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6aaf46b6f78cedc0800000000000000
+      internalID: -3608359707740231062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_107
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b16ad55dd1ec0f10800000000000000
+      internalID: 2237411455640691129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_108
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c7f73aaa451eb10800000000000000
+      internalID: 2008980000648166468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_109
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f35dbeedf95b08d0800000000000000
+      internalID: -2879108589606317067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_110
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9dcb9587ab8d3070800000000000000
+      internalID: 8087774057444658588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_111
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca03630c33d25670800000000000000
+      internalID: 8526109299274091200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_112
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41dc318b95cfa6600800000000000000
+      internalID: 462459374029491476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_113
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a27c7015e93a3a0800000000000000
+      internalID: -6655301753463428532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_114
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 39
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d4b1332cba5bba0800000000000000
+      internalID: -6073759671869813469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_115
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 39
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31351b611623e73a0800000000000000
+      internalID: -6665835005887818989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_116
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 39
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b5795a089599900800000000000000
+      internalID: 691682426846927663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_117
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1a98fc5bb6b09e0800000000000000
+      internalID: -1654110009513369181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_118
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbe348f6682d6490800000000000000
+      internalID: -7751494960917779462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conveyor_Belt_violet_119
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3de8cf6bce0bba00800000000000000
+      internalID: 773228027940760891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Conveyor_Belt_violet_0: 1391278250314910183
+      Conveyor_Belt_violet_1: 3663704678200137451
+      Conveyor_Belt_violet_10: -2724237801467899031
+      Conveyor_Belt_violet_100: -6446910053779474442
+      Conveyor_Belt_violet_101: 4279373441740698724
+      Conveyor_Belt_violet_102: 6808432761198056595
+      Conveyor_Belt_violet_103: -4650142924820137208
+      Conveyor_Belt_violet_104: 3826973336784087293
+      Conveyor_Belt_violet_105: -7273020907082301417
+      Conveyor_Belt_violet_106: -3608359707740231062
+      Conveyor_Belt_violet_107: 2237411455640691129
+      Conveyor_Belt_violet_108: 2008980000648166468
+      Conveyor_Belt_violet_109: -2879108589606317067
+      Conveyor_Belt_violet_11: -1655931727638064817
+      Conveyor_Belt_violet_110: 8087774057444658588
+      Conveyor_Belt_violet_111: 8526109299274091200
+      Conveyor_Belt_violet_112: 462459374029491476
+      Conveyor_Belt_violet_113: -6655301753463428532
+      Conveyor_Belt_violet_114: -6073759671869813469
+      Conveyor_Belt_violet_115: -6665835005887818989
+      Conveyor_Belt_violet_116: 691682426846927663
+      Conveyor_Belt_violet_117: -1654110009513369181
+      Conveyor_Belt_violet_118: -7751494960917779462
+      Conveyor_Belt_violet_119: 773228027940760891
+      Conveyor_Belt_violet_12: 8664335890972043306
+      Conveyor_Belt_violet_13: 4117704652018638025
+      Conveyor_Belt_violet_14: 7192047177313242490
+      Conveyor_Belt_violet_15: 5886227276649342027
+      Conveyor_Belt_violet_16: 1768519247828133586
+      Conveyor_Belt_violet_17: 5879877031629334746
+      Conveyor_Belt_violet_18: -5023873297617473537
+      Conveyor_Belt_violet_19: 7809476993537321636
+      Conveyor_Belt_violet_2: 3032308246525234429
+      Conveyor_Belt_violet_20: 1817817660533225617
+      Conveyor_Belt_violet_21: -8078667825176448241
+      Conveyor_Belt_violet_22: -7400820566897632580
+      Conveyor_Belt_violet_23: 1871714385974041316
+      Conveyor_Belt_violet_24: -2824993070568067181
+      Conveyor_Belt_violet_25: -7990389279843286629
+      Conveyor_Belt_violet_26: -1260129725030995279
+      Conveyor_Belt_violet_27: 8916746500267760726
+      Conveyor_Belt_violet_28: -2862391710834946458
+      Conveyor_Belt_violet_29: -1147612471757745040
+      Conveyor_Belt_violet_3: 8181882690131528211
+      Conveyor_Belt_violet_30: -683580964021144533
+      Conveyor_Belt_violet_31: 2938560760341871624
+      Conveyor_Belt_violet_32: -5072084751411103613
+      Conveyor_Belt_violet_33: 4913603545585671357
+      Conveyor_Belt_violet_34: -8643573284521177848
+      Conveyor_Belt_violet_35: -4243023136017728983
+      Conveyor_Belt_violet_36: 7522964749381950161
+      Conveyor_Belt_violet_37: 6473175998755358965
+      Conveyor_Belt_violet_38: 5684235986851971585
+      Conveyor_Belt_violet_39: 1365227206923871255
+      Conveyor_Belt_violet_4: 663154559472441618
+      Conveyor_Belt_violet_40: -6156167410188762712
+      Conveyor_Belt_violet_41: -4943577849220444849
+      Conveyor_Belt_violet_42: -6062555238968103170
+      Conveyor_Belt_violet_43: 1449865908164121309
+      Conveyor_Belt_violet_44: 876964672656108297
+      Conveyor_Belt_violet_45: 8482216344559469455
+      Conveyor_Belt_violet_46: 4573342197142616005
+      Conveyor_Belt_violet_47: -7008008101433484840
+      Conveyor_Belt_violet_48: -5160135326743716991
+      Conveyor_Belt_violet_49: -9011622701248496016
+      Conveyor_Belt_violet_5: 1050553988931754099
+      Conveyor_Belt_violet_50: 303482043408506984
+      Conveyor_Belt_violet_51: -6367150726452750086
+      Conveyor_Belt_violet_52: -7851423592441102310
+      Conveyor_Belt_violet_53: -1205526156213754473
+      Conveyor_Belt_violet_54: -6845507396367651250
+      Conveyor_Belt_violet_55: 7741851011360610581
+      Conveyor_Belt_violet_56: -9136174312572520287
+      Conveyor_Belt_violet_57: -7885573408900849114
+      Conveyor_Belt_violet_58: -1795125156037818669
+      Conveyor_Belt_violet_59: 8672070347195002656
+      Conveyor_Belt_violet_6: -48146472791155254
+      Conveyor_Belt_violet_60: 3144904161406182833
+      Conveyor_Belt_violet_61: -1815833443344473328
+      Conveyor_Belt_violet_62: 8040706888563304559
+      Conveyor_Belt_violet_63: 9052068278960461718
+      Conveyor_Belt_violet_64: 4999068041668059807
+      Conveyor_Belt_violet_65: -1582882928943641530
+      Conveyor_Belt_violet_66: -4665426871345120298
+      Conveyor_Belt_violet_67: -5008282772922899496
+      Conveyor_Belt_violet_68: -4576221090795457057
+      Conveyor_Belt_violet_69: -6265978328667390268
+      Conveyor_Belt_violet_7: -1213092030811469996
+      Conveyor_Belt_violet_70: -4367262109602836611
+      Conveyor_Belt_violet_71: -1097011925135558566
+      Conveyor_Belt_violet_72: 7516837438263797379
+      Conveyor_Belt_violet_73: -8066427691621571170
+      Conveyor_Belt_violet_74: 3644193280031835446
+      Conveyor_Belt_violet_75: 780330493148488832
+      Conveyor_Belt_violet_76: -2599437883040068829
+      Conveyor_Belt_violet_77: 5927070616658657527
+      Conveyor_Belt_violet_78: 1411023740236794220
+      Conveyor_Belt_violet_79: 7036138175112796281
+      Conveyor_Belt_violet_8: 7407936818088750761
+      Conveyor_Belt_violet_80: -8479585569552372152
+      Conveyor_Belt_violet_81: -5214320965590509315
+      Conveyor_Belt_violet_82: -1344728443979524319
+      Conveyor_Belt_violet_83: 1816590696660311364
+      Conveyor_Belt_violet_84: -2845816807117051191
+      Conveyor_Belt_violet_85: 7166311908868516533
+      Conveyor_Belt_violet_86: 2970730318475647299
+      Conveyor_Belt_violet_87: 4688804931867807565
+      Conveyor_Belt_violet_88: 8532834250027938588
+      Conveyor_Belt_violet_89: -395492862977410745
+      Conveyor_Belt_violet_9: -5695746306062086673
+      Conveyor_Belt_violet_90: 825777157863049276
+      Conveyor_Belt_violet_91: 1050078380834518490
+      Conveyor_Belt_violet_92: -7768092200884801345
+      Conveyor_Belt_violet_93: -6656333640086268260
+      Conveyor_Belt_violet_94: -4422771638648042328
+      Conveyor_Belt_violet_95: 6858523550850553229
+      Conveyor_Belt_violet_96: -4716198494068473232
+      Conveyor_Belt_violet_97: -258350387485014357
+      Conveyor_Belt_violet_98: -6191492462849863007
+      Conveyor_Belt_violet_99: 827308593726903520
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
