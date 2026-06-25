@@ -103,6 +103,16 @@ public class SceneLoader : MonoBehaviour
     }
 
     // ─────────────────────────────────────────────────────────────────
+    // SWAP DIRETO — sem transição visual
+    // Usar quando a tela já está coberta por outra transição (ex: sono forçado)
+    // ─────────────────────────────────────────────────────────────────
+
+    public IEnumerator SwapAreaDirect(string sceneName, string spawnId)
+    {
+        yield return StartCoroutine(SwapScene(sceneName, spawnId));
+    }
+
+    // ─────────────────────────────────────────────────────────────────
     // SWAP DE CENA — compartilhado pelo boot e pelas portas
     // ─────────────────────────────────────────────────────────────────
 

@@ -66,9 +66,9 @@ public class SleepManager : MonoBehaviour
     [SerializeField] private TransitionSettings sleepTransition;
     [SerializeField] private float transitionDelay = 0f;
 
-    [Header("Respawn (atribuir quando a Igreja existir no mapa)")]
-    // TODO: criar Transform no spawn point da Igreja e arrastar aqui — Semana 2+
-    [SerializeField] private Transform churchSpawnPoint;
+    [Header("Respawn (preencher quando a cena da Igreja existir)")]
+    [SerializeField] private string churchScene   = "Igreja";
+    [SerializeField] private string churchSpawnId = "church_respawn";
 
     private bool isSleeping;
 
@@ -163,11 +163,16 @@ public class SleepManager : MonoBehaviour
 
         tm.onTransitionCutPointReached = () =>
         {
-            // Tela 100% coberta pelo brush — momento seguro para avançar o dia
+            // Tela 100% coberta — momento seguro para avançar o dia e trocar cena
             GameClock.Instance.Sleep();
             GameEvents.RaisePlayerSlept();
 
-            if (forced) ApplyForcedSleepPenalties();
+            if (forced)
+            {
+                ApplyForcedSleepPenalties();
+                // Troca de cena sem nova transição — a tela já está coberta pelo brush do sono
+                StartCoroutine(SceneLoader.Instance.SwapAreaDirect(churchScene, churchSpawnId));
+            }
         };
 
         tm.onTransitionEnd = () =>
@@ -176,9 +181,6 @@ public class SleepManager : MonoBehaviour
             GameStateManager.Instance.UnlockPlayer();
             GameEvents.RaisePlayerWokeUp();
 
-            if (forced) RespawnAtChurch();
-
-            // Limpa callbacks — TransitionManager é reutilizado entre transições
             tm.onTransitionCutPointReached = null;
             tm.onTransitionEnd             = null;
 
@@ -207,14 +209,4 @@ public class SleepManager : MonoBehaviour
         Debug.Log("[SleepManager] SONO FORÇADO — penalidades pendentes (EconomyManager + StatsManager).");
     }
 
-    private void RespawnAtChurch()
-    {
-        if (churchSpawnPoint == null)
-        {
-            Debug.Log("[SleepManager] Respawn na Igreja pendente — churchSpawnPoint não atribuído.");
-            return;
-        }
-        // TODO: PlayerMovement.Instance.Teleport(churchSpawnPoint.position);
-        Debug.Log($"[SleepManager] Player teleportado para a Igreja em {churchSpawnPoint.position}.");
-    }
 }

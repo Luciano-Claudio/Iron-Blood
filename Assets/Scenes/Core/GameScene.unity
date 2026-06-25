@@ -1535,7 +1535,8 @@ MonoBehaviour:
   forcedSleepHour: 2
   sleepTransition: {fileID: 11400000, guid: b577ec7af0d48c34a9d31ce17f830a8d, type: 2}
   transitionDelay: 3
-  churchSpawnPoint: {fileID: 0}
+  churchScene: Exterior
+  churchSpawnId: church_respawn
 --- !u!114 &1535934815
 MonoBehaviour:
   m_ObjectHideFlags: 0
