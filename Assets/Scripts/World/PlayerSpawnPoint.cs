@@ -8,5 +8,6 @@ public class PlayerSpawnPoint : MonoBehaviour
     {
         Gizmos.color = Color.green;
         Gizmos.DrawWireSphere(transform.position, 0.3f);
+        Gizmos.DrawIcon(transform.position, "sv_icon_dot3_pix16_gizmo", true);
     }
 }
