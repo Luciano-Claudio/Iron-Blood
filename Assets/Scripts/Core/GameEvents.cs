@@ -52,6 +52,20 @@ public static class GameEvents
 
 
     // ───────────────────────────────────────────────────────────────────────────
+    // TRANSIÇÃO DE CENA
+    // Disparado por: SceneLoader — Semana 2
+    // ───────────────────────────────────────────────────────────────────────────
+
+    // Dispara antes da transição começar — bloqueia input do player
+    public static event Action OnSceneTransitionStarted;
+    public static void RaiseSceneTransitionStarted() => OnSceneTransitionStarted?.Invoke();
+
+    // Dispara quando a transição termina — libera input do player
+    public static event Action OnSceneTransitionEnded;
+    public static void RaiseSceneTransitionEnded() => OnSceneTransitionEnded?.Invoke();
+
+
+    // ───────────────────────────────────────────────────────────────────────────
     // LOJA
     // Disparado por: ShopSign — Semana 3
     // ───────────────────────────────────────────────────────────────────────────
