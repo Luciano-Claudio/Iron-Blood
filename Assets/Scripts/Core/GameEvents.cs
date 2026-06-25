@@ -52,15 +52,42 @@ public static class GameEvents
 
 
     // ───────────────────────────────────────────────────────────────────────────
-    // TRANSIÇÃO DE CENA
-    // Disparado por: SceneLoader — Semana 2
+    // ESTADO DO JOGO
+    // Disparado por: GameStateManager
     // ───────────────────────────────────────────────────────────────────────────
 
-    // Dispara antes da transição começar — bloqueia input do player
+    // Player bloqueado: transição de cena, sono, inventário, forja, loading screen
+    // Quem assina: sistemas de UI, animações — input já é bloqueado via GameStateManager.IsPlayerLocked
+    public static event Action OnPlayerLocked;
+    public static void RaisePlayerLocked() => OnPlayerLocked?.Invoke();
+
+    public static event Action OnPlayerUnlocked;
+    public static void RaisePlayerUnlocked() => OnPlayerUnlocked?.Invoke();
+
+    // Time.timeScale = 0 — menu de configurações, cutscenes
+    // Quem assina: AudioManager (pausa música), futuros sistemas de partículas
+    public static event Action OnGamePaused;
+    public static void RaiseGamePaused() => OnGamePaused?.Invoke();
+
+    public static event Action OnGameResumed;
+    public static void RaiseGameResumed() => OnGameResumed?.Invoke();
+
+    // Futuro: NPCs e inimigos param de agir sem parar o tempo
+    // public static event Action OnWorldLocked;
+    // public static void RaiseWorldLocked() => OnWorldLocked?.Invoke();
+    // public static event Action OnWorldUnlocked;
+    // public static void RaiseWorldUnlocked() => OnWorldUnlocked?.Invoke();
+
+
+    // ───────────────────────────────────────────────────────────────────────────
+    // TRANSIÇÃO DE CENA
+    // Disparado por: SceneLoader — Semana 2
+    // Informativo: o lock em si é feito via GameStateManager.LockPlayer/UnlockPlayer
+    // ───────────────────────────────────────────────────────────────────────────
+
     public static event Action OnSceneTransitionStarted;
     public static void RaiseSceneTransitionStarted() => OnSceneTransitionStarted?.Invoke();
 
-    // Dispara quando a transição termina — libera input do player
     public static event Action OnSceneTransitionEnded;
     public static void RaiseSceneTransitionEnded() => OnSceneTransitionEnded?.Invoke();
 

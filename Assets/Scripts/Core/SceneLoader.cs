@@ -5,12 +5,29 @@ using EasyTransition;
 
 // Gerencia carregamento e descarregamento de cenas additivamente.
 // GameScene (Core) nunca é descarregada — contém GameManager, Player, HUD, etc.
-// Apenas uma cena de área (Exterior ou Interior) fica carregada por vez.
+// Apenas uma cena de área fica carregada por vez.
+//
+// FLUXO INICIAL (boot):
+//   GameScene → LoadingScreen cobre tela → área inicial carrega → LoadingScreen some
+//   Sem EasyTransitions no boot — a LoadingScreen já cobre tudo desde o frame 1.
+//
+// FLUXO DE PORTAS:
+//   DoorInteractable.Interact() → LoadArea(cena, spawnId) → EasyTransitions →
+//   no cut point: descarrega cena atual + carrega nova → teleporta ao spawnId correto
+//
+// SPAWN ID:
+//   Cada porta tem um targetSpawnId. Cada PlayerSpawnPoint tem um spawnId correspondente.
+//   Ex: porta "ferraria_entrada" → PlayerSpawnPoint.spawnId = "ferraria_entrada"
+//   Funciona para qualquer transição: Exterior↔Ferraria, Ferraria↔Porão, etc.
 public class SceneLoader : MonoBehaviour
 {
     public static SceneLoader Instance;
 
-    [Header("Transição")]
+    [Header("Cena Inicial")]
+    [SerializeField] private string startingScene   = "Exterior";
+    [SerializeField] private string startingSpawnId = "default";
+
+    [Header("Transição de Portas")]
     [SerializeField] private TransitionSettings transitionSettings;
     [SerializeField] private float transitionDelay = 0f;
 
@@ -19,16 +36,44 @@ public class SceneLoader : MonoBehaviour
 
     private void Awake() => Instance = this;
 
-    // Chamado pela porta ao pressionar E
-    public void LoadArea(string sceneName, Vector2 fallbackSpawnPosition = default)
+    private void Start()
     {
-        if (isTransitioning) return;
-        StartCoroutine(TransitionToArea(sceneName, fallbackSpawnPosition));
+        if (!string.IsNullOrEmpty(startingScene))
+            StartCoroutine(InitialLoad());
     }
 
-    private IEnumerator TransitionToArea(string sceneName, Vector2 fallbackSpawn)
+    // ─────────────────────────────────────────────────────────────────
+    // CARGA INICIAL — sem EasyTransitions, LoadingScreen já cobre a tela
+    // ─────────────────────────────────────────────────────────────────
+
+    private IEnumerator InitialLoad()
     {
         isTransitioning = true;
+        GameStateManager.Instance.LockPlayer();
+        GameEvents.RaiseSceneTransitionStarted();
+
+        yield return StartCoroutine(SwapScene(startingScene, startingSpawnId));
+
+        isTransitioning = false;
+        GameStateManager.Instance.UnlockPlayer();
+        GameEvents.RaiseSceneTransitionEnded();
+        LoadingScreen.Instance?.Hide();
+    }
+
+    // ─────────────────────────────────────────────────────────────────
+    // TRANSIÇÃO DE PORTAS — usa EasyTransitions
+    // ─────────────────────────────────────────────────────────────────
+
+    public void LoadArea(string sceneName, string spawnId = "default")
+    {
+        if (isTransitioning) return;
+        StartCoroutine(TransitionToArea(sceneName, spawnId));
+    }
+
+    private IEnumerator TransitionToArea(string sceneName, string spawnId)
+    {
+        isTransitioning = true;
+        GameStateManager.Instance.LockPlayer();
         GameEvents.RaiseSceneTransitionStarted();
 
         var tm = TransitionManager.Instance();
@@ -36,20 +81,20 @@ public class SceneLoader : MonoBehaviour
         {
             Debug.LogError("[SceneLoader] TransitionManager não encontrado na cena.");
             isTransitioning = false;
+            GameStateManager.Instance.UnlockPlayer();
             GameEvents.RaiseSceneTransitionEnded();
             yield break;
         }
 
         tm.onTransitionCutPointReached = () =>
-        {
-            StartCoroutine(SwapScene(sceneName, fallbackSpawn));
-        };
+            StartCoroutine(SwapScene(sceneName, spawnId));
 
         tm.onTransitionEnd = () =>
         {
             tm.onTransitionCutPointReached = null;
             tm.onTransitionEnd             = null;
             isTransitioning = false;
+            GameStateManager.Instance.UnlockPlayer();
             GameEvents.RaiseSceneTransitionEnded();
         };
 
@@ -57,20 +102,53 @@ public class SceneLoader : MonoBehaviour
         yield return null;
     }
 
-    private IEnumerator SwapScene(string sceneName, Vector2 fallbackSpawn)
+    // ─────────────────────────────────────────────────────────────────
+    // SWAP DE CENA — compartilhado pelo boot e pelas portas
+    // ─────────────────────────────────────────────────────────────────
+
+    private IEnumerator SwapScene(string sceneName, string spawnId)
     {
         if (!string.IsNullOrEmpty(currentAreaScene))
-            yield return SceneManager.UnloadSceneAsync(currentAreaScene);
+        {
+            var previous = SceneManager.GetSceneByName(currentAreaScene);
+            if (previous.isLoaded)
+                yield return SceneManager.UnloadSceneAsync(currentAreaScene);
+        }
 
-        yield return SceneManager.LoadSceneAsync(sceneName, LoadSceneMode.Additive);
+        var loadOp = SceneManager.LoadSceneAsync(sceneName, LoadSceneMode.Additive);
+        if (loadOp == null)
+        {
+            Debug.LogError($"[SceneLoader] Cena '{sceneName}' não encontrada. " +
+                           "Adicione-a em File → Build Profiles.");
+            yield break;
+        }
+
+        yield return loadOp;
         currentAreaScene = sceneName;
 
-        PlayerSpawnPoint spawn = FindFirstObjectByType<PlayerSpawnPoint>();
-        if (spawn != null)
-            PlayerMovement.Instance.Teleport(spawn.transform.position);
-        else if (fallbackSpawn != Vector2.zero)
-            PlayerMovement.Instance.Teleport(fallbackSpawn);
+        TeleportToSpawn(spawnId, sceneName);
+    }
+
+    private void TeleportToSpawn(string spawnId, string sceneName)
+    {
+        var allSpawns = FindObjectsByType<PlayerSpawnPoint>(FindObjectsSortMode.None);
+
+        PlayerSpawnPoint target = null;
+        foreach (var sp in allSpawns)
+        {
+            if (sp.spawnId == spawnId) { target = sp; break; }
+        }
+
+        if (target == null && allSpawns.Length > 0)
+        {
+            target = allSpawns[0];
+            Debug.LogWarning($"[SceneLoader] SpawnPoint '{spawnId}' não encontrado em " +
+                             $"{sceneName} — usando '{target.spawnId}' como fallback.");
+        }
+
+        if (target != null)
+            PlayerMovement.Instance.Teleport(target.transform.position);
         else
-            Debug.LogWarning($"[SceneLoader] PlayerSpawnPoint não encontrado em {sceneName}.");
+            Debug.LogWarning($"[SceneLoader] Nenhum PlayerSpawnPoint encontrado em {sceneName}.");
     }
 }

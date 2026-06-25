@@ -140,8 +140,9 @@ public class SleepManager : MonoBehaviour
     {
         isSleeping = true;
 
-        // Pausa o clock e bloqueia movimento imediatamente — antes de qualquer animação
+        // Pausa o clock e bloqueia o player imediatamente — antes de qualquer animação
         GameClock.Instance.PauseForSleep();
+        GameStateManager.Instance.LockPlayer();
 
         // 1. Animação placeholder de dormir (2 segundos)
         // TODO: PlayerAnimator.Instance.PlaySleep();
@@ -155,6 +156,7 @@ public class SleepManager : MonoBehaviour
             Debug.LogError("[SleepManager] TransitionManager não encontrado na cena! " +
                            "Adicione um GameObject com o componente TransitionManager e atribua o TransitionTemplate.prefab.");
             GameClock.Instance.WakeUp();
+            GameStateManager.Instance.UnlockPlayer();
             isSleeping = false;
             yield break;
         }
@@ -171,6 +173,7 @@ public class SleepManager : MonoBehaviour
         tm.onTransitionEnd = () =>
         {
             GameClock.Instance.WakeUp();
+            GameStateManager.Instance.UnlockPlayer();
             GameEvents.RaisePlayerWokeUp();
 
             if (forced) RespawnAtChurch();

@@ -11,7 +11,7 @@ public class PlayerMovement : MonoBehaviour
 
     private Rigidbody2D rb;
     private Vector2 moveInput;
-    private bool isLocked; // true durante sono ou transição de cena
+
     public Vector2 LastMoveDirection { get; private set; } = Vector2.down;
 
     private void Awake()
@@ -20,26 +20,11 @@ public class PlayerMovement : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
     }
 
-    private void OnEnable()
-    {
-        GameEvents.OnSceneTransitionStarted += Lock;
-        GameEvents.OnSceneTransitionEnded   += Unlock;
-    }
-
-    private void OnDisable()
-    {
-        GameEvents.OnSceneTransitionStarted -= Lock;
-        GameEvents.OnSceneTransitionEnded   -= Unlock;
-    }
-
-    private void Lock()   { isLocked = true;  moveInput = Vector2.zero; }
-    private void Unlock() => isLocked = false;
-
     public void Teleport(Vector2 position) => transform.position = position;
 
     public void OnMove(InputValue value)
     {
-        if (isLocked || (GameClock.Instance != null && GameClock.Instance.IsSleeping))
+        if (GameStateManager.Instance != null && GameStateManager.Instance.IsPlayerLocked)
         {
             moveInput = Vector2.zero;
             return;
@@ -51,7 +36,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
-        if (isLocked || (GameClock.Instance != null && GameClock.Instance.IsSleeping))
+        if (GameStateManager.Instance != null && GameStateManager.Instance.IsPlayerLocked)
         {
             rb.linearVelocity = Vector2.zero;
             return;
