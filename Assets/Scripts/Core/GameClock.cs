@@ -54,6 +54,7 @@ public class GameClock : MonoBehaviour
     public int CurrentYear  => (CurrentDay - 1) / DaysPerYear + 1;                  // ano absoluto
 
     private float timer;
+    private bool  isPaused; // pausa genérica — transições de cena, loading, futuras cutscenes
 
     private void Awake()
     {
@@ -62,9 +63,24 @@ public class GameClock : MonoBehaviour
         CurrentMinute = 0;
     }
 
+    private void OnEnable()
+    {
+        GameEvents.OnSceneTransitionStarted += Pause;
+        GameEvents.OnSceneTransitionEnded   += Resume;
+    }
+
+    private void OnDisable()
+    {
+        GameEvents.OnSceneTransitionStarted -= Pause;
+        GameEvents.OnSceneTransitionEnded   -= Resume;
+    }
+
+    public void Pause()  => isPaused = true;
+    public void Resume() => isPaused = false;
+
     private void Update()
     {
-        if (IsSleeping) return;
+        if (IsSleeping || isPaused) return;
 
         timer += Time.deltaTime;
         float minuteDuration = realSecondsPerGameHour / 60f;
